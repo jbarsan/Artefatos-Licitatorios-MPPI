@@ -110,7 +110,7 @@ ___
 - Avaliar se a solução pode ser contratada como serviço.
 - Pesquisa inicial de preços de mercado.
 - Contratações Similares em outros órgâos públicos.
-  - Utilizar, preferencialmente o módulo "Pesquisa de Preços" do <https://www.gov.br/compras/pt-br> (requer cadastro e autenticação) ou o <https://www.bancodeprecos.com.br>.
+  - Utilizar, preferencialmente o módulo "Pesquisa de Preços" do <https://www.gov.br/compras/pt-br> (requer cadastro e autenticação) ou o <https://www.bancodeprecos.com.br> (requer licença e autenticação).
   - Também é possível utilizar a consulta de [contratos do PNCP](https://pncp.gov.br/app/contratos?pagina=1).
 
 ## 11. Análise comparativa de soluções
@@ -119,8 +119,8 @@ ___
 
 ## 12. Registro de soluções consideradas inviáveis
 
-- Descrição da solução inviável
-- Motivo da inviabilidade
+- Descrição da solução inviável.
+- Motivo da inviabilidade.
 
 ## 13. Análise comparativa de custos (TCO)
 
@@ -165,20 +165,20 @@ ___
 
 ## 22. Contratações correlatas/interdependentes
 
-- Citar as contratações correlatas ou dependente e o número PGEA, se for necessário.
+- Citar as contratações correlatas ou dependentes iniciadas ou a iniciar e o número PGEA, se for necessário.
 
 ## 23. Possíveis Impactos ambientais e medidas mitigadoras
 
-- Impactos ambientais
-- Medidas mitigadoras
+- Impactos ambientais.
+- Medidas mitigadoras.
 
 ## 24. Modelo de Execução do Contrato
 
 - Introdução.
-  - Texto padrão do MOTec.
-- Rotinas de execução.
-- Prazos, horários de fornecimento de bens ou prestação dos serviços e locais de entrega.
-- Documentação mínima exigida.
+  - Texto padrão do MOTec
+- Rotinas de execução
+- Prazos, horários de fornecimento de bens ou prestação dos serviços e locais de entrega
+- Documentação mínima exigida
 - Papéis e responsabilidades
   - Papéis do contratante
     - Equipe de gestão e fiscalização

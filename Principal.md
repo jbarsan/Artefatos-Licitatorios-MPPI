@@ -40,10 +40,13 @@ O DFD é o documento que contém a necessidade da área requisitante da Soluçã
 O Decreto Estadual nº 21.872/2023, em seu art. 20, regulamenta seus termos, informando que a sua elaboração é de competência da unidade requisitante da licitação ou da contratação.
 
 Os principais tópicos que são obrigatórios no DFD são (art. 20, Decreto Estadual nº 21.872/2023):
-> I - a descrição da necessidade que se pretende atender por meio da aquisição de bem, serviço ou obra;
-> II - a estimativa de quantitativo do objeto a ser contratado, justificado conforme o Plano Anual de Contratações, se houver, ou no quantitativo contratado em exercícios anteriores, quando for o caso;
-> III - a justificativa simplificada da necessidade da contratação, inclusive com demonstração da sua previsão no Plano Anual de Contratações, quando houver; e
-> IV - a previsão de data em que deve ser iniciada a prestação dos serviços, a execução da obra ou realizado o fornecimento dos bens.
+>I - a descrição da necessidade que se pretende atender por meio da aquisição de bem, serviço ou obra;
+
+>II - a estimativa de quantitativo do objeto a ser contratado, justificado conforme o Plano Anual de Contratações, se houver, ou no quantitativo contratado em exercícios anteriores, quando for o caso;
+
+>III - a justificativa simplificada da necessidade da contratação, inclusive com demonstração da sua previsão no Plano Anual de Contratações, quando houver; e
+
+>IV - a previsão de data em que deve ser iniciada a prestação dos serviços, a execução da obra ou realizado o fornecimento dos bens.
 
 ### ELABORAÇÃO DO ESTUDO TÉCNICO PRELIMINAR (ETP)
 

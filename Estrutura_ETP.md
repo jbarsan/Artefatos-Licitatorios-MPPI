@@ -64,6 +64,9 @@ ___
 ## 8. Demais requisitos necessários e suficientes à escolha da solução de TIC
 
 - **Requisitos legais**
+  - Listar todas as leis, decretos e afins que dão suporte a aquisição/contratação.
+- **Requisitos de capacitação técnica**
+  - Especificar se será realizado ou não cursos de capacitação técnica para os servidores que irão utilizar o objeto contratado. 
 - **Requisitos de garantia, manutenção e assistência técnica**
   - Definem a necessidade de serviços de manutenção preventiva, corretiva, evolutiva e adaptativa;
 - **Requisitos temporais**
@@ -83,6 +86,7 @@ ___
   - Definem os perfis profissionais exigidos e as respectivas formas de comprovação dessa experiência, dentre outros;
 - **Requisitos de formação da equipe** que projetará, implementará e implantará a Solução de TI
   - Definem cursos acadêmicos e técnicos, formas de comprovação dessa formação, dentre outros;
+    - Caso seja solicitado curso de capacitação técnica, descrever aqui as formações necessários para o profissional que irá ministrar o/s curso/s.
 - **Requisitos de metodologia de trabalho**
 - **Requisitos de segurança dos ativos de TI**
 - **Requisitos de previsão da exigência para realização de Prova de Conceito**
@@ -92,9 +96,6 @@ ___
   - Justificativa para a solicitação da carta de solidariedade para o fornecimento de bens (Art. 41, inciso IV, da Lei 14.133/2021).
 - **Da indicação de marcas ou modelos** (quando necessário)
   - Justificativa para a indicação da marca ou modelo (Art. 41, inciso I, da Lei 14.133/2021).
-- **Requisitos de adequação dos índices de reajuste**, nas repactuações
-  - O ICTI é obrigatório para contratação de serviços de TI (Art. 24, da IN/SGD 94/2022).
-    - Nas contratações de serviços de Tecnologia da Informação em que haja previsão de reajuste de preços por aplicação de índice de correção monetária é obrigatória a adoção do Índice de Custos de Tecnologia da Informação - ICTI (Art. 24, IN/SGD 94/2022).
 
 ## 8. Estimativa da demanda - quantidade de bens e serviços
 
@@ -151,7 +152,7 @@ ___
 
 ## 19. Declaração de conformidade
 
-- A declaração de conformidade é obrigatória para comprovar que a solução escolhida está de acordo com o Art. 3, inciso I da IN nº 94/2022.
+- A declaração de conformidade é obrigatória para comprovar que a solução escolhida não compõe mais de uma solução de TIC em um único contrato (Art. 3, inciso I da IN nº 94/2022 e Art. 3).
 
 ## 20. Benefícios a serem alcançados com a contratação
 
@@ -225,12 +226,17 @@ ___
 - Estratégia e ações de transição contratual
   - Extinção contratual
 
-## 26. Estratégia de independência
+## 26. Do Reajuste
+
+- O ICTI é obrigatório para contratação de serviços de TI (Art. 24, da IN/SGD 94/2022).
+  - Nas contratações de serviços de Tecnologia da Informação em que haja previsão de reajuste de preços por aplicação de índice de correção monetária é obrigatória a adoção do Índice de Custos de Tecnologia da Informação - ICTI (Art. 24, IN/SGD 94/2022).
+
+## 27. Estratégia de independência
 
 - Formas de transferência de conhecimento
 - Direitos de propriedade intelectual e autorais
 
-## 27. Forma e Critério de seleção do fornecedor
+## 28. Forma e Critério de seleção do fornecedor
 
 - Forma de seleção e Critério de julgamento da proposta
   - Justificativa da escolha da modalidade
@@ -247,26 +253,26 @@ ___
 - Subcontratação, Consórcios e Cooperativa
   - Justificativa para a participação ou não participação de Consórcios e Subcontratação (Art. 17, inciso I, alínea 's' da Resolução CNMP nº 283/2024).
 - Apresentação das propostas
-  - _Descrever aqui, de forma detalhada, como o licitante deve apresentar a sua proposta._
+  - _Descrever aqui, de forma detalhada, como o licitante deve apresentar a sua proposta. Os manuais possuem um texto padrão que pode ser adaptado._
 - Exigências para a habilitação
   - Habilitação jurídica
   - Habilitação fiscal, social e trabalhista
   - Qualificação econômico-financeira
-    - Pode ser dispensada com fundamento no art. 70, inciso III, da Lei nº 14.133/2021 no caso de dispnsa de licitação
+    - Pode ser dispensada com fundamento no art. 70, inciso III, da Lei nº 14.133/2021 no caso de dispensa de licitação.
   - Qualificação técnica
     - Deve observar o disposto no inciso II do art. 62 e no art. 67 da Lei nº 14.133/2021.
 
-## 28. Da alteração subjetiva
+## 29. Da alteração subjetiva
 
 - Texto padrão.
 
-## 29. Declaração de Viabilidade
+## 30. Declaração de Viabilidade
 
 - "Esta equipe de planejamento declara VIÁVEL/INVIÁVEL esta contratação/aquisição.
 
-### 29.1 Justificativa da Viabilidade/Inviabilidade
+### 30.1 Justificativa da Viabilidade/Inviabilidade
 
-## 30. Responsáveis
+## 31. Responsáveis
 
 - **Somente os Integrantes listados abaixo devem assinar o ETP**.
 

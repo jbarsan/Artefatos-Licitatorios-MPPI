@@ -1,44 +1,20 @@
-DOCUMENTOS OBRIGATÓRIOS:
-a) Documento de formalização da demanda; (DFD);
-b) Portaria PGJ/PI nº 4335/2024, designando servidores para a composição da equipe de planejamento da contratação;
-c) Análise de riscos;
-d) Pesquisas de preços e Mapa comparativo de preços;
-e) Estudo Técnico Preliminar (ETP);
-f) Termo de referência (TR);
-g) Minuta do edital, com anexos;
-h) Portaria PGJ/PI nº 4337/2024, designando a agente de contratação/pregoeira e a equipe de apoio.
-
-I. DA FINALIDADE E ABRANGÊNCIA DO PARECER JURÍDICO
-- De responsabilidade da assessoria jurídica.
-
-II. DA DESIGNAÇÃO DE AGENTES PÚBLICOS
-- Portaria PGJ/PI nº 4335/2024, designando servidores para a composição da equipe de planejamento da contratação;
-- Portaria PGJ/PI nº 4337/2024, designando a agente de contratação/pregoeira e a equipe de apoio;
-
-III. DESENVOLVIMENTO NACIONAL SUSTENTÁVEL: CRITÉRIOS DE SUSTENTABILIDADE
+I. DESENVOLVIMENTO NACIONAL SUSTENTÁVEL: CRITÉRIOS DE SUSTENTABILIDADE
 - Inserção nas minutas correspondentes das previsões legais constantes no Guia Nacional de Contratações Sustentáveis;
 - Inserção dos Requisitos sociais, ambientais, culturais e de sustentabilidade;
 
-IV. DA ADEQUAÇÃO DA MODALIDADE LICITATÓRIA ELEITA
+II. DA ADEQUAÇÃO DA MODALIDADE LICITATÓRIA ELEITA
 - Bens e serviços comuns? ()Sim ()Não
 -- para as contratações de bens e serviços comuns de TI, utilizar, obrigatoriamente a modalidade Pregão na forma eletrônica (art. 32 da Resolução CNMP nº 283/2024).
 - Justificar a escolha da modalidade.
 
-V. PLANEJAMENTO DA CONTRATAÇÃO
+III. PLANEJAMENTO DA CONTRATAÇÃO
 a. Compatibilização com o plano de contratações anual (art. 5º da Resolução CNMP nº 283/2024).
 - inclusão do link para o documento referenciado (PCA).
 - conformidade com o Plano Diretor de Tecnologia da Informação (PDTI) e normas aplicáveis.
-- aprovação do Comitê Estratégico de Tecnologia da Informação (CETI) (caso a necessidade ou disponibilidade da tecnologia surja após o planejamento orçamentário (PCA) e a publicação do PDTI);
 
 b. Dotação orçamentária e Lei de responsabilidade fiscal
-- juntar ao feito, antes da celebração do contrato administrativo ou instrumento equivalente, a nota de empenho suficiente para o suporte financeiro da respectiva despesa, em atenção ao disposto no art. 60 da Lei nº 4.320/1964.
-
 c. Descrição da necessidade da contratação fundamentada em estudo técnico preliminar que caracterize o interesse público envolvido.
-- Incluir justificativa da contratação, com exposição da sua motivação no ETP e TR;
-
-d. Definição do objeto para o atendimento da necessidade, por meio de termo de referência, anteprojeto, projeto básico ou projeto executivo, conforme o caso.
-- Incluir o Termo de Referência no processo.
-
+d. Definição do objeto para o atendimento da necessidade.
 e. Definição das condições de execução e pagamento, das garantias exigidas e ofertadas e das condições de recebimento (TR).
 - modelo de execução do contrato, com as respectivas rotinas;
 - documentações exigidas;
@@ -54,45 +30,23 @@ e. Definição das condições de execução e pagamento, das garantias exigidas
 
 f. Orçamento estimado, com as composições dos preços utilizados para sua formação.
 - deve ser compatível com os valores praticados pelo mercado, considerados os preços constantes de bancos de dados públicos e as quantidades a serem contratadas, observadas a potencial economia de escala e as peculiaridades do local de execução do objeto.
--- o valor estimado será definido com base no melhor preço aferido por meio da utilização dos seguintes parâmetros, adotados de forma combinada ou não (Art. 5 da IN 65/2021):
-I - composição de custos unitários menores ou iguais à mediana do item correspondente no painel para consulta de preços ou no banco de preços em saúde disponíveis no Portal Nacional de Contratações Públicas (PNCP);
-II - contratações similares feitas pela Administração Pública, em execução ou concluídas no período de 1 (um) ano anterior à data da pesquisa de preços, inclusive mediante sistema de registro de preços, observado o índice de atualização de preços correspondente;
-- Incluir a justificativa em caso de impossibilidade de adoção dos itens I e II.
-III - utilização de dados de pesquisa publicada em mídia especializada, de tabela de referência formalmente aprovada pelo Poder Executivo federal e de sítios eletrônicos especializados ou de domínio amplo, desde que contenham a data e hora de acesso;
-IV - pesquisa direta com no mínimo 3 (três) fornecedores, mediante solicitação formal de cotação, desde que seja apresentada justificativa da escolha desses fornecedores e que não tenham sido obtidos os orçamentos com mais de 6 (seis) meses de antecedência da data de divulgação do edital;
-- Incluir a justificativa da escolha dos fornecedores (Art. 3, inciso VIII da IN 65/2021, VIII).
-V - pesquisa na base nacional de notas fiscais eletrônicas, na forma de regulamento.
 
-f.1. A pesquisa de preços será materializada em documento que conterá, no mínimo (Art. 3 da IN 65/2021):
-I - descrição do objeto a ser contratado;
-II - identificação do(s) agente(s) responsável(is) pela pesquisa ou, se for o caso, da equipe de planejamento;
-III - caracterização das fontes consultadas;
-IV - série de preços coletados;
-V - método estatístico aplicado para a definição do valor estimado;
-VI - justificativas para a metodologia utilizada, em especial para a desconsideração de valores inconsistentes, inexequíveis ou excessivamente elevados, se aplicável;
-VII - memória de cálculo do valor estimado e documentos que lhe dão suporte; e
-VIII - justificativa da escolha dos fornecedores, no caso da pesquisa direta de que dispõe o inciso IV do art. 5º.
-
-g. Elaboração do edital de licitação
-- De responsabilidade do agente de contratação/pregoeira e a equipe de apoio.
-
-h. Elaboração de minuta de contrato, quando necessária, que constará obrigatoriamente como anexo do edital de licitação.
-- De responsabilidade do agente de contratação/pregoeira e a equipe de apoio.
-
-i. Regime de fornecimento de bens, de prestação de serviços ou de execução de obras e serviços de engenharia, observados os potenciais de economia de escala.
+g. Regime de fornecimento de bens, de prestação de serviços ou de execução de obras e serviços de engenharia, observados os potenciais de economia de escala.
 - deve contemplar as condições necessárias ao fornecimento da Solução de TI, observando, quando possível (Art. 24 da Resolução CNMP 283/2024):
+
 I - a fixação das rotinas de execução, com a definição de processos e procedimentos de fornecimento da Solução de TI, envolvendo:
 a) prazos, horários de fornecimento de bens ou prestação dos serviços e locais de entrega, quando aplicáveis;
 b) documentação mínima exigida, observando modelos adotados pela contratante, padrões de qualidade e completude de informações, a exemplo de modelos de desenvolvimento de software, relatórios de execução de serviço ou fornecimento, controles por parte da contratada, ocorrências etc.; e
 c) papéis e responsabilidades, por parte da contratante e da contratada, quando couber.
+
 II - a quantificação ou a estimativa prévia do volume de serviços demandados ou a quantidade de bens a serem fornecidos, para comparação e controle;
 III - a definição de mecanismos formais de comunicação a serem utilizados para troca de informações entre a contratada e a Administração, adotando-se preferencialmente as Ordens de Serviço ou de Fornecimento de Bens;
 IV - a forma e o prazo de pagamento, que será efetuado em função dos resultados obtidos;
 V - a vigência contratual, observado o disposto nos arts. 105 a 114 da Lei 14.133/2021; e
-- Incluir no documento (ETP e TR), no caso dos arts. 106 e 107, o prazo mínimo para a prorrogação do contrato.
+- Incluir no documento, no caso dos arts. 106 e 107, o prazo mínimo para a prorrogação do contrato.
 VI - a elaboração do Termo de Ciência, contendo declaração de manutenção de sigilo e respeito às normas de segurança vigentes na Instituição, a ser assinado pelo representante legal da contratada e por todos os seus empregados diretamente envolvidos na contratação.
 
-i.1. O modelo de execução do contrato deve conter (Madeline Rocha Furtado):
+h. O modelo de execução do contrato deve conter (Madeline Rocha Furtado):
 - definição dos prazos de execução do objeto;
 - metodologia de entrega e a forma de aceite;
 - definição da unidade de medida do objeto;
@@ -107,88 +61,20 @@ i.1. O modelo de execução do contrato deve conter (Madeline Rocha Furtado):
 - possibilidade ou não de subcontratação ou consórcios.
 
 
-j. A modalidade de licitação, o critério de julgamento, o modo de disputa e a adequação e eficiência da forma de combinação desses parâmetros.
+i. A modalidade de licitação, o critério de julgamento, o modo de disputa e a adequação e eficiência da forma de combinação desses parâmetros.
 - artigo 6º, XLI, da Lei nº 14.133/2021, o pregão é modalidade de licitação obrigatória para aquisição de bens e serviços comuns e admite os critérios de julgamento pelo menor preço ou maior desconto.
 - apresentar as justificativas pertinentes quanto à escolha do modo de disputa.
 
-k. Motivação circunstanciada das condições do edital.
+j. Motivação circunstanciada das condições do edital.
 - justificativa de exigências de qualificação técnica, mediante indicação das parcelas de maior relevância técnica ou valor significativo do objeto;
 - justificativa de qualificação econômico-financeira;
 - justificativa dos critérios de pontuação e julgamento das propostas técnicas.
 
-l. Análise dos riscos que possam comprometer o sucesso da licitação e a boa execução contratual.
-- Matriz de Gerenciamento de Riscos;
-- Mapa de Riscos (Painel);
-
-m. Motivação sobre o momento da divulgação do orçamento da licitação.
+k. Motivação sobre o momento da divulgação do orçamento da licitação.
 - orçamento estimado da contratação, podendo ser de caráter sigiloso ou não.
 
-VI. DA ANÁLISE DOS DOCUMENTOS E ESPECIFICAÇÕES ESSENCIAIS À FASE INTERNA DO PREGÃO ELETRÔNICO
-a. Documento de Oficialização da Demanda (DFD)
-- Art. 20 do Decreto Estadual nº 21.872/2023, "...que evidencie e detalhe a necessidade administrativa do objeto a ser contratado, devendo contemplar:
-I - a descrição da necessidade que se pretende atender por meio da aquisição de bem, serviço ou obra;
-II - a estimativa de quantitativo do objeto a ser contratado, justificado conforme o Plano Anual de Contratações, se houver, ou no quantitativo contratado em exercícios anteriores, quando for o caso;
-III - a justificativa simplificada da necessidade da contratação, inclusive com demonstração da sua previsão no Plano Anual de Contratações, quando houver; e
-IV - a previsão de data em que deve ser iniciada a prestação dos serviços, a execução da obra ou realizado o fornecimento dos bens."
-
-b. Estudo Técnico Preliminar da Contratação (ETP)
-- artigo 18, §1º, Lei nº 14.133/2021, ...deverá evidenciar o problema a ser resolvido e a sua melhor solução, de modo a permitir a avaliação da viabilidade técnica e econômica da contratação, e conterá os seguintes elementos:
-I - descrição da necessidade da contratação, considerado o problema a ser resolvido sob a perspectiva do interesse público;
-II - demonstração da previsão da contratação no plano de contratações anual, sempre que elaborado, de modo a indicar o seu alinhamento com o planejamento da Administração;
-III - requisitos da contratação;
-IV - estimativas das quantidades para a contratação, acompanhadas das memórias de cálculo e dos documentos que lhes dão suporte, que considerem interdependências com outras contratações, de modo a possibilitar economia de escala;
-V - levantamento de mercado, que consiste na análise das alternativas possíveis, e justificativa técnica e econômica da escolha do tipo de solução a contratar;
-VI - estimativa do valor da contratação, acompanhada dos preços unitários referenciais, das memórias de cálculo e dos documentos que lhe dão suporte, que poderão constar de anexo classificado, se a Administração optar por preservar o seu sigilo até a conclusão da licitação;
-VII - descrição da solução como um todo, inclusive das exigências relacionadas à manutenção e à assistência técnica, quando for o caso;
-VIII - justificativas para o parcelamento ou não da contratação;
-IX - demonstrativo dos resultados pretendidos em termos de economicidade e de melhor aproveitamento dos recursos humanos, materiais e financeiros disponíveis;
-X - providências a serem adotadas pela Administração previamente à celebração do contrato, inclusive quanto à capacitação de servidores ou de empregados para fiscalização e gestão contratual;
-XI - contratações correlatas e/ou interdependentes;
-XII - descrição de possíveis impactos ambientais e respectivas medidas mitigadoras, incluídos requisitos de baixo consumo de energia e de outros recursos, bem como logística reversa para desfazimento e reciclagem de bens e refugos, quando aplicável;
-XIII - posicionamento conclusivo sobre a adequação da contratação para o atendimento da necessidade a que se destina.
-
-- requisitos obrigatórios do ETP (§ 2º do artigo 18 da Lei nº 14.133/2021):
-I (necessidade da contratação);
-IV (estimativa de quantidades);
-VI (estimativa de valor);
-VIII (justificativas para o parcelamento, ou não, da contratação); e
-XIII (posicionamento conclusivo sobre a adequação da contratação para o atendimento da necessidade a que se destina).
-- Justificativa da não inclusão dos demais requisitos.
-
-- requisitos obrigatórios do ETP (art. 10 da Resolução CNMP nº 283/2024):
-- 
-a. descrição da necessidade da contratação;
-b. requisitos da contratação;
-- de negócio;
-- de capacitação técnica (necessidade de treinamento, de carga horária e de materiais didáticos);
-- legais;
-- de garantia, manutenção e assistência técnica (definem a necessidade de serviços de manutenção preventiva, corretiva, evolutiva e adaptativa;
-- temporais (definem datas de entrega da Solução de TI);
-- de segurança e privacidade (definem os controles a serem observados, por padrão e desde a concepção, para salvaguardar a segurança da informação e os dados pessoais (Lei nº 13.709/2018 - LGPD));
-- sociais, ambientais, culturais e de sustentabilidade (definem requisitos que a Solução de TI deve atender para estar em conformidade com costumes, idiomas e ao meio ambiente, dentre outros);
-- de arquitetura tecnológica (composta de hardware, software, padrões de interoperabilidade, linguagens de programação, interface, dentre outros);
-- de projeto e implementação (estabelecem o processo de desenvolvimento da solução, técnicas, métodos, forma de gestão e documentação, dentre outros);
-- de implantação (definem o processo de disponibilização da solução em ambiente de produção, dentre outros);
-- de experiência profissional da equipe que projetará, implementará e implantará a Solução de TI (definem os perfis profissionais exigidos e as respectivas formas de comprovação dessa experiência, dentre outros);
-- de formação da equipe que projetará, implementará e implantará a Solução de TI (definem cursos acadêmicos e técnicos, formas de comprovação dessa formação, dentre outros);
-- de metodologia de trabalho;
-- de segurança dos ativos de TI;
-- de previsão da exigência para realização de Prova de Conceito (com o licitante provisoriamente classificado em primeiro lugar para fins de comprovação de atendimento das especificações técnicas);
-- de adequação dos índices de reajuste, nas repactuações;
-- de margens de preferência na licitação, consoante normativos vigentes;
-- modalidade de remuneração a ser adotada (quando aplicável);
-- parcelamento da Solução de TI;
-- permitir consórcio ou subcontratação da Solução de TI, observado o disposto nos arts. 15 e 122 da Lei nº 14.133/2021;
--- Justificativa da decisão;
-
-c. indicação de previsão da contratação no PCA;
-d. levantamento de mercado;
-e. estimativa do valor da contratação, acompanhadas de preços unitários referenciais, memórias de cálculo e documentos de suporte;
-f. descrição da solução como um todo;
-g. demonstrativo dos resultados pretendidos em termo de economicidade e de melhor aproveitamento de recurso (Benefícios a serem alcançados);
-h. posicionamento conclusivo sobre a adequação da contratação para atendimento da necessidade a que se destina (Justificativa da Viabilidade);
-
-c. Termo de Referência (TR):
+IV. DA ANÁLISE DOS DOCUMENTOS E ESPECIFICAÇÕES ESSENCIAIS À FASE INTERNA DO PREGÃO ELETRÔNICO
+Termo de Referência (TR):
 - art. 17 da Resolução CNMP nº 283/2024:
 a. definição do objeto, incluídos sua natureza, os quantitativos, o prazo do contrato e, se for o caso, a possibilidade de sua prorrogação (Condições gerais da contratação);
 b. fundamentação da contratação, mediante referência aos estudos técnicos preliminares correspondentes (Fundamentação e descrição da necessidade);
@@ -244,16 +130,4 @@ h. forma e critérios de seleção do fornecedor:
 i. estimativas do valor da contratação, acompanhadas dos preços unitários referenciais, das memórias de cálculo e dos documentos que lhe dão suporte, com os parâmetros utilizados para a obtenção dos preços e para os respectivos cálculos, que devem constar de documento separado e classificado;
  - Referenciar o Mapa de Preços (Relatório de pesquisa de preço - Detalhado);
  j. considerações sobre a adequação orçamentária
-
-d. Minuta do edital
-- De responsabilidade do agente de contratação/pregoeira e a equipe de apoio.
-
-e. Minuta do contrato
-- De responsabilidade do agente de contratação/pregoeira e a equipe de apoio.
-
-
-VII. DA PUBLICAÇÃO DO EDITAL E DA LEI DE ACESSO À INFORMAÇÃO
-- De responsabilidade do agente de contratação/pregoeira e a equipe de apoio.
-
-
 

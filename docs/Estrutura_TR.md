@@ -11,6 +11,8 @@ ___
 
 ## 3. Condições gerais da contratação
 
+- Vigência contratual
+
 ### Declaração de Conformidade
 
 ## 4. Descrição da solução
@@ -21,7 +23,7 @@ ___
 
 ### Necessidades
 
-### Vigência contratual
+### Benefícios a serem alcançados com a contratação
 
 ### Alinhamento com o Plano Estratégico do MPPI.
 
@@ -63,11 +65,17 @@ ___
 
 ### Da carta de solidariedade para o fornecimento de bens
 
+- Justificativa para a solicitação da carta de solidariedade (só se for solicitado)
+
+### Da garantia contratual
+
+- Justificativa para a/não solicitação
+
 ### Da indicação de marcas ou modelos (quando necessário)
 
 ### Parcelamento da solução de TIC
 
-#### Justificativa para o parcelamento ou não da solução
+- Justificativa para o parcelamento ou não da solução
 
 ## 7. Papéis e Responsabilidades
 
@@ -102,6 +110,10 @@ ___
 ### Forma e prazo de pagamento
 
 ### Termo de ciência de manutenção de sigilo (Art. 24, inciso VI, da Resolução CNMP nº 283/2024)
+
+### Formas de transferência de conhecimento
+
+### Direitos de propriedade intelectual e autorais
 
 ## 9. Modelo de Gestão do Contrato
 
@@ -191,15 +203,19 @@ ___
 
 ## 13. Adequação orçamentária
 
-## 14. Da alteração subjetiva
+## 14. Cumprimento da LGPD
 
-## 15. Dos casos omissos
+## 15. Da alteração subjetiva
 
-## 16. Das alterações contratuais
+## 16. Dos casos omissos
 
-## 17. Do foro
+## 17. Das alterações contratuais
 
-## 18. Responsáveis
+## 18. Da publicação
+
+## 19. Do foro
+
+## 20. Responsáveis
 
 ### Integrante Requisitante
 

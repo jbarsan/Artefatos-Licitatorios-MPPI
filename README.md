@@ -56,12 +56,15 @@ Conforme o [Art. 17 do Decreto Estadual nº 21.872, de 07 de março de 2023](/Le
 
 * Documento de formalização da demanda (DFD);
 * Pesquisas de preços e Mapa comparativo de preços;
-* Análise de riscos;
+* Análise e  Matriz de riscos;
 * Estudo Técnico Preliminar (ETP);
 * Termo de referência (TR);
 * Anexos do ETP e TR (quando necessários);
-* Despacho do presidente do CETI (quando necessário);
 * Anexar/Solicitar Portaria PGJ/PI de designação de servidores para a composição da equipe de planejamento da contratação de TIC;
+* Anexar o PCA do ano corrente; ou
+* Anexar o despacho do PGJ autoizando a aquisição;
+* Anexar a ATA de aprovação do PCA pelo CETI; ou
+* Despacho do presidente do CETI autorizando a aquisição (quando necessário);
 * Ofício de oficialização de licitação.
 
 ### ELABORAÇÃO DO DOCUMENTO DE FORMALIZAÇÃO DA DEMANDA (DFD)

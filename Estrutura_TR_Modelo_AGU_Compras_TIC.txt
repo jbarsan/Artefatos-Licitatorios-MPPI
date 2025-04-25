@@ -1,0 +1,84 @@
+TERMO DE REFERÊNCIA SERVIÇOS DE TIC – LEI 14.133/2021
+(Processo Administrativo n°...........)
+
+Referência: Arts. 12 a 24 da Instrução Normativa SGD/ME nº 94, de 2022
+
+1.	CONDIÇÕES GERAIS DA CONTRATAÇÃO
+- vigência da contratação 
+2.	DESCRIÇÃO DA SOLUÇÃO COMO UM TODO CONSIDERADO O CICLO DE VIDA DO OBJETO E ESPECIFICAÇÃO DO PRODUTO
+3.	FUNDAMENTAÇÃO E DESCRIÇÃO DA NECESSIDADE DA CONTRATAÇÃO
+- Contextualização e Justificativa para a contratação
+- Plano de Contratações Anual <ANO>
+- ALINHAMENTO AOS PLANOS ESTRATÉGICOS
+- ALINHAMENTO AO PDTIC <ANO>
+4.	REQUISITOS DA CONTRATAÇÃO 
+- Requisitos de Negócio
+- Requisitos de Capacitação
+- Requisitos Legais
+- Requisitos de Manutenção
+- Requisitos Temporais
+- Requisitos de Segurança e Privacidade
+- Requisitos Sociais, Ambientais e Culturais
+- Requisitos da Arquitetura Tecnológica
+- Requisitos de Projeto e de Implementação
+- Requisitos de Implantação
+- Requisitos de Garantia, Manutenção e Assistência Técnica
+- Requisitos de Experiência Profissional
+- Requisitos de Formação da Equipe
+- Requisitos de Metodologia de Trabalho
+- Requisitos de Segurança da Informação e Privacidade
+- Sustentabilidade
+- Indicação de marcas ou modelos (Art. 41, inciso I, da Lei nº 14.133, de 2021)
+- Da vedação de utilização de marca/produto na execução do serviço
+- Da exigência de carta de solidariedade
+- Subcontratação
+- Da verificação de amostra do objeto
+- Garantia da Contratação
+- Informações relevantes para o [dimensionamento E/OU apresentação] da proposta
+5.	PAPÉIS E RESPONSABILIDADES 
+- obrigações da CONTRATANTE
+- obrigações do CONTRATADO
+- obrigações do órgão gerenciador do registro de preços
+6.	MODELO DE EXECUÇÃO DO CONTRATO 
+- Rotinas de Execução
+-- Do Encaminhamento Formal de Demandas
+- Forma de execução e acompanhamento do contrato
+-- Condições de Entrega
+- Formas de transferência de conhecimento
+- Procedimentos de transição e finalização do contrato
+- Quantidade mínima de bens ou serviços para comparação e controle
+- Mecanismos formais de comunicação
+- Formas de Pagamento
+- Manutenção de Sigilo e Normas de Segurança
+7.	MODELO DE GESTÃO DO CONTRATO
+- Reunião Inicial
+- Fiscalização
+-- Fiscalização Técnica
+-- Fiscalização Administrativa
+-- Gestor do Contrato
+- Critérios de Aceitação (Somente para bens)
+- Procedimentos de Teste e Inspeção
+- Níveis Mínimos de Serviço Exigidos
+-- IAE – INDICADOR DE ATRASO NO FORNECIMENTO DO EQUIPAMENTO
+- Sanções Administrativas e Procedimentos para retenção ou glosa no pagamento
+8.	CRITÉRIOS DE MEDIÇÃO E DE PAGAMENTO
+- Recebimento do Objeto
+- Liquidação
+- Prazo de pagamento
+- Forma de pagamento
+9.	FORMA E CRITÉRIOS DE SELEÇÃO DO FORNECEDOR E REGIME DE EXECUÇÃO
+- Forma de seleção e critério de julgamento da proposta
+- Da Aplicação da Margem de Preferência
+- Exigências de habilitação
+-- Habilitação jurídica
+-- Habilitação fiscal, social e trabalhista
+-- Qualificação Econômico-Financeira
+-- Qualificação Técnica
+10.	ESTIMATIVAS DO VALOR DA CONTRATAÇÃO
+11.	ADEQUAÇÃO ORÇAMENTÁRIA
+- Cronograma Físico Financeiro
+12. Responsáveis
+- Ass. Equipe de Planejamento da Contratação
+- Ass. Autoridade Máxima da Área de TIC
+- Ass. Autoridade Competente ou Ordenador de Despesas
+

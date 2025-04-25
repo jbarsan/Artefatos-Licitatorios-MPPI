@@ -1,0 +1,94 @@
+ESTUDO TÉCNICO PRELIMINAR - Manual de Orientações Técnicas (MOTec) para Contratações de Tecnologia da Informação (TI) no Ministério Público brasileiro
+(Processo Administrativo n°...........)
+
+Referência: Resolução CNMP nº 283, de 05 de fevereiro de 2024
+
+OBJETO/SOLUÇÃO
+HISTÓRICO DE REVISÕES
+
+1. Introdução
+1.1. Definição e especificação das necessidades e requisitos
+1.2. Previsão da contratação no plano de contratações anual
+
+2. Identificação dos requisitos da contratação
+2.1. Dos requisitos de negócio
+2.2. Dos requisitos legais
+2.3. Dos requisitos temporais
+2.4. Dos requisitos de segurança e privacidade
+2.5. Dos requisitos sociais, ambientais, culturais e de sustentabilidade
+2.6. Dos requisitos de arquitetura tecnológica
+2.7. Das necessidades tecnológicas
+2.8. Dos requisitos de projeto e implementação
+2.9. Dos requisitos de implantação
+2.10. Dos requisitos de garantia tecnológica
+2.11. Dos requisitos de manutenção tecnológica
+2.12. Dos requisitos de capacitação técnica
+2.13. Dos requisitos de experiência profissional
+2.14. Dos requisitos de formação da equipe
+2.15. Dos requisitos de metodologia de trabalho
+2.16. Dos requisitos de segurança dos ativos de tecnologia da informação
+2.17. Dos requisitos de previsão da exigência para realização de Prova de Conceito
+2.18. Dos demais requisitos necessários e suficientes à escolha da solução de TI
+
+3. Estimativa da demanda – quantidade de bens e serviços
+
+4. Análise de soluções possíveis
+4.1. Identificação das soluções
+4.2. Análise comparativa de soluções
+4.3. Registro de soluções consideradas inviáveis
+- Descrição da solução (ou cenário) - tabela
+4.4. Registro de soluções consideradas inviáveis
+- Descrição
+- Justificativa da inviabilidade
+4.5. Pesquisa inicial de preços de mercado
+- Custo Total de Propriedade – Memória de Cálculo
+4.6. Tabela consolidada de pesquisa inicial de preços
+- Descrição da solução (ou cenário) e o valor
+4.7. Mapa comparativo dos cálculos totais de propriedade (TCO).
+4.8. Descrição da solução de ti a ser contratada
+4.9. Justificativa para solução escolhida:
+4.10. Estimativa de custo total da contratação
+4.11. Modelo de Execução do contrato
+4.11.1. Introdução
+4.11.2. Rotinas de execução
+4.11.2.1. Prazos, horários de fornecimento de bens ou prestação dos serviços e locais de entrega
+4.11.2.2. Documentação mínima exigida
+4.11.2.3. Papéis e responsabilidades
+4.11.2.4. Obrigações do Contratante
+4.11.2.5. Obrigações da Contratada
+4.11.2.6. Quantificação ou estimativa prévia do volume de serviços demandados ou quantidade de bens a serem fornecidos
+4.11.2.7. Mecanismos formais de comunicação
+4.11.2.8. Forma e prazo de pagamento:
+4.11.2.9. Vigência contratual
+4.11.2.10. Termo de ciência de manutenção de sigilo
+4.12. Modelo de Gestão do contrato
+4.12.1. Introdução
+4.12.2. Critério de aceitação – Métrica e Periodicidade
+4.12.3. Valores e procedimentos para retenção, glosa no pagamento ou sanções
+4.12.3.1. Mecanismos de inspeção e avaliação da solução
+4.12.4. Ferramentas de avaliação
+4.12.5. Forma de obtenção das informações
+4.12.6. Listas de verificação e de roteiros de teste aplicáveis
+4.12.7. Inspeções e diligência aplicáveis
+4.12.8. Procedimentos para recebimento provisório e definitivo
+4.12.9. Sanções Administrativas
+4.12.10. Procedimentos para pagamento
+4.12.11. Plano de sustentação e transição contratual
+4.12.11.1. Introdução
+4.12.12. Recursos necessários à continuidade do negócio durante e após a execução do contrato
+4.12.12.1. Recursos Materiais
+4.12.12.2. Recursos Humanos
+4.12.13. Estratégia de transição contratual
+4.12.14. Ações de transição contratual
+4.13.Estratégia de independência
+4.13.1.Definição
+4.13.2.Transferência de conhecimento
+4.13.3.Direitos de propriedade intelectual
+
+5. Declaração da viabilidade da contratação
+- justificativa da solução escolhida
+- benefícios a serem alcançados
+
+6. Aprovação e assinatura
+- Equipe de Planejamento da Contratação
+

@@ -1,0 +1,177 @@
+ESTUDO TÉCNICO PRELIMINAR (BENS E SERVIÇOS) - LEI 14.133/2021
+(Processo Administrativo n°...........)
+
+Referência: Modelo ETP Digital para contratações de TIC + MOTec
+
+{INFORMAÇÕES BÁSICAS}
+
+1. Informações Básicas
+- Categoria do objeto
+Contratações de TIC
+- Processo Administrativo
+
+2. Histórico de revisões 
+3. Previsão da contratação no PCA/MPPI
+- (NOTA: Anexar ou referenciar o endereço do PCA/MPPI do ano vigente)
+
+{NECESSIDADE}
+
+4. Descrição da necessidade
+- Motivação/Justificativa
+- Necessidades
+
+5. Área requisitante
+- Área
+- Responsável
+- (NOTA: Se houver mais de um setor requisitante, listar todos com seus responsáveis)
+
+6. Necessidades de Negócio
+7. Necessidades Tecnológicas
+8. Demais requisitos necessários e suficientes à escolha da solução de TIC
+- Requisitos legais
+- Requisitos temporais
+- Requisitos de segurança e privacidade
+- Requisitos sociais, ambientais, culturais e de sustentabilidade
+- Requisitos de arquitetura tecnológica
+- Requisitos de projeto e implementação
+- Requisitos de implantação
+- Requisitos de garantia, manutenção e assistência técnica dos bens ou serviços (art. 40, §1º, inciso III, da Lei nº 14.133, de 2021)
+- Requisitos de capacitação técnica
+- Requisitos de experiência profissional
+- Requisitos de formação de equipe
+- Requisitos de metodologia de trabalho
+- Requisitos de segurança dos ativos de TI
+- Requisitos de previsão da exigência para realização de Prova de Conceito (amostra do objeto)
+- Realização da vistoria
+- Da exigência de carta de solidariedade para o fornecimento de bens
+- Da indicação de marcas ou modelos (se aplicável)
+  - Justificativa para a indicação
+- Da vedação de utilização de marca/produto na execução do serviço (se aplicável)
+  - Justificativa para a vedação
+
+9. Estimativa da demanda - quantidade de bens e serviços
+
+{SOLUÇÃO}
+
+10. Levantamento de soluções 
+- Listagem de todas as soluções possíveis
+- Pesquisa inicial de preços de mercado
+  - Justificativa para a escolha do fornecedor (nos casos de pesquisas diretas)
+- Contratações similares em outros órgãos públicos
+
+11. Análise comparativa de soluções
+12. Registro de soluções consideradas inviáveis
+- Descrição da solução inviável
+- Justificativa da inviabilidade
+
+13. Análise comparativa de custos (TCO) (somente das soluções viáveis)
+14. Descrição da solução de TIC a ser contratada
+15. Estimativa de custo total da contratação
+16. Justificativa técnica da escolha da solução
+17. Justificativa econômica da escolha da solução
+18. Parcelamento da solução de TI
+19. Declaração de conformidade com o artigo 3º, inciso I, da Instrução Normativa SGD/ME nº 94/2022
+20. Garantia contratual (garantia da contratação
+- Justificativa para a exigência ou não da garantia contratual
+
+{PLANEJAMENTO}
+
+21. Benefícios a serem alcançados com a contratação
+22. Providências a serem adotadas pela Administração
+23. Contratações correlatas/interdependentes
+24. Possíveis Impactos ambientais
+- Impactos ambientais
+- Medidas mitigadoras
+
+25. Papéis e responsabilidades
+- Papéis do contratante
+  - Equipe de Gestão e Fiscalização do contrato
+  - Gestor da Ata de Registro de Preços (se necessário)
+- Papéis da contratada
+  - Representante legal
+  - Preposto
+- Obrigações do Contratante
+- Obrigações da Contratada
+- Obrigações do órgão gerenciador do registro de preços (quando necessário)
+
+26. Modelo de execução do contrato
+- Rotinas de execução
+- Prazos, locais e horários de prestação dos serviços e de entregas de equipamentos
+- Materiais a serem disponibilizados (somente para serviços, quando necessário)
+- Informações relevantes para o dimensionamento da proposta (somente para serviços, quando necessário)
+- Documentação mínima exigida
+- Quantidade mínima de bens ou serviços para comparação e controle
+- Mecanismos formais de comunicação
+- Formas de Pagamento
+- Vigência contratual
+- Termo de ciência e manutenção de sigilo
+- Formas de transferência de conhecimento (serviços, quando necessário)
+- Procedimentos de transição e finalização do contrato
+  - Recursos necessários à continuidade do negócio durante e após a execução do contrato (quando necessário)
+    - Recursos materiais
+    - Recursos humanos
+  - Estratégia e ações de transição contratual
+  - Direitos de propriedade intelectual e autorais (quando necessário)
+  - Extinção contratual
+
+27. Modelo de gestão do contrato
+- Reunião inicial (para bens é dispensável, para serviços pode ser dispensável)
+- Fiscalização
+  - Fiscal requisitante (Art. 36, Resolução CNMP 283/2024)
+  - Fiscal técnico
+  - Fiscal administrativo
+  - Gestor do contrato
+- Critério de aceitação
+- Procedimentos de Teste e Inspeção
+- Ferramentas de avaliação (somente para serviços específicos como desenvolvimento de software ou prestação de serviço com mão-de-obra dedicada)
+- Forma de obtenção das informações (somente para serviços específicos como desenvolvimento de software ou prestação de serviço com mão-de-obra dedicada, deve ser utilizado junto com o item anterior)
+- Lista de verificação e roteiro de testes aplicáveis (quando necessário)
+- Inspeções e diligências aplicáveis (quando necessário)
+- Níveis mínimos de serviço exigidos
+  - IAE – INDICADOR DE ATRASO NO FORNECIMENTO DO EQUIPAMENTO (somente para bens)
+  - IAP – ÍNDICE DE ATENDIMENTO NO PRAZO (somente para serviços)
+  - (NOTA: Descrever outros níveis mínimos de serviço necessários, quando for o caso)
+- Sanções administrativas e procedimentos para retenção ou glosa no pagamento
+
+28. Critério de medição e pagamento
+- Procedimentos para recebimento provisório e definitivo
+- Procedimento para pagamento
+  - Liquidação
+  - Prazo de Pagamento
+  - Forma de Pagamento
+
+29. Do reajuste contratual
+- (NOTA: Contar o prazo a partir da data de assinatura do orçamento estimado)
+
+30. Forma/Critério de seleção do fornecedor
+- Forma de seleção e Critério de julgamento da proposta
+  - Justificativa para o critério selecionado
+- Regime de fornecimento (bens)/execução (serviços)
+- Da Aplicação da Margem de Preferência
+  - Justificativa para a NÃO aplicação da margem de preferência
+- Tratamento diferenciado para ME e EPP
+  - Justificativa para o NÃO tratamento diferenciado
+- Subcontratação, Consórcios e Cooperativa
+  - Justificativa para a NÃO participação de Consórcios/Cooperativas e para a NÃO permissão de subcontratação
+- Apresentação das propostas (opcional, deve descrever como a comissão deseja receber as propostas dos licitantes. Anexar um modelo ou guia)
+- Exigências para a habilitação
+  - Habilitação jurídica
+  - Habilitação fiscal, social e trabalhista
+  - Qualificação Econômico-Financeira
+  - Qualificação Técnica
+
+31. Da alteração subjetiva
+- (NOTA:  Permite a fusão, cisão ou incorporação da empresa CONTRATADA com/em outra pessoa jurídica sem que o órgão tenha prejuízo em relação ao fornecimento/prestação do objeto contratado.)
+
+{VIABILIDADE}
+
+32. Declaração de Viabilidade
+- Justificativa da Viabilidade
+
+33. Responsáveis
+- Integrante Requisitante
+- Integrante Técnico
+- Integrante Administrativo
+- (NOTA: Todos os integrantes precisam assinar o ETP)
+
+{ANEXOS}

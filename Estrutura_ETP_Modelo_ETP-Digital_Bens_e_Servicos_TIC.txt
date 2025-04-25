@@ -1,0 +1,33 @@
+ESTUDO TÉCNICO PRELIMINAR - LEI 14.133/2021
+(Processo Administrativo n°...........)
+
+Referência: Modelo proposto ETP Digital
+
+
+1. Informações Básicas 
+- Categoria do objeto
+Contratações de TIC
+- Processo Administrativo
+
+2. Descrição da necessidade
+3. Área requisitante
+4. Necessidades de Negócio (Requisitos de negócio)
+5. Necessidades Tecnológicas 
+6. Demais requisitos necessários e suficientes à escolha da solução de TIC
+7. Estimativa da demanda - quantidade de bens e serviços
+8. Levantamento de soluções
+9. Análise comparativa de soluções
+10. Registro de soluções consideradas inviáveis
+11. Análise comparativa de custos (TCO)
+12. Descrição da solução de TIC a ser contratada
+13. Estimativa de custo total da contratação
+14. Justificativa técnica da escolha da solução
+15. Justificativa econômica da escolha da solução
++
+16. Benefícios a serem alcançados com a contratação
+17. Providências a serem Adotadas
++
+18. Declaração de Viabilidade 
+- Justificativa da viabilidade
+19. Responsáveis
+20. Anexos

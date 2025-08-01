@@ -36,7 +36,7 @@ Ao solicitar a adesão, devem ser observados os seguintes pontos:
 * Verificar se a ARP permite adesão por órgãos ou entidades não participantes da licitação original e se está dentro do prazo de vigência
 * Verificar o limite legal de adesão: aquisições por órgão ou entidade não podem exceder 50% dos quantitativos registrados na ata
 * Apresentar justificativa da vantagem da adesão, inclusive diante de riscos de desabastecimento ou descontinuidade de serviços públicos
-* Comprovar a compatibilidade dos valores registrados com os praticados no mercado, conforme art. 23 da Lei nº 14.133/2021
+* Comprovar a compatibilidade dos valores registrados com os praticados no mercado, conforme [art. 23 da Lei nº 14.133/2021](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm#art23)
 * Realizar a consulta e obter a aceitação prévia do órgão/entidade gerenciadora e do fornecedor
 
 ### **2.2. Condições para Efetivação da Adesão**
@@ -54,10 +54,10 @@ Ao solicitar a adesão, devem ser observados os seguintes pontos:
   * A vantagem da adesão à ARP
   * Situações de risco de desabastecimento ou descontinuidade do serviço público
   * A compatibilidade entre o objeto demandado e o objeto da ARP
-* A elaboração deve observar o art. 9º e §1º da [IN nº 58/2022](https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-seges-no-58-de-8-de-agosto-de-2022)
+* A elaboração deve observar o [art. 9º e §1º da IN nº 58/2022](https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-seges-no-58-de-8-de-agosto-de-2022)
 * Recomenda-se a reelaboração do ETP, quando necessário
 
-### **3.2. Termo de Referência (Opcional)**
+### **3.2. Termo de Referência (Dispensável para contratações de TIC)**
 
 * Elaborar com base no TR constante no edital da ARP a ser aderida, com as devidas adaptações ao contexto da adesão
 * Deve conter a assinatura do membro da equipe de planejamento responsável por sua elaboração

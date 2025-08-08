@@ -1,6 +1,6 @@
 # **ANEXO - C - ARTEFATO III – ESTUDO TÉCNICO PRELIMINAR**
 
->[!NOTE] Nota
+> [!NOTE] Nota
 > Primeira página - Capa
 
 ## **ESTUDO TÉCNICO PRELIMINAR**
@@ -11,8 +11,8 @@ Objeto/Solução
 
 Teresina, 06 de agosto de 2025
 
->[!NOTE] Nota
->Segunda página: Histórico de Versões
+> [!NOTE] Nota
+> Segunda página: Histórico de Versões
 
 Histórico de Versões
 
@@ -126,120 +126,120 @@ Como se observa, o Estudo Técnico Preliminar deverá conter os elementos necess
 
 #### **1.1. Definição e especificação das necessidades e requisitos**
 
->[!NOTE] Nota
+> [!NOTE] Nota
 > Neste tópico a equipe de planejamento da contratação deve descrever a necessidade da contratação, considerado o problema a ser resolvido sob a perspectiva do interesse público. Nesse contexto, a descrição deve ser clara, concisa e relacionada ao caso concreto a ser resolvido.
 
 #### **1.2. Previsão da contratação no plano de contratações anual**
 
->[!NOTE] Nota
+> [!NOTE] Nota
 > A equipe de planejamento da contratação deve demonstrar a previsão da contratação no plano de contratações anual (PCA), sempre que elaborado, de modo a indicar o seu alinhamento com o planejamento da Administração. Deve ser demonstrado que a necessidade está prevista no PCA ou que há iniciativas ou indicativos de que será incluído>.
 
 ### **2. Identificação dos requisitos da contratação**
 
 #### **2.1. Dos requisitos de negócio**
 
->[!NOTE] Nota
+> [!NOTE] Nota
 > Descrever os requisitos de negócio, que independem de características tecnológicas e que definem as necessidades e os aspectos funcionais da Solução de TI.
 
 #### **2.2. Dos requisitos legais**
 
->[!NOTE] Nota
+> [!NOTE] Nota
 > Definir as normas com as quais a Solução de TI deve estar em conformidade ex: Lei nº 13.709, de 14 de agosto de 2018 (Lei Geral de Proteção de Dados), Resoluções, Instruções Normativas, Normas ABNT etc.
 
 #### **2.3. Dos requisitos temporais**
 
->[!NOTE] Nota
+> [!NOTE] Nota
 > Definir datas de entrega da Solução de TI, cronogramas ou prazos das principais atividades, entregas ou produtos.
 
 #### **2.4. Dos requisitos de segurança e privacidade**
 
->[!NOTE] Nota
+> [!NOTE] Nota
 > Definir requisitos de segurança física e lógica, resoluções, ordens de serviço, diretrizes sobre segurança institucional ou qualquer outro normativo que se aplique a necessidade de contratação.
 
 #### **2.5. Dos requisitos sociais, ambientais, culturais e de sustentabilidade**
 
->[!NOTE] Nota
+> [!NOTE] Nota
 > Requisitos que a Solução de TI deve atender para estar em conformidade com costumes, idiomas e ao meio ambiente, dentre outros. ex: Descarte de resíduos, idioma das aplicações, eficiência energética etc.
 
 #### **2.6. Dos requisitos de arquitetura tecnológica**
 
->[!NOTE] Nota
+> [!NOTE] Nota
 > Descrever os requisitos de arquitetura tecnológica que devem ser levados em consideração para contratação da solução, tais como definições de hardware, software, padrões de interoperabilidade, linguagens de programação, interface, dentre outros.
 
 #### **2.7. Das necessidades tecnológicas**
 
->[!NOTE] Nota
+> [!NOTE] Nota
 > Apresentar as necessidades tecnológicas indispensáveis para definição da solução a ser contratada.
->[!NOTE] Nota
+> [!NOTE] Nota
 > As especificações técnicas, além de atenderem as necessidades de negócio podem ser validadas quanto a exequibilidade diretamente com fornecedores ou por meio da realização de Testes de Avaliação de Soluções.
 
 #### **2.8. Dos requisitos de projeto e implementação**
 
->[!NOTE] Nota
->Estabelecer o processo de desenvolvimento da solução, técnicas, métodos, forma de gestão, de documentação, dentre outros; Ex: Diretrizes do PMBOK.
->[!NOTE] Nota
->Podem ser estabelecidos requisitos para definição de cronograma das atividades de desenvolvimento da solução, definindo-se marcos para cada etapa do projeto.
+> [!NOTE] Nota
+> Estabelecer o processo de desenvolvimento da solução, técnicas, métodos, forma de gestão, de documentação, dentre outros; Ex: Diretrizes do PMBOK.
+> [!NOTE] Nota
+> Podem ser estabelecidos requisitos para definição de cronograma das atividades de desenvolvimento da solução, definindo-se marcos para cada etapa do projeto.
 
 #### **2.9. Dos requisitos de implantação**
 
->[!NOTE] Nota
->Definir o processo e requisitos de disponibilização da solução em ambiente de produção, dentre outros
+> [!NOTE] Nota
+> Definir o processo e requisitos de disponibilização da solução em ambiente de produção, dentre outros
 >
->Ex: Migração de ambiente sem indisponibilidade de sistemas; Entrega da solução plenamente funcional; Prazo experimental; Definição de janela de monitoramento após a implantação (funcionamento provisório/ de horário para implantação etc).
+> Ex: Migração de ambiente sem indisponibilidade de sistemas; Entrega da solução plenamente funcional; Prazo experimental; Definição de janela de monitoramento após a implantação (funcionamento provisório/ de horário para implantação etc).
 
 #### **2.10. Dos requisitos de garantia tecnológica**
 
->[!NOTE] Nota
->Definir a necessidade de garantia do fabricante, prazos, meios de abertura de chamados técnicos, substituição de peças em caso de defeito, prazo de atendimento, requisitos de exclusão de dados de dispositivos de armazenamento, vinculando estes aos índices de medição de resultados e/ou níveis de serviço estipulados.
+> [!NOTE] Nota
+> Definir a necessidade de garantia do fabricante, prazos, meios de abertura de chamados técnicos, substituição de peças em caso de defeito, prazo de atendimento, requisitos de exclusão de dados de dispositivos de armazenamento, vinculando estes aos índices de medição de resultados e/ou níveis de serviço estipulados.
 
 #### **2.11. Dos requisitos de manutenção tecnológica**
 
->[!NOTE] Nota
->Definir a necessidade de serviços de manutenção preventiva, corretiva, evolutiva e adaptativa, tanto dos elementos que independem de configuração tecnológica.
+> [!NOTE] Nota
+> Definir a necessidade de serviços de manutenção preventiva, corretiva, evolutiva e adaptativa, tanto dos elementos que independem de configuração tecnológica.
 
 #### **2.12. Dos requisitos de capacitação técnica**
 
->[!NOTE] Nota
->Definir a necessidade de treinamento técnico para a equipe de TI sustentar a solução implantada, o ambiente tecnológico dos treinamentos a serem ministrados, os perfis dos instrutores, carga horária, material didático, ementa dentre outros.
+> [!NOTE] Nota
+> Definir a necessidade de treinamento técnico para a equipe de TI sustentar a solução implantada, o ambiente tecnológico dos treinamentos a serem ministrados, os perfis dos instrutores, carga horária, material didático, ementa dentre outros.
 
 #### **2.13. Dos requisitos de experiência profissional**
 
->[!NOTE] Nota
->Definir os perfis profissionais exigidos e as respectivas formas de comprovação dessa experiência, dentre outros da equipe que projetará, implementará e implantará a Solução de TI, observadas as diretrizes da lei 14.133/21.
+> [!NOTE] Nota
+> Definir os perfis profissionais exigidos e as respectivas formas de comprovação dessa experiência, dentre outros da equipe que projetará, implementará e implantará a Solução de TI, observadas as diretrizes da lei 14.133/21.
 
 #### **2.14. Dos requisitos de formação da equipe**
 
->[!NOTE] Nota
->Definição de cursos acadêmicos e técnicos, formas de comprovação dessa formação, dentre outros, da equipe que projetará, implementará e implantará a Solução de TI, observadas as diretrizes da lei 14.133/21.
+> [!NOTE] Nota
+> Definição de cursos acadêmicos e técnicos, formas de comprovação dessa formação, dentre outros, da equipe que projetará, implementará e implantará a Solução de TI, observadas as diretrizes da lei 14.133/21.
 
 #### **2.15. Dos requisitos de metodologia de trabalho**
 
->[!NOTE] Nota
->Definição de metodologia a ser utilizada, procedimentos, rotinas, níveis mínimos de serviço, horários de execução, tarefas de monitoramento, elaboração de relatórios, papéis e responsabilidades diretamente relacionados à execução de tarefas, entre outros. Pode ser aplicada ao desenvolvimento de softwares bem como a qualquer outro serviço de TI.
+> [!NOTE] Nota
+> Definição de metodologia a ser utilizada, procedimentos, rotinas, níveis mínimos de serviço, horários de execução, tarefas de monitoramento, elaboração de relatórios, papéis e responsabilidades diretamente relacionados à execução de tarefas, entre outros. Pode ser aplicada ao desenvolvimento de softwares bem como a qualquer outro serviço de TI.
 
 #### **2.16. Dos requisitos de segurança dos ativos de tecnologia da informação**
 
->[!NOTE] Nota
->Os requisitos devem observar as políticas de segurança orgânica e institucional do CNMP e do Órgão Ministerial, bem como boas práticas de segurança da informação aplicáveis a contratação.
+> [!NOTE] Nota
+> Os requisitos devem observar as políticas de segurança orgânica e institucional do CNMP e do Órgão Ministerial, bem como boas práticas de segurança da informação aplicáveis a contratação.
 
 #### **2.17. Dos requisitos de previsão da exigência para realização de Prova de Conceito**
 
->[!NOTE] Nota
->Caso aplicável, definir os elementos de prova de conceito a serem exigidos do licitante provisoriamente classificado em primeiro lugar para fins de comprovação de atendimento das especificações técnicas>.
+> [!NOTE] Nota
+> Caso aplicável, definir os elementos de prova de conceito a serem exigidos do licitante provisoriamente classificado em primeiro lugar para fins de comprovação de atendimento das especificações técnicas>.
 
 #### **2.18. Dos demais requisitos necessários e suficientes à escolha da solução de TI**
 
->[!NOTE] Nota
->Ex: Requisitos de garantia de execução (quando aplicável)
+> [!NOTE] Nota
+> Ex: Requisitos de garantia de execução (quando aplicável)
 >
->...Descrição do requisito
+> ...Descrição do requisito
 >
->...Requisito N (Ex: remuneração)
+> ...Requisito N (Ex: remuneração)
 >
->...Descrição do requisito
+> ...Descrição do requisito
 
->[!TIP] Observações
->Recomenda-se descrição precisa, suficiente e clara da solução. Por exemplo:
+> [!TIP] Observações
+> Recomenda-se descrição precisa, suficiente e clara da solução. Por exemplo:
 
     a. Utilização de método de remuneração definidos na presente resolução do CNMP;
 
@@ -247,8 +247,8 @@ Como se observa, o Estudo Técnico Preliminar deverá conter os elementos necess
 
     c. Níveis mínimos de serviço (quando aplicável)
 
->[!IMPORTANT] Importante
->Nas contratações de software estabelecer padrões de Níveis Mínimos de Serviço, para servirem de referência à contratação de serviços de suporte nos casos em que estes sejam providos diretamente pelos fabricantes e para as soluções de TI mais disseminadas. (Acórdão 2.569/2018-TCU-Plenário).
+> [!IMPORTANT] Importante
+> Nas contratações de software estabelecer padrões de Níveis Mínimos de Serviço, para servirem de referência à contratação de serviços de suporte nos casos em que estes sejam providos diretamente pelos fabricantes e para as soluções de TI mais disseminadas. (Acórdão 2.569/2018-TCU-Plenário).
 
 Recomenda-se atenção com a restrição a competividade.
 
@@ -278,10 +278,10 @@ Recomenda-se nas contratações de software a definição de soluções padroniz
 
 ### **3. Estimativa da demanda – quantidade de bens e serviços**
 
->[!IMPORTANT] Importante
->Registro do quantitativo de bens e serviços necessários para a composição da solução a ser contratada de forma detalhada, motivada e justificada, inclusive quanto à forma de cálculo.
+> [!IMPORTANT] Importante
+> Registro do quantitativo de bens e serviços necessários para a composição da solução a ser contratada de forma detalhada, motivada e justificada, inclusive quanto à forma de cálculo.
 >
->Métodos, metodologias e técnicas de estimativas poderão ser utilizados nesta atividade, que podem incluir análise de histórico de demandas, estatística, regressões, projeções etc.
+> Métodos, metodologias e técnicas de estimativas poderão ser utilizados nesta atividade, que podem incluir análise de histórico de demandas, estatística, regressões, projeções etc.
 
 Recomenda-se atenção com o superdimensionamento dos quantitativos.
 
@@ -295,31 +295,31 @@ Recomenda-se atenção com o superdimensionamento dos quantitativos.
 
 Conforme inciso I do art. 10 da Resolução CNMP nº 283, de 05 de fevereiro de 2024, deve-se verificar para composição da análise comparativa:
 
->a. A disponibilidade de solução similar em outro órgão ou entidade da Administração Pública;
+> a. A disponibilidade de solução similar em outro órgão ou entidade da Administração Pública;
 >
->b. A capacidade e as alternativas do mercado, inclusive a existência de software livre ou software público, podendo abranger testes de avaliação de soluções;
+> b. A capacidade e as alternativas do mercado, inclusive a existência de software livre ou software público, podendo abranger testes de avaliação de soluções;
 >
->c. Os diferentes modelos de prestação de serviço;
+> c. Os diferentes modelos de prestação de serviço;
 >
->d. A possibilidade de aquisição na forma de bens ou contratação como serviço;
+> d. A possibilidade de aquisição na forma de bens ou contratação como serviço;
 >
->e. A ampliação ou a substituição da solução implantada, demonstrando-se a vantajosidade da escolha;
+> e. A ampliação ou a substituição da solução implantada, demonstrando-se a vantajosidade da escolha;
 >
->f. A observância, em especial quando definidos pelo Conselho Nacional do Ministério Público (CNMP), de políticas, premissas, especificações técnicas e padrões governamentais aplicáveis, incluindo a adoção de medidas de segurança, técnicas e administrativas aptas a proteger os dados pessoais desde a fase de concepção do produto ou do serviço até a sua execução; e
+> f. A observância, em especial quando definidos pelo Conselho Nacional do Ministério Público (CNMP), de políticas, premissas, especificações técnicas e padrões governamentais aplicáveis, incluindo a adoção de medidas de segurança, técnicas e administrativas aptas a proteger os dados pessoais desde a fase de concepção do produto ou do serviço até a sua execução; e
 >
->g. O orçamento estimado de investimento e custeio.
+> g. O orçamento estimado de investimento e custeio.
 
 Com base neste levantamento, cenários ou arranjos poderão ser formados para compor as soluções possíveis para atendimento da necessidade.
 
->[!TIP] Observações
+> [!TIP] Observações
 >
->a. Recomenda-se avaliar o grau de dependência da solução a ser contratada e planejar o planejamento de ações para minimizar impactos causados por eventual necessidade de substituir a solução a ser adquirida (Acórdão 2.569/2018 Plenário).
+> a. Recomenda-se avaliar o grau de dependência da solução a ser contratada e planejar o planejamento de ações para minimizar impactos causados por eventual necessidade de substituir a solução a ser adquirida (Acórdão 2.569/2018 Plenário).
 >
->b. Recomenda-se avaliar a relação custo-benefício de manter a solução implantada ou de substituí-la, em casos que, mesmo havendo alto impacto na migração da solução, haja ganhos financeiros para a organização (Acórdão 2.569/2018 Plenário).
+> b. Recomenda-se avaliar a relação custo-benefício de manter a solução implantada ou de substituí-la, em casos que, mesmo havendo alto impacto na migração da solução, haja ganhos financeiros para a organização (Acórdão 2.569/2018 Plenário).
 >
->c. Recomenda-se avaliar o custo/benefício de contratar os serviços de suporte técnico e de atualização de versões, sejam ambos ou somente um deles, ou de não contratar nenhum desses serviços, considerando elementos como a necessidade de negócio que motive a contratação desse serviço e o preço praticado por esse serviço, de acordo com a Constituição Federal, art. 37, caput (Acórdão 2.569/2018 Plenário).
+> c. Recomenda-se avaliar o custo/benefício de contratar os serviços de suporte técnico e de atualização de versões, sejam ambos ou somente um deles, ou de não contratar nenhum desses serviços, considerando elementos como a necessidade de negócio que motive a contratação desse serviço e o preço praticado por esse serviço, de acordo com a Constituição Federal, art. 37, caput (Acórdão 2.569/2018 Plenário).
 >
->d. Recomenda-se avaliar o impacto orçamentário e financeiro das contratações de software baseadas em modelos voltados totalmente para serviços, a exemplo de SaaS e Computação em Nuvem, de forma a subsidiar o planejamento para a mudança na forma de custeio da TI governamental ao longo dos anos (Acórdão 2.569/2018 Plenário).
+> d. Recomenda-se avaliar o impacto orçamentário e financeiro das contratações de software baseadas em modelos voltados totalmente para serviços, a exemplo de SaaS e Computação em Nuvem, de forma a subsidiar o planejamento para a mudança na forma de custeio da TI governamental ao longo dos anos (Acórdão 2.569/2018 Plenário).
 
 #### **4.1. Identificação das soluções**
 
@@ -347,58 +347,58 @@ Como auxílio, o quadro seguinte poderá ser utilizado para comparação de algu
 | 2 | <Valor da solução 2> |
 | N | <Valor da solução N> |
 
->[!TIP] Observações
+> [!TIP] Observações
 >
->Recomenda-se atenção aos seguintes métodos de estimativa de preço:
+> Recomenda-se atenção aos seguintes métodos de estimativa de preço:
 >
->a. Realizar pesquisas diretas com fornecedores ou em seus catálogos, valores adjudicados em licitações de órgãos públicos, sistemas de compras (Comprasnet), valores registrados em atas de SRP, avaliação de contratos recentes ou vigentes, compras e contratações realizadas por corporações privadas em condições idênticas ou semelhantes.
+> a. Realizar pesquisas diretas com fornecedores ou em seus catálogos, valores adjudicados em licitações de órgãos públicos, sistemas de compras (Comprasnet), valores registrados em atas de SRP, avaliação de contratos recentes ou vigentes, compras e contratações realizadas por corporações privadas em condições idênticas ou semelhantes.
 >
->b. O gestor deve consultar diversas fontes ao realizar a pesquisa de preços, preferencialmente as realizadas pela própria administração pública e, somente recorrer às cotações com fornecedores em casos excepcionais quando o uso de contratações públicas não for possível.
+> b. O gestor deve consultar diversas fontes ao realizar a pesquisa de preços, preferencialmente as realizadas pela própria administração pública e, somente recorrer às cotações com fornecedores em casos excepcionais quando o uso de contratações públicas não for possível.
 >
->c. Recomendar cautelas a serem adotadas no planejamento de contratações de empresas de modo a não restringir a pesquisa de preços às cotações realizadas junto a potenciais fornecedores, adotando também outras fontes como parâmetro, principalmente as contratações similares realizadas por outros órgãos ou entidades públicas. (Acórdão 2.816/2014-TCU-Plenário, da relatoria do Ministro José Múcio Monteiro).
+> c. Recomendar cautelas a serem adotadas no planejamento de contratações de empresas de modo a não restringir a pesquisa de preços às cotações realizadas junto a potenciais fornecedores, adotando também outras fontes como parâmetro, principalmente as contratações similares realizadas por outros órgãos ou entidades públicas. (Acórdão 2.816/2014-TCU-Plenário, da relatoria do Ministro José Múcio Monteiro).
 >
->d. Deve-se utilizar uma 'cesta de preços aceitáveis' para estimativa do orçamento, sendo inadequada a sua elaboração com base apenas em consultas a potenciais fornecedores, deve garantir que os valores obtidos reflitam os preços praticados no mercado. (Acórdão 488/2019-TCU-Plenário, da relatoria da Ministra Ana Arraes).
+> d. Deve-se utilizar uma 'cesta de preços aceitáveis' para estimativa do orçamento, sendo inadequada a sua elaboração com base apenas em consultas a potenciais fornecedores, deve garantir que os valores obtidos reflitam os preços praticados no mercado. (Acórdão 488/2019-TCU-Plenário, da relatoria da Ministra Ana Arraes).
 >
->e. Preço aceitável é aquele que não representa claro viés em relação ao contexto do mercado, ou seja, abaixo do limite inferior ou acima do maior valor constante da faixa identificada para o produto (ou serviço). Tal consideração leva à conclusão de que as estimativas de preços prévias às licitações, os valores a serem aceitos pelos gestores antes da adjudicação dos objetos dos certames licitatórios, bem como na contratação e posteriores alterações, por meio de aditivos, e mesmo os parâmetros utilizados pelos órgãos de controle para caracterizar sobrepreço ou superfaturamento em contratações da área de TI devem estar baseados em uma ‘cesta de preços aceitáveis’ (Acórdão 2.170/2007 Plenário).
+> e. Preço aceitável é aquele que não representa claro viés em relação ao contexto do mercado, ou seja, abaixo do limite inferior ou acima do maior valor constante da faixa identificada para o produto (ou serviço). Tal consideração leva à conclusão de que as estimativas de preços prévias às licitações, os valores a serem aceitos pelos gestores antes da adjudicação dos objetos dos certames licitatórios, bem como na contratação e posteriores alterações, por meio de aditivos, e mesmo os parâmetros utilizados pelos órgãos de controle para caracterizar sobrepreço ou superfaturamento em contratações da área de TI devem estar baseados em uma ‘cesta de preços aceitáveis’ (Acórdão 2.170/2007 Plenário).
 >
->f. Preços notoriamente díspares (acima ou abaixo do razoável) podem ser descartados da pesquisa desde que a análise que ensejou o descarte esteja devidamente apresentada nos autos (Acórdão TCU nº 2.170/2007 – Plenário).
+> f. Preços notoriamente díspares (acima ou abaixo do razoável) podem ser descartados da pesquisa desde que a análise que ensejou o descarte esteja devidamente apresentada nos autos (Acórdão TCU nº 2.170/2007 – Plenário).
 >
->g. Não é admissível que a pesquisa de preços de mercado feita pela entidade seja destituída de juízo crítico acerca da consistência dos valores levantados, máxime quando observados indícios de preços destoantes dos praticados no mercado (Acórdão 1108/2007 Plenário).
+> g. Não é admissível que a pesquisa de preços de mercado feita pela entidade seja destituída de juízo crítico acerca da consistência dos valores levantados, máxime quando observados indícios de preços destoantes dos praticados no mercado (Acórdão 1108/2007 Plenário).
 >
->h. Orienta a equipe de planejamento sobre a viabilidade e a relação custo-benefício da contratação, além de prevenir sobrepreços em itens de planilhas de custos e impedir a contratação acima do preço de mercado.
+> h. Orienta a equipe de planejamento sobre a viabilidade e a relação custo-benefício da contratação, além de prevenir sobrepreços em itens de planilhas de custos e impedir a contratação acima do preço de mercado.
 >
->i. Deve guardar relação com a materialidade da contratação e a equipe de planejamento deve fazer juízo de valor com base nos dados colhidos, de modo que seja possível identificar eventuais inconsistências e fazer os devidos ajustes das cotações quando recebidas com manifesta diferença com os preços praticados no mercado, a fim de aferir a vantajosidade real da contratação, em atenção ao princípio da economicidade. Devem ser feitas avaliações críticas a partir dos preços obtidos, principalmente diante de grande variação entre os valores apresentados. Deve-se dar atenção com sobrepreço no valor mesmo que seja de somente um dos itens.
+> i. Deve guardar relação com a materialidade da contratação e a equipe de planejamento deve fazer juízo de valor com base nos dados colhidos, de modo que seja possível identificar eventuais inconsistências e fazer os devidos ajustes das cotações quando recebidas com manifesta diferença com os preços praticados no mercado, a fim de aferir a vantajosidade real da contratação, em atenção ao princípio da economicidade. Devem ser feitas avaliações críticas a partir dos preços obtidos, principalmente diante de grande variação entre os valores apresentados. Deve-se dar atenção com sobrepreço no valor mesmo que seja de somente um dos itens.
 >
->j. Vale destacar que a Súmula 259 do TCU determinam que o edital da licitação deve incluir cláusula estabelecendo critérios objetivos de aceitabilidade dos preços unitários e a definição de seus valores máximos, ou seja, a pesquisa de preços demanda uma análise crítica a fim de mitigar riscos, a exemplo do 'jogo de planilha'.
+> j. Vale destacar que a Súmula 259 do TCU determinam que o edital da licitação deve incluir cláusula estabelecendo critérios objetivos de aceitabilidade dos preços unitários e a definição de seus valores máximos, ou seja, a pesquisa de preços demanda uma análise crítica a fim de mitigar riscos, a exemplo do 'jogo de planilha'.
 >
->k. Recomenda-se para as contratações de software a explicitação dos parâmetros utilizados para calcular os preços dos produtos e serviços nos orçamentos estimados, nas propostas de preço dos revendedores/fabricantes e nos contratos celebrados, incluindo os percentuais usados nos cálculos dos serviços agregados e o custo de revenda. (Acórdão 2.569/2018 Plenário).
+> k. Recomenda-se para as contratações de software a explicitação dos parâmetros utilizados para calcular os preços dos produtos e serviços nos orçamentos estimados, nas propostas de preço dos revendedores/fabricantes e nos contratos celebrados, incluindo os percentuais usados nos cálculos dos serviços agregados e o custo de revenda. (Acórdão 2.569/2018 Plenário).
 >
->l. Orienta-se para as contratações de software às organizações sob sua supervisão a respeito dos riscos da solicitação de cotações de preços, indicando que, caso seja estritamente necessário obter preços de referência mediante cotações em face da ausência de outras fontes de preços, como contratações similares, solicite-se preços diretamente aos grandes fabricantes, de modo a aumentar a chance de obter um preço de referência minimamente confiável no âmbito da pesquisa de preços. (Acórdão 2.569/2018 Plenário).
+> l. Orienta-se para as contratações de software às organizações sob sua supervisão a respeito dos riscos da solicitação de cotações de preços, indicando que, caso seja estritamente necessário obter preços de referência mediante cotações em face da ausência de outras fontes de preços, como contratações similares, solicite-se preços diretamente aos grandes fabricantes, de modo a aumentar a chance de obter um preço de referência minimamente confiável no âmbito da pesquisa de preços. (Acórdão 2.569/2018 Plenário).
 
 #### **4.4. Registro de soluções consideradas inviáveis**
 
->[!NOTE] Nota
->Sugere-se o registro das soluções consideradas inviáveis no Estudo Técnico Preliminar (breve descrição e justificativa), dispensando-se a realização dos respectivos cálculos de custo total de propriedade.
+> [!NOTE] Nota
+> Sugere-se o registro das soluções consideradas inviáveis no Estudo Técnico Preliminar (breve descrição e justificativa), dispensando-se a realização dos respectivos cálculos de custo total de propriedade.
 
 #### **4.5. Pesquisa inicial de preços de mercado**
 
 **Solução Viável 1:** Custo Total de Propriedade – Memória de Cálculo
 
->Cálculo do Custo Total de Propriedade da Solução 1, considerando os custos inerentes ao ciclo de vida dos bens e serviços da solução, incluindo custos direitos e indiretos, a exemplo dos valores de aquisição dos ativos, insumos, garantia, manutenção etc.
+> Cálculo do Custo Total de Propriedade da Solução 1, considerando os custos inerentes ao ciclo de vida dos bens e serviços da solução, incluindo custos direitos e indiretos, a exemplo dos valores de aquisição dos ativos, insumos, garantia, manutenção etc.
 >
->Deve-se registrar a memória de cálculo que referencie os preços e os custos utilizados na análise, com vistas a permitir a verificação da origem dos dados.
+> Deve-se registrar a memória de cálculo que referencie os preços e os custos utilizados na análise, com vistas a permitir a verificação da origem dos dados.
 
 **Solução Viável 2:** Custo Total de Propriedade – Memória de Cálculo
 
->Cálculo do Custo Total de Propriedade da Solução 2, considerando os custos inerentes ao ciclo de vida dos bens e serviços da solução, incluindo custos direitos e indiretos, a exemplo dos valores de aquisição dos ativos, insumos, garantia, manutenção etc.
+> Cálculo do Custo Total de Propriedade da Solução 2, considerando os custos inerentes ao ciclo de vida dos bens e serviços da solução, incluindo custos direitos e indiretos, a exemplo dos valores de aquisição dos ativos, insumos, garantia, manutenção etc.
 >
->Deve-se registrar a memória de cálculo que referencie os preços e os custos utilizados na análise, com vistas a permitir a verificação da origem dos dados.
+> Deve-se registrar a memória de cálculo que referencie os preços e os custos utilizados na análise, com vistas a permitir a verificação da origem dos dados.
 
 **Solução Viável N:** Custo Total de Propriedade – Memória de Cálculo
 
->Cálculo do Custo Total de Propriedade da Solução N, considerando os custos inerentes ao ciclo de vida dos bens e serviços da solução, incluindo custos direitos e indiretos, a exemplo dos valores de aquisição dos ativos, insumos, garantia, manutenção etc.
+> Cálculo do Custo Total de Propriedade da Solução N, considerando os custos inerentes ao ciclo de vida dos bens e serviços da solução, incluindo custos direitos e indiretos, a exemplo dos valores de aquisição dos ativos, insumos, garantia, manutenção etc.
 >
->Deve-se registrar a memória de cálculo que referencie os preços e os custos utilizados na análise, com vistas a permitir a verificação da origem dos dados.
+> Deve-se registrar a memória de cálculo que referencie os preços e os custos utilizados na análise, com vistas a permitir a verificação da origem dos dados.
 
 #### **4.6. Tabela consolidada de pesquisa inicial de preços**
 
@@ -409,51 +409,51 @@ Como auxílio, o quadro seguinte poderá ser utilizado para comparação de algu
 | 2 | <Descrição da solução 2> | <Valor da solução 2> |
 | N | <Descrição da solução N> | <Valor da solução N> |
 
->[!TIP] Observações
+> [!TIP] Observações
 >
->Recomenda-se atenção aos seguintes métodos de estimativa de preço:
+> Recomenda-se atenção aos seguintes métodos de estimativa de preço:
 >
->a. Realizar pesquisas diretas com fornecedores ou em seus catálogos, valores adjudicados em licitações de órgãos públicos, sistemas de compras (Comprasnet), valores registrados em atas de SRP, avaliação de contratos recentes ou vigentes, compras e contratações realizadas por corporações privadas em condições idênticas ou semelhantes.
+> a. Realizar pesquisas diretas com fornecedores ou em seus catálogos, valores adjudicados em licitações de órgãos públicos, sistemas de compras (Comprasnet), valores registrados em atas de SRP, avaliação de contratos recentes ou vigentes, compras e contratações realizadas por corporações privadas em condições idênticas ou semelhantes.
 >
->b. O gestor deve consultar diversas fontes ao realizar a pesquisa de preços, preferencialmente as realizadas pela própria administração pública e, somente recorrer às cotações com fornecedores em casos excepcionais quando o uso de contratações públicas não for possível.
+> b. O gestor deve consultar diversas fontes ao realizar a pesquisa de preços, preferencialmente as realizadas pela própria administração pública e, somente recorrer às cotações com fornecedores em casos excepcionais quando o uso de contratações públicas não for possível.
 >
->c. Recomendar cautelas a serem adotadas no planejamento de contratações de empresas de modo a não restringir a pesquisa de preços às cotações realizadas junto a potenciais fornecedores, adotando também outras fontes como parâmetro, principalmente as contratações similares realizadas por outros órgãos ou entidades públicas. (Acórdão 2.816/2014-TCU-Plenário, da relatoria do Ministro José Múcio Monteiro).
+> c. Recomendar cautelas a serem adotadas no planejamento de contratações de empresas de modo a não restringir a pesquisa de preços às cotações realizadas junto a potenciais fornecedores, adotando também outras fontes como parâmetro, principalmente as contratações similares realizadas por outros órgãos ou entidades públicas. (Acórdão 2.816/2014-TCU-Plenário, da relatoria do Ministro José Múcio Monteiro).
 >
->d. Deve-se utilizar uma 'cesta de preços aceitáveis' para estimativa do orçamento, sendo inadequada a sua elaboração com base apenas em consultas a potenciais fornecedores, deve garantir que os valores obtidos reflitam os preços praticados no mercado. (Acórdão 488/2019-TCU-Plenário, da relatoria da Ministra Ana Arraes).
+> d. Deve-se utilizar uma 'cesta de preços aceitáveis' para estimativa do orçamento, sendo inadequada a sua elaboração com base apenas em consultas a potenciais fornecedores, deve garantir que os valores obtidos reflitam os preços praticados no mercado. (Acórdão 488/2019-TCU-Plenário, da relatoria da Ministra Ana Arraes).
 >
->e. Preço aceitável é aquele que não representa claro viés em relação ao contexto do mercado, ou seja, abaixo do limite inferior ou acima do maior valor constante da faixa identificada para o produto (ou serviço). Tal consideração leva à conclusão de que as estimativas de preços prévias às licitações, os valores a serem aceitos pelos gestores antes da adjudicação dos objetos dos certames licitatórios, bem como na contratação e posteriores alterações, por meio de aditivos, e mesmo os parâmetros utilizados pelos órgãos de controle para caracterizar sobrepreço ou superfaturamento em contratações da área de TI devem estar baseados em uma ‘cesta de preços aceitáveis’ (Acórdão 2.170/2007 Plenário).
+> e. Preço aceitável é aquele que não representa claro viés em relação ao contexto do mercado, ou seja, abaixo do limite inferior ou acima do maior valor constante da faixa identificada para o produto (ou serviço). Tal consideração leva à conclusão de que as estimativas de preços prévias às licitações, os valores a serem aceitos pelos gestores antes da adjudicação dos objetos dos certames licitatórios, bem como na contratação e posteriores alterações, por meio de aditivos, e mesmo os parâmetros utilizados pelos órgãos de controle para caracterizar sobrepreço ou superfaturamento em contratações da área de TI devem estar baseados em uma ‘cesta de preços aceitáveis’ (Acórdão 2.170/2007 Plenário).
 >
->f. Preços notoriamente díspares (acima ou abaixo do razoável) podem ser descartados da pesquisa desde que a análise que ensejou o descarte esteja devidamente apresentada nos autos (Acórdão TCU nº 2.170/2007 – Plenário).
+> f. Preços notoriamente díspares (acima ou abaixo do razoável) podem ser descartados da pesquisa desde que a análise que ensejou o descarte esteja devidamente apresentada nos autos (Acórdão TCU nº 2.170/2007 – Plenário).
 >
->g. Não é admissível que a pesquisa de preços de mercado feita pela entidade seja destituída de juízo crítico acerca da consistência dos valores levantados, máxime quando observados indícios de preços destoantes dos praticados no mercado (Acórdão 1108/2007 Plenário).
+> g. Não é admissível que a pesquisa de preços de mercado feita pela entidade seja destituída de juízo crítico acerca da consistência dos valores levantados, máxime quando observados indícios de preços destoantes dos praticados no mercado (Acórdão 1108/2007 Plenário).
 >
->h. Orienta a equipe de planejamento sobre a viabilidade e a relação custo-benefício da contratação, além de prevenir sobrepreços em itens de planilhas de custos e impedir a contratação acima do preço de mercado.
+> h. Orienta a equipe de planejamento sobre a viabilidade e a relação custo-benefício da contratação, além de prevenir sobrepreços em itens de planilhas de custos e impedir a contratação acima do preço de mercado.
 >
->i. Deve guardar relação com a materialidade da contratação e a equipe de planejamento deve fazer juízo de valor com base nos dados colhidos, de modo que seja possível identificar eventuais inconsistências e fazer os devidos ajustes das cotações quando recebidas com manifesta diferença com os preços praticados no mercado, a fim de aferir a vantajosidade real da contratação, em atenção ao princípio da economicidade. Devem ser feitas avaliações críticas a partir dos preços obtidos, principalmente diante de grande variação entre os valores apresentados. Deve-se dar atenção com sobrepreço no valor mesmo que seja de somente um dos itens.
+> i. Deve guardar relação com a materialidade da contratação e a equipe de planejamento deve fazer juízo de valor com base nos dados colhidos, de modo que seja possível identificar eventuais inconsistências e fazer os devidos ajustes das cotações quando recebidas com manifesta diferença com os preços praticados no mercado, a fim de aferir a vantajosidade real da contratação, em atenção ao princípio da economicidade. Devem ser feitas avaliações críticas a partir dos preços obtidos, principalmente diante de grande variação entre os valores apresentados. Deve-se dar atenção com sobrepreço no valor mesmo que seja de somente um dos itens.
 >
->j. Vale destacar que a Súmula 259 do TCU determinam que o edital da licitação deve incluir cláusula estabelecendo critérios objetivos de aceitabilidade dos preços unitários e a definição de seus valores máximos, ou seja, a pesquisa de preços demanda uma análise crítica a fim de mitigarriscos, a exemplo do 'jogo de planilha'.
+> j. Vale destacar que a Súmula 259 do TCU determinam que o edital da licitação deve incluir cláusula estabelecendo critérios objetivos de aceitabilidade dos preços unitários e a definição de seus valores máximos, ou seja, a pesquisa de preços demanda uma análise crítica a fim de mitigarriscos, a exemplo do 'jogo de planilha'.
 >
->k. Recomenda-se para as contratações de software a explicitação dos parâmetros utilizados para calcular os preços dos produtos e serviços nos orçamentos estimados, nas propostas de preço dos revendedores/fabricantes e nos contratos celebrados, incluindo os percentuais usados nos cálculos dos serviços agregados e o custo de revenda. (Acórdão 2.569/2018 Plenário).
+> k. Recomenda-se para as contratações de software a explicitação dos parâmetros utilizados para calcular os preços dos produtos e serviços nos orçamentos estimados, nas propostas de preço dos revendedores/fabricantes e nos contratos celebrados, incluindo os percentuais usados nos cálculos dos serviços agregados e o custo de revenda. (Acórdão 2.569/2018 Plenário).
 >
->l. Orienta-se para as contratações de software às organizações sob sua supervisão a respeito dos riscos da solicitação de cotações de preços, indicando que, caso seja estritamente necessário obter preços de referência mediante cotações em face da ausência de outras fontes de preços, como contratações similares, solicite-se preços diretamente aos grandes fabricantes, de modo a aumentar a chance de obter um preço de referência minimamente confiável no âmbito da pesquisa de preços. (Acórdão 2.569/2018 Plenário).
+> l. Orienta-se para as contratações de software às organizações sob sua supervisão a respeito dos riscos da solicitação de cotações de preços, indicando que, caso seja estritamente necessário obter preços de referência mediante cotações em face da ausência de outras fontes de preços, como contratações similares, solicite-se preços diretamente aos grandes fabricantes, de modo a aumentar a chance de obter um preço de referência minimamente confiável no âmbito da pesquisa de preços. (Acórdão 2.569/2018 Plenário).
 
 #### **4.7. Mapa comparativo dos cálculos totais de propriedade (TCO).**
 
->Sugere-se a elaboração de um mapa comparativo, consolidando os resultados apresentados. Esta tabela pode variar conforme a complexidade de cada projeto.
+> Sugere-se a elaboração de um mapa comparativo, consolidando os resultados apresentados. Esta tabela pode variar conforme a complexidade de cada projeto.
 
 #### **4.8. Descrição da solução de ti a ser contratada**
 
->Após a análise comparativa das Soluções, descrever a solução escolhida.
+> Após a análise comparativa das Soluções, descrever a solução escolhida.
 >
->Apesar de a obrigação de justificativa do parcelamento ou não da solução ocorrer apenas na elaboração do Termo de Referência, a Equipe de Planejamento também poderá já realizar esta análise preliminar e registrar nesta seção.
+> Apesar de a obrigação de justificativa do parcelamento ou não da solução ocorrer apenas na elaboração do Termo de Referência, a Equipe de Planejamento também poderá já realizar esta análise preliminar e registrar nesta seção.
 
 #### **4.9. Justificativa para solução escolhida:**
 
->Apresentar justificativa para solução escolhida após comparação com demais soluções viáveis bem como outros elementos que devem ser considerados para definição do objeto da contratação.
+> Apresentar justificativa para solução escolhida após comparação com demais soluções viáveis bem como outros elementos que devem ser considerados para definição do objeto da contratação.
 
 #### **4.10. Estimativa de custo total da contratação**
 
->Registro da estimativa do custo da contratação, considerando a Solução escolhida.
+> Registro da estimativa do custo da contratação, considerando a Solução escolhida.
 
 #### **4.11. Execução do contrato**
 
@@ -463,49 +463,49 @@ Em conformidade com o art. 24 da Resolução CNMP nº 283, de 05 de fevereiro de
 
 ##### **4.11.2. Rotinas de execução**
 
->Apresentação de marcos e atividades necessárias a execução dos serviços e/ou entrega da solução contratada. Definir processos e procedimentos de fornecimento da Solução de TI, que podem envolver.
+> Apresentação de marcos e atividades necessárias a execução dos serviços e/ou entrega da solução contratada. Definir processos e procedimentos de fornecimento da Solução de TI, que podem envolver.
 
 ###### 4.11.2.1. Prazos, horários de fornecimento de bens ou prestação dos serviços e locais de entrega
 
->Informar o prazo de entrega dos bens ou prazo para execução dos serviços. Informar ainda quando cabível o horário de recebimento do setor responsável, horário de prestação de serviços, regras de agendamento prévio, bem como qualquer outro critério temporal relevante a execução do contrato.
+> Informar o prazo de entrega dos bens ou prazo para execução dos serviços. Informar ainda quando cabível o horário de recebimento do setor responsável, horário de prestação de serviços, regras de agendamento prévio, bem como qualquer outro critério temporal relevante a execução do contrato.
 
 ###### **4.11.2.2. Documentação mínima exigida**
 
->Exigências de relatórios de execução de serviço ou fornecimento, controles por parte da contratada, relatórios de ocorrência, índices de disponibilidade, padrões de qualidade exigidos, modelos de desenvolvimento de softwares ou outro documento que se aplique ao objeto contratado.
+> Exigências de relatórios de execução de serviço ou fornecimento, controles por parte da contratada, relatórios de ocorrência, índices de disponibilidade, padrões de qualidade exigidos, modelos de desenvolvimento de softwares ou outro documento que se aplique ao objeto contratado.
 
 ###### **4.11.2.3. Papéis e responsabilidades**
 
->Definir obrigações do contratante e da contratada na execução dos serviços ou no fornecimento de bens, em conformidade as etapas apresentadas na rotina de execução de forma lógica e prática.
+> Definir obrigações do contratante e da contratada na execução dos serviços ou no fornecimento de bens, em conformidade as etapas apresentadas na rotina de execução de forma lógica e prática.
 
 ###### **4.11.2.4. Obrigações do Contratante**
 
->Preencher as obrigações do Contratante
+> Preencher as obrigações do Contratante
 
 ###### **4.11.2.5. Obrigações da Contratada**
 
->Preencher as obrigações da Contratada
+> Preencher as obrigações da Contratada
 
 ###### **4.11.2.6. Quantificação ou estimativa prévia do volume de serviços demandados ou quantidade de bens a serem fornecidos**
 
->Apresentação, quando possível, de quantitativos iniciais de contratação considerando demandas acumuladas, bem como projeção de contratações/fornecimentos futuros.
+> Apresentação, quando possível, de quantitativos iniciais de contratação considerando demandas acumuladas, bem como projeção de contratações/fornecimentos futuros.
 
 ###### **4.11.2.7. Mecanismos formais de comunicação**
 
->Definir os meios e ferrramentas a serem utilizados para troca de informações entre a contratada e a Administração, adotando-se preferencialmente as Ordens de Serviço ou de Fornecimento de Bens.
+> Definir os meios e ferrramentas a serem utilizados para troca de informações entre a contratada e a Administração, adotando-se preferencialmente as Ordens de Serviço ou de Fornecimento de Bens.
 >
->Pode ser definido ainda outras regras para comunicações rotineiras.
+> Pode ser definido ainda outras regras para comunicações rotineiras.
 
 ###### **4.11.2.8. Forma e prazo de pagamento**
 
->Definir como o pagamento ocorrerá (mensal, anual, parcelada, antecipada) estipulando prazos.
+> Definir como o pagamento ocorrerá (mensal, anual, parcelada, antecipada) estipulando prazos.
 
 ###### **4.11.2.9. Vigência contratual**
 
->Definir o prazo de vigência contratual observado os limites dispostos nos Arts 105 a 114 da lei 14.133/2021.>
+> Definir o prazo de vigência contratual observado os limites dispostos nos Arts 105 a 114 da lei 14.133/2021.>
 
 ###### **4.11.2.10. Termo de ciência de manutenção de sigilo**
 
->Exigência de Termo de ciência ou documento equivalente contendo declaração de manutenção de sigilo e respeito às normas vigentes na instituição (ex: diretrizes de segurança institucional, proteção de dados etc.), a ser assinado pelo representante legal da contratada e empregados diretamente envolvidos.
+> Exigência de Termo de ciência ou documento equivalente contendo declaração de manutenção de sigilo e respeito às normas vigentes na instituição (ex: diretrizes de segurança institucional, proteção de dados etc.), a ser assinado pelo representante legal da contratada e empregados diretamente envolvidos.
 
 #### **4.12. Gestão do contrato**
 
@@ -515,7 +515,7 @@ Em conformidade com o art. 25. da Resolução CNMP nº 283, de 05 de fevereiro d
 
 ##### **4.12.2.  Critério de aceitação – Métrica e Periodicidade**
 
->Exemplo de modelos de métrica utilizáveis. As métricas utilizadas para cada contratação, quando cabíveis, deverão observar as práticas de mercado bem como a criação/definição/existência de meios para a sua fiscalização.
+> Exemplo de modelos de métrica utilizáveis. As métricas utilizadas para cada contratação, quando cabíveis, deverão observar as práticas de mercado bem como a criação/definição/existência de meios para a sua fiscalização.
 
 Exemplo de Métrica 1:
 
@@ -533,35 +533,35 @@ Exemplo de Métrica 2:
 
 ##### **4.12.3. Valores e procedimentos para retenção, glosa no pagamento ou sanções.**
 
->Definir valores e procedimentos para retenção, glosa no pagamento ou sanções
+> Definir valores e procedimentos para retenção, glosa no pagamento ou sanções
 
 ###### **4.12.3.1. Mecanismos de inspeção e avaliação da solução**
 
->Definir como a contratação será avaliada (ex: inspeção, relatório, plataforma de monitoramento, amostragem, entre outros.)
+> Definir como a contratação será avaliada (ex: inspeção, relatório, plataforma de monitoramento, amostragem, entre outros.)
 
 ##### **4.12.4. Ferramentas de avaliação**
 
->Utilização de relatórios, softwares, pesquisas ou outros métodos de avaliação da solução contratada.
+> Utilização de relatórios, softwares, pesquisas ou outros métodos de avaliação da solução contratada.
 
 ##### **4.12.5. Forma de obtenção das informações**
 
->Definir os critérios e métodos utilizados para levantamento de informações, coerentes com os mecanismos de inspeção e avaliação da solução, dando transparência aos procedimentos de gestão contratual.
+> Definir os critérios e métodos utilizados para levantamento de informações, coerentes com os mecanismos de inspeção e avaliação da solução, dando transparência aos procedimentos de gestão contratual.
 
 ##### **4.12.6. Listas de verificação e de roteiros de teste aplicáveis**
 
->Quando cabível, definir os tópicos, em ordem cronológica para verificação das métricas.
+> Quando cabível, definir os tópicos, em ordem cronológica para verificação das métricas.
 
 ##### **4.12.7. Inspeções e diligência aplicáveis**
 
->Quando cabível, definir rotinas de inspeções, diligências ou outros métodos de auditoria e verificação da qualidade dos serviços prestados.
+> Quando cabível, definir rotinas de inspeções, diligências ou outros métodos de auditoria e verificação da qualidade dos serviços prestados.
 
 ##### **4.12.8. Procedimentos para recebimento provisório e definitivo**
 
->Apresentar os procedimentos para recebimento provisório e definitivo do objeto da contratação, definindo os prazos para as duas etapas, observado o disposto nos normativos vigentes que disciplinem o tema.
+> Apresentar os procedimentos para recebimento provisório e definitivo do objeto da contratação, definindo os prazos para as duas etapas, observado o disposto nos normativos vigentes que disciplinem o tema.
 
 ##### **4.12.9. Sanções Administrativas**
 
->Definir diretrizes ou apresentar elementos relevantes para a definição das Sanções Administrativas quando da elaboração do Termo de Referência, respeitado o disposto nos artigos 155 a 163 da lei 14.133/2021.
+>D efinir diretrizes ou apresentar elementos relevantes para a definição das Sanções Administrativas quando da elaboração do Termo de Referência, respeitado o disposto nos artigos 155 a 163 da lei 14.133/2021.
 
     Exemplo 1: Deverá ser definido o valor de mora em 0,6% por dia de atraso até o máximo de 18%
 
@@ -571,7 +571,7 @@ Exemplo de Métrica 2:
 
 ##### **4.12.10. Procedimentos para pagamento**
 
->Definir os procedimentos para pagamento das obrigações contratuais (ex: prazos, parcelas, cronograma físico-financeiro, aplicação de glosas e sanções etc.)
+> Definir os procedimentos para pagamento das obrigações contratuais (ex: prazos, parcelas, cronograma físico-financeiro, aplicação de glosas e sanções etc.)
 
 ##### **4.12.11. Plano de sustentação e transição contratual**
 
@@ -591,7 +591,7 @@ A etapa de elaboração da Sustentação do Contrato compreende:
 
 ##### **4.12.12. Recursos necessários à continuidade do negócio durante e após a execução do contrato**
 
->Deve ser realizado o levantamento e a descrição de materiais, infraestrutura, recursos humanos, capacitações, recursos orçamentários entre outros elementos necessários a execução e encerramento do contrato.
+> Deve ser realizado o levantamento e a descrição de materiais, infraestrutura, recursos humanos, capacitações, recursos orçamentários entre outros elementos necessários a execução e encerramento do contrato.
 
 ###### **4.12.12.1. Recursos Materiais**
 
@@ -671,13 +671,13 @@ b. Ex: Entrega de manuais e procedimentos de configuração/instalação.
 
 ### **5. Declaração da viabilidade da contratação**
 
->Declaração da viabilidade da contratação, contendo a justificativa da solução escolhida, demonstrando os benefícios a serem alcançados em termos de eficácia, eficiência, efetividade e economicidade.
+> Declaração da viabilidade da contratação, contendo a justificativa da solução escolhida, demonstrando os benefícios a serem alcançados em termos de eficácia, eficiência, efetividade e economicidade.
 
 ### **6. Aprovação e assinatura**
 
->A Equipe de Planejamento da Contratação foi instituída pela Portaria nº XXX (ou outro instrumento equivalente de formalização), de \<dia\> de \<mês\> de \<ano\>.
+> A Equipe de Planejamento da Contratação foi instituída pela Portaria nº XXX (ou outro instrumento equivalente de formalização), de \<dia\> de \<mês\> de \<ano\>.
 >
->Conforme o Art. 16 da Resolução CNMP nº 283, de 05 de fevereiro de 2024, o Estudo Técnico Preliminar deverá ser aprovado e assinado pelos Integrantes da Equipe de Planejamento da Contratação:
+> Conforme o Art. 16 da Resolução CNMP nº 283, de 05 de fevereiro de 2024, o Estudo Técnico Preliminar deverá ser aprovado e assinado pelos Integrantes da Equipe de Planejamento da Contratação:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 

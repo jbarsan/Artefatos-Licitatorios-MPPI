@@ -1,6 +1,6 @@
 # **ANEXO - B - ARTEFATO II – MAPA DE GERENCIAMENTO DE RISCOS**
 
->[!NOTE] Nota
+>[!NOTE]
 > Primeira página - Capa
 
 ## **MAPA DE GERENCIAMENTO DE RISCOS**
@@ -11,7 +11,9 @@ Objeto/Solução
 
 Local, \<mês> de \<ano>
 
->[!NOTE] Nota
+---
+
+>[!NOTE]
 >Segunda página: Histórico de Versões
 
 Histórico de Revisões
@@ -23,8 +25,7 @@ Histórico de Revisões
 | XX/XX/20XX | X.X | Descrição | \<fase> | XXXXXXXXXXXX |
 | XX/XX/20XX | X.X | Descrição | \<fase> | XXXXXXXXXXXX |
 
-*Fase: Registro da fase do processo de contratação da solução de TI relacionada à criação/alteração 
-da Análise de Riscos:
+*Fase: Registro da fase do processo de contratação da solução de TI relacionada à criação/alteração da Análise de Riscos:
 
 * **PCTI** – Planejamento da Contratação;
 * **SFTI** – Seleção de Fornecedores;
@@ -176,46 +177,46 @@ A seguir são apresentados alguns riscos meramente exemplificativos.
 
 <table border="1" cellspacing= "0" cellpadding="5">
     <tr>
-        <td rowspan="9" style="font-weight: bold; text-align: center; vertical-align: top; background-color: #FFC229; font-color: black">Risco 1</td>
-        <td style="font-weight: bold; text-align: center; background-color: #FFD966;">Risco:</td>
+        <td rowspan="9" style="font-weight: bold; text-align: center; vertical-align: top;">Risco 1</td>
+        <td style="font-weight: bold; text-align: center;">Risco:</td>
         <td colspan="2" style="font-weight: bold; text-align: center;">Não aprovação dos artefatos do Planejamento da Contratação</td>
     </tr>
     <tr>
-        <td style="font-weight: bold; text-align: center; background-color: #FFD966;">Probabilidade:</td>
+        <td style="font-weight: bold; text-align: center;">Probabilidade:</td>
         <td colspan="2" style="text-align: center;">Baixa</td>
     </tr>
     <tr>
-        <td style="font-weight: bold; text-align: center; background-color: #FFD966;">Impacto:</td>
+        <td style="font-weight: bold; text-align: center;">Impacto:</td>
         <td colspan="2" style="text-align: center;">Alto</td>
     </tr>
     <tr>
-        <td style="font-weight: bold; text-align: center; background-color: #FFD966;">Dano:</td>
+        <td style="font-weight: bold; text-align: center;">Dano:</td>
         <td colspan="2" style="text-align: center;">Atraso no processo de contratação</td>
     </tr>
     <!-- Ações Preventivas -->
     <tr>
-        <td style="font-weight: bold; text-align: center; background-color: #FFD966;">ID</td>
-        <td style="font-weight: bold; text-align: center; background-color: #FFD966;">Ação Preventiva</td>
-        <td style="font-weight: bold; text-align: center; background-color: #FFD966;">Responsável</td>
+        <td style="font-weight: bold; text-align: center;">ID</td>
+        <td style="font-weight: bold; text-align: center;">Ação Preventiva</td>
+        <td style="font-weight: bold; text-align: center;">Responsável</td>
     </tr>
     <tr>
-        <td style="text-align: center; background-color: #FFF1CC;">1</td>
+        <td style="text-align: center;">1</td>
         <td style="text-align: center;">Reuniões com autoridades superiores para alinhamento e aprovação dos artefatos</td>
         <td style="text-align: center;">Equipe de Planejamento</td>
     </tr>
     <tr>
-        <td style="text-align: center; background-color: #FFF1CC;">2</td>
+        <td style="text-align: center;">2</td>
         <td style="text-align: center;">Estabelecer procedimentos para que a área administrativa acompanhe a elaboração dos artefatos, evitando envios e devoluções do processo.</td>
         <td style="text-align: center;">Equipe de Planejamento</td>
     </tr>
     <!-- Ações de Contingência -->
     <tr>
-        <td style="font-weight: bold; text-align: center; background-color: #FFD966;">ID</td>
-        <td style="font-weight: bold; text-align: center; background-color: #FFD966;">Ação de Contingência</td>
-        <td style="font-weight: bold; text-align: center; background-color: #FFD966;">Responsável</td>
+        <td style="font-weight: bold; text-align: center;">ID</td>
+        <td style="font-weight: bold; text-align: center;">Ação de Contingência</td>
+        <td style="font-weight: bold; text-align: center;">Responsável</td>
     </tr>
     <tr>
-        <td style="text-align: center; background-color: #FFF1CC;">1</td>
+        <td style="text-align: center;">1</td>
         <td style="text-align: center;">Reuniões com autoridades superiores para alinhamento e aprovação dos artefatos</td>
         <td style="text-align: center;">Equipe de Planejamento</td>
     </tr>
@@ -434,6 +435,8 @@ Integrante Requisitante
 
 \<Matrícula>
 
+---
+
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Integrante Técnico
@@ -443,6 +446,8 @@ Integrante Técnico
 \<Cargo>
 
 \<Matrícula>
+
+---
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -468,6 +473,8 @@ Fiscal Requisitante
 
 \<Matrícula>
 
+---
+
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Fiscal Técnico
@@ -478,6 +485,8 @@ Fiscal Técnico
 
 \<Matrícula>
 
+---
+
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Fiscal Administrativo
@@ -487,6 +496,8 @@ Fiscal Administrativo
 \<Cargo>
 
 \<Matrícula>
+
+---
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 

@@ -1,6 +1,6 @@
 # **ANEXO - C - ARTEFATO III – ESTUDO TÉCNICO PRELIMINAR**
 
->[!NOTE] Nota
+>[!NOTE]
 > Primeira página - Capa
 
 ## **ESTUDO TÉCNICO PRELIMINAR**
@@ -11,7 +11,7 @@ Objeto/Solução
 
 Teresina, 06 de agosto de 2025
 
->[!NOTE] Nota
+>[!NOTE]
 >Segunda página: Histórico de Versões
 
 Histórico de Versões
@@ -126,110 +126,110 @@ Como se observa, o Estudo Técnico Preliminar deverá conter os elementos necess
 
 #### **1.1. Definição e especificação das necessidades e requisitos**
 
->[!NOTE] Nota
+>[!NOTE]
 > Neste tópico a equipe de planejamento da contratação deve descrever a necessidade da contratação, considerado o problema a ser resolvido sob a perspectiva do interesse público. Nesse contexto, a descrição deve ser clara, concisa e relacionada ao caso concreto a ser resolvido.
 
 #### **1.2. Previsão da contratação no plano de contratações anual**
 
->[!NOTE] Nota
+>[!NOTE]
 > A equipe de planejamento da contratação deve demonstrar a previsão da contratação no plano de contratações anual (PCA), sempre que elaborado, de modo a indicar o seu alinhamento com o planejamento da Administração. Deve ser demonstrado que a necessidade está prevista no PCA ou que há iniciativas ou indicativos de que será incluído>.
 
 ### **2. Identificação dos requisitos da contratação**
 
 #### **2.1. Dos requisitos de negócio**
 
->[!NOTE] Nota
+>[!NOTE]
 > Descrever os requisitos de negócio, que independem de características tecnológicas e que definem as necessidades e os aspectos funcionais da Solução de TI.
 
 #### **2.2. Dos requisitos legais**
 
->[!NOTE] Nota
+>[!NOTE]
 > Definir as normas com as quais a Solução de TI deve estar em conformidade ex: Lei nº 13.709, de 14 de agosto de 2018 (Lei Geral de Proteção de Dados), Resoluções, Instruções Normativas, Normas ABNT etc.
 
 #### **2.3. Dos requisitos temporais**
 
->[!NOTE] Nota
+>[!NOTE]
 > Definir datas de entrega da Solução de TI, cronogramas ou prazos das principais atividades, entregas ou produtos.
 
 #### **2.4. Dos requisitos de segurança e privacidade**
 
->[!NOTE] Nota
+>[!NOTE]
 > Definir requisitos de segurança física e lógica, resoluções, ordens de serviço, diretrizes sobre segurança institucional ou qualquer outro normativo que se aplique a necessidade de contratação.
 
 #### **2.5. Dos requisitos sociais, ambientais, culturais e de sustentabilidade**
 
->[!NOTE] Nota
+>[!NOTE]
 > Requisitos que a Solução de TI deve atender para estar em conformidade com costumes, idiomas e ao meio ambiente, dentre outros. ex: Descarte de resíduos, idioma das aplicações, eficiência energética etc.
 
 #### **2.6. Dos requisitos de arquitetura tecnológica**
 
->[!NOTE] Nota
+>[!NOTE]
 > Descrever os requisitos de arquitetura tecnológica que devem ser levados em consideração para contratação da solução, tais como definições de hardware, software, padrões de interoperabilidade, linguagens de programação, interface, dentre outros.
 
 #### **2.7. Das necessidades tecnológicas**
 
->[!NOTE] Nota
+>[!NOTE]
 > Apresentar as necessidades tecnológicas indispensáveis para definição da solução a ser contratada.
->[!NOTE] Nota
+>[!NOTE]
 > As especificações técnicas, além de atenderem as necessidades de negócio podem ser validadas quanto a exequibilidade diretamente com fornecedores ou por meio da realização de Testes de Avaliação de Soluções.
 
 #### **2.8. Dos requisitos de projeto e implementação**
 
->[!NOTE] Nota
+>[!NOTE]
 >Estabelecer o processo de desenvolvimento da solução, técnicas, métodos, forma de gestão, de documentação, dentre outros; Ex: Diretrizes do PMBOK.
->[!NOTE] Nota
+>[!NOTE]
 >Podem ser estabelecidos requisitos para definição de cronograma das atividades de desenvolvimento da solução, definindo-se marcos para cada etapa do projeto.
 
 #### **2.9. Dos requisitos de implantação**
 
->[!NOTE] Nota
+>[!NOTE]
 >Definir o processo e requisitos de disponibilização da solução em ambiente de produção, dentre outros
 >
 >Ex: Migração de ambiente sem indisponibilidade de sistemas; Entrega da solução plenamente funcional; Prazo experimental; Definição de janela de monitoramento após a implantação (funcionamento provisório/ de horário para implantação etc).
 
 #### **2.10. Dos requisitos de garantia tecnológica**
 
->[!NOTE] Nota
+>[!NOTE]
 >Definir a necessidade de garantia do fabricante, prazos, meios de abertura de chamados técnicos, substituição de peças em caso de defeito, prazo de atendimento, requisitos de exclusão de dados de dispositivos de armazenamento, vinculando estes aos índices de medição de resultados e/ou níveis de serviço estipulados.
 
 #### **2.11. Dos requisitos de manutenção tecnológica**
 
->[!NOTE] Nota
+>[!NOTE]
 >Definir a necessidade de serviços de manutenção preventiva, corretiva, evolutiva e adaptativa, tanto dos elementos que independem de configuração tecnológica.
 
 #### **2.12. Dos requisitos de capacitação técnica**
 
->[!NOTE] Nota
+>[!NOTE]
 >Definir a necessidade de treinamento técnico para a equipe de TI sustentar a solução implantada, o ambiente tecnológico dos treinamentos a serem ministrados, os perfis dos instrutores, carga horária, material didático, ementa dentre outros.
 
 #### **2.13. Dos requisitos de experiência profissional**
 
->[!NOTE] Nota
+>[!NOTE]
 >Definir os perfis profissionais exigidos e as respectivas formas de comprovação dessa experiência, dentre outros da equipe que projetará, implementará e implantará a Solução de TI, observadas as diretrizes da lei 14.133/21.
 
 #### **2.14. Dos requisitos de formação da equipe**
 
->[!NOTE] Nota
+>[!NOTE]
 >Definição de cursos acadêmicos e técnicos, formas de comprovação dessa formação, dentre outros, da equipe que projetará, implementará e implantará a Solução de TI, observadas as diretrizes da lei 14.133/21.
 
 #### **2.15. Dos requisitos de metodologia de trabalho**
 
->[!NOTE] Nota
+>[!NOTE]
 >Definição de metodologia a ser utilizada, procedimentos, rotinas, níveis mínimos de serviço, horários de execução, tarefas de monitoramento, elaboração de relatórios, papéis e responsabilidades diretamente relacionados à execução de tarefas, entre outros. Pode ser aplicada ao desenvolvimento de softwares bem como a qualquer outro serviço de TI.
 
 #### **2.16. Dos requisitos de segurança dos ativos de tecnologia da informação**
 
->[!NOTE] Nota
+>[!NOTE]
 >Os requisitos devem observar as políticas de segurança orgânica e institucional do CNMP e do Órgão Ministerial, bem como boas práticas de segurança da informação aplicáveis a contratação.
 
 #### **2.17. Dos requisitos de previsão da exigência para realização de Prova de Conceito**
 
->[!NOTE] Nota
+>[!NOTE]
 >Caso aplicável, definir os elementos de prova de conceito a serem exigidos do licitante provisoriamente classificado em primeiro lugar para fins de comprovação de atendimento das especificações técnicas>.
 
 #### **2.18. Dos demais requisitos necessários e suficientes à escolha da solução de TI**
 
->[!NOTE] Nota
+>[!NOTE]
 >Ex: Requisitos de garantia de execução (quando aplicável)
 >
 >...Descrição do requisito
@@ -238,7 +238,7 @@ Como se observa, o Estudo Técnico Preliminar deverá conter os elementos necess
 >
 >...Descrição do requisito
 
->[!TIP] Observações
+>[!TIP]
 >Recomenda-se descrição precisa, suficiente e clara da solução. Por exemplo:
 
     a. Utilização de método de remuneração definidos na presente resolução do CNMP;
@@ -247,7 +247,7 @@ Como se observa, o Estudo Técnico Preliminar deverá conter os elementos necess
 
     c. Níveis mínimos de serviço (quando aplicável)
 
->[!IMPORTANT] Importante
+>[!IMPORTANT]
 >Nas contratações de software estabelecer padrões de Níveis Mínimos de Serviço, para servirem de referência à contratação de serviços de suporte nos casos em que estes sejam providos diretamente pelos fabricantes e para as soluções de TI mais disseminadas. (Acórdão 2.569/2018-TCU-Plenário).
 
 Recomenda-se atenção com a restrição a competividade.
@@ -278,7 +278,7 @@ Recomenda-se nas contratações de software a definição de soluções padroniz
 
 ### **3. Estimativa da demanda – quantidade de bens e serviços**
 
->[!IMPORTANT] Importante
+>[!IMPORTANT]
 >Registro do quantitativo de bens e serviços necessários para a composição da solução a ser contratada de forma detalhada, motivada e justificada, inclusive quanto à forma de cálculo.
 >
 >Métodos, metodologias e técnicas de estimativas poderão ser utilizados nesta atividade, que podem incluir análise de histórico de demandas, estatística, regressões, projeções etc.
@@ -311,7 +311,7 @@ Conforme inciso I do art. 10 da Resolução CNMP nº 283, de 05 de fevereiro de 
 
 Com base neste levantamento, cenários ou arranjos poderão ser formados para compor as soluções possíveis para atendimento da necessidade.
 
->[!TIP] Observações
+>[!TIP]
 >
 >a. Recomenda-se avaliar o grau de dependência da solução a ser contratada e planejar o planejamento de ações para minimizar impactos causados por eventual necessidade de substituir a solução a ser adquirida (Acórdão 2.569/2018 Plenário).
 >
@@ -347,7 +347,7 @@ Como auxílio, o quadro seguinte poderá ser utilizado para comparação de algu
 | 2 | <Valor da solução 2> |
 | N | <Valor da solução N> |
 
->[!TIP] Observações
+>[!TIP]
 >
 >Recomenda-se atenção aos seguintes métodos de estimativa de preço:
 >
@@ -377,7 +377,7 @@ Como auxílio, o quadro seguinte poderá ser utilizado para comparação de algu
 
 #### **4.4. Registro de soluções consideradas inviáveis**
 
->[!NOTE] Nota
+>[!NOTE]
 >Sugere-se o registro das soluções consideradas inviáveis no Estudo Técnico Preliminar (breve descrição e justificativa), dispensando-se a realização dos respectivos cálculos de custo total de propriedade.
 
 #### **4.5. Pesquisa inicial de preços de mercado**
@@ -409,7 +409,7 @@ Como auxílio, o quadro seguinte poderá ser utilizado para comparação de algu
 | 2 | <Descrição da solução 2> | <Valor da solução 2> |
 | N | <Descrição da solução N> | <Valor da solução N> |
 
->[!TIP] Observações
+>[!TIP]
 >
 >Recomenda-se atenção aos seguintes métodos de estimativa de preço:
 >

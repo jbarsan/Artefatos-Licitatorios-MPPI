@@ -1,8 +1,8 @@
 ﻿# **CONSELHO NACIONAL DO MINISTÉRIO PÚBLICO**
 
-### [**RESOLUÇÃO Nº 156, DE 13 DE DEZEMBRO DE 2016**](https://www.cnmp.mp.br/portal/images/Resolucoes/2021/Resoluo-n-156-2016-v3.pdf)
+## [**RESOLUÇÃO Nº 156, DE 13 DE DEZEMBRO DE 2016**](https://www.cnmp.mp.br/portal/images/Resolucoes/2021/Resoluo-n-156-2016-v3.pdf)
 
-(Publicada no Diário Eletrônico do CNMP, Caderno Processual, de 14/02/2017, págs. 1/11)
+* (Publicada no Diário Eletrônico do CNMP, Caderno Processual, de 14/02/2017, págs. 1/11)
 
 Institui a Política de Segurança Institucional e o Sistema Nacional de Segurança Institucional do Ministério Público, e dá outras providências.
 
@@ -22,7 +22,7 @@ e
 
 Considerando que, em face da decisão proferida no Procedimento de Controle Administrativo n.º 1.00209/2015-49, a atividade desempenhada por todos os membros do Ministério Público enquadra-se como atividade de risco inerente; RESOLVE:
 
-#### **CAPÍTULO I - DISPOSIÇÕES GERAIS**
+### **CAPÍTULO I - DISPOSIÇÕES GERAIS**
 
 Art. 1º Ficam instituídas a Política de Segurança Institucional do Ministério Público – PSI/MP e o Sistema Nacional de Segurança Institucional do Ministério Público – SNS/MP com a finalidade de integrar as ações de planejamento e de execução das atividades de segurança institucional no âmbito do Ministério Público e garantir o pleno exercício das suas atividades.
 
@@ -30,9 +30,9 @@ Art. 1º Ficam instituídas a Política de Segurança Institucional do Ministér
 
 §2º O SNS/MP será coordenado pelo CNMP, através da Comissão de Preservação da Autonomia (CPAMP), e contará com a participação dos ramos do Ministério Público da União e pelos Ministérios Públicos dos Estados, tendo por objetivo articular a proteção integral de cada unidade do Ministério Público e de seus respectivos integrantes, ativos e inativos, inclusive dos familiares destes quando em risco decorrente do exercício funcional.
 
-#### **CAPÍTULO II - DA ATIVIDADE DE SEGURANÇA INSTITUCIONAL**
+### **CAPÍTULO II - DA ATIVIDADE DE SEGURANÇA INSTITUCIONAL**
 
-##### **Seção I - Dos Princípios**
+#### **Seção I - Dos Princípios**
 
 Art. 2º A atividade de segurança institucional será desenvolvida no âmbito do Ministério Público com a observância, entre outros, dos seguintes princípios:
 

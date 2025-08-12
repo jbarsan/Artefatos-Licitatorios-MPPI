@@ -1,10 +1,10 @@
-### **[DECRETO Nº 21.872, DE 07 DE MARÇO DE 2023](https://drive.google.com/file/d/1t64T6PVu0Ye-evD4FcVV9VMNhq3BE-pV/view)**
+# **[DECRETO Nº 21.872, DE 07 DE MARÇO DE 2023](https://drive.google.com/file/d/1t64T6PVu0Ye-evD4FcVV9VMNhq3BE-pV/view)**
 
-Regulamenta a [Lei Federal nº 14.133, de 1º de Abril de 2021](./LEI_14133_2021_LLCA.md) no âmbito do Poder Executivo Estadual, para tratar de governança, fase preparatória e procedimental das licitações e contratações diretas para a aquisição de bens, contratações de serviços, obras e serviços de engenharia e sobre bens de luxo.
+Regulamenta a [Lei Federal nº 14.133, de 1º de Abril de 2021](./LEI_14133_2021_LLCA.md) no âmbito do Poder Executivo Estadual, ***para tratar de governança, fase preparatória e procedimental das licitações e contratações diretas para a aquisição de bens, contratações de serviços, obras e serviços de engenharia e sobre bens de luxo***.
 
 O GOVERNADOR DO ESTADO DO PIAUI, no uso das atribuições que lhe confere o inciso XIII, do art. 102, da [Constituição Estadual](https://www.al.pi.leg.br/ouvidoria/Ouvidoria/20231022131409/constituicao-estadual_pi_ec_054-2019_com_ec_55-61.pdf), e o art. 65, IV, da [Lei Estadual nº 7.884, de 08 de dezembro de 2022](https://drive.google.com/file/d/18-CEaZp7ClOQYwzUBZU5pzVlv4A9jNKQ/view), e tendo em vista o disposto na [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md), DECRETA:
 
-#### **CAPÍTULO I - DISPOSIÇÕES PRELIMINARES**
+## **CAPÍTULO I - DISPOSIÇÕES PRELIMINARES**
 
 Art. 1º Este Decreto regulamenta a [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md), dispondo acerca de governança, fase preparatória e procedimental das licitações e contratações diretas para a aquisição de bens, contratações de serviços, obras e serviços de engenharia e sobre bens de luxo, no âmbito do Poder Executivo Estadual, compreendendo os órgãos da Administração Direta, os fundos especiais, as fundações e as autarquias.
 
@@ -14,9 +14,9 @@ Art. 1º Este Decreto regulamenta a [Lei Federal nº 14.133, de 1º de abril de 
 
 § 3º Na hipótese de que trata o § 1º deste artigo deste artigo, poderão ser utilizados sistemas próprios ou outros sistemas disponíveis no mercado, desde que estejam integrados à Plataforma +Brasil ou outra que vier a ser instituída pela União.
 
-#### **CAPÍTULO II - Da Governança das Contratações Públicas**
+## **CAPÍTULO II - Da Governança das Contratações Públicas**
 
-##### **Seção I - Disposições Preliminares**
+### **Seção I - Disposições Preliminares**
 
 Art. 2º Este Capítulo dispõe sobre a governança das contratações públicas no âmbito da Administração Pública estadual direta, autárquica e fundacional.
 
@@ -24,73 +24,49 @@ Art. 3º A alta administração dos órgãos e entidades de que trata o caput de
 
 Art. 4º Para os efeitos do disposto neste Decreto, considera-se:
 
-I - alta administração: gestores que integram o nível executivo do órgão ou da entidade, com poderes para estabelecer as políticas, os objetivos e conduzir a implementação da estratégia para cumprir a missão da organização;
+* I - **alta administração**: gestores que integram o nível executivo do órgão ou da entidade, com poderes para estabelecer as políticas, os objetivos e conduzir a implementação da estratégia para cumprir a missão da organização;
+* II - **estrutura**: maneira como estão divididas as responsabilidades e a autoridade para a tomada de decisões em uma organização;
+* III - **governança das contratações públicas**: conjunto de mecanismos de liderança, estratégia e controle postos em prática para avaliar, direcionar e monitorar a atuação da gestão das contratações públicas, visando a agregar valor ao negócio do órgão ou entidade, e contribuir para o alcance de seus objetivos, com riscos aceitáveis;
+* IV - **metaprocesso de contratação pública**: rito integrado pelas fases de planejamento da contratação, seleção do fornecedor e gestão do contrato, e que serve como padrão para que os processos específicos de contratação sejam realizados;
+* V - **negócio de impacto**: empreendimento com o objetivo de gerar impacto socioambiental e resultado financeiro positivo de forma sustentável, nos termos do ***Decreto Federal nº 9.977, de 19 de agosto de 2019*** (Revogado pelo [Decreto nº 11.646, de 2023](https://www.planalto.gov.br/ccivil_03/_Ato2023-2026/2023/Decreto/D11646.htm)), ou o que vier a substituí-lo;
+* VI - **Plano Anual de Contratações**: instrumento de governança, elaborado anualmente pelos órgãos e entidades, contendo todas as contratações que se pretende realizar ou prorrogar no exercício subsequente, com o objetivo de racionalizar as contratações sob sua competência, garantir o alinhamento com o seu planejamento estratégico e subsidiar a elaboração da respectiva lei orçamentária do ente federativo.
+* VII - **risco**: evento futuro e identificado, ao qual é possível associar uma probabilidade de ocorrência e um grau de impacto, que afetará, positiva ou negativamente, os objetivos a serem atingidos, caso ocorra.
 
-II - estrutura: maneira como estão divididas as responsabilidades e a autoridade para a tomada de decisões em uma organização;
-
-III - governança das contratações públicas: conjunto de mecanismos de liderança, estratégia e controle postos em prática para avaliar, direcionar e monitorar a atuação da gestão das contratações públicas, visando a agregar valor ao negócio do órgão ou entidade, e contribuir para o alcance de seus objetivos, com riscos aceitáveis;
-
-IV - metaprocesso de contratação pública: rito integrado pelas fases de planejamento da contratação, seleção do fornecedor e gestão do contrato, e que serve como padrão para que os processos específicos de contratação sejam realizados;
-
-V - negócio de impacto: empreendimento com o objetivo de gerar impacto socioambiental e resultado financeiro positivo de forma sustentável, nos termos do ***Decreto Federal nº 9.977, de 19 de agosto de 2019*** (Revogado pelo [Decreto nº 11.646, de 2023](https://www.planalto.gov.br/ccivil_03/_Ato2023-2026/2023/Decreto/D11646.htm)), ou o que vier a substituí-lo;
-
-VI - Plano Anual de Contratações: instrumento de governança, elaborado anualmente pelos órgãos e entidades, contendo todas as contratações que se pretende realizar ou prorrogar no exercício subsequente, com o objetivo de racionalizar as contratações sob sua competência, garantir o alinhamento com o seu planejamento estratégico e subsidiar a elaboração da respectiva lei orçamentária do ente federativo.
-
-VII - risco: evento futuro e identificado, ao qual é possível associar uma probabilidade de ocorrência e um grau de impacto, que afetará, positiva ou negativamente, os objetivos a serem atingidos, caso ocorra.
-
-##### **Seção II - Fundamentos**
+### **Seção II - Fundamentos**
 
 Art. 5º Os objetivos das contratações públicas são:
 
-I - assegurar a seleção da proposta apta a gerar o resultado de contratação mais vantajoso para a Administração Pública, inclusive no que se refere ao ciclo de vida do objeto;
-
-II - assegurar tratamento isonômico entre os licitantes, bem como a justa competição;
-
-III - evitar contratações com sobrepreço ou com preços manifestamente inexequíveis e superfaturamento na execução dos contratos;
-
-IV - incentivar a inovação e o desenvolvimento nacional sustentável.
+* I - assegurar a seleção da proposta apta a gerar o resultado de contratação mais vantajoso para a Administração Pública, inclusive no que se refere ao ciclo de vida do objeto;
+* II - assegurar tratamento isonômico entre os licitantes, bem como a justa competição;
+* III - evitar contratações com sobrepreço ou com preços manifestamente inexequíveis e superfaturamento na execução dos contratos;
+* IV - incentivar a inovação e o desenvolvimento nacional sustentável.
 
 Art. 6º A governança nas contratações públicas tem por função assegurar o alcance dos objetivos de que trata o art. 5º
 
 Art. 7º São diretrizes da governança nas contratações públicas:
 
-I - promoção do desenvolvimento nacional sustentável;
+* I - promoção do desenvolvimento nacional sustentável;
+* II - promoção do tratamento diferenciado e simplificado à microempresa e à empresa de pequeno porte;
+* III - promoção de ambiente negocial íntegro e confiável;
+* IV - alinhamento das contratações públicas aos planejamentos estratégicos dos órgãos e entidades, bem como às leis orçamentárias;
+* V - fomento à competitividade nos certames, diminuindo a barreira de entrada a fornecedores em potencial;
+* VI - aprimoramento da interação com o mercado fornecedor, como forma de se promover a inovação e de se prospectarem soluções que maximizem a efetividade da contratação;
+* VII - desburocratização, incentivo à participação social, uso de linguagem simples e de tecnologia;
+* VIII - transparência processual;
+* IX - padronização e centralização de procedimentos, sempre que pertinente.
 
-II - promoção do tratamento diferenciado e simplificado à microempresa e à empresa de pequeno porte;
-
-III - promoção de ambiente negocial íntegro e confiável;
-
-IV - alinhamento das contratações públicas aos planejamentos estratégicos dos órgãos e entidades, bem como às leis orçamentárias;
-
-V - fomento à competitividade nos certames, diminuindo a barreira de entrada a fornecedores em potencial;
-
-VI - aprimoramento da interação com o mercado fornecedor, como forma de se promover a inovação e de se prospectarem soluções que maximizem a efetividade da contratação;
-
-VII - desburocratização, incentivo à participação social, uso de linguagem simples e de tecnologia;
-
-VIII - transparência processual;
-
-IX - padronização e centralização de procedimentos, sempre que pertinente.
-
-##### **Seção III - Instrumentos**
+### **Seção III - Instrumentos**
 
 Art. 8º São instrumentos de governança nas contratações públicas, dentre outros:
 
-I - Plano Diretor de Logística Sustentável - PLS;
-
-II - Plano Anual de Contratações;
-
-III - Política de gestão de estoques;
-
-IV - Gestão por competências;
-
-V - Política de interação com o mercado;
-
-VI - Gestão de riscos e controle preventivo;
-
-VII - Diretrizes para a gestão dos contratos; e
-
-VIII - Definição de estrutura da área de contratações públicas.
+* I - Plano Diretor de Logística Sustentável - PLS;
+* II - Plano Anual de Contratações;
+* III - Política de gestão de estoques;
+* IV - Gestão por competências;
+* V - Política de interação com o mercado;
+* VI - Gestão de riscos e controle preventivo;
+* VII - Diretrizes para a gestão dos contratos; e
+* VIII - Definição de estrutura da área de contratações públicas.
 
 Parágrafo único. Os instrumentos de governança de que trata este artigo devem estar alinhados entre si.
 
@@ -100,37 +76,28 @@ Parágrafo único. O Plano Anual de Contratações deverá estar alinhado ao pla
 
 Art. 10. Compete ao órgão ou entidade, quanto à gestão de estoques do processo de contratações públicas:
 
-I - assegurar a minimização de perdas, deterioração e obsolescência, realizando, sempre que possível, a alienação, a cessão, a transferência e a destinação final ambientalmente adequada dos bens móveis classificados como inservíveis;
-
-II - garantir os níveis de estoque mínimos para que não haja ruptura no suprimento, adotando-se, sempre que possível, soluções de suprimento just-in-time;
-
-III - considerar, quando da elaboração dos estudos técnicos preliminares, os custos de gestão de estoques como informação gerencial na definição do modelo de fornecimento mais efetivo.
+* I - assegurar a minimização de perdas, deterioração e obsolescência, realizando, sempre que possível, a alienação, a cessão, a transferência e a destinação final ambientalmente adequada dos bens móveis classificados como inservíveis;
+* II - garantir os níveis de estoque mínimos para que não haja ruptura no suprimento, adotando-se, sempre que possível, soluções de suprimento just-in-time;
+* III - considerar, quando da elaboração dos estudos técnicos preliminares, os custos de gestão de estoques como informação gerencial na definição do modelo de fornecimento mais efetivo.
 
 Art. 11. Compete ao órgão ou entidade, quanto à gestão por competências do processo de contratações públicas:
 
-I - assegurar a aderência às normas, regulamentações e padrões estabelecidos pela Secretaria de Administração, quanto às competências para os agentes públicos que desempenham papéis ligados à governança, à gestão e à fiscalização das contratações;
-
-II - garantir que a escolha dos ocupantes de funções-chave, funções de confiança ou cargos em comissão, na área de contratações, seja fundamentada nos perfis de competências definidos conforme o inciso I, observando os princípios da transparência, da eficiência e do interesse público, bem como os requisitos definidos no art. 7º da [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md); e
-
-III - elencar ações de desenvolvimento dos dirigentes e demais agentes que atuam no processo de contratação, contemplando aspectos técnicos, gerenciais e comportamentais desejáveis ao bom desempenho de suas funções.
+* I - assegurar a aderência às normas, regulamentações e padrões estabelecidos pela Secretaria de Administração, quanto às competências para os agentes públicos que desempenham papéis ligados à governança, à gestão e à fiscalização das contratações;
+* II - garantir que a escolha dos ocupantes de funções-chave, funções de confiança ou cargos em comissão, na área de contratações, seja fundamentada nos perfis de competências definidos conforme o inciso I, observando os princípios da transparência, da eficiência e do interesse público, bem como os requisitos definidos no art. 7º da [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md); e
+* III - elencar ações de desenvolvimento dos dirigentes e demais agentes que atuam no processo de contratação, contemplando aspectos técnicos, gerenciais e comportamentais desejáveis ao bom desempenho de suas funções.
 
 Art. 12. Compete ao órgão ou entidade, quanto à interação com o mercado fornecedor e com associações empresariais:
 
-I - promover regular e transparente diálogo quando da confecção dos estudos técnicos preliminares, de forma a se obterem insumos para a otimização das especificações dos objetos a serem contratados, dos parâmetros de mercado para melhor técnica e custo das contratações, e das obrigações da futura contratada, conforme dispõe o art. 21 da [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md).
-
-II - observar a devida transparência acerca dos eventos a serem conduzidos na fase da seleção do fornecedor, respeitados os princípios da isonomia e da publicidade; e
-
-III - estabelecer exigências sempre proporcionais ao objeto a ser contratado, para assegurar que as oportunidades sejam projetadas de modo a incentivar a ampla participação de concorrentes potenciais, incluindo novos entrantes e pequenas e médias empresas.
+* I - promover regular e transparente diálogo quando da confecção dos estudos técnicos preliminares, de forma a se obterem insumos para a otimização das especificações dos objetos a serem contratados, dos parâmetros de mercado para melhor técnica e custo das contratações, e das obrigações da futura contratada, conforme dispõe o art. 21 da [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md).
+* II - observar a devida transparência acerca dos eventos a serem conduzidos na fase da seleção do fornecedor, respeitados os princípios da isonomia e da publicidade; e
+* III - estabelecer exigências sempre proporcionais ao objeto a ser contratado, para assegurar que as oportunidades sejam projetadas de modo a incentivar a ampla participação de concorrentes potenciais, incluindo novos entrantes e pequenas e médias empresas.
 
 Art. 13. Compete ao órgão ou entidade, quanto à gestão de riscos e ao controle preventivo do processo de contratação pública:
 
-I - estabelecer diretrizes para a gestão de riscos e o controle preventivo que contemplem os níveis do metaprocesso de contratações e dos processos específicos de contratação;
-
-II - realizar a gestão de riscos e o controle preventivo do metaprocesso de contratações e dos processos específicos de contratação, quando couber, conforme as diretrizes de que trata o inciso I;
-
-III - incluir nas atividades de auditoria interna a avaliação da governança, da gestão de riscos e do controle preventivo nas contratações; e
-
-IV - assegurar que os responsáveis pela tomada de decisão, em todos os níveis do órgão ou da entidade, tenham acesso tempestivo às informações relativas aos riscos aos quais está exposto o processo de contratações, inclusive para determinar questões relativas à delegação de competência, se for o caso.
+* I - estabelecer diretrizes para a gestão de riscos e o controle preventivo que contemplem os níveis do metaprocesso de contratações e dos processos específicos de contratação;
+* II - realizar a gestão de riscos e o controle preventivo do metaprocesso de contratações e dos processos específicos de contratação, quando couber, conforme as diretrizes de que trata o inciso I;
+* III - incluir nas atividades de auditoria interna a avaliação da governança, da gestão de riscos e do controle preventivo nas contratações; e
+* IV - assegurar que os responsáveis pela tomada de decisão, em todos os níveis do órgão ou da entidade, tenham acesso tempestivo às informações relativas aos riscos aos quais está exposto o processo de contratações, inclusive para determinar questões relativas à delegação de competência, se for o caso.
 
 § 1º A gestão de riscos e o controle preventivo deverão racionalizar o trabalho administrativo ao longo do processo de contratação, estabelecendo-se controles proporcionais aos riscos e suprimindo-se rotinas puramente formais.
 
@@ -138,71 +105,48 @@ IV - assegurar que os responsáveis pela tomada de decisão, em todos os níveis
 
 Art. 14. Compete ao órgão ou entidade, quanto à gestão dos contratos:
 
-I - avaliar a atuação do contratado no cumprimento das obrigações assumidas, baseando-se em indicadores objetivamente definidos, sempre que aplicável;
-
-II - introduzir rotina aos processos de pagamentos dos contratos, incluindo as ordens cronológicas de pagamento, juntamente com sua memória de cálculo, relatório circunstanciado, proposições de glosa e ordem bancária;
-
-III - estabelecer diretrizes para a nomeação de gestores e fiscais de contrato, com base no perfil de competências previsto no art. 11, e evitando a sobrecarga de atribuições;
-
-IV - instaurar processo sancionatório decorrente de contratações públicas, observando-se, em especial, critérios objetivos e isonômicos para a determinação da dosimetria das penas, com fulcro nas disposições legais e contratuais pertinentes;
-
-V - acompanhar a implantação de programa de integridade pelo contratado, quando exigido; e
-
-VI - constituir, com base no relatório final de que trata a alínea "d" do inciso VI do § 3º do art. 174 da [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md), base de dados de lições aprendidas durante a execução contratual, como forma de aprimoramento das atividades da Administração.
+* I - avaliar a atuação do contratado no cumprimento das obrigações assumidas, baseando-se em indicadores objetivamente definidos, sempre que aplicável;
+* II - introduzir rotina aos processos de pagamentos dos contratos, incluindo as ordens cronológicas de pagamento, juntamente com sua memória de cálculo, relatório circunstanciado, proposições de glosa e ordem bancária;
+* III - estabelecer diretrizes para a nomeação de gestores e fiscais de contrato, com base no perfil de competências previsto no art. 11, e evitando a sobrecarga de atribuições;
+* IV - instaurar processo sancionatório decorrente de contratações públicas, observando-se, em especial, critérios objetivos e isonômicos para a determinação da dosimetria das penas, com fulcro nas disposições legais e contratuais pertinentes;
+* V - acompanhar a implantação de programa de integridade pelo contratado, quando exigido; e
+* VI - constituir, com base no relatório final de que trata a alínea "d" do inciso VI do § 3º do art. 174 da [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md), base de dados de lições aprendidas durante a execução contratual, como forma de aprimoramento das atividades da Administração.
 
 Art. 15. Compete ao órgão ou entidade, quanto à estrutura da área de contratações públicas:
 
-I - proceder, periodicamente, à avaliação quantitativa e qualitativa do pessoal, de forma a delimitar as necessidades de recursos materiais e humanos;
+* I - proceder, periodicamente, à avaliação quantitativa e qualitativa do pessoal, de forma a delimitar as necessidades de recursos materiais e humanos;
+* II - estabelecer em normativos internos:
 
-II - estabelecer em normativos internos:
+  * a) competências, atribuições e responsabilidades dos dirigentes, incluindo a responsabilidade pelo estabelecimento de políticas e procedimentos de controles internos necessários para mitigar os riscos;
+  * b) competências, atribuições e responsabilidades dos demais agentes que atuam no processo de contratações; e
+  * c) política de delegação de competência para autorização de contratações, se pertinente.
 
-a) competências, atribuições e responsabilidades dos dirigentes, incluindo a responsabilidade pelo estabelecimento de políticas e procedimentos de controles internos necessários para mitigar os riscos;
-
-b) competências, atribuições e responsabilidades dos demais agentes que atuam no processo de contratações;
-
-e
-
-c) política de delegação de competência para autorização de contratações, se pertinente.
-
-III - avaliar a necessidade de atribuir a um comitê, integrado por representantes dos diversos setores da organização, a responsabilidade por auxiliar a alta administração nas decisões relativas às contratações;
-
-IV - zelar pela devida segregação de funções, vedada a designação do mesmo agente público para atuação simultânea nas funções mais suscetíveis a riscos;
+* III - avaliar a necessidade de atribuir a um comitê, integrado por representantes dos diversos setores da organização, a responsabilidade por auxiliar a alta administração nas decisões relativas às contratações;
+* IV - zelar pela devida segregação de funções, vedada a designação do mesmo agente público para atuação simultânea nas funções mais suscetíveis a riscos;
 
 Art. 16. A alta administração dos órgãos e entidades deverá implementar e manter mecanismos e instrumentos de governança das contratações públicas estabelecendo, no âmbito de sua competência, no mínimo:
 
-I - formas de acompanhamento de resultados, com indicadores e metas para a gestão dos processos de contratações;
+* I - formas de acompanhamento de resultados, com indicadores e metas para a gestão dos processos de contratações;
+* II - iniciativas que promovam soluções para melhoria do desempenho institucional, com apoio, quando possível, dos resultados da gestão de riscos e do controle preventivo; e
+* III - instrumentos de promoção do processo decisório orientado por evidências, pela conformidade legal, pela qualidade regulatória, pela desburocratização e pelo apoio à participação da sociedade.
 
-II - iniciativas que promovam soluções para melhoria do desempenho institucional, com apoio, quando possível, dos resultados da gestão de riscos e do controle preventivo; e
+## **CAPÍTULO III - Da Fase Preparatória da Licitação e da Contratação Direta**
 
-III - instrumentos de promoção do processo decisório orientado por evidências, pela conformidade legal, pela qualidade regulatória, pela desburocratização e pelo apoio à participação da sociedade.
-
-#### **CAPÍTULO III - Da Fase Preparatória da Licitação e da Contratação Direta**
-
-##### **Seção I - Disposições Gerais**
+### **Seção I - Disposições Gerais**
 
 Art. 17. A fase preparatória dos processos licitatórios e das contratações caracteriza-se pelo planejamento e consiste nas seguintes etapas:
 
-I - formalização da demanda pelo setor requisitante e comprovação de sua previsão no Plano Anual de Contratações, quando houver;
-
-II - elaboração do estudo técnico preliminar - ETP, conforme o caso;
-
-III - elaboração do mapa de riscos e matriz de riscos, conforme o caso;
-
-IV - elaboração de anteprojeto de arquitetura e engenharia, conforme o caso;
-
-V - elaboração do termo de referência - TR ou projeto básico - PB, conforme o caso;
-
-VI - confecção do orçamento estimado baseado em pesquisa de preços;
-
-VII - previsão dos recursos orçamentários necessários, com a indicação das rubricas, exceto na hipótese de licitação para registro de preços;
-
-VIII - autorização de abertura da licitação ou da contratação direta;
-
-IX - designação do agente de contratação, da equipe de apoio ou, se for o caso, da comissão de contratação;
-
-X - confecção do instrumento convocatório e respectivos anexos, se for o caso;
-
-XI - confecção da minuta do termo do contrato ou instrumento equivalente e minuta da ata de registro de preços, quando for o caso.
+* I - formalização da demanda pelo setor requisitante e comprovação de sua previsão no Plano Anual de Contratações, quando houver;
+* II - elaboração do estudo técnico preliminar - ETP, conforme o caso;
+* III - elaboração do mapa de riscos e matriz de riscos, conforme o caso;
+* IV - elaboração de anteprojeto de arquitetura e engenharia, conforme o caso;
+* V - elaboração do termo de referência - TR ou projeto básico - PB, conforme o caso;
+* VI - confecção do orçamento estimado baseado em pesquisa de preços;
+* VII - previsão dos recursos orçamentários necessários, com a indicação das rubricas, exceto na hipótese de licitação para registro de preços;
+* VIII - autorização de abertura da licitação ou da contratação direta;
+* IX - designação do agente de contratação, da equipe de apoio ou, se for o caso, da comissão de contratação;
+* X - confecção do instrumento convocatório e respectivos anexos, se for o caso;
+* XI - confecção da minuta do termo do contrato ou instrumento equivalente e minuta da ata de registro de preços, quando for o caso.
 
 Parágrafo único. Os documentos que compõem a fase preparatória serão autuados como parte integrante dos processos administrativos de contratação e serão incluídos no sistema indicado pela Secretaria de Administração para o devido processamento das licitações e contratações diretas.
 
@@ -220,35 +164,28 @@ Art. 19. A equipe de planejamento da contratação é o conjunto de servidores, 
 
 § 5º No caso de se tratar de bens ou serviços de informática e telecomunicação, deverá ser designado, preferencialmente, servidor da Área de TI do órgão ou entidade requisitante para compor a equipe de planejamento da contratação ou auxiliar a área técnica competente na confecção dos documentos citados no art. 20.
 
-##### **Seção II - Da Formalização da Demanda**
+### **Seção II - Da Formalização da Demanda**
 
 Art. 20. A formalização da demanda será materializada em documento proveniente do setor requisitante da licitação ou da contratação direta, que evidencie e detalhe a necessidade administrativa do objeto a ser contratado, devendo contemplar:
 
-I - a descrição da necessidade que se pretende atender por meio da aquisição de bem, serviço ou obra;
-
-II - a estimativa de quantitativo do objeto a ser contratado, justificado conforme o Plano Anual de Contratações, se houver, ou no quantitativo contratado em exercícios anteriores, quando for o caso;
-
-III - a justificativa simplificada da necessidade da contratação, inclusive com demonstração da sua previsão no Plano Anual de Contratações, quando houver; e
-
-IV - a previsão de data em que deve ser iniciada a prestação dos serviços, a execução da obra ou realizado o fornecimento dos bens.
+* I - a descrição da necessidade que se pretende atender por meio da aquisição de bem, serviço ou obra;
+* II - a estimativa de quantitativo do objeto a ser contratado, justificado conforme o Plano Anual de Contratações, se houver, ou no quantitativo contratado em exercícios anteriores, quando for o caso;
+* III - a justificativa simplificada da necessidade da contratação, inclusive com demonstração da sua previsão no Plano Anual de Contratações, quando houver; e
+* IV - a previsão de data em que deve ser iniciada a prestação dos serviços, a execução da obra ou realizado o fornecimento dos bens.
 
 Parágrafo único. Nas contratações de bens ou serviços de informática e telecomunicação, a Agência de Tecnologia da Informação do Estado do Piauí - ATI expedirá normas complementares relativas à exigência de outras informações necessárias a serem incluídas no documento de formalização da demanda, tais como, o problema ou a exploração de uma oportunidade; as necessidades corporativas ou objetivos estratégicos do órgão ou entidade aos quais a demanda está alinhada; orçamento previsto; prazos, metas e resultados esperados; premissas, restrições e riscos, quando couber.
 
-##### **Seção III - Da Elaboração Dos Estudos Técnicos Preliminares**
+### **Seção III - Da Elaboração Dos Estudos Técnicos Preliminares**
 
 Art. 21. O estudo técnico preliminar - ETP é o documento que evidencia o problema a ser resolvido para satisfação do interesse público, bem como a melhor solução dentre as possíveis, servindo de base à elaboração do termo de referência e dos demais documentos técnicos pertinentes, caso se conclua pela viabilidade da contratação.
 
 Art. 22. Para fins do disposto neste Decreto, considera-se:
 
-I - contratações correlatas: aquelas cujos objetos sejam similares ou correspondentes entre si;
-
-II - contratações interdependentes: aquelas que, por guardarem relação direta na execução do objeto, devem ser contratadas juntamente para a plena satisfação da necessidade da Administração;
-
-III - requisitante: agente ou unidade responsável por identificar a necessidade de contratação de bens, serviços e obras e requerê-la;
-
-IV - área técnica: agente ou unidade com conhecimento técnico-operacional sobre o objeto demandado, responsável por analisar o documento de formalização de demanda, e promover a agregação de valor e a compilação de necessidades de mesma natureza; e
-
-V - equipe de planejamento da contratação: conjunto de agentes que reúnem as competências necessárias à completa execução das etapas de planejamento da contratação, o que inclui conhecimentos sobre aspectos técnicos-operacionais e de uso do objeto, licitações e contratos, dentre outros.
+* I - contratações correlatas: aquelas cujos objetos sejam similares ou correspondentes entre si;
+* II - contratações interdependentes: aquelas que, por guardarem relação direta na execução do objeto, devem ser contratadas juntamente para a plena satisfação da necessidade da Administração;
+* III - requisitante: agente ou unidade responsável por identificar a necessidade de contratação de bens, serviços e obras e requerê-la;
+* IV - área técnica: agente ou unidade com conhecimento técnico-operacional sobre o objeto demandado, responsável por analisar o documento de formalização de demanda, e promover a agregação de valor e a compilação de necessidades de mesma natureza; e
+* V - equipe de planejamento da contratação: conjunto de agentes que reúnem as competências necessárias à completa execução das etapas de planejamento da contratação, o que inclui conhecimentos sobre aspectos técnicos-operacionais e de uso do objeto, licitações e contratos, dentre outros.
 
 § 1º Os papéis de requisitante e de área técnica poderão ser exercidos pelo mesmo agente público ou unidade, desde que, no exercício dessas atribuições, detenha conhecimento técnico-operacional sobre o objeto demandado, observado o disposto no inciso IV do caput.
 
@@ -256,39 +193,25 @@ V - equipe de planejamento da contratação: conjunto de agentes que reúnem as 
 
 Art. 23. O estudo técnico preliminar - ETP conterá os seguintes elementos:
 
-I - descrição da necessidade da contratação, considerado o problema a ser resolvido sob a perspectiva do interesse público;
+* I - descrição da necessidade da contratação, considerado o problema a ser resolvido sob a perspectiva do interesse público;
+* II - descrição dos requisitos da contratação necessários e suficientes à escolha da solução, prevendo critérios e práticas de sustentabilidade, observadas as leis ou regulamentações específicas, bem como padrões mínimos de qualidade e desempenho;
+* III - levantamento de mercado, que consiste na análise das alternativas possíveis, e justificativa técnica e econômica da escolha do tipo de solução a contratar, podendo, entre outras opções:
 
-II - descrição dos requisitos da contratação necessários e suficientes à escolha da solução, prevendo critérios e práticas de sustentabilidade, observadas as leis ou regulamentações específicas, bem como padrões mínimos de qualidade e desempenho;
+  * a) ser consideradas contratações similares feitas por outros órgãos e entidades públicas, bem como por organizações privadas, no contexto nacional ou internacional, com objetivo de identificar a existência de novas metodologias, tecnologias ou inovações que melhor atendam às necessidades da Administração;
+  * b) ser realizada audiência e/ou consulta pública, preferencialmente na forma eletrônica, para coleta de contribuições;
+  * c) em caso de possibilidade de compra, locação de bens ou do acesso a bens, ser avaliados os custos e os benefícios de cada opção para escolha da alternativa mais vantajosa, prospectando-se arranjos inovadores em sede de economia circular; e
+  * d) ser consideradas outras opções logísticas menos onerosas à Administração, tais como chamamentos públicos de doação e permutas.
 
-III - levantamento de mercado, que consiste na análise das alternativas possíveis, e justificativa técnica e econômica da escolha do tipo de solução a contratar, podendo, entre outras opções:
-
-a) ser consideradas contratações similares feitas por outros órgãos e entidades públicas, bem como por organizações privadas, no contexto nacional ou internacional, com objetivo de identificar a existência de novas metodologias, tecnologias ou inovações que melhor atendam às necessidades da Administração;
-
-b) ser realizada audiência e/ou consulta pública, preferencialmente na forma eletrônica, para coleta de contribuições;
-
-c) em caso de possibilidade de compra, locação de bens ou do acesso a bens, ser avaliados os custos e os benefícios de cada opção para escolha da alternativa mais vantajosa, prospectando-se arranjos inovadores em sede de economia circular; e
-
-d) ser consideradas outras opções logísticas menos onerosas à Administração, tais como chamamentos públicos de doação e permutas.
-
-IV - descrição da solução como um todo, inclusive das exigências relacionadas à manutenção e à assistência técnica, quando for o caso;
-
-V - estimativa das quantidades a serem contratadas, acompanhada das memórias de cálculo e dos documentos que lhe dão suporte, considerando a interdependência com outras contratações, de modo a possibilitar economia de escala;
-
-VI - estimativa do valor da contratação, acompanhada dos preços unitários referenciais, das memórias de cálculo e dos documentos que lhe dão suporte, que poderão constar de anexo classificado, se a Administração optar por preservar o seu sigilo até a conclusão da licitação;
-
-VII - justificativas para o parcelamento ou não da solução;
-
-VIII - contratações correlatas e/ou interdependentes;
-
-IX - demonstrativo da previsão da contratação no Plano Anual de Contratações, se houver, de modo a indicar o seu alinhamento com o instrumentos de planejamento do órgão ou entidade;
-
-X - demonstrativo dos resultados pretendidos, em termos de economicidade e de melhor aproveitamento dos recursos humanos, materiais e financeiros disponíveis;
-
-XI - providências a serem adotadas pela Administração previamente à celebração do contrato, tais como adaptações no ambiente do órgão ou da entidade, necessidade de obtenção de licenças, outorgas ou autorizações, capacitação de servidores ou de empregados para fiscalização e gestão contratual;
-
-XII - descrição de possíveis impactos ambientais e respectivas medidas mitigadoras, incluídos requisitos de baixo consumo de energia e de outros recursos, bem como logística reversa para desfazimento e reciclagem de bens e refugos, quando aplicável; e
-
-XIII - posicionamento conclusivo sobre a adequação da contratação para o atendimento da necessidade a que se destina.
+* IV - descrição da solução como um todo, inclusive das exigências relacionadas à manutenção e à assistência técnica, quando for o caso;
+* V - estimativa das quantidades a serem contratadas, acompanhada das memórias de cálculo e dos documentos que lhe dão suporte, considerando a interdependência com outras contratações, de modo a possibilitar economia de escala;
+* VI - estimativa do valor da contratação, acompanhada dos preços unitários referenciais, das memórias de cálculo e dos documentos que lhe dão suporte, que poderão constar de anexo classificado, se a Administração optar por preservar o seu sigilo até a conclusão da licitação;
+* VII - justificativas para o parcelamento ou não da solução;
+* VIII - contratações correlatas e/ou interdependentes;
+* IX - demonstrativo da previsão da contratação no Plano Anual de Contratações, se houver, de modo a indicar o seu alinhamento com o instrumentos de planejamento do órgão ou entidade;
+* X - demonstrativo dos resultados pretendidos, em termos de economicidade e de melhor aproveitamento dos recursos humanos, materiais e financeiros disponíveis;
+* XI - providências a serem adotadas pela Administração previamente à celebração do contrato, tais como adaptações no ambiente do órgão ou da entidade, necessidade de obtenção de licenças, outorgas ou autorizações, capacitação de servidores ou de empregados para fiscalização e gestão contratual;
+* XII - descrição de possíveis impactos ambientais e respectivas medidas mitigadoras, incluídos requisitos de baixo consumo de energia e de outros recursos, bem como logística reversa para desfazimento e reciclagem de bens e refugos, quando aplicável; e
+* XIII - posicionamento conclusivo sobre a adequação da contratação para o atendimento da necessidade a que se destina.
 
 § 1º O ETP deverá conter ao menos os elementos previstos nos incisos I, V, VI, VII e XIII do caput deste artigo e, quando não contemplar os demais elementos, apresentar as devidas justificativas.
 
@@ -300,13 +223,9 @@ XIII - posicionamento conclusivo sobre a adequação da contratação para o ate
 
 Art. 24. Durante a elaboração do ETP deverão ser avaliadas:
 
-I - a possibilidade de utilização de mão de obra, materiais, tecnologias e matérias-primas existentes no local da execução, conservação e operação do bem, serviço ou obra, desde que não haja prejuízos à competitividade do processo licitatório e à eficiência do respectivo contrato, nos termos do § 2º do art. 25 da [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md);
-
-II - a necessidade de ser exigido, em edital ou em aviso de contratação direta, que os serviços de manutenção e assistência técnica sejam prestados mediante deslocamento de técnico ou disponibilizados em unidade de prestação de serviços localizada em distância compatível com suas necessidades, conforme dispõe o
-
-§ 4º do art. 40 da [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md); e
-
-III - as contratações anteriores voltadas ao atendimento de necessidade idêntica ou semelhante à atual, como forma de melhorar a performance contratual, em especial nas contratações de execução continuada ou de fornecimento contínuo de bens e serviços, com base, inclusive, no relatório final de que trata a alínea "d" do inciso VI do § 3º do art. 174 da [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md).
+* I - a possibilidade de utilização de mão de obra, materiais, tecnologias e matérias-primas existentes no local da execução, conservação e operação do bem, serviço ou obra, desde que não haja prejuízos à competitividade do processo licitatório e à eficiência do respectivo contrato, nos termos do § 2º do art. 25 da [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md);
+* II - a necessidade de ser exigido, em edital ou em aviso de contratação direta, que os serviços de manutenção e assistência técnica sejam prestados mediante deslocamento de técnico ou disponibilizados em unidade de prestação de serviços localizada em distância compatível com suas necessidades, conforme dispõe o § 4º do art. 40 da [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md); e
+* III - as contratações anteriores voltadas ao atendimento de necessidade idêntica ou semelhante à atual, como forma de melhorar a performance contratual, em especial nas contratações de execução continuada ou de fornecimento contínuo de bens e serviços, com base, inclusive, no relatório final de que trata a alínea "d" do inciso VI do § 3º do art. 174 da [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md).
 
 Art. 25. Quando o ETP demonstrar que a avaliação e a ponderação da qualidade técnica das propostas que superarem os requisitos mínimos estabelecidos no edital são relevantes aos fins pretendidos pela Administração, deverá ser escolhido o critério de julgamento de técnica e preço, conforme o disposto no § 1º do art. 36 da [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md).
 
@@ -316,15 +235,14 @@ Art. 27. Ao final da elaboração do ETP, deve-se avaliar a necessidade de class
 
 Art. 28. A elaboração do ETP:
 
-I - é facultada nas hipóteses dos incisos I, II, VII e VIII do art. 75 e do § 7º do art. 90 da Lei nº 14.133/2021; e
-
-II - é dispensada na hipótese do inciso III do art. 75 da [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md), e nos casos de prorrogações dos contratos de serviços e fornecimentos contínuos.
+* I - é facultada nas hipóteses dos incisos I, II, VII e VIII do art. 75 e do § 7º do art. 90 da Lei nº 14.133/2021; e
+* II - é dispensada na hipótese do inciso III do art. 75 da [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md), e nos casos de prorrogações dos contratos de serviços e fornecimentos contínuos.
 
 § 1º Podem ser elaborados Estudos Técnicos Preliminares padronizados para serviços de mesma natureza, semelhança ou afinidade, desde que demonstrada a correlação entre os objetos abrangidos, na forma de regulamento expedido pela Secretaria de Administração.
 
 § 2º Poderá ainda ser dispensada a elaboração de ETP caso a contratação pretendida possua valor estimado de até 10 (dez) vezes dos limites previstos nos incisos I e II do art. 75 da Lei nº 14.133/2021.
 
-##### **Seção IV - Da Elaboração do Mapa de Riscos e da Matriz de Riscos**
+### **Seção IV - Da Elaboração do Mapa de Riscos e da Matriz de Riscos**
 
 Art. 29. O mapa de riscos é o documento que materializa a análise dos riscos que possam comprometer o sucesso da licitação e a boa execução contratual e propõe controles capazes de mitigar as possibilidades ou os efeitos da sua ocorrência.
 
@@ -342,129 +260,84 @@ Art. 34. Os órgãos e entidades deverão elaborar a matriz de riscos nas contra
 
 Parágrafo único. Além do caso previsto no caput, deverá ser elaborada matriz de riscos quando a natureza do processo envolver riscos relevantes que possam ocasionar o desequilíbrio econômico-financeiro do contrato.
 
-##### **Seção V - Da Elaboração do Termo de Referência**
+### **Seção V - Da Elaboração do Termo de Referência**
 
 Art. 35. O termo de referência - TR é o documento que deve contemplar os elementos necessários e suficientes, com nível de precisão adequado, para caracterizar o objeto da licitação ou contratação direta de bens ou serviços.
 
 Art. 36. O TR é documento obrigatório para todos os processos licitatórios e contratações diretas destinados a aquisições de bens e contratação de serviços, devendo conter, no que couber, os seguintes parâmetros e elementos descritivos, dentre outros que se fizerem necessários:
 
-I - definição do objeto, incluídos sua natureza, os quantitativos e as unidades de medida;
-
-II - fundamentação da necessidade da contratação, do quantitativo do objeto e, se for o caso, do tipo de solução escolhida, que poderá consistir na referência ao estudo técnico preliminar correspondente, quando este for realizado e divulgado previamente ao processamento da licitação ou da contratação direta;
-
-III - para as contratações que envolvam bens ou serviços de informática e telecomunicação, o alinhamento com as necessidades tecnológicas e de negócio;
-
-IV - justificativa para o parcelamento ou não da contratação, que poderá consistir na referência ao estudo técnico preliminar quando este for realizado e divulgado previamente ao processamento da licitação ou da contratação direta;
-
-V - previsão da vedação ou da participação de empresas sob a forma de consórcio no processo de contratação e justificativa para o caso de vedação;
-
-VI - descrição da solução como um todo, considerado todo o ciclo de vida do objeto, bem como suas especificações técnicas;
-
-VII - modelo de execução do objeto, que consiste na definição de como o contrato deverá produzir os resultados pretendidos desde o seu início até o seu encerramento, incluindo as informações de prazo de início da prestação, local, regras para o recebimento provisório e definitivo, quando for o caso, incluindo regras para a inspeção, se aplicável, e demais condições necessárias para a execução dos serviços ou o fornecimento de bens;
-
-VIII - especificação da garantia do produto a ser exigida e das condições de manutenção e assistência técnica, quando for o caso;
-
-IX - valor máximo estimado unitário e global da contratação, acompanhado de anexo contendo memórias de cálculo e documentos que lhe dão suporte, com os parâmetros utilizados para a obtenção dos preços e para os respectivos cálculos, salvo se adotado orçamento com caráter sigiloso;
-
-X - justificativa para a adoção de orçamento sigiloso, se for o caso;
-
-XI - classificação orçamentária da despesa, exceto quando se tratar de processos para formação de registro de preços, os quais deverão indicar apenas o código do elemento de despesa correspondente;
-
-XII - estabelecimento, nas hipóteses previstas pela Lei Complementar Federal nº 123, de 14 de dezembro de 2006, de reserva de cota ou a exclusividade da licitação para os beneficiários da norma;
-
-XIII - modalidade de licitação, critério de julgamento e modo de disputa, apresentando motivação sobre a adequação e eficiência da combinação desses parâmetros;
-
-XIV - prazo de validade, condições da proposta e, quando for o caso, a exigência de amostra, exame de conformidade ou prova de conceito, entre outros testes de interesse da Administração;
-
-XV - parâmetros objetivos de avaliação de propostas quando se tratar de licitação de melhor técnica ou de técnica e preço;
-
-XVI - requisitos de comprovação da qualificação técnica e econômico-financeira, quando necessários, e devidamente justificados quanto aos percentuais de aferição adotados, incluindo a previsão de haver vistoria técnica prévia, quando for o caso;
-
-XVII - prazo do contrato e, se for o caso, a possibilidade de sua prorrogação;
-
-XVIII - prazo para a assinatura do contrato;
-
-XIX - requisitos da contratação, limitados àqueles necessários e indispensáveis para o atendimento da necessidade pública, incluindo especificação de procedimentos para transição contratual, quando for o caso;
-
-XX - obrigações da contratante, exceto quando corresponderem àquelas previstas em instrumentos padronizados a serem utilizados na licitação, hipótese em que deverão ser descritas apenas as obrigações específicas relativas ao objeto pretendido;
-
-XXI - obrigações da contratada, exceto quando corresponderem àquelas previstas em instrumentos padronizados a serem utilizados na licitação, hipótese em que deverão ser descritas apenas as obrigações específicas relativas ao objeto pretendido;
-
-XXII - previsão e condições de prestação da garantia contratual, quando exigida;
-
-XXIII - previsão das condições para subcontratação ou justificativa para sua vedação na contratação pretendida;
-
-XXIV - modelo de gestão do contrato, que descreve como a execução do objeto será acompanhada e fiscalizada pelo órgão ou entidade no caso em concreto, exceto quando corresponder àquele previsto em instrumentos padronizados a serem utilizados na licitação, hipótese em que deverão ser descritas apenas as condições específicas da gestão do objeto pretendido;
-
-XXV - critérios e prazos de medição e de pagamento;
-
-XXVI - sanções administrativas, exceto quando corresponderem àquelas previstas em instrumentos padronizados a serem utilizados na licitação, hipótese em que deverão ser descritas apenas as penalidades específicas relativas ao objeto pretendido, bem como os percentuais de multa a serem preenchidos nos referidos documentos padronizados;
-
-XXVII - direitos autorais e propriedade intelectual, bem como sigilo e segurança dos dados, se for o caso;
-
-XXVIII - para os processos de contratação de serviços que envolvam bens ou serviços de informática e telecomunicação, os parâmetros e elementos descritivos definidos pela ATI;
-
-XXIX - demais condições necessárias à execução dos serviços ou fornecimento.
+* I - definição do objeto, incluídos sua natureza, os quantitativos e as unidades de medida;
+* II - fundamentação da necessidade da contratação, do quantitativo do objeto e, se for o caso, do tipo de solução escolhida, que poderá consistir na referência ao estudo técnico preliminar correspondente, quando este for realizado e divulgado previamente ao processamento da licitação ou da contratação direta;
+* III - para as contratações que envolvam bens ou serviços de informática e telecomunicação, o alinhamento com as necessidades tecnológicas e de negócio;
+* IV - justificativa para o parcelamento ou não da contratação, que poderá consistir na referência ao estudo técnico preliminar quando este for realizado e divulgado previamente ao processamento da licitação ou da contratação direta;
+* V - previsão da vedação ou da participação de empresas sob a forma de consórcio no processo de contratação e justificativa para o caso de vedação;
+* VI - descrição da solução como um todo, considerado todo o ciclo de vida do objeto, bem como suas especificações técnicas;
+* VII - modelo de execução do objeto, que consiste na definição de como o contrato deverá produzir os resultados pretendidos desde o seu início até o seu encerramento, incluindo as informações de prazo de início da prestação, local, regras para o recebimento provisório e definitivo, quando for o caso, incluindo regras para a inspeção, se aplicável, e demais condições necessárias para a execução dos serviços ou o fornecimento de bens;
+* VIII - especificação da garantia do produto a ser exigida e das condições de manutenção e assistência técnica, quando for o caso;
+* IX - valor máximo estimado unitário e global da contratação, acompanhado de anexo contendo memórias de cálculo e documentos que lhe dão suporte, com os parâmetros utilizados para a obtenção dos preços e para os respectivos cálculos, salvo se adotado orçamento com caráter sigiloso;
+* X - justificativa para a adoção de orçamento sigiloso, se for o caso;
+* XI - classificação orçamentária da despesa, exceto quando se tratar de processos para formação de registro de preços, os quais deverão indicar apenas o código do elemento de despesa correspondente;
+* XII - estabelecimento, nas hipóteses previstas pela Lei Complementar Federal nº 123, de 14 de dezembro de 2006, de reserva de cota ou a exclusividade da licitação para os beneficiários da norma;
+* XIII - modalidade de licitação, critério de julgamento e modo de disputa, apresentando motivação sobre a adequação e eficiência da combinação desses parâmetros;
+* XIV - prazo de validade, condições da proposta e, quando for o caso, a exigência de amostra, exame de conformidade ou prova de conceito, entre outros testes de interesse da Administração;
+* XV - parâmetros objetivos de avaliação de propostas quando se tratar de licitação de melhor técnica ou de técnica e preço;
+* XVI - requisitos de comprovação da qualificação técnica e econômico-financeira, quando necessários, e devidamente justificados quanto aos percentuais de aferição adotados, incluindo a previsão de haver vistoria técnica prévia, quando for o caso;
+* XVII - prazo do contrato e, se for o caso, a possibilidade de sua prorrogação;
+* XVIII - prazo para a assinatura do contrato;
+* XIX - requisitos da contratação, limitados àqueles necessários e indispensáveis para o atendimento da necessidade pública, incluindo especificação de procedimentos para transição contratual, quando for o caso;
+* XX - obrigações da contratante, exceto quando corresponderem àquelas previstas em instrumentos padronizados a serem utilizados na licitação, hipótese em que deverão ser descritas apenas as obrigações específicas relativas ao objeto pretendido;
+* XXI - obrigações da contratada, exceto quando corresponderem àquelas previstas em instrumentos padronizados a serem utilizados na licitação, hipótese em que deverão ser descritas apenas as obrigações específicas relativas ao objeto pretendido;
+* XXII - previsão e condições de prestação da garantia contratual, quando exigida;
+* XXIII - previsão das condições para subcontratação ou justificativa para sua vedação na contratação pretendida;
+* XXIV - modelo de gestão do contrato, que descreve como a execução do objeto será acompanhada e fiscalizada pelo órgão ou entidade no caso em concreto, exceto quando corresponder àquele previsto em instrumentos padronizados a serem utilizados na licitação, hipótese em que deverão ser descritas apenas as condições específicas da gestão do objeto pretendido;
+* XXV - critérios e prazos de medição e de pagamento;
+* XXVI - sanções administrativas, exceto quando corresponderem àquelas previstas em instrumentos padronizados a serem utilizados na licitação, hipótese em que deverão ser descritas apenas as penalidades específicas relativas ao objeto pretendido, bem como os percentuais de multa a serem preenchidos nos referidos documentos padronizados;
+* XXVII - direitos autorais e propriedade intelectual, bem como sigilo e segurança dos dados, se for o caso;
+* XXVIII - para os processos de contratação de serviços que envolvam bens ou serviços de informática e telecomunicação, os parâmetros e elementos descritivos definidos pela ATI;
+* XXIX - demais condições necessárias à execução dos serviços ou fornecimento.
 
 § 1º Nos casos de contratação utilizando o Sistema de Registro de Preços, além dos requisitos elencados no caput, o termo de referência deverá conter:
 
-I - justificativa para escolha do sistema de registro de preços, informando o dispositivo legal no qual o caso específico se enquadra;
-
-II - indicação do órgão ou entidade gerenciador da ata;
-
-III - indicação dos órgãos ou entidades participantes da ata;
-
-IV - prazo para assinatura da ata;
-
-V - prazo de vigência da ata e sua possibilidade de prorrogação;
-
-VI - previsão e justificativa da possibilidade de adesão por órgãos e entidades não participantes, bem como as condições para esta adesão, exceto quando corresponderem àquelas previstas em instrumentos padronizados a serem utilizados na licitação, hipótese em que deverão ser descritas apenas as condições específicas relativas ao caso concreto;
-
-VII - obrigações do órgão gerenciador da ata, exceto quando corresponderem àquelas previstas em instrumentos padronizados a serem utilizados na licitação, hipótese em que deverão ser descritas apenas as obrigações específicas relativas ao objeto pretendido; e
-
-VIII - obrigações da detentora da ata, exceto quando corresponderem àquelas previstas em instrumentos padronizados a serem utilizados na licitação, hipótese em que deverão ser descritas apenas as obrigações específicas relativas ao objeto pretendido.
+* I - justificativa para escolha do sistema de registro de preços, informando o dispositivo legal no qual o caso específico se enquadra;
+* II - indicação do órgão ou entidade gerenciador da ata;
+* III - indicação dos órgãos ou entidades participantes da ata;
+* IV - prazo para assinatura da ata;
+* V - prazo de vigência da ata e sua possibilidade de prorrogação;
+* VI - previsão e justificativa da possibilidade de adesão por órgãos e entidades não participantes, bem como as condições para esta adesão, exceto quando corresponderem àquelas previstas em instrumentos padronizados a serem utilizados na licitação, hipótese em que deverão ser descritas apenas as condições específicas relativas ao caso concreto;
+* VII - obrigações do órgão gerenciador da ata, exceto quando corresponderem àquelas previstas em instrumentos padronizados a serem utilizados na licitação, hipótese em que deverão ser descritas apenas as obrigações específicas relativas ao objeto pretendido; e
+* VIII - obrigações da detentora da ata, exceto quando corresponderem àquelas previstas em instrumentos padronizados a serem utilizados na licitação, hipótese em que deverão ser descritas apenas as obrigações específicas relativas ao objeto pretendido.
 
 § 2º Nos processos de contratação em que for realizada análise de riscos, o TR deve contemplar, quando aplicável, as medidas de tratamento necessárias para mitigá-los, conforme regulamento próprio.
 
 § 3º Nos casos de contratação de serviços comuns de engenharia, além dos requisitos elencados no caput, o termo de referência deverá conter:
 
-I - Classificação do objeto como serviço comum de engenharia, conforme art. 6º, XXI, "a", da [Lei Federal nº 14.133/2021](./LEI_14133_2021_LLCA.md);
+* I - Classificação do objeto como serviço comum de engenharia, conforme art. 6º, XXI, "a", da [Lei Federal nº 14.133/2021](./LEI_14133_2021_LLCA.md);
+* II - Cronograma Físico-Financeiro;
+* III - Documentos referentes à responsabilidade técnica, quais sejam, Anotação de Responsabilidade Técnica - ART e Registro de Responsabilidade Técnica - RRT, referentes à totalidade das peças técnicas produzidas por profissional habilitado, consoante previsão do art. 10 do [Decreto Federal nº 7.983/2013](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/decreto/d7983.htm).
 
-II - Cronograma Físico-Financeiro;
-
-III - Documentos referentes à responsabilidade técnica, quais sejam, Anotação de Responsabilidade Técnica - ART e Registro de Responsabilidade Técnica - RRT, referentes à totalidade das peças técnicas produzidas por profissional habilitado, consoante previsão do art. 10 do [Decreto Federal nº 7.983/2013](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/decreto/d7983.htm).
-
-Art. 37. O TR deve obrigatoriamente conter os elementos dispostos nos incisos I, II, VI, VII, XIII, XVI, XVII, XIX, XX, XXI e XXIII do caput do art. 36.
+Art. 37. ***O TR deve obrigatoriamente conter os elementos dispostos nos incisos I, II, VI, VII, XIII, XVI, XVII, XIX, XX, XXI e XXIII do caput do art. 36***.
 
 Art. 38. A Administração Pública poderá prever, excepcionalmente, a apresentação de amostra, exame de conformidade ou prova de conceito, entre outros testes de interesse da Administração, de modo a comprovar a aderência do objeto ofertado às especificações definidas no termo de referência ou no projeto básico, em uma das seguintes etapas:
 
-I - durante a fase de julgamento das propostas;
-
-II - após a homologação, como condição para a assinatura do contrato; ou
-
-III - no período de vigência contratual ou da ata de registro de preços.
+* I - durante a fase de julgamento das propostas;
+* II - após a homologação, como condição para a assinatura do contrato; ou
+* III - no período de vigência contratual ou da ata de registro de preços.
 
 § 1º Na hipótese do inciso I, por economia processual, a análise da amostra, o exame de conformidade ou a prova de conceito poderá ser realizado após a análise, em caráter preliminar, da regularidade formal da documentação de habilitação.
 
 § 2º São requisitos para a solicitação de amostra, exame de conformidade ou prova de conceito, além de outros que sejam necessários:
 
-I - previsão no termo de referência e no instrumento convocatório;
-
-II - apresentação de justificativa para a necessidade de sua exigência;
-
-III - previsão de critérios objetivos de avaliação detalhadamente especificados;
-
-IV - exigência de apresentação apenas pelo licitante provisoriamente classificado em primeiro lugar, se a prova for solicitada na fase de julgamento das propostas, ou pelo adjudicatário, se requerida após a homologação, ou pelo contratado ou detentor da ata, quando realizada no período de vigência do contrato ou da ata de registro de preços;
-
-V - divulgação do dia, hora e local em que as amostras, as provas de conceito ou os objetos a serem submetidos a exame de conformidade estarão disponíveis para inspeção dos interessados;
-
-VI - prazo e forma de apresentação das amostras, das provas de conceito ou dos objetos a serem submetidos a exame de conformidade;
-
-VII - prazo para retirada após a conclusão do certame das amostras, das provas de conceito ou dos objetos a serem submetidos a exame de conformidade, bem como a destinação a ser dada a eles caso haja desinteresse dos licitantes em sua retirada.
+* I - previsão no termo de referência e no instrumento convocatório;
+* II - apresentação de justificativa para a necessidade de sua exigência;
+* III - previsão de critérios objetivos de avaliação detalhadamente especificados;
+* IV - exigência de apresentação apenas pelo licitante provisoriamente classificado em primeiro lugar, se a prova for solicitada na fase de julgamento das propostas, ou pelo adjudicatário, se requerida após a homologação, ou pelo contratado ou detentor da ata, quando realizada no período de vigência do contrato ou da ata de registro de preços;
+* V - divulgação do dia, hora e local em que as amostras, as provas de conceito ou os objetos a serem submetidos a exame de conformidade estarão disponíveis para inspeção dos interessados;
+* VI - prazo e forma de apresentação das amostras, das provas de conceito ou dos objetos a serem submetidos a exame de conformidade;
+* VII - prazo para retirada após a conclusão do certame das amostras, das provas de conceito ou dos objetos a serem submetidos a exame de conformidade, bem como a destinação a ser dada a eles caso haja desinteresse dos licitantes em sua retirada.
 
 § 3º As amostras, provas de conceito ou objetos a serem submetidos a exame de conformidade em depósito nos órgãos e entidades estaduais, sem que haja interesse dos licitantes em sua retirada, devem, após comunicação dos licitantes proprietários e perdurando o desinteresse, ser considerados como coisas abandonadas, com perda da propriedade, conforme o disposto no art. 1.263 e inciso III do art. 1.275 da Lei Federal nº 10.406, de 10 de janeiro de 2002.
 
-##### **Seção V - Anteprojeto, Projeto Básico e Projeto Executivo**
+### **Seção V - Anteprojeto, Projeto Básico e Projeto Executivo**
 
 Art. 39. A contratação de obras e serviços de engenharia demandará a elaboração de Anteprojeto, Projeto Básico e Projeto Executivo, conforme o caso, observadas as respectivas definições constantes no art. 6º, incisos XXIV, XXV e XXVI da [Lei Federal nº 14.133/2021](./LEI_14133_2021_LLCA.md).
 
@@ -474,31 +347,23 @@ Art. 41. Todo projeto básico deve apresentar conteúdos suficientes e precisos,
 
 Art. 42. É dever do gestor exigir apresentação de ART ou RRT referente a projeto, execução, supervisão e fiscalização de obras e serviços de engenharia e/ou arquitetura, com indicação do responsável pela elaboração de plantas, orçamento-base, especificações técnicas, composições de custos unitários, cronograma físico-financeiro e outras peças técnicas.
 
-##### **Seção VI - Da Pesquisa de Preços**
+### **Seção VI - Da Pesquisa de Preços**
 
 Art. 43. Para fins do disposto neste Decreto, considera-se:
 
-I - preço estimado: valor obtido a partir de método matemático aplicado em série de preços coletados, devendo desconsiderar, na sua formação, os valores inexequíveis, os inconsistentes e os excessivamente elevados; e
-
-II - sobrepreço: preço orçado para licitação ou contratado em valor expressivamente superior aos preços referenciais de mercado, seja de apenas 1 (um) item, se a licitação ou a contratação for por preços unitários de serviço, seja do valor global do objeto, se a licitação ou a contratação for por tarefa, empreitada por preço global ou empreitada integral.
+* I - preço estimado: valor obtido a partir de método matemático aplicado em série de preços coletados, devendo desconsiderar, na sua formação, os valores inexequíveis, os inconsistentes e os excessivamente elevados; e
+* II - sobrepreço: preço orçado para licitação ou contratado em valor expressivamente superior aos preços referenciais de mercado, seja de apenas 1 (um) item, se a licitação ou a contratação for por preços unitários de serviço, seja do valor global do objeto, se a licitação ou a contratação for por tarefa, empreitada por preço global ou empreitada integral.
 
 Art. 44. A pesquisa de preços será materializada em documento que conterá, no mínimo:
 
-I - descrição do objeto a ser contratado;
-
-II - identificação do(s) agente(s) responsável(is) pela pesquisa ou, se for o caso, da equipe de planejamento;
-
-III - caracterização das fontes consultadas;
-
-IV - série de preços coletados;
-
-V - método estatístico aplicado para a definição do valor estimado;
-
-VI - justificativas para a metodologia utilizada, em especial para a desconsideração de valores inconsistentes, inexequíveis ou excessivamente elevados, se aplicável;
-
-VII - memória de cálculo do valor estimado e documentos que lhe dão suporte; e
-
-VIII - justificativa da escolha dos fornecedores, no caso da pesquisa direta de que dispõe o inciso V do art. 46.
+* I - descrição do objeto a ser contratado;
+* II - identificação do(s) agente(s) responsável(is) pela pesquisa ou, se for o caso, da equipe de planejamento;
+* III - caracterização das fontes consultadas;
+* IV - série de preços coletados;
+* V - método estatístico aplicado para a definição do valor estimado;
+* VI - justificativas para a metodologia utilizada, em especial para a desconsideração de valores inconsistentes, inexequíveis ou excessivamente elevados, se aplicável;
+* VII - memória de cálculo do valor estimado e documentos que lhe dão suporte; e
+* VIII - justificativa da escolha dos fornecedores, no caso da pesquisa direta de que dispõe o inciso V do art. 46.
 
 Art. 45. Na pesquisa de preços, sempre que possível, deverão ser observadas as condições comerciais praticadas, incluindo prazos e locais de entrega, instalação e montagem do bem ou execução do serviço, quantidade contratada, formas e prazos de pagamento, fretes, garantias exigidas e marcas e modelos, quando for o caso, observadas a potencial economia de escala e as peculiaridades do local de execução do objeto.
 
@@ -506,35 +371,25 @@ Parágrafo único. No caso de previsão de matriz de alocação de riscos entre 
 
 Art. 46. A pesquisa de preços para fins de determinação do preço estimado em processo licitatório para a aquisição de bens e contratação de serviços em geral será realizada mediante a utilização dos seguintes parâmetros, empregados de forma combinada ou não:
 
-I - composição de custos unitários menores ou iguais à mediana do item correspondente nos sistemas oficiais de governo, como Painel de Preços ou banco de preços em saúde, observado o índice de atualização de preços correspondente;
-
-II - contratações similares feitas pela Administração Pública, em execução ou concluídas no período de 1 (um) ano anterior à data da pesquisa de preços, inclusive mediante sistema de registro de preços, observado o índice de atualização de preços correspondente;
-
-III - dados de pesquisa publicada em mídia especializada, de tabela de referência formalmente aprovada pela Administração Pública e de sítios eletrônicos especializados ou de domínio amplo, desde que contenham a data e hora de acesso;
-
-IV - pesquisa em base oficial de notas fiscais eletrônicas.
-
-V - pesquisa direta com, no mínimo, 3 (três) fornecedores, mediante solicitação formal de cotação, por meio de ofício ou e-mail, desde que seja apresentada justificativa da escolha desses fornecedores e que não tenham sido obtidos os orçamentos com mais de 6 (seis) meses de antecedência da data de divulgação do edital; ou
+* I - composição de custos unitários menores ou iguais à mediana do item correspondente nos sistemas oficiais de governo, como Painel de Preços ou banco de preços em saúde, observado o índice de atualização de preços correspondente;
+* II - contratações similares feitas pela Administração Pública, em execução ou concluídas no período de 1 (um) ano anterior à data da pesquisa de preços, inclusive mediante sistema de registro de preços, observado o índice de atualização de preços correspondente;
+* III - dados de pesquisa publicada em mídia especializada, de tabela de referência formalmente aprovada pela Administração Pública e de sítios eletrônicos especializados ou de domínio amplo, desde que contenham a data e hora de acesso;
+* IV - pesquisa em base oficial de notas fiscais eletrônicas.
+* V - pesquisa direta com, no mínimo, 3 (três) fornecedores, mediante solicitação formal de cotação, por meio de ofício ou e-mail, desde que seja apresentada justificativa da escolha desses fornecedores e que não tenham sido obtidos os orçamentos com mais de 6 (seis) meses de antecedência da data de divulgação do edital; ou
 
 § 1º Quando a pesquisa de preços for realizada com fornecedores, nos termos do inciso V, deverá ser observado:
 
-I - prazo de resposta conferido ao fornecedor compatível com a complexidade do objeto a ser licitado;
+* I - prazo de resposta conferido ao fornecedor compatível com a complexidade do objeto a ser licitado;
+* II - obtenção de propostas formais, contendo, no mínimo:
 
-II - obtenção de propostas formais, contendo, no mínimo:
+  * a) descrição do objeto, valor unitário e total;
+  * b) número do Cadastro de Pessoa Física - CPF ou do Cadastro Nacional de Pessoa Jurídica - CNPJ do proponente;
+  * c) endereços físico e eletrônico e telefone de contato;
+  * d) data de emissão; e
+  * e) nome completo e identificação do responsável.
 
-a) descrição do objeto, valor unitário e total;
-
-b) número do Cadastro de Pessoa Física - CPF ou do Cadastro Nacional de Pessoa Jurídica - CNPJ do proponente;
-
-c) endereços físico e eletrônico e telefone de contato;
-
-d) data de emissão; e
-
-e) nome completo e identificação do responsável.
-
-III - informação aos fornecedores das características da contratação contidas no art. 45, com vistas à melhor caracterização das condições comerciais praticadas para o objeto a ser contratado; e
-
-IV - registro, nos autos do processo da contratação correspondente, da relação de fornecedores que foram consultados e não enviaram propostas como resposta à solicitação de que trata o inciso V do caput.
+* III - informação aos fornecedores das características da contratação contidas no art. 45, com vistas à melhor caracterização das condições comerciais praticadas para o objeto a ser contratado; e
+* IV - registro, nos autos do processo da contratação correspondente, da relação de fornecedores que foram consultados e não enviaram propostas como resposta à solicitação de que trata o inciso V do caput.
 
 § 2º Excepcionalmente, será admitido o preço estimado com base em orçamento fora do prazo estipulado no inciso II do caput, desde que devidamente justificado nos autos pelo agente responsável e observado o índice de atualização de preços correspondente.
 
@@ -572,7 +427,7 @@ Art. 50. Para a definição do valor estimado nos processos de contratação dir
 
 Art. 51. Desde que justificado, o orçamento estimado da contratação poderá ter caráter sigiloso, sem prejuízo da divulgação do detalhamento dos quantitativos e das demais informações necessárias para a elaboração das propostas, salvo na hipótese de licitação cujo critério de julgamento for por maior desconto.
 
-##### **Seção VII - Da Previsão Dos Recursos Orçamentários**
+### **Seção VII - Da Previsão Dos Recursos Orçamentários**
 
 Art. 52. Na fase preparatória da licitação ou contratação direta, a Administração deverá atestar a existência de créditos orçamentários vinculados às despesas vincendas no exercício financeiro, sob pena de nulidade do ato e de responsabilização de quem lhe tiver dado causa.
 
@@ -580,13 +435,13 @@ Art. 52. Na fase preparatória da licitação ou contratação direta, a Adminis
 
 § 2º Nos contratos de vigência plurianual, as despesas deverão estar autorizadas no Plano Plurianual e na respectiva Lei Orçamentária Anual, devendo, neste último caso, ocorrer no início da contratação e em cada exercício de execução do objeto.
 
-##### **Seção VIII - Da Autorização de Abertura da Licitação e da Contratação Direta**
+### **Seção VIII - Da Autorização de Abertura da Licitação e da Contratação Direta**
 
 Art. 53. A autorização de abertura da licitação consiste na manifestação da autoridade superior competente para início do processo licitatório ou da contratação direta, a qual deverá estar devidamente motivada e analisada sob a ótica da oportunidade, conveniência e relevância para o interesse público.
 
 Parágrafo único. A autorização deverá levar em consideração as informações expostas no documento de formalização da demanda elaborado pelo setor requisitante da contratação.
 
-##### **Seção IX - Da Designação do Agente de Contratação, da Equipe de Apoio e da Comissão de Contratação**
+### **Seção IX - Da Designação do Agente de Contratação, da Equipe de Apoio e da Comissão de Contratação**
 
 Art. 54. O processo licitatório será conduzido por agente de contratação ou por comissão de contratação, conforme o caso.
 
@@ -604,43 +459,25 @@ Art. 55. A comissão de contratação, designada em caráter permanente ou espec
 
 Art. 56. Cabe ao agente de contratação ou, conforme o caso, à comissão de contratação, a competência para tomar decisões, dar impulso, acompanhar e executar quaisquer atividades necessárias ao bom andamento do certame até a sua homologação, em especial:
 
-I - zelar pelo bom fluxo das etapas preparatórias da licitação;
-
-II - realizar a análise de conformidade das justificativas apresentadas para as exigências de qualificação técnica e de qualificação econômico-financeira, bem como das demais regras e condições de participação;
-
-III - promover diligências necessárias para a adequada instrução processual;
-
-IV - elaborar e assinar o edital, seguindo a minuta padrão pertinente ao objeto editada pela Procuradoria Geral do Estado, quando houver;
-
-V - encaminhar o edital para controle prévio de legalidade por parte da Procuradoria Geral do Estado;
-
-VI - conduzir a sessão pública;
-
-VII - receber, examinar e decidir as impugnações e os pedidos de esclarecimentos ao edital e anexos, facultada a requisição de subsídios formais aos setores responsáveis pela elaboração desses documentos;
-
-VIII - dar conhecimento à Procuradoria Geral do Estado sobre qualquer alteração do instrumento editalício em razão das impugnações ou pedidos de esclarecimentos;
-
-IX - analisar a conformidade das propostas com as especificações do edital;
-
-X - coordenar a fase de lances, quando for o caso;
-
-XI - analisar e julgar as condições de habilitação, facultada a requisição de subsídios formais aos setores responsáveis pela elaboração desses documentos;
-
-XII - realizar as negociações cabíveis, inclusive das condições mais vantajosas com o primeiro colocado no certame;
-
-XIII - sanear erros ou falhas que não alterem a substância das propostas e a validade jurídica dos documentos de habilitação;
-
-XIV - declarar o licitante vencedor;
-
-XV - receber, instruir e analisar recursos, facultado o exercício de juízo de retratação;
-
-XVI - adjudicar o objeto, quando não houver recurso ou quando houver juízo de retração;
-
-XVII - quando não houver juízo de retratação, encaminhar o processo devidamente instruído, à autoridade competente para fins de julgamento de recurso e adjudicação;
-
-XVIII - elaborar relatório final após a adjudicação e encaminhar o processo à autoridade competente para fins de homologação;
-
-XIX - coordenar os trabalhos da equipe de apoio.
+* I - zelar pelo bom fluxo das etapas preparatórias da licitação;
+* II - realizar a análise de conformidade das justificativas apresentadas para as exigências de qualificação técnica e de qualificação econômico-financeira, bem como das demais regras e condições de participação;
+* III - promover diligências necessárias para a adequada instrução processual;
+* IV - elaborar e assinar o edital, seguindo a minuta padrão pertinente ao objeto editada pela Procuradoria Geral do Estado, quando houver;
+* V - encaminhar o edital para controle prévio de legalidade por parte da Procuradoria Geral do Estado;
+* VI - conduzir a sessão pública;
+* VII - receber, examinar e decidir as impugnações e os pedidos de esclarecimentos ao edital e anexos, facultada a requisição de subsídios formais aos setores responsáveis pela elaboração desses documentos;
+* VIII - dar conhecimento à Procuradoria Geral do Estado sobre qualquer alteração do instrumento editalício em razão das impugnações ou pedidos de esclarecimentos;
+* IX - analisar a conformidade das propostas com as especificações do edital;
+* X - coordenar a fase de lances, quando for o caso;
+* XI - analisar e julgar as condições de habilitação, facultada a requisição de subsídios formais aos setores responsáveis pela elaboração desses documentos;
+* XII - realizar as negociações cabíveis, inclusive das condições mais vantajosas com o primeiro colocado no certame;
+* XIII - sanear erros ou falhas que não alterem a substância das propostas e a validade jurídica dos documentos de habilitação;
+* XIV - declarar o licitante vencedor;
+* XV - receber, instruir e analisar recursos, facultado o exercício de juízo de retratação;
+* XVI - adjudicar o objeto, quando não houver recurso ou quando houver juízo de retração;
+* XVII - quando não houver juízo de retratação, encaminhar o processo devidamente instruído, à autoridade competente para fins de julgamento de recurso e adjudicação;
+* XVIII - elaborar relatório final após a adjudicação e encaminhar o processo à autoridade competente para fins de homologação;
+* XIX - coordenar os trabalhos da equipe de apoio.
 
 § 1º O agente ou a comissão de contratação não se responsabilizará pelas especificações técnicas do objeto, pela validação da pesquisa de preço ou pela compatibilidade do orçamento referencial com os parâmetros de mercado, nem responderá pelas decisões que envolvam discricionariedade da Administração.
 
@@ -648,9 +485,8 @@ XIX - coordenar os trabalhos da equipe de apoio.
 
 § 3º A fase preparatória inclui as competências descritas nos incisos I a V do caput e, na hipótese do § 2º, as seguintes atribuições adicionais:
 
-I - acompanhar a elaboração do estudo técnico preliminar, termo de referência, anteprojeto, projeto básico, projeto executivo e matriz de riscos, conforme o caso, bem como da pesquisa de preço;
-
-II - participar da análise dos riscos que possam comprometer o sucesso da licitação e a boa execução contratual.
+* I - acompanhar a elaboração do estudo técnico preliminar, termo de referência, anteprojeto, projeto básico, projeto executivo e matriz de riscos, conforme o caso, bem como da pesquisa de preço;
+* II - participar da análise dos riscos que possam comprometer o sucesso da licitação e a boa execução contratual.
 
 § 4º Na hipótese do §2º, a atuação do agente de contratação deve se ater à coordenação das atividades descritas no inciso I do § 3º não se responsabilizando pela confecção ou execução material dos referidos documentos.
 
@@ -662,17 +498,14 @@ Art. 58. Nos processos de contratação direta, caberá ao agente de contrataç�
 
 Art. 59. Compete à Comissão de Contratação, em caráter permanente ou especial, a condução dos seguintes procedimentos:
 
-I - licitação na modalidade concorrência para contratação de bens e serviços especiais, a critério da autoridade competente, sendo obrigatória quando:
+* I - licitação na modalidade concorrência para contratação de bens e serviços especiais, a critério da autoridade competente, sendo obrigatória quando:
 
-a) o critério de julgamento for técnica e preço ou melhor técnica;
+  * a) o critério de julgamento for técnica e preço ou melhor técnica;
+  * b) o regime de execução for contratação integrada ou semi-integrada; e
+  * c) o valor estimado da contratação for considerado de grande vulto, na forma da lei;
 
-b) o regime de execução for contratação integrada ou semi-integrada; e
-
-c) o valor estimado da contratação for considerado de grande vulto, na forma da lei;
-
-II - licitação nas modalidades Diálogo Competitivo e Concurso; e
-
-III - procedimentos auxiliares de Pré-Qualificação, Registro Cadastral e Procedimento de Manifestação de Interesse.
+* II - licitação nas modalidades Diálogo Competitivo e Concurso; e
+* III - procedimentos auxiliares de Pré-Qualificação, Registro Cadastral e Procedimento de Manifestação de Interesse.
 
 § 1º Poderá ser contratado, por prazo determinado, serviço de empresa ou de profissional especializado para assessorar a comissão de contratação.
 
@@ -692,19 +525,13 @@ Art. 63. No exercício de suas atribuições, os agentes e as comissões de cont
 
 Art. 64. Caberá à autoridade máxima do órgão ou da entidade licitante:
 
-I - autorizar a abertura do processo licitatório;
-
-II - decidir os recursos contra atos do agente de contratação, da comissão de contratação ou do leiloeiro;
-
-III - adjudicar o objeto da licitação, em caso de recurso, e homologar o processo;
-
-IV - autorizar as contratações diretas;
-
-V - celebrar o contrato;
-
-VI - revogar e anular a licitação; e
-
-VII - determinar o retorno dos autos para saneamento de irregularidades.
+* I - autorizar a abertura do processo licitatório;
+* II - decidir os recursos contra atos do agente de contratação, da comissão de contratação ou do leiloeiro;
+* III - adjudicar o objeto da licitação, em caso de recurso, e homologar o processo;
+* IV - autorizar as contratações diretas;
+* V - celebrar o contrato;
+* VI - revogar e anular a licitação; e
+* VII - determinar o retorno dos autos para saneamento de irregularidades.
 
 Art. 65. O gestor de contrato é o agente público designado pela autoridade competente do órgão contratante, preferencialmente entre servidores efetivos ou empregados públicos dos quadros permanentes da Administração Pública, responsável pela coordenação das atividades relacionadas à fiscalização técnica e administrativa do contrato.
 
@@ -720,13 +547,10 @@ Art. 66. O fiscal do contrato é o agente público designado pela autoridade com
 
 Art. 67. Na designação do gestor e do fiscal do contrato, serão observadas as seguintes diretrizes:
 
-I - a autoridade competente verificará, previamente ao ato de designação, o quantitativo de contratos sob a responsabilidade do gestor ou fiscal, bem como o exercício concomitante de outras competências funcionais, de modo a assegurar que a gestão e fiscalização do contrato serão realizadas de forma adequada;
-
-II - a designação será feita nominalmente por ato da autoridade competente, sendo admitida a substituição do gestor ou do fiscal, por razões de conveniência ou interesse público;
-
-III - a designação será objeto de Termo de Ciência, que deverá ser obrigatoriamente assinada pelo gestor e fiscal do contrato; e
-
-IV - é vedada a designação do mesmo agente público para a atuação simultânea como fiscal ou agente de contratação e outras funções suscetíveis a riscos durante o processo de contratação.
+* I - a autoridade competente verificará, previamente ao ato de designação, o quantitativo de contratos sob a responsabilidade do gestor ou fiscal, bem como o exercício concomitante de outras competências funcionais, de modo a assegurar que a gestão e fiscalização do contrato serão realizadas de forma adequada;
+* II - a designação será feita nominalmente por ato da autoridade competente, sendo admitida a substituição do gestor ou do fiscal, por razões de conveniência ou interesse público;
+* III - a designação será objeto de Termo de Ciência, que deverá ser obrigatoriamente assinada pelo gestor e fiscal do contrato; e
+* IV - é vedada a designação do mesmo agente público para a atuação simultânea como fiscal ou agente de contratação e outras funções suscetíveis a riscos durante o processo de contratação.
 
 Art. 68. Os processos de responsabilização, para fins de aplicação de sanções administrativas por infração contratual, serão instaurados e conduzidos por Comissão constituída por 2 (dois) ou mais servidores estáveis ou empregados públicos com, no mínimo, 3 (três) anos de tempo de serviço.
 
@@ -736,81 +560,54 @@ Art. 69. O exercício do assessoramento jurídico dos agentes, comissões, fisca
 
 Art. 70. Normas complementares para a fiel execução desta Seção poderão ser expedidas pela Secretaria de Administração e Procuradoria Geral do Estado.
 
-Seção X
-
-Da Confecção do Instrumento Convocatório, da Minuta do Termo do Contrato e da Minuta da Ata de Registro de Preços
+### **Seção X - Da Confecção do Instrumento Convocatório, da Minuta do Termo do Contrato e da Minuta da Ata de Registro de Preços**
 
 Art. 71. O edital ou instrumento convocatório é documento obrigatório para todos os processos licitatórios e tem por finalidade fixar as condições necessárias à participação dos licitantes, ao desenvolvimento do certame e à futura contratação, devendo conter, no mínimo, os seguintes elementos:
 
-I - o objeto da licitação;
+* I - o objeto da licitação;
+* II - a modalidade e a forma de realização da licitação, eletrônica ou presencial;
+* III - o modo de disputa, os critérios de classificação para cada etapa da disputa, bem como as regras e prazo para apresentação de propostas e de lances;
+* IV - os requisitos de conformidade das propostas;
+* V - os critérios de desempate e os critérios de julgamento;
+* VI - os requisitos de habilitação;
+* VII - o prazo de validade da proposta;
+* VIII - os prazos e meios para apresentação de pedidos de esclarecimentos, impugnações e recursos;
+* IX - a possibilidade e as condições de subcontratação e de participação de empresas sob a forma de consórcios;
+* X - a exigência de prova de qualidade do produto, do processo de fabricação ou do serviço, quando for o caso, por meio de:
 
-II - a modalidade e a forma de realização da licitação, eletrônica ou presencial;
+  * a) indicação de marca ou modelo;
+  * b) apresentação de amostra;
+  * c) realização de prova de conceito ou de outros testes;
+  * d) apresentação de certificação, certificado, laudo laboratorial ou documento similar; e
+  * e) de carta de solidariedade emitida pelo fabricante.
 
-III - o modo de disputa, os critérios de classificação para cada etapa da disputa, bem como as regras e prazo para apresentação de propostas e de lances;
-
-IV - os requisitos de conformidade das propostas;
-
-V - os critérios de desempate e os critérios de julgamento;
-
-VI - os requisitos de habilitação;
-
-VII - o prazo de validade da proposta;
-
-VIII - os prazos e meios para apresentação de pedidos de esclarecimentos, impugnações e recursos;
-
-IX - a possibilidade e as condições de subcontratação e de participação de empresas sob a forma de consórcios;
-
-X - a exigência de prova de qualidade do produto, do processo de fabricação ou do serviço, quando for o caso, por meio de:
-
-a) indicação de marca ou modelo;
-
-b) apresentação de amostra;
-
-c) realização de prova de conceito ou de outros testes;
-
-d) apresentação de certificação, certificado, laudo laboratorial ou documento similar; e
-
-e) de carta de solidariedade emitida pelo fabricante.
-
-XI - os prazos e condições para a entrega do objeto;
-
-XII - as formas, condições e prazos de pagamento, bem como o critério de reajustamento do preço, independentemente do prazo de duração do contrato;
-
-XIII - a exigência de garantias e seguros, quando for o caso;
-
-XIV - as regras relativas à fiscalização e à gestão do contrato, contendo os critérios objetivos de avaliação do desempenho do contratado, bem como os requisitos da remuneração variável, quando for o caso;
-
-XV - as sanções administrativas; e
-
-XVI - outras indicações específicas da licitação.
+* XI - os prazos e condições para a entrega do objeto;
+* XII - as formas, condições e prazos de pagamento, bem como o critério de reajustamento do preço, independentemente do prazo de duração do contrato;
+* XIII - a exigência de garantias e seguros, quando for o caso;
+* XIV - as regras relativas à fiscalização e à gestão do contrato, contendo os critérios objetivos de avaliação do desempenho do contratado, bem como os requisitos da remuneração variável, quando for o caso;
+* XV - as sanções administrativas; e
+* XVI - outras indicações específicas da licitação.
 
 § 1º No caso de obras ou serviços de engenharia, o instrumento convocatório conterá ainda:
 
-I - o cronograma de execução, com as etapas necessárias à medição, ao monitoramento e ao controle das obras, salvo se o prazo de execução for de até 30 (trinta) dias;
-
-II - a exigência de que o contratado conceda livre acesso aos seus documentos e registros contábeis, referentes ao objeto da licitação, para os servidores ou empregados do órgão ou entidade contratante e dos órgãos de controle interno e externo.
+* I - o cronograma de execução, com as etapas necessárias à medição, ao monitoramento e ao controle das obras, salvo se o prazo de execução for de até 30 (trinta) dias;
+* II - a exigência de que o contratado conceda livre acesso aos seus documentos e registros contábeis, referentes ao objeto da licitação, para os servidores ou empregados do órgão ou entidade contratante e dos órgãos de controle interno e externo.
 
 Art. 72. Integram o instrumento convocatório, como anexos:
 
-I - o termo de referência, anteprojeto ou projeto básico, conforme o caso;
-
-II - a minuta do contrato ou do instrumento equivalente e da ata de registro de preços, quando houver;
-
-III - o orçamento estimado, se não for sigiloso;
-
-IV - o instrumento de medição de resultado, quando for o caso;
-
-V - o modelo de apresentação da proposta;
-
-VI - os modelos de declarações exigidas no certame; e
-
-VII - a matriz de risco, quando for o caso.
+* I - o termo de referência, anteprojeto ou projeto básico, conforme o caso;
+* II - a minuta do contrato ou do instrumento equivalente e da ata de registro de preços, quando houver;
+* III - o orçamento estimado, se não for sigiloso;
+* IV - o instrumento de medição de resultado, quando for o caso;
+* V - o modelo de apresentação da proposta;
+* VI - os modelos de declarações exigidas no certame; e
+* VII - a matriz de risco, quando for o caso.
 
 Art. 73. Os instrumentos convocatórios, minutas de contratos e minutas de atas de registro de preços deverão ser elaborados com observância obrigatória dos modelos padronizados pela Procuradoria Geral do Estado - PGE, sempre que houver.
 
 Parágrafo único. Nas contratações envolvendo objetos para os quais tenham sido publicados os Cadernos de Padronização de Contratações pela Secretaria de Administração, de que tratam os arts. 77 A 80, os instrumentos mencionados no caput sofrerão as adequações necessárias, nos termos indicados no respectivo Caderno.
 
-##### **Seção XI - Da Audiência e Consulta Pública**
+### **Seção XI - Da Audiência e Consulta Pública**
 
 Art. 74. A Administração poderá convocar, com antecedência mínima de 8 (oito) dias úteis da data prevista, audiência pública, cuja sessão poderá ser realizada de forma presencial ou eletrônica, com possibilidade de manifestação de todos os interessados, sobre licitação que pretenda realizar, como instrumento de apoio ao processo decisório da Administração Pública, com o objetivo de promover o diálogo com a sociedade e buscar soluções de questões que contenham interesse público relevante.
 
@@ -824,39 +621,30 @@ Art. 75. A Administração poderá submeter a licitação à prévia consulta p�
 
 § 1º Poderá ser objeto de consulta pública:
 
-I - procedimentos licitatórios;
-
-II - contratações diretas;
-
-III - normas;
-
-IV - orientações; ou
-
-V - outros instrumentos que se configurem importantes para os procedimentos de licitações e contratações de que trata este Decreto.
+* I - procedimentos licitatórios;
+* II - contratações diretas;
+* III - normas;
+* IV - orientações; ou
+* V - outros instrumentos que se configurem importantes para os procedimentos de licitações e contratações de que trata este Decreto.
 
 § 2º O edital para divulgação da consulta pública poderá prever procedimento de prospecção mediante consulta a potenciais contratados.
 
-##### **Seção XII - Do Controle Prévio de Legalidade da Fase Preparatória**
+### **Seção XII - Do Controle Prévio de Legalidade da Fase Preparatória**
 
 Art. 76. Encerrada a fase preparatória das licitações e contratações diretas, os instrumentos convocatórios, minutas dos contratos, minutas das atas de registro de preços, quando for o caso, e demais documentos produzidos serão submetidos a controle prévio de legalidade por meio de análise jurídica da Procuradoria-Geral do Estado, com o auxílio dos setores jurídicos internos dos órgãos, autarquias e fundações públicas do Poder Executivo, conforme competências fixadas nas regulamentações específicas.
 
-##### **Seção XIII - Da Padronização Das Contratações**
+### **Seção XIII - Da Padronização Das Contratações**
 
 Art. 77. As contratações de serviços e fornecimentos contínuos poderão ser padronizadas pela Secretaria de Administração, por meio da adoção de Cadernos de Padronização de Contratações, visando à obtenção de melhores resultados e maior eficiência para a Administração Pública estadual.
 
 Art. 78. Os Cadernos de Padronização de Contratações serão definidos em ato da Secretaria de Administração e contemplarão especificações, modelos e instruções para a elaboração dos seguintes instrumentos:
 
-I - Especificações Técnicas;
-
-II - Estudo Técnico Preliminar;
-
-III - Termo de Referência;
-
-IV - Mapa de riscos;
-
-V - Modelo de fiscalização contratual e instrumento de medição do resultado, quando for o caso;
-
-VI - Matriz de riscos, quando for o caso.
+* I - Especificações Técnicas;
+* II - Estudo Técnico Preliminar;
+* III - Termo de Referência;
+* IV - Mapa de riscos;
+* V - Modelo de fiscalização contratual e instrumento de medição do resultado, quando for o caso;
+* VI - Matriz de riscos, quando for o caso.
 
 Art. 79. Será obrigatória a utilização dos modelos e instruções constantes nos Cadernos de Padronização de Contratações para os objetos contratuais neles incluídos.
 
@@ -864,11 +652,11 @@ Parágrafo único. Excepcionalmente, poderá ser dispensado o disposto no caput,
 
 Art. 80. Os Cadernos de Padronização de Contratações serão publicados em sítio eletrônico da Secretaria de Administração, devendo ser atualizados sempre que houver necessidade.
 
-#### **CAPÍTULO IV - DOS PROCEDIMENTOS EM PROCESSOS LICITATÓRIOS**
+## **CAPÍTULO IV - DOS PROCEDIMENTOS EM PROCESSOS LICITATÓRIOS**
 
-##### **Seção I - Do Critério de Julgamento Por Menor Preço ou Maior Desconto**
+### **Seção I - Do Critério de Julgamento Por Menor Preço ou Maior Desconto**
 
-###### **Subseção I - Disposições Gerais**
+#### **Subseção I - Disposições Gerais**
 
 Art. 81. Esta Seção dispõe sobre a licitação pelo critério de julgamento por menor preço ou maior desconto, na forma eletrônica, para a contratação de bens, serviços e obras.
 
@@ -876,61 +664,49 @@ Art. 82. O critério de julgamento de menor preço ou maior desconto será adota
 
 Art. 83. O critério de julgamento de menor preço ou maior desconto será adotado:
 
-I - na modalidade pregão, obrigatoriamente;
-
-II - na modalidade concorrência;
-
-III - na fase competitiva da modalidade diálogo competitivo, quando for entendido como o mais adequado à solução identificada na fase de diálogo.
+* I - na modalidade pregão, obrigatoriamente;
+* II - na modalidade concorrência;
+* III - na fase competitiva da modalidade diálogo competitivo, quando for entendido como o mais adequado à solução identificada na fase de diálogo.
 
 Art. 84. Para fins do disposto nesta Seção, consideram-se lances intermediários:
 
-I - lances iguais ou superiores ao menor já ofertado, quando adotado o critério de julgamento de menor preço; e
-
-II - lances iguais ou inferiores ao maior já ofertado, quando adotado o critério de julgamento de maior desconto.
+* I - lances iguais ou superiores ao menor já ofertado, quando adotado o critério de julgamento de menor preço; e
+* II - lances iguais ou inferiores ao maior já ofertado, quando adotado o critério de julgamento de maior desconto.
 
 Art. 85. Deverá ser observado o disposto no art. 14 da [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md), em relação à vedação de participar do procedimento de licitação de que trata esta Seção.
 
-###### **Subseção II - Dos Procedimentos**
+#### **Subseção II - Dos Procedimentos**
 
-**Forma de realização**
+##### **Forma de realização**
 
 Art. 86. A licitação será realizada à distância e em sessão pública, por meio do sistema de compras indicado pela Secretaria de Administração.
 
 Parágrafo único. Deverão ser observados os procedimentos estabelecidos em manuais técnicos referentes ao sistema eletrônico indicado no caput.
 
-Fases
+##### **Fases**
 
 Art. 87. A realização da licitação pelo critério do menor preço ou maior desconto observará as seguintes fases sucessivas:
 
-I - preparatória;
-
-II - divulgação do edital de licitação;
-
-III - apresentação de propostas e lances;
-
-IV - julgamento;
-
-V - habilitação;
-
-VI - recursal; e
-
-VII - homologação.
+* I - preparatória;
+* II - divulgação do edital de licitação;
+* III - apresentação de propostas e lances;
+* IV - julgamento;
+* V - habilitação;
+* VI - recursal; e
+* VII - homologação.
 
 § 1º A fase referida no inciso V do caput deste artigo poderá, mediante ato motivado com explicitação dos benefícios decorrentes, anteceder as fases referidas nos incisos III e IV do caput deste artigo, desde que expressamente previsto no edital de licitação e observados os seguintes requisitos, nesta ordem:
 
-I - os licitantes apresentarão simultaneamente os documentos de habilitação e as propostas com o preço ou o maior desconto, observado o disposto no § 1º do art. 115 e no § 1º do art. 118;
-
-II - o agente de contratação ou comissão de contratação, quando o substituir, na abertura da sessão pública, deverá informar no sistema o prazo para a verificação dos documentos de habilitação, a que se refere o inciso I, e a data e o horário para manifestação da intenção de recorrer do resultado da habilitação, nos termos do art. 119;
-
-III - serão verificados os documentos de habilitação de todos os licitantes, observado o disposto no § 3º do art. 118; e
-
-IV - serão convocados para envio de lances apenas os licitantes habilitados.
+* I - os licitantes apresentarão simultaneamente os documentos de habilitação e as propostas com o preço ou o maior desconto, observado o disposto no § 1º do art. 115 e no § 1º do art. 118;
+* II - o agente de contratação ou comissão de contratação, quando o substituir, na abertura da sessão pública, deverá informar no sistema o prazo para a verificação dos documentos de habilitação, a que se refere o inciso I, e a data e o horário para manifestação da intenção de recorrer do resultado da habilitação, nos termos do art. 119;
+* III - serão verificados os documentos de habilitação de todos os licitantes, observado o disposto no § 3º do art. 118; e
+* IV - serão convocados para envio de lances apenas os licitantes habilitados.
 
 § 2º Eventual postergação do prazo a que se refere o inciso II do § 1º deve ser comunicada tempestivamente via sistema, de forma a não cercear o direito de recorrer do licitante.
 
 § 3º Na adoção da modalidade de licitação diálogo competitivo, na forma do disposto no inciso III do art. 83, serão observadas as fases próprias desta modalidade, nos termos do art. 32 da [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md).
 
-**Parâmetros do critério de julgamento**
+##### **Parâmetros do critério de julgamento**
 
 Art. 88. O critério de julgamento por menor preço ou maior desconto considerará o menor dispêndio para a Administração, atendidos os parâmetros mínimos de qualidade definidos no edital de licitação.
 
@@ -940,21 +716,21 @@ Art. 88. O critério de julgamento por menor preço ou maior desconto considerar
 
 #### **Subseção III - Da Condução do Processo**
 
-**Agente de contratação ou comissão de contratação**
+##### **Agente de contratação ou comissão de contratação**
 
 Art. 89. A licitação, na forma eletrônica, será conduzida pelo agente de contratação ou pela comissão de contratação, quando o substituir, nos termos do disposto no § 2º do art. 8º da [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md).
 
 Parágrafo único. A designação e atuação do agente de contratação, da equipe de apoio e da comissão de contratação deverão ser estabelecidas de acordo com as regras definidas na [Seção IX](#seção-ix---da-designação-do-agente-de-contratação-da-equipe-de-apoio-e-da-comissão-de-contratação) do [Capítulo III](#capítulo-iii---da-fase-preparatória-da-licitação-e-da-contratação-direta) deste Decreto.
 
-###### **Subseção IV - da Fase Preparatória**
+#### **Subseção IV - da Fase Preparatória**
 
-**Orientações gerais**
+##### **Orientações gerais**
 
 Art. 90. A fase preparatória do processo licitatório deve compatibilizar-se com o Plano Anual de Contratações, se houver, e com as leis orçamentárias, bem como abordar todas as considerações técnicas, mercadológicas e de gestão que podem interferir na contratação, compreendidos os documentos e procedimentos necessários de que dispõe o art. 18 da [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md), observada a modalidade de licitação adotada, nos termos do art. 83.
 
 Parágrafo único. Os preceitos do desenvolvimento sustentável serão observados na fase preparatória da licitação, em suas dimensões econômica, social, ambiental e cultural, no mínimo, com base nos planos de gestão de logística sustentável dos órgãos e das entidades.
 
-**Orçamento estimado sigiloso**
+##### **Orçamento estimado sigiloso**
 
 Art. 91. Desde que justificado, o orçamento estimado da contratação poderá ter caráter sigiloso, sem prejuízo da divulgação do detalhamento dos quantitativos e das demais informações necessárias para a elaboração das propostas.
 
@@ -964,33 +740,29 @@ Art. 91. Desde que justificado, o orçamento estimado da contratação poderá t
 
 § 3º Nas hipóteses em que for adotado o critério de julgamento pelo maior desconto, o valor estimado ou o valor de referência para aplicação do desconto constará obrigatoriamente do edital de licitação.
 
-**Das obrigações do licitante**
+##### **Das obrigações do licitante**
 
 Art. 92. Caberá ao licitante interessado em participar da licitação, na forma eletrônica:
 
-I - credenciar-se previamente no cadastro eletrônico de fornecedores utilizado no certame;
+* I - credenciar-se previamente no cadastro eletrônico de fornecedores utilizado no certame;
+* II - remeter, no prazo estabelecido, exclusivamente via sistema, a proposta com o preço ou o desconto e, na hipótese de inversão de fases, os documentos de habilitação, observado o disposto no caput e no § 1º do art. 118, até a data e hora marcadas para abertura da sessão;
+* III - responsabilizar-se formalmente pelas transações efetuadas em seu nome, assumir como firmes e verdadeiras suas propostas e seus lances, inclusive os atos praticados diretamente ou por seu representante, excluída a responsabilidade do provedor do sistema ou do órgão ou entidade promotora da licitação por eventuais danos decorrentes de uso indevido da senha, ainda que por terceiros;
+* IV - acompanhar as operações no sistema eletrônico durante o processo licitatório e responsabilizar-se pelo ônus decorrente da perda de negócios diante da inobservância de mensagens emitidas pela Administração ou de sua desconexão; e
+* V - comunicar imediatamente ao provedor do sistema qualquer acontecimento que possa comprometer o sigilo ou a segurança, para imediato bloqueio de acesso.
 
-II - remeter, no prazo estabelecido, exclusivamente via sistema, a proposta com o preço ou o desconto e, na hipótese de inversão de fases, os documentos de habilitação, observado o disposto no caput e no § 1º do art. 118, até a data e hora marcadas para abertura da sessão;
+#### **Subseção V - Da Fase de Divulgação do Edital de Licitação**
 
-III - responsabilizar-se formalmente pelas transações efetuadas em seu nome, assumir como firmes e verdadeiras suas propostas e seus lances, inclusive os atos praticados diretamente ou por seu representante, excluída a responsabilidade do provedor do sistema ou do órgão ou entidade promotora da licitação por eventuais danos decorrentes de uso indevido da senha, ainda que por terceiros;
-
-IV - acompanhar as operações no sistema eletrônico durante o processo licitatório e responsabilizar-se pelo ônus decorrente da perda de negócios diante da inobservância de mensagens emitidas pela Administração ou de sua desconexão; e
-
-V - comunicar imediatamente ao provedor do sistema qualquer acontecimento que possa comprometer o sigilo ou a segurança, para imediato bloqueio de acesso.
-
-###### **Subseção V - Da Fase de Divulgação do Edital de Licitação**
-
-**Divulgação**
+##### **Divulgação**
 
 Art. 93. A fase externa da licitação, na forma eletrônica, será iniciada com a convocação dos interessados por meio da publicação do inteiro teor do edital de licitação e de seus anexos no PNCP.
 
 Parágrafo único. Sem prejuízo do disposto no caput, é obrigatória a publicação de extrato do edital no Diário Oficial do Estado, ou, no caso de consórcio público, do ente de maior nível entre eles, bem como em jornal diário de grande circulação.
 
-**Modificação do edital de licitação**
+##### **Modificação do edital de licitação**
 
 Art. 94. Eventuais modificações no edital de licitação implicarão nova divulgação na mesma forma de sua divulgação inicial, além do cumprimento dos mesmos prazos dos atos e procedimentos originais, exceto se, inquestionavelmente, a alteração não comprometer a formulação das propostas, resguardado o tratamento isonômico aos licitantes.
 
-**Esclarecimentos e impugnações**
+##### **Esclarecimentos e impugnações**
 
 Art. 95. Qualquer pessoa é parte legítima para impugnar edital de licitação por irregularidade ou para solicitar esclarecimento sobre os seus termos, devendo encaminhar o pedido até 3 (três) dias úteis antes da data de abertura da sessão pública, por meio eletrônico, na forma prevista no edital de licitação.
 
@@ -1002,27 +774,23 @@ Art. 95. Qualquer pessoa é parte legítima para impugnar edital de licitação 
 
 § 4º As respostas aos pedidos de esclarecimentos e impugnações serão divulgadas em sítio eletrônico oficial do órgão ou da entidade promotora da licitação e no sistema, dentro do prazo estabelecido no § 1º, e vincularão os participantes e a Administração.
 
-###### **Subseção VI - Da Fase da Apresentação da Proposta e Lances**
+#### **Subseção VI - Da Fase da Apresentação da Proposta e Lances**
 
-**Prazos**
+##### **Prazos**
 
 Art. 96. Os prazos mínimos para a apresentação das propostas e lances, contados a partir do 1º do útil subsequente à data de divulgação do edital de licitação no PNCP, são de:
 
-I - 8 (oito) dias úteis, para a aquisição de bens;
+* I - 8 (oito) dias úteis, para a aquisição de bens;
+* II - no caso de serviços e obras:
 
-II - no caso de serviços e obras:
-
-a) 10 (dez) dias úteis, no caso de serviços comuns e de obras e serviços comuns de engenharia;
-
-b) 25 (vinte e cinco) dias úteis, no caso de serviços especiais e de obras e serviços especiais de engenharia;
-
-c) 60 (sessenta) dias úteis, quando o regime de execução for de contratação integrada;
-
-d) 35 (trinta e cinco) dias úteis, quando o regime de execução for o de contratação semi-integrada ou nas hipóteses não abrangidas pelas alíneas "a", "b" e "c" deste inciso;
+  * a) 10 (dez) dias úteis, no caso de serviços comuns e de obras e serviços comuns de engenharia;
+  * b) 25 (vinte e cinco) dias úteis, no caso de serviços especiais e de obras e serviços especiais de engenharia;
+  * c) 60 (sessenta) dias úteis, quando o regime de execução for de contratação integrada;
+  * d) 35 (trinta e cinco) dias úteis, quando o regime de execução for o de contratação semi-integrada ou nas hipóteses não abrangidas pelas alíneas "a", "b" e "c" deste inciso;
 
 § 1º O prazo mínimo para apresentação de propostas será de 60 (sessenta) dias úteis na fase competitiva da modalidade licitatória diálogo competitivo, em atenção ao disposto no inciso VIII do § 1º do art. 32 da [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md).
 
-**Apresentação da proposta**
+##### **Apresentação da proposta**
 
 Art. 97. Após a divulgação do edital de licitação, os licitantes encaminharão, exclusivamente por meio do sistema, a proposta com o preço ou o percentual de desconto, até a data e o horário estabelecidos para abertura da sessão pública.
 
@@ -1040,21 +808,19 @@ Art. 97. Após a divulgação do edital de licitação, os licitantes encaminhar
 
 Art. 98. Quando do cadastramento da proposta, na forma estabelecida no art. 97, o licitante poderá parametrizar o seu valor final mínimo ou o seu percentual de desconto final máximo e obedecerá às seguintes regras:
 
-I - a aplicação do intervalo mínimo de diferença de valores ou de percentuais entre os lances, que incidirá tanto em relação aos lances intermediários quanto em relação ao lance que cobrir a melhor oferta; e
-
-II - os lances serão de envio automático pelo sistema, respeitado o valor final mínimo estabelecido e o intervalo de que trata o inciso I.
+* I - a aplicação do intervalo mínimo de diferença de valores ou de percentuais entre os lances, que incidirá tanto em relação aos lances intermediários quanto em relação ao lance que cobrir a melhor oferta; e
+* II - os lances serão de envio automático pelo sistema, respeitado o valor final mínimo estabelecido e o intervalo de que trata o inciso I.
 
 § 1º O valor final mínimo ou o percentual de desconto final máximo de que trata o caput poderá ser alterado pelo fornecedor durante a fase de disputa, sendo vedado:
 
-I - valor superior a lance já registrado pelo fornecedor no sistema, quando adotado o critério de julgamento por menor preço; e
-
-II - percentual de desconto inferior a lance já registrado pelo fornecedor no sistema, quando adotado o critério de julgamento por maior desconto.
+* I - valor superior a lance já registrado pelo fornecedor no sistema, quando adotado o critério de julgamento por menor preço; e
+* II - percentual de desconto inferior a lance já registrado pelo fornecedor no sistema, quando adotado o critério de julgamento por maior desconto.
 
 § 2º O valor final mínimo ou o percentual de desconto final máximo parametrizado na forma do caput possuirá caráter sigiloso para os demais fornecedores e para o órgão ou entidade promotora da licitação, podendo ser disponibilizado estrita e permanentemente aos órgãos de controle externo e interno.
 
-###### **Subseção VII - Da Abertura da Sessão Pública e da Fase de Envio de Lances**
+#### **Subseção VII - Da Abertura da Sessão Pública e da Fase de Envio de Lances**
 
-**Horário de abertura**
+##### **Horário de abertura**
 
 Art. 99. A partir do horário previsto no edital de licitação, a sessão pública será aberta automaticamente pelo sistema.
 
@@ -1062,7 +828,7 @@ Art. 99. A partir do horário previsto no edital de licitação, a sessão públ
 
 § 2º O sistema disponibilizará campo próprio para troca de mensagens entre o agente de contratação ou a comissão de contratação, quando o substituir, e os licitantes, vedada outra forma de comunicação.
 
-**Início da fase competitiva**
+##### **Início da fase competitiva**
 
 Art. 100. Iniciada a fase competitiva, observado o modo de disputa adotado no edital, nos termos do disposto no art. 101, os licitantes poderão encaminhar lances exclusivamente por meio do sistema eletrônico.
 
@@ -1078,25 +844,22 @@ Art. 100. Iniciada a fase competitiva, observado o modo de disputa adotado no ed
 
 § 6º Durante a sessão pública, os licitantes serão informados, em tempo real, do valor do melhor lance registrado, vedada a identificação do licitante.
 
-**Modos de disputa**
+##### **Modos de disputa**
 
 Art. 101. Serão adotados para o envio de lances os seguintes modos de disputa:
 
-I - aberto: os licitantes apresentarão lances públicos e sucessivos, com prorrogações, conforme o critério de julgamento adotado no edital de licitação;
-
-II - aberto e fechado: os licitantes apresentarão lances públicos e sucessivos, com lance final fechado, conforme o critério de julgamento adotado no edital de licitação; ou
-
-III - fechado e aberto: serão classificados para a etapa da disputa aberta, com a apresentação de lances públicos e sucessivos, o licitante que apresentou a proposta de menor preço ou maior percentual desconto e os das propostas até 10% (dez por cento) superiores ou inferiores àquela, conforme o critério de julgamento adotado.
+* I - **aberto**: os licitantes apresentarão lances públicos e sucessivos, com prorrogações, conforme o critério de julgamento adotado no edital de licitação;
+* II - **aberto e fechado**: os licitantes apresentarão lances públicos e sucessivos, com lance final fechado, conforme o critério de julgamento adotado no edital de licitação; ou
+* III - **fechado e aberto**: serão classificados para a etapa da disputa aberta, com a apresentação de lances públicos e sucessivos, o licitante que apresentou a proposta de menor preço ou maior percentual desconto e os das propostas até 10% (dez por cento) superiores ou inferiores àquela, conforme o critério de julgamento adotado.
 
 § 1º Quando da opção por um dos modos de disputa estabelecidos nos incisos I a III docaput, o edital preverá intervalo mínimo de diferença de valores ou de percentuais entre os lances, que incidirá tanto em relação aos lances intermediários quanto em relação ao lance que cobrir a melhor oferta.
 
 § 2º Os lances serão ordenados pelo sistema e divulgados da seguinte forma:
 
-I - ordem crescente, quando adotado o critério de julgamento por menor preço; ou
+* I - ordem crescente, quando adotado o critério de julgamento por menor preço; ou
+* II - ordem decrescente, quando adotado o critério de julgamento por maior desconto.
 
-II - ordem decrescente, quando adotado o critério de julgamento por maior desconto.
-
-**Modo de disputa aberto**
+##### **Modo de disputa aberto**
 
 Art. 102. No modo de disputa aberto, de que trata o inciso I do caput do art. 101, a etapa de envio de lances durará dez minutos e, após isso, será prorrogada automaticamente pelo sistema quando houver lance ofertado nos últimos dois minutos do período de duração desta etapa.
 
@@ -1110,7 +873,7 @@ Art. 102. No modo de disputa aberto, de que trata o inciso I do caput do art. 10
 
 § 5º Encerrada a etapa de que trata o § 4º, o sistema ordenará e divulgará os lances conforme disposto no § 2º do art. 101.
 
-**Modo de disputa aberto e fechado**
+##### **Modo de disputa aberto e fechado**
 
 Art. 103. No modo de disputa aberto e fechado, de que trata o inciso II do caput do art. 101, a etapa de envio de lances terá duração de quinze minutos.
 
@@ -1124,7 +887,7 @@ Art. 103. No modo de disputa aberto e fechado, de que trata o inciso II do caput
 
 § 5º Encerrados os prazos estabelecidos nos §§ 2º e 4º, o sistema ordenará e divulgará os lances conforme disposto no § 2º do art. 101.
 
-**Modo de disputa fechado e aberto**
+##### **Modo de disputa fechado e aberto**
 
 Art. 104. No modo de disputa fechado e aberto, de que trata o inciso III do caput do art. 101, somente serão classificados automaticamente pelo sistema, para a etapa da disputa aberta, na forma disposta no art. 102, com a apresentação de lances, o licitante que apresentou a proposta de menor preço ou maior percentual de desconto e os das propostas até 10% (dez por cento) superiores ou inferiores àquela, conforme o critério de julgamento adotado.
 
@@ -1136,21 +899,21 @@ Art. 104. No modo de disputa fechado e aberto, de que trata o inciso III do capu
 
 § 4º Encerrada a etapa de que trata o § 3º, o sistema ordenará e divulgará os lances conforme disposto no § 2º do art. 101.
 
-**Desconexão do sistema na etapa de lances**
+##### **Desconexão do sistema na etapa de lances**
 
 Art. 105. Na hipótese de o sistema eletrônico se desconectar no decorrer da etapa de envio de lances da sessão pública e permanecer acessível aos licitantes, os lances continuarão sendo recebidos, sem prejuízo dos atos realizados.
 
 Art. 106. Caso a desconexão do sistema eletrônico persistir por tempo superior a dez minutos para o órgão ou a entidade promotora da licitação, a sessão pública será suspensa e reiniciada somente decorridas vinte e quatro horas após a comunicação do fato aos participantes, no sítio eletrônico utilizado para divulgação.
 
-**Critérios de desempate**
+##### **Critérios de desempate**
 
 Art. 107. Em caso de empate entre duas ou mais propostas, serão utilizados os critérios de desempate previstos no art. 60 da [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md).
 
 Parágrafo único. Empatadas as propostas iniciais e não havendo o envio de lances após o início da fase competitiva, aplicam-se os critérios de desempate de que trata o caput.
 
-###### **Subseção VIII - Da Fase do Julgamento**
+#### **Subseção VIII - Da Fase do Julgamento**
 
-**Verificação da conformidade da proposta**
+##### **Verificação da conformidade da proposta**
 
 Art. 108. Encerrada a etapa de envio de lances da sessão pública, o agente de contratação ou a comissão de contratação, quando o substituir, realizará a verificação da conformidade da proposta classificada em primeiro lugar quanto à adequação ao objeto estipulado e, observado o disposto nos arts. 112 e 113, à compatibilidade do preço ou maior desconto final em relação ao estimado para a contratação, conforme definido no edital.
 
@@ -1160,9 +923,8 @@ Art. 108. Encerrada a etapa de envio de lances da sessão pública, o agente de 
 
 § 3º A prorrogação de que trata o § 2º, poderá ocorrer nas seguintes situações:
 
-I - por solicitação do licitante, mediante justificativa aceita pelo agente de contratação ou pela comissão de contratação, quando o substituir; ou
-
-II - de oficio, a critério do agente de contratação ou da comissão de contratação, quando o substituir, quando constatado que o prazo estabelecido não é suficiente para o envio dos documentos exigidos no edital para a verificação de conformidade de que trata o caput.
+* I - por solicitação do licitante, mediante justificativa aceita pelo agente de contratação ou pela comissão de contratação, quando o substituir; ou
+* II - de oficio, a critério do agente de contratação ou da comissão de contratação, quando o substituir, quando constatado que o prazo estabelecido não é suficiente para o envio dos documentos exigidos no edital para a verificação de conformidade de que trata o caput.
 
 Art. 109. Na hipótese da proposta do primeiro colocado permanecer acima do preço máximo ou inferior ao desconto definido para a contratação, o agente de contratação ou a comissão de contratação, quando o substituir, poderá negociar condições mais vantajosas, após definido o resultado do julgamento.
 
@@ -1178,7 +940,7 @@ Art. 110. No caso de licitações em que o procedimento exija apresentação de 
 
 Art. 111. Desde que previsto em edital, caso a proposta do licitante vencedor não atenda ao quantitativo total estimado para a contratação, poderá ser convocada a quantidade de licitantes necessária para alcançar o total estimado, respeitada a ordem de classificação, observado o preço da proposta vencedora.
 
-**Inexequibilidade da proposta**
+##### **Inexequibilidade da proposta**
 
 Art. 112. No caso de obras e serviços de engenharia, serão consideradas inexequíveis as propostas cujos valores forem inferiores a 75% (setenta e cinco por cento) do valor orçado pela Administração.
 
@@ -1186,17 +948,16 @@ Art. 113. No caso de bens e serviços em geral, é indício de inexequibilidade 
 
 Parágrafo único. A inexequibilidade, na hipótese de que trata o caput, só será considerada após diligência do agente de contratação ou da comissão de contratação, quando o substituir, que comprove:
 
-I - que o custo do licitante ultrapassa o valor da proposta; e
+* I - que o custo do licitante ultrapassa o valor da proposta; e
+* II - inexistirem custos de oportunidade capazes de justificar o vulto da oferta.
 
-II - inexistirem custos de oportunidade capazes de justificar o vulto da oferta.
-
-**Encerramento da fase de julgamento**
+##### **Encerramento da fase de julgamento**
 
 Art. 114. Encerrada a fase de julgamento, após a verificação de conformidade da proposta de que trata o art. 108, o agente de contratação ou a comissão de contratação, quando o substituir, verificará a documentação de habilitação do licitante conforme disposições do edital de licitação, observado o disposto na Subseção IX desta Seção.
 
-###### **Subseção IX - Da Fase de Habilitação**
+#### **Subseção IX - Da Fase de Habilitação**
 
-**Documentação obrigatória**
+##### **Documentação obrigatória**
 
 Art. 115. Para habilitação dos licitantes, serão exigidos os documentos necessários e suficientes para demonstrar a capacidade do licitante de realizar o objeto da licitação, nos termos dos arts. 62 a 70 da [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md).
 
@@ -1210,7 +971,7 @@ Parágrafo único. Na hipótese de o licitante vencedor ser empresa estrangeira 
 
 Art. 117. Quando permitida a participação de consórcio de empresas, será observado o disposto no art. 15 da [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md).
 
-**Procedimentos de verificação**
+##### **Procedimentos de verificação**
 
 Art. 118. A habilitação será verificada por meio do cadastro eletrônico de fornecedores indicado pela Secretaria de Administração, nos documentos por ele abrangidos, quando os procedimentos licitatórios forem realizados por órgãos ou entidades a que se refere o art. 1º ou por aqueles que aderirem ao referido cadastro.
 
@@ -1222,9 +983,8 @@ Art. 118. A habilitação será verificada por meio do cadastro eletrônico de f
 
 § 4º Após a apresentação dos documentos de habilitação, fica vedada a substituição ou a apresentação de novos documentos, salvo em sede de diligência, para:
 
-I - complementação de informações acerca dos documentos já apresentados pelos licitantes e desde que necessária para apurar fatos existentes à época da abertura do certame; e
-
-II - atualização de documentos cuja validade tenha expirado após a data de recebimento das propostas.
+* I - complementação de informações acerca dos documentos já apresentados pelos licitantes e desde que necessária para apurar fatos existentes à época da abertura do certame; e
+* II - atualização de documentos cuja validade tenha expirado após a data de recebimento das propostas.
 
 § 5º Na hipótese de que trata o § 2º, os documentos deverão ser apresentados em formato digital, via sistema, no prazo definido no edital de licitação, após solicitação do agente de contratação ou da comissão de contratação, quando o substituir, no sistema eletrônico, no prazo de, no mínimo, duas horas, prorrogável por igual período, nas situações elencadas no § 3º do art. 108.
 
@@ -1240,9 +1000,9 @@ II - atualização de documentos cuja validade tenha expirado após a data de re
 
 § 11 O órgão ou entidade demandante poderá ainda utilizar, para fins de habilitação do licitante, o SICAF - Sistema de Cadastramento Unificado de Fornecedores, mediante prévia assinatura de Termo de Acesso.
 
-###### **Subseção X - Da Intenção de Recorrer e a Fase Recursal**
+#### **Subseção X - Da Intenção de Recorrer e a Fase Recursal**
 
-**Intenção de recorrer e prazo para recurso**
+##### **Intenção de recorrer e prazo para recurso**
 
 Art. 119. Qualquer licitante poderá, durante o prazo concedido na sessão pública, não inferior a 10 minutos, de forma imediata após o término do julgamento das propostas e do ato de habilitação ou inabilitação, em campo próprio do sistema, manifestar sua intenção de recorrer, sob pena de preclusão, ficando a autoridade superior autorizada a adjudicar o objeto ao licitante declarado vencedor.
 
@@ -1254,29 +1014,29 @@ Art. 119. Qualquer licitante poderá, durante o prazo concedido na sessão públ
 
 § 4º O acolhimento do recurso importará na invalidação apenas dos atos que não possam ser aproveitados.
 
-###### **Subseção XI - Do Saneamento da Proposta e Dos Documentos de Habilitação**
+#### **Subseção XI - Do Saneamento da Proposta e Dos Documentos de Habilitação**
 
-**Proposta**
+##### **Proposta**
 
 Art. 120. O agente de contratação ou a comissão de contratação, quando o substituir, poderá, no julgamento das propostas, sanar erros ou falhas que não alterem a sua substância e sua validade jurídica, atribuindo-lhes eficácia para fins de classificação, observado o disposto no art. 55 da Lei Federal nº 9.784, de 29 de janeiro de 1999.
 
-**Documentos de habilitação**
+##### **Documentos de habilitação**
 
 Art. 121. A comissão de contratação poderá, na análise dos documentos de habilitação, sanar erros ou falhas que não alterem a substância dos documentos e sua validade jurídica, mediante decisão fundamentada, registrada em ata e acessível a todos, atribuindo-lhes eficácia para fins de habilitação.
 
-**Realização de diligências**
+##### **Realização de diligências**
 
 Art. 122. Na hipótese de necessidade de suspensão da sessão pública para a realização de diligências, com vistas ao saneamento de que tratam os arts. 120 e 121, o seu reinício somente poderá ocorrer mediante aviso prévio no sistema com, no mínimo, vinte e quatro horas de antecedência, e a ocorrência será registrada em ata.
 
-###### **Subseção XII - Da Fase de Homologação**
+#### **Subseção XII - Da Fase de Homologação**
 
-**Adjudicação objeto e homologação do procedimento**
+##### **Adjudicação objeto e homologação do procedimento**
 
 Art. 123. Encerradas as fases de julgamento e habilitação, e exauridos os recursos administrativos, o processo licitatório será encaminhado à autoridade superior para adjudicar o objeto e homologar o procedimento, observado o disposto no art. 71 da [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md).
 
-###### **Subseção XIII - Da Convocação Para a Contratação**
+#### **Subseção XIII - Da Convocação Para a Contratação**
 
-**Convocação para a assinatura do termo de contrato ou da ata de registro de preços**
+##### **Convocação para a assinatura do termo de contrato ou da ata de registro de preços**
 
 Art. 124. Após a homologação, o licitante vencedor será convocado para assinar o termo de contrato ou a ata de registro de preços, ou aceitar ou retirar o instrumento equivalente, no prazo estabelecido no edital de licitação, sob pena de decair o direito à contratação, sem prejuízo das sanções previstas na [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md), e em outras legislações aplicáveis.
 
@@ -1286,23 +1046,22 @@ Art. 124. Após a homologação, o licitante vencedor será convocado para assin
 
 § 3º Caso nenhum dos licitantes aceitar a contratação nos termos do § 2º, a Administração, observados o valor estimado e sua eventual atualização nos termos do edital de licitação, poderá:
 
-I - convocar os licitantes remanescentes para negociação, na ordem de classificação, com vistas à obtenção de preço melhor, mesmo que acima do preço ou inferior ao desconto do adjudicatário;
-
-II - adjudicar e celebrar o contrato nas condições ofertadas pelos licitantes remanescentes, atendida a ordem classificatória, quando frustrada a negociação de melhor condição.
+* I - convocar os licitantes remanescentes para negociação, na ordem de classificação, com vistas à obtenção de preço melhor, mesmo que acima do preço ou inferior ao desconto do adjudicatário;
+* II - adjudicar e celebrar o contrato nas condições ofertadas pelos licitantes remanescentes, atendida a ordem classificatória, quando frustrada a negociação de melhor condição.
 
 § 4º A recusa injustificada do adjudicatário em assinar o contrato ou a ata de registro de preço, ou em aceitar ou retirar o instrumento equivalente no prazo estabelecido pela Administração caracterizará o descumprimento total da obrigação assumida e o sujeitará às penalidades legalmente estabelecidas e à imediata perda da garantia de proposta em favor do órgão ou entidade promotora da licitação.
 
 § 5º A regra do § 4º não se aplicará aos licitantes remanescentes convocados na forma do inciso I do § 3º
 
-###### **Subseção XIV - Da Sanção**
+#### **Subseção XIV - Da Sanção**
 
-**Aplicação**
+##### **Aplicação**
 
 Art. 125. Os licitantes estarão sujeitos às sanções administrativas previstas na [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md), e às demais cominações legais, resguardado o direito à ampla defesa, conforme procedimento previsto na Lei Estadual nº 6.782/2016, que trata do procedimento administrativo no âmbito da Administração Pública Estadual.
 
-###### **Subseção XV - Da Revogação e da Anulação**
+#### **Subseção XV - Da Revogação e da Anulação**
 
-**Revogação e anulação**
+##### **Revogação e anulação**
 
 Art. 126. A autoridade superior poderá revogar o procedimento licitatório de que trata este Capítulo por motivo de conveniência e oportunidade, e deverá anular por ilegalidade insanável, de ofício ou por provocação de terceiros, assegurada a prévia manifestação dos interessados.
 
@@ -1314,191 +1073,158 @@ Art. 126. A autoridade superior poderá revogar o procedimento licitatório de q
 
 Art. 127. Os horários estabelecidos no edital de licitação, no aviso e durante a sessão pública observarão o horário de Brasília, Distrito Federal, inclusive para contagem de tempo e registro no sistema eletrônico e na documentação relativa ao certame.
 
-##### **Seção II - Do Julgamento Pelo Critério de Técnica e Preço**
+### **Seção II - Do Julgamento Pelo Critério de Técnica e Preço**
 
-###### **Subseção I - Disposições Preliminares**
+#### **Subseção I - Disposições Preliminares**
 
 Art. 128. Esta Seção dispõe sobre a licitação pelo critério de julgamento por técnica e preço, na forma eletrônica.
 
 Art. 129. O critério de julgamento de que trata o art. 128 será escolhido quando o estudo técnico preliminar demonstrar que a avaliação e a ponderação da qualidade técnica das propostas que superarem os requisitos mínimos estabelecidos no edital forem relevantes aos fins pretendidos pela Administração nas licitações para contratação de:
 
-I - serviços técnicos especializados de natureza predominantemente intelectual, preferencialmente, realizados em trabalhos relativos a:
+* I - serviços técnicos especializados de natureza predominantemente intelectual, preferencialmente, realizados em trabalhos relativos a:
 
-a) estudos técnicos, planejamentos, projetos básicos e projetos executivos;
+  * a) estudos técnicos, planejamentos, projetos básicos e projetos executivos;
+  * b) pareceres, perícias e avaliações em geral;
+  * c) assessorias e consultorias técnicas e auditorias financeiras e tributárias;
+  * d) fiscalização, supervisão e gerenciamento de obras e serviços;
+  * e) patrocínio ou defesa de causas judiciais e administrativas;
+  * f) treinamento e aperfeiçoamento de pessoal;
+  * g) restauração de obras de arte e de bens de valor histórico;
+  * h) controles de qualidade e tecnológico, análises, testes e ensaios de campo e laboratoriais, instrumentação e monitoramento de parâmetros específicos de obras e do meio ambiente e demais serviços de engenharia que se enquadrem na definição deste inciso;
 
-b) pareceres, perícias e avaliações em geral;
-
-c) assessorias e consultorias técnicas e auditorias financeiras e tributárias;
-
-d) fiscalização, supervisão e gerenciamento de obras e serviços;
-
-e) patrocínio ou defesa de causas judiciais e administrativas;
-
-f) treinamento e aperfeiçoamento de pessoal;
-
-g) restauração de obras de arte e de bens de valor histórico;
-
-h) controles de qualidade e tecnológico, análises, testes e ensaios de campo e laboratoriais, instrumentação e monitoramento de parâmetros específicos de obras e do meio ambiente e demais serviços de engenharia que se enquadrem na definição deste inciso;
-
-II - serviços majoritariamente dependentes de tecnologia sofisticada e de domínio restrito, conforme atestado por autoridades técnicas de reconhecida qualificação;
-
-III - bens e serviços especiais de tecnologia da informação e de comunicação;
-
-IV - obras e serviços especiais de engenharia; e
-
-V - objetos que admitam soluções específicas e alternativas e variações de execução, com repercussões significativas e concretamente mensuráveis sobre sua qualidade, produtividade, rendimento e durabilidade, quando essas soluções e variações puderem ser adotadas à livre escolha dos licitantes, conforme critérios objetivamente definidos no edital de licitação.
+* II - serviços majoritariamente dependentes de tecnologia sofisticada e de domínio restrito, conforme atestado por autoridades técnicas de reconhecida qualificação;
+* III - bens e serviços especiais de tecnologia da informação e de comunicação;
+* IV - obras e serviços especiais de engenharia; e
+* V - objetos que admitam soluções específicas e alternativas e variações de execução, com repercussões significativas e concretamente mensuráveis sobre sua qualidade, produtividade, rendimento e durabilidade, quando essas soluções e variações puderem ser adotadas à livre escolha dos licitantes, conforme critérios objetivamente definidos no edital de licitação.
 
 Parágrafo único. Nas hipóteses previstas nas alíneas "a", "d" e "h" do inciso I deverá ser observado o disposto no § 2º do art. 37 da [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md).
 
-**Modalidades**
+##### **Modalidades**
 
 Art. 130. O critério de julgamento por técnica e preço será adotado:
 
-I - na modalidade concorrência; ou
+* I - na modalidade concorrência; ou
+* II - na fase competitiva da modalidade diálogo competitivo, quando o critério de que trata o caput for entendido como o que melhor se adequa à solução identificada na fase de diálogo.
 
-II - na fase competitiva da modalidade diálogo competitivo, quando o critério de que trata o caput for entendido como o que melhor se adequa à solução identificada na fase de diálogo.
-
-**Vedações**
+##### **Vedações**
 
 Art. 131. Deverá ser observado o disposto no art. 14 da [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md), em relação à vedação de participar do procedimento de licitação de que trata esta Seção.
 
-###### **Subseção II - Dos Procedimentos**
+#### **Subseção II - Dos Procedimentos**
 
 Art. 132. A licitação será realizada à distância e em sessão pública, por meio de sistema eletrônico.
 
 Art. 133. A realização da licitação pelo critério de julgamento por técnica e preço observará as seguintes fases sucessivas:
 
-I - preparatória;
-
-II - de divulgação do edital de licitação;
-
-III - de apresentação de propostas de técnica e de preço;
-
-IV - de julgamento;
-
-V - de habilitação;
-
-VI - recursal; e
-
-VII - de homologação.
+* I - preparatória;
+* II - de divulgação do edital de licitação;
+* III - de apresentação de propostas de técnica e de preço;
+* IV - de julgamento;
+* V - de habilitação;
+* VI - recursal; e
+* VII - de homologação.
 
 § 1º A fase referida no inciso V do caput deste artigo poderá, mediante ato motivado com explicitação dos benefícios decorrentes, anteceder as fases referidas nos incisos III e IV do caput deste artigo, desde que expressamente previsto no edital de licitação e observados os seguintes requisitos, nesta ordem:
 
-I - os licitantes apresentarão simultaneamente os documentos de habilitação e as propostas de técnica e de preço, observado o disposto no § 1º do art. 115 e no § 1º do art. 118;
-
-II - o agente de contratação ou comissão de contratação, quando o substituir, na abertura da sessão pública, deverá informar no sistema o prazo para a verificação dos documentos de habilitação, a que se refere o inciso I, e a data e o horário para manifestação da intenção de recorrer do resultado da habilitação, nos termos do art. 119;
-
-III - serão verificados os documentos de habilitação de todos os licitantes, observado o disposto no § 3º do art. 118; e
-
-IV - serão convocados para a apresentação de propostas de técnica e de preço apenas os licitantes habilitados.
+* I - os licitantes apresentarão simultaneamente os documentos de habilitação e as propostas de técnica e de preço, observado o disposto no § 1º do art. 115 e no § 1º do art. 118;
+* II - o agente de contratação ou comissão de contratação, quando o substituir, na abertura da sessão pública, deverá informar no sistema o prazo para a verificação dos documentos de habilitação, a que se refere o inciso I, e a data e o horário para manifestação da intenção de recorrer do resultado da habilitação, nos termos do art. 119;
+* III - serão verificados os documentos de habilitação de todos os licitantes, observado o disposto no § 3º do art. 118; e
+* IV - serão convocados para a apresentação de propostas de técnica e de preço apenas os licitantes habilitados.
 
 § 2º Eventual postergação do prazo a que se refere o inciso II do § 1º deve ser comunicada tempestivamente via sistema, de forma a não cercear o direito de recorrer do licitante.
 
 § 3º Na adoção da modalidade de licitação diálogo competitivo, na forma do disposto no inciso II do art. 130, serão observadas as fases próprias desta modalidade, nos termos do art. 32 da [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md).
 
-Parâmetro do critério de julgamento por técnica e preço
+##### **Parâmetro do critério de julgamento por técnica e preço**
 
 Art. 134. O critério de julgamento por técnica e preço considerará a maior pontuação obtida a partir da ponderação, segundo fatores objetivos previstos no edital, das notas atribuídas aos aspectos de técnica e de preço da proposta.
 
-###### **Subseção III - Da Condução do Processo**
+#### **Subseção III - Da Condução do Processo**
 
-**Agente de contratação ou comissão de contratação**
+##### **Agente de contratação ou comissão de contratação**
 
 Art. 135. A licitação, na forma eletrônica, será conduzida pelo agente de contratação ou pela comissão de contratação, quando o substituir, nos termos do disposto no § 2º do art. 8º da [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md).
 
 Parágrafo único. A designação e atuação do agente de contratação, da equipe de apoio e da comissão de contratação deverão ser estabelecidas de acordo com o disposto na [Seção IX](#seção-ix---da-designação-do-agente-de-contratação-da-equipe-de-apoio-e-da-comissão-de-contratação) do [Capítulo III](#capítulo-iii---da-fase-preparatória-da-licitação-e-da-contratação-direta) deste Decreto.
 
-Banca
+##### **Banca**
 
 Art. 136. Os quesitos de natureza qualitativa da proposta de técnica de que trata o art. 151 serão analisados por banca, composta de, no mínimo, 3 (três) membros, que preencham os seguintes requisitos:
 
-I - servidores ou empregados públicos; ou
+* I - servidores ou empregados públicos; ou
+* II - profissionais contratados por conhecimento técnico, experiência ou renome na avaliação dos quesitos especificados em edital, desde que seus trabalhos sejam supervisionados por profissionais designados conforme o disposto no art. 7º da [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md).
 
-II - profissionais contratados por conhecimento técnico, experiência ou renome na avaliação dos quesitos especificados em edital, desde que seus trabalhos sejam supervisionados por profissionais designados conforme o disposto no art. 7º da [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md).
+#### **Subseção IV - Da Fase Preparatória**
 
-###### **Subseção IV - Da Fase Preparatória**
-
-**Orientações gerais**
+##### **Orientações gerais**
 
 Art. 137. A fase preparatória do processo licitatório deve compatibilizar-se com o Plano Anual de Contratações, se houver, e com as leis orçamentárias, bem como abordar todas as considerações técnicas, mercadológicas e de gestão que podem interferir na contratação, compreendidos os documentos e procedimentos necessários de que dispõe o art. 18 da [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md), observada a modalidade de licitação adotada, nos termos do art. 130.
 
 Parágrafo único. Os preceitos do desenvolvimento sustentável serão observados na fase preparatória da licitação, em suas dimensões econômica, social, ambiental e cultural, no mínimo, com base nos planos de gestão de logística sustentável dos órgãos e das entidades.
 
-**Estudo técnico preliminar**
+##### **Estudo técnico preliminar**
 
 Art. 138. Para o uso do critério de julgamento por técnica e preço, o estudo técnico preliminar, além dos elementos definidos na [Seção III](#seção-iii---da-elaboração-dos-estudos-técnicos-preliminares) do [Capítulo III](#capítulo-iii---da-fase-preparatória-da-licitação-e-da-contratação-direta) deste Decreto, deve compreender a justificativa dos critérios de pontuação e julgamento das propostas técnicas.
 
 Parágrafo único. Quando o estudo técnico preliminar demonstrar que os serviços que envolverem o desenvolvimento de soluções específicas de natureza intelectual, científica e técnica puderem ser descritos como comuns, nos termos do inciso XIII do art. 6º da [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md), o objeto será licitado pelo critério de julgamento por menor preço ou maior desconto.
 
-**Edital de licitação**
+##### **Edital de licitação**
 
 Art. 139. O edital de licitação deverá prever, no mínimo:
 
-I - distribuição em quesitos da pontuação de técnica e de preço a ser atribuída a cada proposta, graduando as notas que serão conferidas a cada item, na proporção máxima de 70% (setenta por cento) de valoração para a proposta de técnica;
+* I - distribuição em quesitos da pontuação de técnica e de preço a ser atribuída a cada proposta, graduando as notas que serão conferidas a cada item, na proporção máxima de 70% (setenta por cento) de valoração para a proposta de técnica;
+* II - procedimentos para a ponderação e a valoração da proposta de técnica, por meio da atribuição de:
 
-II - procedimentos para a ponderação e a valoração da proposta de técnica, por meio da atribuição de:
+  * a) notas por desempenho do licitante em contratações anteriores aferida nos documentos comprobatórios de que trata os §§ 3º e 4º do art. 88 da [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md), e em registro cadastral unificado disponível no PNCP, conforme definido em ato da Secretaria de Administração;
+  * b) pontuação da capacitação técnico-profissional, se for o caso, vinculada à participação direta e pessoal do(s) profissional(is) indicado(s) na proposta, admitida a substituição por profissionais de experiência equivalente ou superior, desde que aprovada pela Administração, nos termos do disposto no § 6º do art. 67 da [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md);
+  * c) verificação da capacitação e da experiência do licitante;
+  * d) notas a quesitos de natureza qualitativa por banca designada, na forma do art. 136, compreendendo:
 
-a) notas por desempenho do licitante em contratações anteriores aferida nos documentos comprobatórios de que trata os §§ 3º e 4º do art. 88 da [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md), e em registro cadastral unificado disponível no PNCP, conforme definido em ato da Secretaria de Administração;
+    1. a demonstração de conhecimento do objeto;
+    2. a metodologia e o programa de trabalho;
+    3. a qualificação das equipes técnicas; e
+    4. a relação dos produtos que serão entregues;
 
-b) pontuação da capacitação técnico-profissional, se for o caso, vinculada à participação direta e pessoal do(s) profissional(is) indicado(s) na proposta, admitida a substituição por profissionais de experiência equivalente ou superior, desde que aprovada pela Administração, nos termos do disposto no § 6º do art. 67 da [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md);
+* III - procedimentos de ponderação e de valoração das propostas de preço, conforme o seguinte parâmetro matemático:
 
-c) verificação da capacitação e da experiência do licitante;
+    NP = 100 x (X1 / X2)
 
-d) notas a quesitos de natureza qualitativa por banca designada, na forma do art. 136, compreendendo:
+    NP - Nota da Proposta de Preço do Licitante;
 
-1\. a demonstração de conhecimento do objeto;
+    X1 - Menor valor global proposto entre os licitantes classificados; e
 
-2\. a metodologia e o programa de trabalho;
+    X2 - Valor global proposto pelo licitante classificado.
 
-3\. a qualificação das equipes técnicas; e
-
-4\. a relação dos produtos que serão entregues;
-
-III - procedimentos de ponderação e de valoração das propostas de preço, conforme o seguinte parâmetro matemático:
-
-NP = 100 x (X1 / X2)
-
-NP - Nota da Proposta de Preço do Licitante;
-
-X1 - Menor valor global proposto entre os licitantes classificados; e
-
-X2 - Valor global proposto pelo licitante classificado.
-
-IV - orientações sobre o formato em que as propostas de técnica e de preço deverão ser apresentadas pelos licitantes;
-
-V - direito de realização de vistoria prévia, nos termos dos §§ 2º a 4º do art. 63 da [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md), na hipótese de a avaliação prévia do local de intervenção ser imprescindível para a confecção da proposta de técnica.
+* IV - orientações sobre o formato em que as propostas de técnica e de preço deverão ser apresentadas pelos licitantes;
+* V - direito de realização de vistoria prévia, nos termos dos §§ 2º a 4º do art. 63 da [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md), na hipótese de a avaliação prévia do local de intervenção ser imprescindível para a confecção da proposta de técnica.
 
 Parágrafo único. Poderá ser utilizado parâmetro matemático diferente do estabelecido no inciso III, desde que demonstrado no estudo técnico preliminar que o novo parâmetro é mais vantajoso para a ponderação e a valoração das propostas de preço, e que este atende ao disposto no caput do art. 129.
 
-**Das obrigações do licitante**
+##### **Das obrigações do licitante**
 
 Art. 140. Caberá ao licitante interessado em participar da licitação, na forma eletrônica:
 
-I - credenciar-se previamente no cadastro eletrônico de fornecedores utilizado no certame;
+* I - credenciar-se previamente no cadastro eletrônico de fornecedores utilizado no certame;
+* II - remeter, no prazo estabelecido, exclusivamente via sistema, a proposta de técnica e a proposta de preço e, na hipótese de inversão de fases, os documentos de habilitação, observado o disposto no caput e no § 1º do art. 118, até a data e hora marcadas para abertura da sessão;
+* III - responsabilizar-se formalmente pelas transações efetuadas em seu nome, assumir como firmes e verdadeiras suas propostas, inclusive os atos praticados diretamente ou por seu representante, excluída a responsabilidade do provedor do sistema ou do órgão ou entidade promotora da licitação por eventuais danos decorrentes de uso indevido da conta de acesso, ainda que por terceiros;
+* IV - acompanhar as operações no sistema eletrônico durante o processo licitatório e responsabilizar-se pelo ônus decorrente da perda de negócios diante da inobservância de mensagens emitidas pela Administração ou de sua desconexão; e
+* V - comunicar imediatamente ao provedor do sistema qualquer acontecimento que possa comprometer o sigilo ou a segurança, para imediato bloqueio de acesso.
 
-II - remeter, no prazo estabelecido, exclusivamente via sistema, a proposta de técnica e a proposta de preço e, na hipótese de inversão de fases, os documentos de habilitação, observado o disposto no caput e no § 1º do art. 118, até a data e hora marcadas para abertura da sessão;
+#### **Subseção V - Da Fase da Divulgação do Edital de Licitação**
 
-III - responsabilizar-se formalmente pelas transações efetuadas em seu nome, assumir como firmes e verdadeiras suas propostas, inclusive os atos praticados diretamente ou por seu representante, excluída a responsabilidade do provedor do sistema ou do órgão ou entidade promotora da licitação por eventuais danos decorrentes de uso indevido da conta de acesso, ainda que por terceiros;
-
-IV - acompanhar as operações no sistema eletrônico durante o processo licitatório e responsabilizar-se pelo ônus decorrente da perda de negócios diante da inobservância de mensagens emitidas pela Administração ou de sua desconexão; e
-
-V - comunicar imediatamente ao provedor do sistema qualquer acontecimento que possa comprometer o sigilo ou a segurança, para imediato bloqueio de acesso.
-
-###### **Subseção V - Da Fase da Divulgação do Edital de Licitação**
-
-**Divulgação**
+##### **Divulgação**
 
 Art. 141. A fase externa da licitação, na forma eletrônica, observará as normas constantes nos arts. 93 a 95 deste Decreto.
 
-###### **Subseção VI - Da Fase da Apresentação Das Propostas**
+#### **Subseção VI - Da Fase da Apresentação Das Propostas**
 
-**Prazos**
+##### **Prazos**
 
 Art. 142. O prazo mínimo para a apresentação das propostas de técnica e de preço, contados a partir do 1º dia útil subsequente à data de divulgação do edital de licitação no Portal Nacional de Contratações Públicas, é de 35 (trinta e cinco) dias úteis.
 
 Parágrafo único. O prazo mínimo para apresentação das propostas será de 60 (sessenta) dias úteis na fase competitiva da modalidade licitatória diálogo competitivo, em atenção ao disposto no inciso VIII do § 1º do art. 32 da [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md).
 
-Apresentação das propostas
+##### **Apresentação das propostas**
 
 Art. 143. Após a divulgação do edital de licitação, os licitantes encaminharão, exclusivamente por meio do sistema, as propostas de técnica e as propostas de preço, até a data e o horário estabelecidos para abertura da sessão pública.
 
@@ -1516,13 +1242,13 @@ Art. 143. Após a divulgação do edital de licitação, os licitantes encaminha
 
 § 7º Os documentos complementares à proposta de técnica, quando necessários à confirmação daqueles exigidos no edital de licitação e já apresentados, serão encaminhados pelo licitante mais bem classificado após o encerramento da etapa competitiva, observado o prazo de que trata o § 2º do art. 149.
 
-###### **Subseção VII - Modo de Disputa**
+#### **Subseção VII - Modo de Disputa**
 
-**Modo de Disputa**
+##### **Modo de Disputa**
 
 Art. 144. Será adotado o modo de disputa fechado, em que os licitantes apresentarão propostas que permanecerão em sigilo até o início da sessão pública, sendo vedada a apresentação de lances.
 
-Modo de disputa fechado
+###### **Modo de disputa fechado**
 
 Art. 145. No modo de disputa fechado, iniciada a sessão pública, o agente de contratação ou a comissão de contratação, quando o substituir, deverá informar no sistema o prazo para a atribuição de notas à proposta de técnica e de preço, e a data e o horário para manifestação da intenção de recorrer do resultado do julgamento, nos termos do art. 119.
 
@@ -1530,9 +1256,9 @@ Art. 145. No modo de disputa fechado, iniciada a sessão pública, o agente de c
 
 § 2º Encerrados os prazos estabelecidos no caput e no § 1º, o sistema ordenará e divulgará as notas ponderadas das propostas de técnica e de preço em ordem decrescente, considerando a maior pontuação obtida, bem como informará as notas de cada proposta por licitante.
 
-###### **Subseção VIII - Da Abertura da Sessão Pública**
+#### **Subseção VIII - Da Abertura da Sessão Pública**
 
-**Horário de abertura**
+##### **Horário de abertura**
 
 Art. 146. A partir do horário previsto no edital de licitação, a sessão pública será aberta automaticamente pelo sistema.
 
@@ -1540,19 +1266,19 @@ Art. 146. A partir do horário previsto no edital de licitação, a sessão púb
 
 § 2º O sistema disponibilizará campo próprio para troca de mensagens entre o agente de contratação ou a comissão de contratação, quando o substituir, e os licitantes, vedada outra forma de comunicação.
 
-**Desconexão do sistema**
+##### **Desconexão do sistema**
 
 Art. 147. Na hipótese de o sistema eletrônico se desconectar no decorrer da sessão pública, e persistir por tempo superior a dez minutos para o órgão ou a entidade promotora da licitação, a sessão pública será suspensa e reiniciada somente decorridas vinte e quatro horas após a comunicação do fato aos participantes, no sítio eletrônico utilizado para divulgação.
 
-**Critérios de desempate**
+##### **Critérios de desempate**
 
 Art. 148. Em caso de empate entre duas ou mais notas finais atribuídas à ponderação entre as propostas de técnica e de preço, serão utilizados os critérios de desempate previstos no art. 60 da [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md).
 
 Parágrafo único. O critério previsto no inciso I do art. 60 da [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md), será aplicado apenas com relação à proposta de preço.
 
-###### **Subseção IX - Da Fase do Julgamento**
+#### **Subseção IX - Da Fase do Julgamento**
 
-**Verificação da conformidade das propostas de técnica e de preço**
+##### **Verificação da conformidade das propostas de técnica e de preço**
 
 Art. 149. Encerrada a etapa de abertura das propostas, o agente de contratação ou a comissão de contratação, quando o substituir, realizará, em conjunto com a banca de que trata o art. 136, a verificação da conformidade das propostas do licitante que obteve a maior pontuação a partir da ponderação das notas atribuídas aos aspectos de técnica e de preço, quanto à sua adequação técnica e, observado o disposto nos arts. 152 e 153, ao valor proposto, conforme definido no edital.
 
@@ -1562,27 +1288,23 @@ Art. 149. Encerrada a etapa de abertura das propostas, o agente de contratação
 
 § 3º A prorrogação de que trata o § 2º, poderá ocorrer nas seguintes situações:
 
-I - por solicitação do licitante, mediante justificativa aceita pelo agente de contratação ou pela comissão de contratação, quando o substituir; ou
-
-II - de oficio, a critério do agente de contratação ou da comissão de contratação, quando o substituir, quando constatado que o prazo estabelecido não é suficiente para o envio dos documentos exigidos no edital para a verificação de conformidade de que trata o caput.
+* I - por solicitação do licitante, mediante justificativa aceita pelo agente de contratação ou pela comissão de contratação, quando o substituir; ou
+* II - de oficio, a critério do agente de contratação ou da comissão de contratação, quando o substituir, quando constatado que o prazo estabelecido não é suficiente para o envio dos documentos exigidos no edital para a verificação de conformidade de que trata o caput.
 
 § 4º Na avaliação de conformidade das propostas técnicas deverão ser indicadas as razões de eventuais desclassificações.
 
-**Análise das propostas técnicas**
+##### **Análise das propostas técnicas**
 
 Art. 150. A análise das propostas técnicas de natureza qualitativa será realizada por banca designada nos termos do art. 136, composta por membros com conhecimento sobre o objeto.
 
 Art. 151. O exame de conformidade das propostas de técnica observará as regras e as condições de ponderação e de valoração previstas em edital, que considerarão, no mínimo, os seguintes quesitos:
 
-I - a verificação da capacitação e da experiência do licitante, por meio da apresentação de atestados de obras, produtos ou serviços previamente realizados;
+* I - a verificação da capacitação e da experiência do licitante, por meio da apresentação de atestados de obras, produtos ou serviços previamente realizados;
+* II - o atendimento a preceitos de desenvolvimento sustentável;
+* III - a quantidade e a qualidade dos recursos financeiros, tecnológicos ou humanos que o licitante se compromete a alocar para a execução do contrato; e
+* IV - a metodologia de execução e a tradição técnica do licitante.
 
-II - o atendimento a preceitos de desenvolvimento sustentável;
-
-III - a quantidade e a qualidade dos recursos financeiros, tecnológicos ou humanos que o licitante se compromete a alocar para a execução do contrato; e
-
-IV - a metodologia de execução e a tradição técnica do licitante.
-
-**Análise das propostas de preço**
+##### **Análise das propostas de preço**
 
 Art. 152. No caso de obras e serviços de engenharia, serão consideradas inexequíveis as propostas cujos valores forem inferiores a 75% (setenta e cinco por cento) do valor orçado pela Administração.
 
@@ -1592,9 +1314,8 @@ Art. 153. No caso de bens e serviços em geral, é indício de inexequibilidade 
 
 Parágrafo único. A inexequibilidade, na hipótese de que trata o caput, só será considerada após diligência do agente de contratação ou da comissão de contratação, quando o substituir, que comprove:
 
-I - que o custo do licitante ultrapassa o valor da proposta; e
-
-II - inexistirem custos de oportunidade capazes de justificar o vulto da oferta.
+* I - que o custo do licitante ultrapassa o valor da proposta; e
+* II - inexistirem custos de oportunidade capazes de justificar o vulto da oferta.
 
 Art. 154. O agente de contratação ou a comissão de contratação, quando o substituir, com o auxílio da equipe de apoio, deverá realizar avaliação sobre o potencial sobrepreço relativo à proposta de preço.
 
@@ -1608,37 +1329,33 @@ Art. 154. O agente de contratação ou a comissão de contratação, quando o su
 
 § 5º Observado o prazo de que trata o § 2º do art. 138, o agente de contratação ou a comissão de contratação, quando o substituir, deverá solicitar, no sistema, o envio da proposta e, se necessário, dos documentos complementares, adequada à proposta ofertada, após a negociação de que trata este artigo.
 
-**Encerramento da fase de julgamento**
+##### **Encerramento da fase de julgamento**
 
 Art. 155. Encerrada a fase de julgamento, após a verificação de conformidade das propostas de que trata o art. 149, o agente de contratação ou a comissão de contratação, quando o substituir, verificará a documentação de habilitação do licitante conforme disposições do edital de licitação, observado o disposto nos artigos 115 a 118 deste Decreto.
 
-###### **Subseção X - Das Demais Fases da Licitação**
+#### **Subseção X - Das Demais Fases da Licitação**
 
 Art. 156. As demais fases da licitação, consistentes em habilitação, recursos, saneamento da proposta e dos documentos de habilitação, homologação, convocação para a contratação, sanções, revogação e anulação, deverão observar o disposto nos arts. 115 a 127 deste Decreto.
 
 Parágrafo único. Não se aplica à licitação pelo critério de julgamento de técnica e preço a possibilidade de dispensa de documentação constante no art. 115, § 1º, deste Decreto.
 
-#### **CAPÍTULO V - DA DISPENSA ELETRÔNICA**
+## **CAPÍTULO V - DA DISPENSA ELETRÔNICA**
 
-##### **Seção I - Disposições Preliminares**
+### **Seção I - Disposições Preliminares**
 
 Art. 157. Os órgãos e entidades da administração pública estadual, quando da realização da modalidade dispensa na forma eletrônica, deverão utilizar o sistema de compras indicado pela Secretaria de Administração.
 
 Art. 158. Os órgãos e entidades adotarão a dispensa de licitação, na forma eletrônica, nas seguintes hipóteses:
 
-I - contratação de obras e serviços de engenharia ou de serviços de manutenção de veículos automotores, no limite do disposto no inciso I do caput do art. 75 da [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md);
-
-II - contratação de bens e serviços, no limite do disposto no inciso II do caput do art. 75 da [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md);
-
-III - contratação de obras, bens e serviços, incluídos os serviços de engenharia, nos termos do disposto no inciso III e seguintes do caput do art. 75 da [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md), quando cabível; e
-
-IV - registro de preços para a contratação de bens e serviços por mais de um órgão ou entidade, nos termos do § 6º do art. 82 da [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md).
+* I - contratação de obras e serviços de engenharia ou de serviços de manutenção de veículos automotores, no limite do disposto no inciso I do caput do art. 75 da [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md);
+* II - contratação de bens e serviços, no limite do disposto no inciso II do caput do art. 75 da [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md);
+* III - contratação de obras, bens e serviços, incluídos os serviços de engenharia, nos termos do disposto no inciso III e seguintes do caput do art. 75 da [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md), quando cabível; e
+* IV - registro de preços para a contratação de bens e serviços por mais de um órgão ou entidade, nos termos do § 6º do art. 82 da [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md).
 
 § 1º Para fins de aferição dos valores que atendam aos limites referidos nos incisos I e II do caput, deverão ser observados:
 
-I - o somatório despendido no exercício financeiro pela respectiva unidade gestora; e
-
-II - o somatório da despesa realizada com objetos de mesma natureza, entendidos como tais aqueles relativos a contratações no mesmo ramo de atividade.
+* I - o somatório despendido no exercício financeiro pela respectiva unidade gestora; e
+* II - o somatório da despesa realizada com objetos de mesma natureza, entendidos como tais aqueles relativos a contratações no mesmo ramo de atividade.
 
 § 2º Considera-se ramo de atividade a partição econômica do mercado, identificada pelo nível de subclasse da Classificação Nacional de Atividades Econômicas - CNAE.
 
@@ -1648,25 +1365,18 @@ II - o somatório da despesa realizada com objetos de mesma natureza, entendidos
 
 § 5º Quando do enquadramento de bens, serviços ou obras nos termos das hipóteses previstas neste artigo, a autoridade competente pela autorização e a autoridade superior responsável pela adjudicação e pela homologação da contratação devem observar o disposto no art. 73 da [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md), e no art. 337-E do Decreto-Lei nº 2.848, de 7 de dezembro de 1940.
 
-##### **Seção II - Do Procedimento**
+### **Seção II - Do Procedimento**
 
 Art. 159. O procedimento de dispensa de licitação, na forma eletrônica, será instruído com os seguintes documentos, no mínimo:
 
-I - documento de formalização de demanda e, se for o caso, estudo técnico preliminar, análise de riscos, termo de referência, projeto básico ou projeto executivo;
-
-II - estimativa de despesa, nos termos dos arts. 43 a 51 deste Decreto;
-
-III - parecer jurídico e pareceres técnicos, se for o caso, que demonstrem o atendimento dos requisitos exigidos;
-
-IV - demonstração da compatibilidade da previsão de recursos orçamentários com o compromisso a ser assumido;
-
-V - comprovação de que o contratado preenche os requisitos de habilitação e qualificação mínima necessária;
-
-VI - razão de escolha do contratado;
-
-VII - justificativa de preço, se for o caso; e
-
-VIII - autorização da autoridade competente.
+* I - documento de formalização de demanda e, se for o caso, estudo técnico preliminar, análise de riscos, termo de referência, projeto básico ou projeto executivo;
+* II - estimativa de despesa, nos termos dos arts. 43 a 51 deste Decreto;
+* III - parecer jurídico e pareceres técnicos, se for o caso, que demonstrem o atendimento dos requisitos exigidos;
+* IV - demonstração da compatibilidade da previsão de recursos orçamentários com o compromisso a ser assumido;
+* V - comprovação de que o contratado preenche os requisitos de habilitação e qualificação mínima necessária;
+* VI - razão de escolha do contratado;
+* VII - justificativa de preço, se for o caso; e
+* VIII - autorização da autoridade competente.
 
 § 1º Na hipótese de registro de preços, de que dispõe o inciso IV do art. 158, somente será exigida a previsão de recursos orçamentários, nos termos do inciso IV do caput, quando da formalização do contrato ou de outro instrumento hábil.
 
@@ -1678,19 +1388,13 @@ VIII - autorização da autoridade competente.
 
 Art. 160. O órgão ou entidade deverá inserir no sistema as seguintes informações para a realização do procedimento de contratação:
 
-I - a especificação do objeto a ser adquirido ou contratado;
-
-II - as quantidades e o preço estimado de cada item, nos termos do disposto no inciso II do art. 159, observada a respectiva unidade de fornecimento;
-
-III - o local e o prazo de entrega do bem, prestação do serviço ou realização da obra;
-
-IV - o intervalo mínimo de diferença de valores ou de percentuais entre os lances, que incidirá tanto em relação aos lances intermediários quanto em relação ao lance que cobrir a melhor oferta;
-
-V - a observância das disposições previstas na Lei Complementar nº 123, de 14 de dezembro de 2006.
-
-VI - as condições da contratação e as sanções motivadas pela inexecução total ou parcial do ajuste;
-
-VII - a data e o horário de sua realização, respeitado o horário comercial, e o endereço eletrônico onde ocorrerá o procedimento.
+* I - a especificação do objeto a ser adquirido ou contratado;
+* II - as quantidades e o preço estimado de cada item, nos termos do disposto no inciso II do art. 159, observada a respectiva unidade de fornecimento;
+* III - o local e o prazo de entrega do bem, prestação do serviço ou realização da obra;
+* IV - o intervalo mínimo de diferença de valores ou de percentuais entre os lances, que incidirá tanto em relação aos lances intermediários quanto em relação ao lance que cobrir a melhor oferta;
+* V - a observância das disposições previstas na Lei Complementar nº 123, de 14 de dezembro de 2006.
+* VI - as condições da contratação e as sanções motivadas pela inexecução total ou parcial do ajuste;
+* VII - a data e o horário de sua realização, respeitado o horário comercial, e o endereço eletrônico onde ocorrerá o procedimento.
 
 Parágrafo único. Em todas as hipóteses estabelecidas no art. 159, o prazo fixado para abertura do procedimento e envio de lances, de que trata a Seção III, não será inferior a 3 (três) dias úteis, contados da data de divulgação do aviso de contratação direta.
 
@@ -1700,29 +1404,23 @@ Parágrafo único. Os órgãos e entidades demandantes poderão ainda divulgar o
 
 Art. 162. O fornecedor interessado, após a divulgação do aviso de contratação direta, encaminhará, exclusivamente por meio do Sistema de Dispensa Eletrônica, a proposta com a descrição do objeto ofertado, a marca do produto, quando for o caso, e o preço, até a data e o horário estabelecidos para abertura do procedimento, devendo, ainda, declarar, em campo próprio do sistema, as seguintes informações:
 
-I - a inexistência de fato impeditivo para licitar ou contratar com a Administração Pública;
-
-II - o enquadramento na condição de microempresa e empresa de pequeno porte, nos termos da Lei Complementar nº 123, de 2006, quando couber;
-
-III - o pleno conhecimento e aceitação das regras e das condições gerais da contratação, constantes do procedimento;
-
-IV - a responsabilidade pelas transações que forem efetuadas no sistema, assumindo como firmes e verdadeiras;
-
-V - o cumprimento das exigências de reserva de cargos para pessoa com deficiência e para reabilitado da Previdência Social, de que trata o art. 93 da Lei nº 8.213, de 24 de julho de 1991, se couber; e
-
-VI - o cumprimento do disposto no inciso VI do art. 68 da [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md).
+* I - a inexistência de fato impeditivo para licitar ou contratar com a Administração Pública;
+* II - o enquadramento na condição de microempresa e empresa de pequeno porte, nos termos da Lei Complementar nº 123, de 2006, quando couber;
+* III - o pleno conhecimento e aceitação das regras e das condições gerais da contratação, constantes do procedimento;
+* IV - a responsabilidade pelas transações que forem efetuadas no sistema, assumindo como firmes e verdadeiras;
+* V - o cumprimento das exigências de reserva de cargos para pessoa com deficiência e para reabilitado da Previdência Social, de que trata o art. 93 da Lei nº 8.213, de 24 de julho de 1991, se couber; e
+* VI - o cumprimento do disposto no inciso VI do art. 68 da [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md).
 
 Art. 163. Quando do cadastramento da proposta, na forma do art. 162, o fornecedor poderá parametrizar o seu valor final mínimo e obedecerá às seguintes regras:
 
-I - a aplicação do intervalo mínimo de diferença de valores ou de percentuais entre os lances, que incidirá tanto em relação aos lances intermediários quanto em relação ao lance que cobrir a melhor oferta; e
-
-II - os lances serão de envio automático pelo sistema, respeitado o valor final mínimo estabelecido e o intervalo de que trata o inciso I.
+* I - a aplicação do intervalo mínimo de diferença de valores ou de percentuais entre os lances, que incidirá tanto em relação aos lances intermediários quanto em relação ao lance que cobrir a melhor oferta; e
+* II - os lances serão de envio automático pelo sistema, respeitado o valor final mínimo estabelecido e o intervalo de que trata o inciso I.
 
 § 1º O valor final mínimo de que trata o caput poderá ser alterado pelo fornecedor durante a fase de disputa, desde que não assuma valor superior a lance já registrado por ele no sistema.
 
 § 2º O valor mínimo parametrizado na forma do caput possuirá caráter sigiloso para os demais fornecedores e para o órgão ou entidade contratante, podendo ser disponibilizado estrita e permanentemente aos órgãos de controle externo e interno.
 
-##### **Seção III - Da Abertura do Procedimento e do Envio de Lances**
+### **Seção III - Da Abertura do Procedimento e do Envio de Lances**
 
 Art. 164. A partir da data e horário estabelecidos, o procedimento será automaticamente aberto pelo sistema para o envio de lances públicos e sucessivos por período nunca inferior a 6 (seis) horas ou superior a 10 (dez) horas, exclusivamente por meio do sistema eletrônico.
 
@@ -1738,7 +1436,7 @@ Art. 166. Durante o procedimento, os fornecedores serão informados, em tempo re
 
 Art. 167. O fornecedor será imediatamente informado pelo sistema do recebimento de seu lance.
 
-##### **Seção IV - Do Julgamento e da Habilitação**
+### **Seção IV - Do Julgamento e da Habilitação**
 
 Art. 168. Encerrado o procedimento de envio de lances, nos termos do art. 164, o órgão ou entidade realizará a verificação da conformidade da proposta classificada em primeiro lugar quanto à adequação ao objeto e à compatibilidade do preço em relação ao estipulado para a contratação.
 
@@ -1770,11 +1468,9 @@ Parágrafo único. Na hipótese de o fornecedor não atender às exigências par
 
 Art. 175. No caso do procedimento restar fracassado, o órgão ou entidade poderá:
 
-I - republicar o procedimento;
-
-II - fixar prazo para que os fornecedores interessados possam adequar as suas propostas ou sua situação no que se refere à habilitação; ou
-
-III - valer-se, para a contratação, de proposta obtida na pesquisa de preços que serviu de base ao procedimento, se houver, privilegiando-se os menores preços, sempre que possível, e desde que atendidas às condições de habilitação exigidas.
+* I - republicar o procedimento;
+* II - fixar prazo para que os fornecedores interessados possam adequar as suas propostas ou sua situação no que se refere à habilitação; ou
+* III - valer-se, para a contratação, de proposta obtida na pesquisa de preços que serviu de base ao procedimento, se houver, privilegiando-se os menores preços, sempre que possível, e desde que atendidas às condições de habilitação exigidas.
 
 Parágrafo único. O disposto nos incisos I e III caput poderá ser utilizado nas hipóteses de o procedimento restar deserto.
 
@@ -1790,49 +1486,37 @@ Art. 179. O fornecedor é o responsável por qualquer transação efetuada diret
 
 Art. 180. A Secretaria de Estado da Administração poderá:
 
-I - expedir normas complementares necessárias para a execução deste Capítulo; e
+* I - expedir normas complementares necessárias para a execução deste Capítulo; e
+* II - estabelecer, por meio de orientações ou manuais, informações adicionais para fins de operacionalização do Sistema de Dispensa Eletrônica.
 
-II - estabelecer, por meio de orientações ou manuais, informações adicionais para fins de operacionalização do Sistema de Dispensa Eletrônica.
-
-#### **CAPÍTULO VI - DOS BENS DE CONSUMO E DE LUXO**
+## **CAPÍTULO VI - DOS BENS DE CONSUMO E DE LUXO**
 
 Art. 181. Para fins do disposto neste Decreto, será considerado bem de luxo o dotado de qualidade, estética, preço e/ou imagem de marca superiores aos convencionais.
 
 § 1º O bem de luxo de que trata o caput deste artigo poderá ser identificado, ainda, por meio das seguintes características:
 
-I - ostentativo: que existe para ser exibido e alardeado;
-
-II - opulento: que se impõe pela grandiosidade, beleza e fartura além do necessário;
-
-III - requintado: que possui processo de produção mais qualificado e elaborado em relação aos convencionais, apresentando excesso de refinamento estético ou técnico;
-
-IV - supérfluo: que tem elementos excessivos e não funcionais, ultrapassando a necessidade usual quanto às suas características;
-
-V - raro: que possui baixa disponibilidade e elevada preciosidade;
-
-VI - glamouroso: que encanta e atrai além do necessário;
-
-VII - hedônico: que se destina à extrema fruição com prazer, afastando-se da necessidade a ser atendida;
-
-VIII - de origem específica: que apresenta dificuldade de localização; e/ou
-
-IX - direcionado a públicos restritos, especialmente formadores de opinião.
+* I - ostentativo: que existe para ser exibido e alardeado;
+* II - opulento: que se impõe pela grandiosidade, beleza e fartura além do necessário;
+* III - requintado: que possui processo de produção mais qualificado e elaborado em relação aos convencionais, apresentando excesso de refinamento estético ou técnico;
+* IV - supérfluo: que tem elementos excessivos e não funcionais, ultrapassando a necessidade usual quanto às suas características;
+* V - raro: que possui baixa disponibilidade e elevada preciosidade;
+* VI - glamouroso: que encanta e atrai além do necessário;
+* VII - hedônico: que se destina à extrema fruição com prazer, afastando-se da necessidade a ser atendida;
+* VIII - de origem específica: que apresenta dificuldade de localização; e/ou
+* IX - direcionado a públicos restritos, especialmente formadores de opinião.
 
 § 2º No enquadramento do bem na categoria de luxo também deverá ser avaliada:
 
-I - a relatividade econômica: variáveis econômicas que incidem sobre o preço do bem, principalmente a facilidade ou a dificuldade logística regional ou local de acesso ao bem;
-
-II - a relatividade temporal: mudança das variáveis mercadológicas do bem ao longo do tempo, em razão de aspectos como evolução tecnológica, tendências sociais, alterações de disponibilidade no mercado, em especial as geradoras de escassez, e modificações no processo de suprimento logístico; ou
-
-III - a relatividade cultural: distinta percepção sobre o bem, em razão da cultura, que amplie ou resulte em qualquer das características descritas no §1º do art. 155 deste Decreto.
+* I - a relatividade econômica: variáveis econômicas que incidem sobre o preço do bem, principalmente a facilidade ou a dificuldade logística regional ou local de acesso ao bem;
+* II - a relatividade temporal: mudança das variáveis mercadológicas do bem ao longo do tempo, em razão de aspectos como evolução tecnológica, tendências sociais, alterações de disponibilidade no mercado, em especial as geradoras de escassez, e modificações no processo de suprimento logístico; ou
+* III - a relatividade cultural: distinta percepção sobre o bem, em razão da cultura, que amplie ou resulte em qualquer das características descritas no §1º do art. 155 deste Decreto.
 
 Art. 182. É vedada a aquisição de bens enquadrados como de luxo, nos termos do disposto no art. 181 deste Decreto.
 
 Parágrafo único. Não deverá ser enquadrado como de luxo aquele bem que, embora possa ser identificado como tal:
 
-I - seja adquirido a preço equivalente ou inferior ao preço do bem de qualidade comum de mesma natureza;
-
-II - tenha as características justificadas em razão da estrita atividade do órgão ou entidade.
+* I - seja adquirido a preço equivalente ou inferior ao preço do bem de qualidade comum de mesma natureza;
+* II - tenha as características justificadas em razão da estrita atividade do órgão ou entidade.
 
 Art. 183. O bem não enquadrado como de luxo, para os fins deste Decreto, será enquadrado como comum.
 
@@ -1842,7 +1526,7 @@ Parágrafo único. Os bens enquadrados como de luxo nos termos deste Decreto nã
 
 Art. 185. A Secretaria de Administração poderá editar normas complementares para a execução do disposto nesta Seção.
 
-#### **CAPÍTULO VII - DISPOSIÇÕES FINAIS**
+## **CAPÍTULO VII - DISPOSIÇÕES FINAIS**
 
 Art. 186. A Secretaria de Administração e a Procuradoria Geral do Estado, nas matérias de sua competência, poderão editar regulamentos e orientações complementares quanto a procedimentos, modelos e materiais de apoio, bem como desenvolver ferramentas visando à automação dos instrumentos previstos neste Decreto.
 
@@ -1856,13 +1540,10 @@ Art. 189. Este Decreto será aplicado apenas aos processos licitatórios e contr
 
 Art. 190. Ficam recepcionados, naquilo que for compatível com a Lei nº 14.133/2021 e com este Decreto, até que sobrevenha nova regulamentação, os seguintes atos normativos estaduais:
 
-I - Decreto Estadual nº 14.386/2011, que dispõe sobre aquisição, locação e controle dos veículos oficiais do Poder Executivo;
-
-II - Decreto Estadual nº 14.891/2012, que dispõe sobre aquisição de passagens aéreas;
-
-III - Decreto Estadual n 16.212/2015, que trata do tratamento favorecido, diferenciado e simplificado para microempresas, empresas de pequeno porte e microempreendedores individuais nas licitações no âmbito da Administração Pública Estadual;
-
-IV - Decreto Estadual n 16.737/2016, que estabelece parâmetros para elaboração de extratos de contratos e respectivos aditamentos para publicação na imprensa oficial.
+* I - Decreto Estadual nº 14.386/2011, que dispõe sobre aquisição, locação e controle dos veículos oficiais do Poder Executivo;
+* II - Decreto Estadual nº 14.891/2012, que dispõe sobre aquisição de passagens aéreas;
+* III - Decreto Estadual n 16.212/2015, que trata do tratamento favorecido, diferenciado e simplificado para microempresas, empresas de pequeno porte e microempreendedores individuais nas licitações no âmbito da Administração Pública Estadual;
+* IV - Decreto Estadual n 16.737/2016, que estabelece parâmetros para elaboração de extratos de contratos e respectivos aditamentos para publicação na imprensa oficial.
 
 § 1º Os Decretos Estaduais nº 14.483/2011 e 15.093/2013, que dispõem, respectivamente, sobre contratação de serviços e acompanhamento dos contratos firmados pela Administração Pública Estadual, ficam recepcionados naquilo que for compatível com a Lei nº 14.133/2021 e com este Decreto, até que sobrevenha nova regulamentação, devendo ser observadas ainda as disposições constantes em edital e contrato, ouvida a Procuradoria-Geral do Estado.
 
@@ -1871,6 +1552,8 @@ IV - Decreto Estadual n 16.737/2016, que estabelece parâmetros para elaboraçã
 Art. 191. Este Decreto entra em vigor na data de sua publicação.
 
 Palácio de KARNAK, em Teresina (PI), 07 de março de 2023.
+
+---
 
 Rafael Tajra Fonteles
 

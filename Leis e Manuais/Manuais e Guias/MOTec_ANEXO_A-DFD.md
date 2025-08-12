@@ -1,6 +1,6 @@
 # **ANEXO - A - ARTEFATO I – DOCUMENTO DE FORMALIZAÇÃO DA DEMANDA – DFD**
 
->[!NOTE] Nota
+>[!NOTE]
 > Primeira página - Capa
 
 ## DOCUMENTO DE FORMALIZAÇÃO DA DEMANDA – DFD
@@ -11,7 +11,7 @@ Objeto/Solução
 
 Local, \<mês> de \<ano>
 
->[!NOTE] Nota
+>[!NOTE]
 >Segunda página: Histórico de Versões
 
 Histórico de Versões
@@ -26,7 +26,7 @@ Os elementos e etapas do Documento de Formalização da Demanda- DFD poderão se
 
 A fase de Planejamento da Contratação terá início com o recebimento do DFD pela Área de TI. Este documento deverá ser elaborado pela Área Requisitante da solução.
 
->[!IMPORTANT] Importante
+>[!IMPORTANT] 
 >Preenchimento pela área requisitante.
 
 ### **2. Identificação da área requisitante**
@@ -125,7 +125,7 @@ _______________________________
 
 Nome e função do Titular da Área Requisitante
 
->[!IMPORTANT] Importante
+>[!IMPORTANT]
 >Preenchimento pela área de tecnologia da informação
 
 #### **4.6. Identificação e ciência do integrante técnico**
@@ -181,10 +181,10 @@ Local, xx de xxxxxxxxxxxxx de xxxxxxx
 
 Nome do Integrante Requisitante
 
->[!NOTE] Observação
+>[!NOTE]
 >As atividades atribuídas à autoridade da Área Administrativa poderão ser realizadas em documentos apartados (como Despacho ou Portaria), e devem ser incluídos no Procedimento de Gestão Administrativa da contratação.
 
->[!IMPORTANT] Importante
+>[!IMPORTANT]
 >Preenchimento pela área administrativa
 
 #### **5.1. Identificação e ciência do integrante administrativo**

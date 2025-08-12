@@ -159,7 +159,6 @@ CARGO/LOTAÇÃO
 
 Responsável pelo preenchimento do DFD.
 
-
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 NOME COMPLETO DO CHEFE DA CTI - Nº MATRÍCULA
@@ -170,12 +169,11 @@ Coordenador Técnico da Coordenadoria de Tecnologia da Informação (CTI)
 
 Nos termos do art. 53 do decreto estadual 21.872/2023, autorizo a abertura do procedimento para contratação/licitação, conforme justificativas expostas acima, sob a ótica da oportunidade, conveniência e relevância para este Parquet.
 
-
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 NOME COMPLETO DO ORDENADOR DE DESPESAS (PGJ/FMPPI/PROCON)
 Ordenador de Despesas
 
->[!IMPORTANT]
+>[!IMPORTANT] Importante
 >
 >TODOS OS INTEGRANTES (COM EXCEÇÃO DOS FISCAIS) DEVEM ASSINAR O DFD.

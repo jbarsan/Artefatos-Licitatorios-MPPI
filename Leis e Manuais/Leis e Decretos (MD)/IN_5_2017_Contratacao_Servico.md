@@ -1,28 +1,25 @@
-### [**INSTRUÇÃO NORMATIVA Nº 5, DE 26 DE MAIO DE 2017 (Atualizada)**](https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-5-de-26-de-maio-de-2017-atualizada)
+# [**INSTRUÇÃO NORMATIVA Nº 5, DE 26 DE MAIO DE 2017 (Atualizada)**](https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-5-de-26-de-maio-de-2017-atualizada)
+
+* Publicado em 26/05/2017 00h00
+* Atualizado em 26/11/2024 16h11
 
 Dispõe sobre as regras e diretrizes do procedimento de contratação de serviços sob o regime de execução indireta no âmbito da Administração Pública federal direta, autárquica e fundacional.
 
-Publicado em 26/05/2017 00h00
-
-Atualizado em 26/11/2024 16h11
-
 O SECRETÁRIO DE GESTÃO DO MINISTÉRIO DO PLANEJAMENTO, DESENVOLVIMENTO E GESTÃO, no uso das atribuições que lhe confere o Decreto nº 9.035, de 20 de abril de 2017, e o Decreto nº 1.094, de 23 de março de 1994, considerando o disposto na Lei nº 8.666, de 21 de junho de 1993, na Lei nº 10.520, de 17 de julho de 2002, no Decreto-Lei nº 200, de 25 de fevereiro de 1967, e no Decreto nº 2.271, de 7 de julho de 1997, resolve:
 
-#### **CAPÍTULO I -DISPOSIÇÕES GERAIS**
+## **CAPÍTULO I -DISPOSIÇÕES GERAIS**
 
 Art. 1º As contratações de serviços para a realização de tarefas executivas sob o regime de execução indireta, por órgãos ou entidades da Administração Pública federal direta, autárquica e fundacional, observarão, no que couber:
 
-I - as fases de Planejamento da Contratação, Seleção do Fornecedor e Gestão do Contrato;
+* I - as fases de Planejamento da Contratação, Seleção do Fornecedor e Gestão do Contrato;
+* II - os critérios e práticas de sustentabilidade; e
+* III - o alinhamento com o Planejamento Estratégico do órgão ou entidade, quando houver.
 
-II - os critérios e práticas de sustentabilidade; e
-
-III - o alinhamento com o Planejamento Estratégico do órgão ou entidade, quando houver.
-
-##### **Seção I - Das Definições**
+### **Seção I - Das Definições**
 
 Art. 2º Para os efeitos desta Instrução Normativa são adotadas as definições constantes do [Anexo I](#anexo-i---definições).
 
-##### **Seção II - Das Características da Terceirização de Serviços**
+### **Seção II - Das Características da Terceirização de Serviços**
 
 Art. 3º O objeto da licitação será definido como prestação de serviços, sendo vedada a caracterização exclusiva do objeto como fornecimento de mão de obra.
 
@@ -30,27 +27,21 @@ Art. 4º A prestação de serviços de que trata esta Instrução Normativa não
 
 Art. 5º É vedado à Administração ou aos seus servidores praticar atos de ingerência na administração da contratada, a exemplo de:
 
-I - possibilitar ou dar causa a atos de subordinação, vinculação hierárquica, prestação de contas, aplicação de sanção e supervisão direta sobre os empregados da contratada;
+* I - possibilitar ou dar causa a atos de subordinação, vinculação hierárquica, prestação de contas, aplicação de sanção e supervisão direta sobre os empregados da contratada;
+* II - exercer o poder de mando sobre os empregados da contratada, devendo reportar-se somente aos prepostos ou responsáveis por ela indicados, exceto quando o objeto da contratação previr a notificação direta para a execução das tarefas previamente descritas no contrato de prestação de serviços para a função específica, tais como nos serviços de recepção, apoio administrativo ou ao usuário;
+* III - direcionar a contratação de pessoas para trabalhar nas empresas contratadas;
+* IV - promover ou aceitar o desvio de funções dos trabalhadores da contratada, mediante a utilização destes em atividades distintas daquelas previstas no objeto da contratação e em relação à função específica para a qual o trabalhador foi contratado;
+* V - considerar os trabalhadores da contratada como colaboradores eventuais do próprio órgão ou entidade responsável pela contratação, especialmente para efeito de concessão de diárias e passagens;
+* VI - definir o valor da remuneração dos trabalhadores da empresa contratada para prestar os serviços, salvo nos casos abrangidos pelo [Decreto nº 12.174, de 11 de setembro de 2024](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/decreto/d12174.htm), e nos casos específicos em que se necessitam de profissionais com habilitação/experiência superior à daqueles que, no mercado, são remunerados pelo piso salarial da categoria, desde que justificadamente; e (Redação dada pela [Instrução Normativa Seges/MGI Nº 176, de 2024](https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-seges-mgi-no-176-de-25-de-novembro-de-2024))
+* VII - conceder aos trabalhadores da contratada direitos típicos de servidores públicos. (Redação dada pela [Instrução Normativa Seges/MGI Nº 81, de 2024](https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-seges-mgi-no-81-de-12-de-setembro-de-2024))
 
-II - exercer o poder de mando sobre os empregados da contratada, devendo reportar-se somente aos prepostos ou responsáveis por ela indicados, exceto quando o objeto da contratação previr a notificação direta para a execução das tarefas previamente descritas no contrato de prestação de serviços para a função específica, tais como nos serviços de recepção, apoio administrativo ou ao usuário;
-
-III - direcionar a contratação de pessoas para trabalhar nas empresas contratadas;
-
-IV - promover ou aceitar o desvio de funções dos trabalhadores da contratada, mediante a utilização destes em atividades distintas daquelas previstas no objeto da contratação e em relação à função específica para a qual o trabalhador foi contratado;
-
-V - considerar os trabalhadores da contratada como colaboradores eventuais do próprio órgão ou entidade responsável pela contratação, especialmente para efeito de concessão de diárias e passagens;
-
-VI - definir o valor da remuneração dos trabalhadores da empresa contratada para prestar os serviços, salvo nos casos abrangidos pelo [Decreto nº 12.174, de 11 de setembro de 2024](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/decreto/d12174.htm), e nos casos específicos em que se necessitam de profissionais com habilitação/experiência superior à daqueles que, no mercado, são remunerados pelo piso salarial da categoria, desde que justificadamente; e (Redação dada pela  [Instrução Normativa Seges/MGI Nº 176, de 2024](https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-seges-mgi-no-176-de-25-de-novembro-de-2024))
-
-VII - conceder aos trabalhadores da contratada direitos típicos de servidores públicos. (Redação dada pela  [Instrução Normativa Seges/MGI Nº 81, de 2024](https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-seges-mgi-no-81-de-12-de-setembro-de-2024))
-
-Parágrafo único. Não se configura como prática de atos de ingerência na administração da contratada a gestão e acompanhamento das garantias trabalhistas objeto do [Decreto nº 12.174, de 11 de setembro de 2024](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/decreto/d12174.htm). (Redação dada pela  [Instrução Normativa Seges/MGI Nº 81, de 2024](https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-seges-mgi-no-81-de-12-de-setembro-de-2024))
+Parágrafo único. Não se configura como prática de atos de ingerência na administração da contratada a gestão e acompanhamento das garantias trabalhistas objeto do [Decreto nº 12.174, de 11 de setembro de 2024](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/decreto/d12174.htm). (Redação dada pela [Instrução Normativa Seges/MGI Nº 81, de 2024](https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-seges-mgi-no-81-de-12-de-setembro-de-2024))
 
 Art. 6º A Administração não se vincula às disposições contidas em Acordos, Convenções ou Dissídios Coletivos de Trabalho que tratem de pagamento de participação dos trabalhadores nos lucros ou resultados da empresa contratada, de matéria não trabalhista, ou que estabeleçam direitos não previstos em lei, tais como valores ou índices obrigatórios de encargos sociais ou previdenciários, bem como de preços para os insumos relacionados ao exercício da atividade.
 
 Parágrafo único. É vedado ao órgão e entidade vincular-se às disposições previstas nos Acordos, Convenções ou Dissídios Coletivos de Trabalho que tratem de obrigações e direitos que somente se aplicam aos contratos com a Administração Pública.
 
-##### **Seção III - Dos Serviços Passíveis de Execução Indireta**
+### **Seção III - Dos Serviços Passíveis de Execução Indireta**
 
 Art. 7º Nos termos da legislação, serão objeto de execução indireta as atividades previstas em Decreto que regulamenta a matéria.
 
@@ -60,27 +51,23 @@ Art. 7º Nos termos da legislação, serão objeto de execução indireta as ati
 
 Art. 8º Poderá ser admitida a contratação de serviço de apoio administrativo, considerando o disposto no inciso IV do art. 9º desta Instrução Normativa, com a descrição no contrato de prestação de serviços para cada função específica das tarefas principais e essenciais a serem executadas, admitindo-se pela Administração, em relação à pessoa encarregada da função, a notificação direta para a execução das tarefas.
 
-##### **Seção IV - Da Vedação à Contratação de Serviços**
+### **Seção IV - Da Vedação à Contratação de Serviços**
 
 Art. 9º Não serão objeto de execução indireta na Administração Pública federal direta, autárquica e fundacional:
 
-I - atividades que envolvam a tomada de decisão ou posicionamento institucional nas áreas de planejamento, coordenação, supervisão e controle;
-
-II - as atividades consideradas estratégicas para o órgão ou entidade, cuja terceirização possa colocar em risco o controle de processos e de conhecimentos e tecnologias;
-
-III - as funções relacionadas ao poder de polícia, de regulação, de outorga de serviços públicos e de aplicação de sanção; e
-
-IV - as atividades inerentes às categorias funcionais abrangidas pelo plano de cargos do órgão ou entidade, salvo expressa disposição legal em contrário ou quando se tratar de cargo extinto, total ou parcialmente, no âmbito do quadro geral de pessoal.
+* I - atividades que envolvam a tomada de decisão ou posicionamento institucional nas áreas de planejamento, coordenação, supervisão e controle;
+* II - as atividades consideradas estratégicas para o órgão ou entidade, cuja terceirização possa colocar em risco o controle de processos e de conhecimentos e tecnologias;
+* III - as funções relacionadas ao poder de polícia, de regulação, de outorga de serviços públicos e de aplicação de sanção; e
+* IV - as atividades inerentes às categorias funcionais abrangidas pelo plano de cargos do órgão ou entidade, salvo expressa disposição legal em contrário ou quando se tratar de cargo extinto, total ou parcialmente, no âmbito do quadro geral de pessoal.
 
 Parágrafo único. As atividades auxiliares, instrumentais ou acessórias às funções e atividades definidas nos incisos do caput podem ser executadas de forma indireta, sendo vedada a transferência de responsabilidade para realização de atos administrativos ou a tomada de decisão para o contratado.
 
-##### **Seção V - Dos Serviços Prestados por Cooperativas e Instituições Sem Fins Lucrativos**
+### **Seção V - Dos Serviços Prestados por Cooperativas e Instituições Sem Fins Lucrativos**
 
 Art. 10. A contratação de sociedades cooperativas somente poderá ocorrer quando, pela sua natureza, o serviço a ser contratado evidenciar:
 
-I - a possibilidade de ser executado com autonomia pelos cooperados, de modo a não demandar relação de subordinação entre a cooperativa e os cooperados, nem entre a Administração e os cooperados; e
-
-II - que a gestão operacional do serviço seja executada de forma compartilhada ou em rodízio, em que as atividades de coordenação e supervisão da execução dos serviços e as de preposto, conforme determina o art. 68 da Lei nº 8.666, de 1993, sejam realizadas pelos cooperados de forma alternada ou aleatória, para que tantos quanto possíveis venham a assumir tal atribuição.
+* I - a possibilidade de ser executado com autonomia pelos cooperados, de modo a não demandar relação de subordinação entre a cooperativa e os cooperados, nem entre a Administração e os cooperados; e
+* II - que a gestão operacional do serviço seja executada de forma compartilhada ou em rodízio, em que as atividades de coordenação e supervisão da execução dos serviços e as de preposto, conforme determina o art. 68 da Lei nº 8.666, de 1993, sejam realizadas pelos cooperados de forma alternada ou aleatória, para que tantos quanto possíveis venham a assumir tal atribuição.
 
 § 1º Quando admitida a participação de cooperativas, estas deverão apresentar um modelo de gestão operacional que contemple as diretrizes estabelecidas neste artigo, o qual servirá como condição de aceitabilidade da proposta.
 
@@ -94,15 +81,15 @@ Parágrafo único. Considerando-se que as instituições sem fins lucrativos goz
 
 Art. 13. Não será admitida a contratação de cooperativa ou de instituição sem fins lucrativos cujo estatuto e objetos sociais não prevejam ou não estejam de acordo com o objeto contratado.
 
-##### **Seção VI - Das Características dos Serviços**
+### **Seção VI - Das Características dos Serviços**
 
-###### **Subseção I - Dos Serviços Comuns**
+#### **Subseção I - Dos Serviços Comuns**
 
 Art. 14. Os serviços considerados comuns são aqueles cujos padrões de desempenho e qualidade possam ser objetivamente definidos pelo ato convocatório, por meio de especificações usuais do mercado.
 
 Parágrafo único. Independentemente de sua complexidade, os serviços podem ser enquadrados na condição de serviços comuns, desde que atendam aos requisitos dispostos no caput deste artigo.
 
-###### **Subseção II - Dos Serviços Prestados de Forma Contínua e Não Contínua**
+#### **Subseção II - Dos Serviços Prestados de Forma Contínua e Não Contínua**
 
 Art. 15. Os serviços prestados de forma contínua são aqueles que, pela sua essencialidade, visam atender à necessidade pública de forma permanente e contínua, por mais de um exercício financeiro, assegurando a integridade do patrimônio público ou o funcionamento das atividades finalísticas do órgão ou entidade, de modo que sua interrupção possa comprometer a prestação de um serviço público ou o cumprimento da missão institucional.
 
@@ -110,15 +97,13 @@ Parágrafo único. A contratação de serviços prestados de forma contínua dev
 
 Art. 16. Os serviços considerados não continuados ou contratados por escopo são aqueles que impõem aos contratados o dever de realizar a prestação de um serviço específico em um período predeterminado, podendo ser prorrogado, desde que justificadamente, pelo prazo necessário à conclusão do objeto, observadas as hipóteses previstas no § 1º do art. 57 da Lei nº 8.666, de 1993.
 
-###### **Subseção III - Dos Serviços com Regime de Dedicação Exclusiva de Mão de Obra**
+#### **Subseção III - Dos Serviços com Regime de Dedicação Exclusiva de Mão de Obra**
 
 Art. 17. Os serviços com regime de dedicação exclusiva de mão de obra são aqueles em que o modelo de execução contratual exija, dentre outros requisitos, que:
 
-I - os empregados da contratada fiquem à disposição nas dependências da contratante para a prestação dos serviços;
-
-II - a contratada não compartilhe os recursos humanos e materiais disponíveis de uma contratação para execução simultânea de outros contratos; e
-
-III - a contratada possibilite a fiscalização pela contratante quanto à distribuição, controle e supervisão dos recursos humanos alocados aos seus contratos.
+* I - os empregados da contratada fiquem à disposição nas dependências da contratante para a prestação dos serviços;
+* II - a contratada não compartilhe os recursos humanos e materiais disponíveis de uma contratação para execução simultânea de outros contratos; e
+* III - a contratada possibilite a fiscalização pela contratante quanto à distribuição, controle e supervisão dos recursos humanos alocados aos seus contratos.
 
 Parágrafo único. Os serviços de que trata o caput poderão ser prestados fora das dependências do órgão ou entidade, desde que não seja nas dependências da contratada e presentes os requisitos dos incisos II e III.
 
@@ -126,9 +111,8 @@ Art. 18. Para as contratações de que trata o art. 17, o procedimento sobre Ger
 
 § 1º Para o tratamento dos riscos previstos no caput, poderão ser adotados os seguintes controles internos:
 
-I - Conta-Depósito Vinculada ― bloqueada para movimentação, conforme disposto em Caderno de Logística, elaborado pela Secretaria de Gestão do Ministério do Planejamento, Desenvolvimento e Gestão; ou
-
-II - Pagamento pelo Fato Gerador, conforme disposto em Caderno de Logística, elaborado pela Secretaria de Gestão do Ministério do Planejamento, Desenvolvimento e Gestão.
+* I - Conta-Depósito Vinculada ― bloqueada para movimentação, conforme disposto em Caderno de Logística, elaborado pela Secretaria de Gestão do Ministério do Planejamento, Desenvolvimento e Gestão; ou
+* II - Pagamento pelo Fato Gerador, conforme disposto em Caderno de Logística, elaborado pela Secretaria de Gestão do Ministério do Planejamento, Desenvolvimento e Gestão.
 
 §2º A adoção de um dos critérios previstos nos incisos I e II do parágrafo anterior deverá ser justificada com base na avaliação da relação custo-benefício.
 
@@ -136,35 +120,30 @@ II - Pagamento pelo Fato Gerador, conforme disposto em Caderno de Logística, el
 
 § 4º Os procedimentos de que tratam os incisos do § 1º deste artigo estão disciplinados no item 1 do [Anexo VII-B](#anexo-vii-b---diretrizes-específicas-para-elaboração-do-ato-convocatório).
 
-#### **CAPÍTULO II - DO PROCEDIMENTO DA CONTRATAÇÃO**
+## **CAPÍTULO II - DO PROCEDIMENTO DA CONTRATAÇÃO**
 
 Art. 19. As contratações de serviços de que tratam esta Instrução Normativa serão realizadas observando-se as seguintes fases:
 
-I - Planejamento da Contratação;
-
-II - Seleção do Fornecedor; e
-
-III - Gestão do Contrato.
+* I - Planejamento da Contratação;
+* II - Seleção do Fornecedor; e
+* III - Gestão do Contrato.
 
 Parágrafo único. O nível de detalhamento de informações necessárias para instruir cada fase da contratação deverá considerar a análise de risco do objeto contratado.
 
-#### **CAPÍTULO III - DO PLANEJAMENTO DA CONTRATAÇÃO**
+## **CAPÍTULO III - DO PLANEJAMENTO DA CONTRATAÇÃO**
 
 Art. 20. O Planejamento da Contratação, para cada serviço a ser contratado, consistirá nas seguintes etapas:
 
-I - Estudos Preliminares;
-
-II - Gerenciamento de Riscos; e
-
-III - Termo de Referência ou Projeto Básico.
+* I - Estudos Preliminares;
+* II - Gerenciamento de Riscos; e
+* III - Termo de Referência ou Projeto Básico.
 
 § 1º As situações que ensejam a dispensa ou inexigibilidade da licitação exigem o cumprimento das etapas do Planejamento da Contratação, no que couber.
 
 § 2º Salvo o Gerenciamento de Riscos relacionado à fase de Gestão do Contrato, as etapas I e II do caput ficam dispensadas quando se tratar de:
 
-a) contratações de serviços cujos valores se enquadram nos limites dos incisos I e II do art. 24 da Lei nº 8.666, de 1993; ou
-
-b) contratações previstas nos incisos IV e XI do art. 24 da Lei nº 8.666, de 1993.
+* a) contratações de serviços cujos valores se enquadram nos limites dos incisos I e II do art. 24 da Lei nº 8.666, de 1993; ou
+* b) contratações previstas nos incisos IV e XI do art. 24 da Lei nº 8.666, de 1993.
 
 § 3º As contratações de serviços prestados de forma contínua, passíveis de prorrogações sucessivas, de que trata o art. 57 da Lei nº 8.666, de 1993, caso sejam objeto de renovação da vigência, ficam dispensadas das etapas I, II e III do caput, salvo o Gerenciamento de Riscos da fase de Gestão do Contrato.
 
@@ -172,23 +151,19 @@ b) contratações previstas nos incisos IV e XI do art. 24 da Lei nº 8.666, de 
 
 § 5º Podem ser elaborados Estudos Preliminares e Gerenciamento de Riscos comuns para serviços de mesma natureza, semelhança ou afinidade.
 
-##### **Seção I - Dos Procedimentos Iniciais para Elaboração do Planejamento da Contratação**
+### **Seção I - Dos Procedimentos Iniciais para Elaboração do Planejamento da Contratação**
 
 Art. 21. Os procedimentos iniciais do Planejamento da Contratação consistem nas seguintes atividades:
 
-I - elaboração do documento para formalização da demanda pelo setor requisitante do serviço, conforme modelo do [Anexo II](#anexo-ii---documento-de-formalização-da-demanda), que contemple:
+* I - elaboração do documento para formalização da demanda pelo setor requisitante do serviço, conforme modelo do [Anexo II](#anexo-ii---documento-de-formalização-da-demanda), que contemple:
 
-a) a justificativa da necessidade da contratação explicitando a opção pela terceirização dos serviços e considerando o Planejamento Estratégico, se for o caso;
+  * a) a justificativa da necessidade da contratação explicitando a opção pela terceirização dos serviços e considerando o Planejamento Estratégico, se for o caso;
+  * b) a quantidade de serviço a ser contratada;
+  * c) a previsão de data em que deve ser iniciada a prestação dos serviços; e
+  * d) a indicação do servidor ou servidores para compor a equipe que irá elaborar os Estudos Preliminares e o Gerenciamento de Risco e, se necessário, daquele a quem será confiada a fiscalização dos serviços, o qual poderá participar de todas as etapas do planejamento da contratação, observado o disposto no § 1º do art. 22;
 
-b) a quantidade de serviço a ser contratada;
-
-c) a previsão de data em que deve ser iniciada a prestação dos serviços; e
-
-d) a indicação do servidor ou servidores para compor a equipe que irá elaborar os Estudos Preliminares e o Gerenciamento de Risco e, se necessário, daquele a quem será confiada a fiscalização dos serviços, o qual poderá participar de todas as etapas do planejamento da contratação, observado o disposto no § 1º do art. 22;
-
-II - envio do documento de que trata o inciso I deste artigo ao setor de licitações do órgão ou entidade; e
-
-III - designação formal da equipe de Planejamento da Contratação pela autoridade competente do setor de licitações.
+* II - envio do documento de que trata o inciso I deste artigo ao setor de licitações do órgão ou entidade; e
+* III - designação formal da equipe de Planejamento da Contratação pela autoridade competente do setor de licitações.
 
 Art. 22. Ao receber o documento de que trata o inciso I do art. 21, a autoridade competente do setor de licitações poderá, se necessário, indicar servidor ou servidores que atuam no setor para compor a equipe de Planejamento da Contratação.
 
@@ -198,23 +173,19 @@ Art. 22. Ao receber o documento de que trata o inciso I do art. 21, a autoridade
 
 Art. 23. O órgão ou entidade poderá definir de forma diversa a formação de equipe responsável pelo Planejamento das Contratações quando contemplarem área técnica específica em sua estrutura, observadas as disposições desta Seção no que couber.
 
-##### **Seção II - Dos Estudos Preliminares**
+### **Seção II - Dos Estudos Preliminares**
 
 Art. 24. Com base no documento que formaliza a demanda, a equipe de Planejamento da Contratação deve realizar os Estudos Preliminares, conforme estabelecido em ato do Secretário de Gestão da Secretaria Especial de Desburocratização, Gestão e Governo Digital do Ministério da Economia. (Redação dada pela [Instrução Normativa nº 49, de 2020](https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-49-de-30-de-junho-de-2020))
 
-##### **Seção III - Do Gerenciamento de Riscos**
+### **Seção III - Do Gerenciamento de Riscos**
 
 Art. 25. O Gerenciamento de Riscos é um processo que consiste nas seguintes atividades:
 
-I - identificação dos principais riscos que possam comprometer a efetividade do Planejamento da Contratação, da Seleção do Fornecedor e da Gestão Contratual ou que impeçam o alcance dos resultados que atendam às necessidades da contratação;
-
-II - avaliação dos riscos identificados, consistindo da mensuração da probabilidade de ocorrência e do impacto de cada risco;
-
-III - tratamento dos riscos considerados inaceitáveis por meio da definição das ações para reduzir a probabilidade de ocorrência dos eventos ou suas consequências;
-
-IV - para os riscos que persistirem inaceitáveis após o tratamento, definição das ações de contingência para o caso de os eventos correspondentes aos riscos se concretizarem; e
-
-V - definição dos responsáveis pelas ações de tratamento dos riscos e das ações de contingência.
+* I - identificação dos principais riscos que possam comprometer a efetividade do Planejamento da Contratação, da Seleção do Fornecedor e da Gestão Contratual ou que impeçam o alcance dos resultados que atendam às necessidades da contratação;
+* II - avaliação dos riscos identificados, consistindo da mensuração da probabilidade de ocorrência e do impacto de cada risco;
+* III - tratamento dos riscos considerados inaceitáveis por meio da definição das ações para reduzir a probabilidade de ocorrência dos eventos ou suas consequências;
+* IV - para os riscos que persistirem inaceitáveis após o tratamento, definição das ações de contingência para o caso de os eventos correspondentes aos riscos se concretizarem; e
+* V - definição dos responsáveis pelas ações de tratamento dos riscos e das ações de contingência.
 
 Parágrafo único. A responsabilidade pelo Gerenciamento de Riscos compete à equipe de Planejamento da Contratação devendo abranger as fases do procedimento da contratação previstas no art. 19.
 
@@ -222,13 +193,10 @@ Art. 26. O Gerenciamento de Riscos materializa-se no documento Mapa de Riscos.
 
 § 1º O Mapa de Riscos deve ser atualizado e juntado aos autos do processo de contratação, pelo menos:
 
-I - ao final da elaboração dos Estudos Preliminares;
-
-II - ao final da elaboração do Termo de Referência ou Projeto Básico;
-
-III - após a fase de Seleção do Fornecedor; e
-
-IV - após eventos relevantes, durante a gestão do contrato pelos servidores responsáveis pela fiscalização.
+* I - ao final da elaboração dos Estudos Preliminares;
+* II - ao final da elaboração do Termo de Referência ou Projeto Básico;
+* III - após a fase de Seleção do Fornecedor; e
+* IV - após eventos relevantes, durante a gestão do contrato pelos servidores responsáveis pela fiscalização.
 
 § 2º Para elaboração do Mapa de Riscos poderá ser observado o modelo constante do [Anexo IV](#anexo-iv---modelo-de-mapa-de-riscos).
 
@@ -236,7 +204,7 @@ Art. 27. Concluídas as etapas relativas aos Estudos Preliminares e ao Gerenciam
 
 Parágrafo único. A Secretaria de Gestão do Ministério do Planejamento, Desenvolvimento e Gestão poderá estabelecer regras e procedimentos para elaboração do Plano Anual de Contratações do órgão ou entidade, que será registrado em sistema informatizado.
 
-##### **Seção IV - Do Projeto Básico ou Termo de Referência**
+### **Seção IV - Do Projeto Básico ou Termo de Referência**
 
 Art. 28. O Projeto Básico ou Termo de Referência deverá ser elaborado a partir dos Estudos Preliminares, do Gerenciamento de Risco e conforme as diretrizes constantes do [Anexo V](#anexo-v---diretrizes-para-elaboração-do-projeto-básico-pb-ou-termo-de-referência-tr), devendo ser encaminhado ao setor de licitações, de acordo com o prazo previsto no art. 27.
 
@@ -248,27 +216,17 @@ Art. 29. Devem ser utilizados os modelos de minutas padronizados de Termos de Re
 
 Art. 30. O Termo de Referência ou Projeto Básico deve conter, no mínimo, o seguinte conteúdo:
 
-I - declaração do objeto;
-
-II - fundamentação da contratação;
-
-III - descrição da solução como um todo;
-
-IV - requisitos da contratação;
-
-V - modelo de execução do objeto;
-
-VI - modelo de gestão do contrato;
-
-VII - critérios de medição e pagamento;
-
-VIII - forma de seleção do fornecedor;
-
-IX - critérios de seleção do fornecedor;
-
-X - estimativas detalhadas dos preços, com ampla pesquisa de mercado nos termos da **Instrução Normativa nº 5, de 27 de junho de 2014** (Revogada pela [IN nº 73, de 2020](https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-73-de-5-de-agosto-de-2020)); e
-
-XI - adequação orçamentária.
+* I - declaração do objeto;
+* II - fundamentação da contratação;
+* III - descrição da solução como um todo;
+* IV - requisitos da contratação;
+* V - modelo de execução do objeto;
+* VI - modelo de gestão do contrato;
+* VII - critérios de medição e pagamento;
+* VIII - forma de seleção do fornecedor;
+* IX - critérios de seleção do fornecedor;
+* X - estimativas detalhadas dos preços, com ampla pesquisa de mercado nos termos da **Instrução Normativa nº 5, de 27 de junho de 2014** (Revogada pela [IN nº 73, de 2020](https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-73-de-5-de-agosto-de-2020)); e
+* XI - adequação orçamentária.
 
 § 1º Nas contratações que utilizem especificações padronizadas, em atenção ao § 4º do art. 20, o responsável pela elaboração do Termo de Referência ou Projeto Básico produzirá somente os itens que não forem estabelecidos como padrão.
 
@@ -278,11 +236,11 @@ Art. 31. O órgão ou entidade não poderá contratar o mesmo prestador para rea
 
 Art. 32. Para a contratação dos serviços de vigilância e de limpeza e conservação, além do disciplinado neste capítulo, deverão ser observadas as regras previstas no [Anexo VI](#anexo-vi---serviço-de-vigilância-limpeza-e-conservação).
 
-#### **CAPÍTULO IV - DA SELEÇÃO DO FORNECEDOR**
+## **CAPÍTULO IV - DA SELEÇÃO DO FORNECEDOR**
 
 Art. 33. A fase de Seleção do Fornecedor inicia-se com o encaminhamento do Termo de Referência ou Projeto Básico ao setor de licitações e encerra-se com a publicação do resultado de julgamento após adjudicação e homologação.
 
-##### **Seção I - Do Ato Convocatório**
+### **Seção I - Do Ato Convocatório**
 
 Art. 34. Os atos convocatórios da licitação e os atos relativos à dispensa ou inexigibilidade de licitação, bem como os contratos deles decorrentes, observarão o disposto nesta Instrução Normativa, além das disposições contidas na Lei nº 8.666, de 1993, na Lei nº 10.520, de 2002, na [Lei Complementar nº 123, de 14 de dezembro de 2006](./LEI_CP_123_2006.md), no [Decreto nº 8.538, de 6 de outubro de 2015](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/decreto/d8538.htm), e no **Decreto nº 2.271, de 1997** (Revogado pelo [Decreto nº 9.507, de 2018](https://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2018/Decreto/D9507.htm)), e serão adaptados às especificidades de cada contratação.
 
@@ -292,7 +250,7 @@ Art. 35. Devem ser utilizados os modelos de minutas padronizados de atos convoca
 
 § 2º No caso da contratação de prestação de serviços por meio do sistema de credenciamento, deverão ser observadas as diretrizes constantes do item 3 do [Anexo VII-B](#anexo-vii-b---diretrizes-específicas-para-elaboração-do-ato-convocatório).
 
-##### **Seção II - Do Parecer Jurídico**
+### **Seção II - Do Parecer Jurídico**
 
 Art. 36. Antes do envio do processo para exame e aprovação da assessoria jurídica, nos termos do parágrafo único do art. 38 da Lei nº 8.666, de 1993, deve-se realizar uma avaliação da conformidade legal do procedimento administrativo da contratação, preferencialmente com base nas disposições previstas no Anexo I da [Orientação Normativa/Seges nº 2, de 6 de junho de 2016](https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/orientacoes-normativas/orientacao-normativa-seges-no-2-de-06-de-junho-de-2016), no que couber.
 
@@ -300,31 +258,27 @@ Art. 36. Antes do envio do processo para exame e aprovação da assessoria jurí
 
 § 2º É dispensado o envio do processo, se houver parecer jurídico referencial exarado pelo órgão de assessoramento competente, que deverá ser anexado ao processo, ressalvada a hipótese de consulta acerca de dúvida de ordem jurídica devidamente identificada e motivada.
 
-##### **Seção III - Da Adjudicação e da Homologação**
+### **Seção III - Da Adjudicação e da Homologação**
 
 Art. 37. Para fins de Adjudicação e Homologação, o órgão ou entidade deverá observar o disposto na legislação vigente que rege a modalidade adotada, especialmente quanto ao inciso VII do art. 38 e inciso VI do art. 43 da Lei nº 8.666, de 1993; inciso IV do art. 3º e incisos XX, XXI e XXII do art. 4º da Lei nº 10.520, de 2005; e inciso IV do art. 28 da Lei nº 12.462, de 4 de agosto de 2011.
 
-##### **Seção IV - Da Formalização e Publicação dos Contratos**
+### **Seção IV - Da Formalização e Publicação dos Contratos**
 
 Art. 38. Para formalização e publicação dos contratos, deverá ser observado o disposto no [Anexo VII-G](#anexo-vii-g---da-formalização-e-publicação-do-contrato).
 
-#### **CAPÍTULO V - DA GESTÃO DO CONTRATO**
+## **CAPÍTULO V - DA GESTÃO DO CONTRATO**
 
-##### **Seção I - Das Atividades de Gestão e Fiscalização da Execução dos Contratos**
+### **Seção I - Das Atividades de Gestão e Fiscalização da Execução dos Contratos**
 
 Art. 39. As atividades de gestão e fiscalização da execução contratual são o conjunto de ações que tem por objetivo aferir o cumprimento dos resultados previstos pela Administração para os serviços contratados, verificar a regularidade das obrigações previdenciárias, fiscais e trabalhistas, bem como prestar apoio à instrução processual e o encaminhamento da documentação pertinente ao setor de contratos para a formalização dos procedimentos relativos a repactuação, alteração, reequilíbrio, prorrogação, pagamento, eventual aplicação de sanções, extinção dos contratos, dentre outras, com vista a assegurar o cumprimento das cláusulas avençadas e a solução de problemas relativos ao objeto.
 
 Art. 40. O conjunto de atividades de que trata o artigo anterior compete ao gestor da execução dos contratos, auxiliado pela fiscalização técnica, administrativa, setorial e pelo público usuário, conforme o caso, de acordo com as seguintes disposições:
 
-I - Gestão da Execução do Contrato: é a coordenação das atividades relacionadas à fiscalização técnica, administrativa, setorial e pelo público usuário, bem como dos atos preparatórios à instrução processual e ao encaminhamento da documentação pertinente ao setor de contratos para formalização dos procedimentos quanto aos aspectos que envolvam a prorrogação, alteração, reequilíbrio, pagamento, eventual aplicação de sanções, extinção dos contratos, dentre outros;
-
-II - Fiscalização Técnica: é o acompanhamento com o objetivo de avaliar a execução do objeto nos moldes contratados e, se for o caso, aferir se a quantidade, qualidade, tempo e modo da prestação dos serviços estão compatíveis com os indicadores de níveis mínimos de desempenho estipulados no ato convocatório, para efeito de pagamento conforme o resultado, podendo ser auxiliado pela fiscalização de que trata o inciso V deste artigo;
-
-III - Fiscalização Administrativa: é o acompanhamento dos aspectos administrativos da execução dos serviços nos contratos com regime de dedicação exclusiva de mão de obra quanto às obrigações previdenciárias, fiscais e trabalhistas, bem como quanto às providências tempestivas nos casos de inadimplemento;
-
-IV - Fiscalização Setorial: é o acompanhamento da execução do contrato nos aspectos técnicos ou administrativos quando a prestação dos serviços ocorrer concomitantemente em setores distintos ou em unidades desconcentradas de um mesmo órgão ou entidade; e
-
-V - Fiscalização pelo Público Usuário: é o acompanhamento da execução contratual por pesquisa de satisfação junto ao usuário, com o objetivo de aferir os resultados da prestação dos serviços, os recursos materiais e os procedimentos utilizados pela contratada, quando for o caso, ou outro fator determinante para a avaliação dos aspectos qualitativos do objeto.
+* I - Gestão da Execução do Contrato: é a coordenação das atividades relacionadas à fiscalização técnica, administrativa, setorial e pelo público usuário, bem como dos atos preparatórios à instrução processual e ao encaminhamento da documentação pertinente ao setor de contratos para formalização dos procedimentos quanto aos aspectos que envolvam a prorrogação, alteração, reequilíbrio, pagamento, eventual aplicação de sanções, extinção dos contratos, dentre outros;
+* II - Fiscalização Técnica: é o acompanhamento com o objetivo de avaliar a execução do objeto nos moldes contratados e, se for o caso, aferir se a quantidade, qualidade, tempo e modo da prestação dos serviços estão compatíveis com os indicadores de níveis mínimos de desempenho estipulados no ato convocatório, para efeito de pagamento conforme o resultado, podendo ser auxiliado pela fiscalização de que trata o inciso V deste artigo;
+* III - Fiscalização Administrativa: é o acompanhamento dos aspectos administrativos da execução dos serviços nos contratos com regime de dedicação exclusiva de mão de obra quanto às obrigações previdenciárias, fiscais e trabalhistas, bem como quanto às providências tempestivas nos casos de inadimplemento;
+* IV - Fiscalização Setorial: é o acompanhamento da execução do contrato nos aspectos técnicos ou administrativos quando a prestação dos serviços ocorrer concomitantemente em setores distintos ou em unidades desconcentradas de um mesmo órgão ou entidade; e
+* V - Fiscalização pelo Público Usuário: é o acompanhamento da execução contratual por pesquisa de satisfação junto ao usuário, com o objetivo de aferir os resultados da prestação dos serviços, os recursos materiais e os procedimentos utilizados pela contratada, quando for o caso, ou outro fator determinante para a avaliação dos aspectos qualitativos do objeto.
 
 § 1º No caso do inciso IV deste artigo, o órgão ou entidade deverá designar representantes nesses locais para atuarem como fiscais setoriais.
 
@@ -332,7 +286,7 @@ V - Fiscalização pelo Público Usuário: é o acompanhamento da execução con
 
 § 3º As atividades de gestão e fiscalização da execução contratual devem ser realizadas de forma preventiva, rotineira e sistemática, podendo ser exercidas por servidores, equipe de fiscalização ou único servidor, desde que, no exercício dessas atribuições, fique assegurada a distinção dessas atividades e, em razão do volume de trabalho, não comprometa o desempenho de todas as ações relacionadas à Gestão do Contrato.
 
-##### **Seção II - Da Indicação e Designação do Gestor e Fiscais do Contrato**
+### **Seção II - Da Indicação e Designação do Gestor e Fiscais do Contrato**
 
 Art. 41. A indicação do gestor, fiscal e seus substitutos caberá aos setores requisitantes dos serviços ou poderá ser estabelecida em normativo próprio de cada órgão ou entidade, de acordo com o funcionamento de seus processos de trabalho e sua estrutura organizacional.
 
@@ -356,9 +310,9 @@ Art. 43. O encargo de gestor ou fiscal não pode ser recusado pelo servidor, por
 
 Parágrafo único. Ocorrendo a situação de que trata o caput, observado o § 2º do art. 42, a Administração deverá providenciar a qualificação do servidor para o desempenho das atribuições, conforme a natureza e complexidade do objeto, ou designar outro servidor com a qualificação requerida.
 
-##### **Seção III - Do Acompanhamento e Fiscalização dos Contratos**
+### **Seção III - Do Acompanhamento e Fiscalização dos Contratos**
 
-###### **Subseção I - Dos Aspectos Gerais da Fiscalização e do Início da Prestação dos Serviços**
+#### **Subseção I - Dos Aspectos Gerais da Fiscalização e do Início da Prestação dos Serviços**
 
 Art. 44. O preposto da empresa deve ser formalmente designado pela contratada antes do início da prestação dos serviços, em cujo instrumento deverá constar expressamente os poderes e deveres em relação à execução do objeto.
 
@@ -388,55 +342,47 @@ Art. 46. As ocorrências acerca da execução contratual deverão ser registrada
 
 Art. 47. A execução dos contratos deverá ser acompanhada e fiscalizada por meio de instrumentos de controle que compreendam a mensuração dos seguintes aspectos, quando for o caso:
 
-I - os resultados alcançados em relação ao contratado, com a verificação dos prazos de execução e da qualidade demandada;
-
-II - os recursos humanos empregados em função da quantidade e da formação profissional exigidas;
-
-III - a qualidade e quantidade dos recursos materiais utilizados;
-
-IV - a adequação dos serviços prestados à rotina de execução estabelecida;
-
-V - o cumprimento das demais obrigações decorrentes do contrato; e
-
-VI - a satisfação do público usuário.
+* I - os resultados alcançados em relação ao contratado, com a verificação dos prazos de execução e da qualidade demandada;
+* II - os recursos humanos empregados em função da quantidade e da formação profissional exigidas;
+* III - a qualidade e quantidade dos recursos materiais utilizados;
+* IV - a adequação dos serviços prestados à rotina de execução estabelecida;
+* V - o cumprimento das demais obrigações decorrentes do contrato; e
+* VI - a satisfação do público usuário.
 
 § 1º Deve ser estabelecido, desde o início da prestação dos serviços, mecanismo de controle da utilização dos materiais empregados nos contratos, para efeito de acompanhamento da execução do objeto bem como para subsidiar a estimativa para as futuras contratações.
 
 § 2º A conformidade do material a ser utilizado na execução dos serviços deverá ser verificada juntamente com o documento da contratada que contenha a relação detalhada destes, de acordo com o estabelecido no contrato, informando as respectivas quantidades e especificações técnicas, tais como marca, qualidade e forma de uso.
 
-###### **Subseção II - Da Fiscalização Técnica e Administrativa**
+#### **Subseção II - Da Fiscalização Técnica e Administrativa**
 
 Art. 48. Na fiscalização técnica e administrativa dos contratos deverá ser observado o disposto no [Anexo VIII](#anexo-viii---da-fiscalização-técnica-e-administrativa).
 
-###### **Subseção III - Do Procedimento para Recebimento Provisório e Definitivo dos Serviços**
+#### **Subseção III - Do Procedimento para Recebimento Provisório e Definitivo dos Serviços**
 
 Art. 49. O recebimento provisório e definitivo dos serviços deve ser realizado conforme o disposto nos arts. 73 a 76 da Lei nº 8.666, de 1993, e em consonância com as regras definidas no ato convocatório.
 
 Art. 50. Exceto nos casos previstos no art. 74 da Lei n.º 8.666, de 1993, ao realizar o recebimento dos serviços, o órgão ou entidade deve observar o princípio da segregação das funções e orientar-se pelas seguintes diretrizes:
 
-I - o recebimento provisório será realizado pelo fiscal técnico, fiscal administrativo, fiscal setorial ou equipe de fiscalização, nos seguintes termos:
+* I - o recebimento provisório será realizado pelo fiscal técnico, fiscal administrativo, fiscal setorial ou equipe de fiscalização, nos seguintes termos:
 
-a) elaborar relatório circunstanciado, em consonância com as suas atribuições, contendo o registro, a análise e a conclusão acerca das ocorrências na execução do contrato e demais documentos que julgarem necessários, devendo encaminhá-los ao gestor do contrato para recebimento definitivo; e
+  * a) elaborar relatório circunstanciado, em consonância com as suas atribuições, contendo o registro, a análise e a conclusão acerca das ocorrências na execução do contrato e demais documentos que julgarem necessários, devendo encaminhá-los ao gestor do contrato para recebimento definitivo; e
+  * b) quando a fiscalização for exercida por um único servidor, o relatório circunstanciado deverá conter o registro, a análise e a conclusão acerca das ocorrências na execução do contrato, em relação à fiscalização técnica e administrativa e demais documentos que julgar necessários, devendo encaminhá-los ao gestor do contrato para recebimento definitivo;
 
-b) quando a fiscalização for exercida por um único servidor, o relatório circunstanciado deverá conter o registro, a análise e a conclusão acerca das ocorrências na execução do contrato, em relação à fiscalização técnica e administrativa e demais documentos que julgar necessários, devendo encaminhá-los ao gestor do contrato para recebimento definitivo;
+* II - o recebimento definitivo pelo gestor do contrato, ato que concretiza o ateste da execução dos serviços, obedecerá às seguintes diretrizes:
 
-II - o recebimento definitivo pelo gestor do contrato, ato que concretiza o ateste da execução dos serviços, obedecerá às seguintes diretrizes:
+  * a) realizar a análise dos relatórios e de toda a documentação apresentada pela fiscalização técnica e administrativa e, caso haja irregularidades que impeçam a liquidação e o pagamento da despesa, indicar as cláusulas contratuais pertinentes, solicitando à contratada, por escrito, as respectivas correções;
+  * b) emitir termo circunstanciado para efeito de recebimento definitivo dos serviços prestados, com base nos relatórios e documentação apresentados; e
+  * c) comunicar a empresa para que emita a Nota Fiscal ou Fatura com o valor exato dimensionado pela fiscalização com base no Instrumento de Medição de Resultado (IMR), observado o [Anexo VIII-A](#anexo-viii-a---da-fiscalização-técnica) ou instrumento substituto, se for o caso.
 
-a) realizar a análise dos relatórios e de toda a documentação apresentada pela fiscalização técnica e administrativa e, caso haja irregularidades que impeçam a liquidação e o pagamento da despesa, indicar as cláusulas contratuais pertinentes, solicitando à contratada, por escrito, as respectivas correções;
-
-b) emitir termo circunstanciado para efeito de recebimento definitivo dos serviços prestados, com base nos relatórios e documentação apresentados; e
-
-c) comunicar a empresa para que emita a Nota Fiscal ou Fatura com o valor exato dimensionado pela fiscalização com base no Instrumento de Medição de Resultado (IMR), observado o [Anexo VIII-A](#anexo-viii-a---da-fiscalização-técnica) ou instrumento substituto, se for o caso.
-
-###### **Subseção IV - Da Vigência e da Prorrogação**
+#### **Subseção IV - Da Vigência e da Prorrogação**
 
 Art. 51. As regras para a vigência e prorrogação dos contratos regidos por esta Instrução Normativa estão dispostas no [Anexo IX](#anexo-ix---da-vigência-e-da-prorrogação).
 
-###### **Subseção V - Da Alteração dos Contratos**
+#### **Subseção V - Da Alteração dos Contratos**
 
 Art. 52. As regras para a alteração dos contratos regidos por esta Instrução Normativa estão dispostas no [Anexo X](#anexo-x---da-alteração-dos-contratos).
 
-###### **Subseção VI - Da Repactuação e do Reajuste de Preços dos Contratos**
+#### **Subseção VI - Da Repactuação e do Reajuste de Preços dos Contratos**
 
 Art. 53. O ato convocatório e o contrato de serviço continuado deverão indicar o critério de reajustamento de preços, que deverá ser sob a forma de reajuste em sentido estrito, com a previsão de índices específicos ou setoriais, ou por repactuação, pela demonstração analítica da variação dos componentes dos custos.
 
@@ -452,9 +398,8 @@ Art. 54. A repactuação de preços, como espécie de reajuste contratual, dever
 
 Art. 55. O interregno mínimo de um ano para a primeira repactuação será contado a partir:
 
-I - da data limite para apresentação das propostas constante do ato convocatório, em relação aos custos com a execução do serviço decorrentes do mercado, tais como o custo dos materiais e equipamentos necessários à execução do serviço; ou
-
-II - da data do Acordo, Convenção, Dissídio Coletivo de Trabalho ou equivalente vigente à época da apresentação da proposta quando a variação dos custos for decorrente da mão de obra e estiver vinculada às datas-bases destes instrumentos.
+* I - da data limite para apresentação das propostas constante do ato convocatório, em relação aos custos com a execução do serviço decorrentes do mercado, tais como o custo dos materiais e equipamentos necessários à execução do serviço; ou
+* II - da data do Acordo, Convenção, Dissídio Coletivo de Trabalho ou equivalente vigente à época da apresentação da proposta quando a variação dos custos for decorrente da mão de obra e estiver vinculada às datas-bases destes instrumentos.
 
 Art. 56. Nas repactuações subsequentes à primeira, a anualidade será contada a partir da data do fato gerador que deu ensejo à última repactuação.
 
@@ -464,15 +409,11 @@ Art. 57. As repactuações serão precedidas de solicitação da contratada, aco
 
 § 2º A variação de custos decorrente do mercado somente será concedida mediante a comprovação pelo contratado do aumento dos custos, considerando-se:
 
-I - os preços praticados no mercado ou em outros contratos da Administração;
-
-II - as particularidades do contrato em vigência;
-
-III - a nova planilha com variação dos custos apresentada;
-
-IV - indicadores setoriais, tabelas de fabricantes, valores oficiais de referência, tarifas públicas ou outros equivalentes; e
-
-V - a disponibilidade orçamentária do órgão ou entidade contratante.
+* I - os preços praticados no mercado ou em outros contratos da Administração;
+* II - as particularidades do contrato em vigência;
+* III - a nova planilha com variação dos custos apresentada;
+* IV - indicadores setoriais, tabelas de fabricantes, valores oficiais de referência, tarifas públicas ou outros equivalentes; e
+* V - a disponibilidade orçamentária do órgão ou entidade contratante.
 
 § 3º A decisão sobre o pedido de repactuação deve ser feita no prazo máximo de sessenta dias, contados a partir da solicitação e da entrega dos comprovantes de variação dos custos.
 
@@ -486,11 +427,9 @@ V - a disponibilidade orçamentária do órgão ou entidade contratante.
 
 Art. 58. Os novos valores contratuais decorrentes das repactuações terão suas vigências iniciadas da seguinte forma:
 
-I - a partir da ocorrência do fato gerador que deu causa à repactuação, como regra geral;
-
-II - em data futura, desde que acordada entre as partes, sem prejuízo da contagem de periodicidade e para concessão das próximas repactuações futuras; ou
-
-III - em data anterior à ocorrência do fato gerador, exclusivamente quando a repactuação envolver revisão do custo de mão de obra em que o próprio fato gerador, na forma de Acordo, Convenção ou Dissídio Coletivo de Trabalho, contemplar data de vigência retroativa, podendo esta ser considerada para efeito de compensação do pagamento devido, assim como para a contagem da anualidade em repactuações futuras.
+* I - a partir da ocorrência do fato gerador que deu causa à repactuação, como regra geral;
+* II - em data futura, desde que acordada entre as partes, sem prejuízo da contagem de periodicidade e para concessão das próximas repactuações futuras; ou
+* III - em data anterior à ocorrência do fato gerador, exclusivamente quando a repactuação envolver revisão do custo de mão de obra em que o próprio fato gerador, na forma de Acordo, Convenção ou Dissídio Coletivo de Trabalho, contemplar data de vigência retroativa, podendo esta ser considerada para efeito de compensação do pagamento devido, assim como para a contagem da anualidade em repactuações futuras.
 
 Parágrafo único. Os efeitos financeiros da repactuação deverão ocorrer exclusivamente para os itens que a motivaram e apenas em relação à diferença porventura existente.
 
@@ -508,7 +447,7 @@ Art. 61. O reajuste em sentido estrito, como espécie de reajuste contratual, co
 
 § 4º Nos casos em que o valor dos contratos de serviços continuados sejam preponderantemente formados pelos custos dos insumos, poderá ser adotado o reajuste de que trata este artigo.
 
-###### **Subseção VII - Da Desconformidade da Proposta**
+#### **Subseção VII - Da Desconformidade da Proposta**
 
 Art. 62. O fiscal técnico, na fase da execução contratual, ao verificar que houve subdimensionamento da produtividade pactuada, sem perda da qualidade na execução do serviço, deverá comunicar à autoridade competente do setor de licitações para que esta promova a adequação contratual à produtividade efetivamente realizada, respeitando-se os limites de alteração dos valores contratuais previstos no § 1º do art. 65 da Lei nº 8.666, de 1993.
 
@@ -518,49 +457,44 @@ Art. 63. A contratada deverá arcar com o ônus decorrente de eventual equívoco
 
 § 2º Caso o eventual equívoco no dimensionamento dos quantitativos se revele superior às necessidades da contratante, a Administração deverá efetuar o pagamento seguindo estritamente as regras contratuais de faturamento dos serviços demandados e executados, concomitantemente com a realização, se necessário e cabível, de adequação contratual do quantitativo necessário, com base na alínea “b” do inciso I do art. 65 da Lei nº 8.666, de 1993.
 
-##### **Seção IV - Das Hipóteses de Retenção da Garantia e de Créditos da Contratada**
+#### **Seção IV - Das Hipóteses de Retenção da Garantia e de Créditos da Contratada**
 
 Art. 64. Quando da rescisão dos contratos de serviços com regime de dedicação exclusiva de mão de obra, o fiscal administrativo deve verificar o pagamento pela contratada das verbas rescisórias ou dos documentos que comprovem que os empregados serão realocados em outra atividade de prestação de serviços, sem que ocorra a interrupção do contrato de trabalho.
 
 Art. 65. Até que a contratada comprove o disposto no artigo anterior, o órgão ou entidade contratante deverá reter:
 
-I - a garantia contratual, conforme art. 56 da Lei nº 8.666, de 1993, prestada com cobertura para os casos de descumprimento das obrigações de natureza trabalhista e previdenciária pela contratada, que será executada para reembolso dos prejuízos sofridos pela Administração, nos termos da legislação que rege a matéria; e
-
-II - os valores das Notas fiscais ou Faturas correspondentes em valor proporcional ao inadimplemento, até que a situação seja regularizada.
+* I - a garantia contratual, conforme art. 56 da Lei nº 8.666, de 1993, prestada com cobertura para os casos de descumprimento das obrigações de natureza trabalhista e previdenciária pela contratada, que será executada para reembolso dos prejuízos sofridos pela Administração, nos termos da legislação que rege a matéria; e
+* II - os valores das Notas fiscais ou Faturas correspondentes em valor proporcional ao inadimplemento, até que a situação seja regularizada.
 
 Parágrafo único. Na hipótese prevista no inciso II do caput, não havendo quitação das obrigações por parte da contratada no prazo de quinze dias, a contratante poderá efetuar o pagamento das obrigações diretamente aos empregados da contratada que tenham participado da execução dos serviços objeto do contrato.
 
 Art. 66. O órgão ou entidade poderá ainda:
 
-I - nos casos de obrigação de pagamento de multa pela contratada, reter a garantia prestada a ser executada conforme legislação que rege a matéria; e
-
-II - nos casos em que houver necessidade de ressarcimento de prejuízos causados à Administração, nos termos do inciso IV do art. 80 da Lei n.º 8.666, de 1993, reter os eventuais créditos existentes em favor da contratada decorrentes do contrato.
+* I - nos casos de obrigação de pagamento de multa pela contratada, reter a garantia prestada a ser executada conforme legislação que rege a matéria; e
+* II - nos casos em que houver necessidade de ressarcimento de prejuízos causados à Administração, nos termos do inciso IV do art. 80 da Lei n.º 8.666, de 1993, reter os eventuais créditos existentes em favor da contratada decorrentes do contrato.
 
 Parágrafo único. Se a multa for de valor superior ao valor da garantia prestada, além da perda desta, responderá a contratada pela sua diferença, a qual será descontada dos pagamentos eventualmente devidos pela Administração ou ainda, quando for o caso, cobrada judicialmente;
 
-##### **Seção V - Do Processo de Pagamento**
+#### **Seção V - Do Processo de Pagamento**
 
 Art. 67. O pagamento deverá ser efetuado em consonância com as regras previstas no [Anexo XI](#anexo-xi---do-processo-de-pagamento).
 
-##### **Seção VI - Das Sanções**
+#### **Seção VI - Das Sanções**
 
 Art. 68. Identificada a infração ao contrato, inclusive quanto à inobservância do prazo fixado para apresentação da garantia, o órgão ou entidade deverá providenciar a autuação de procedimento administrativo específico para aplicação de sanções à contratada e a consequente rescisão contratual, se for o caso, de acordo com as regras previstas no ato convocatório, na legislação correlata e nas orientações estabelecidas em normativo interno do órgão ou entidade, quando houver, podendo utilizar como referência os Cadernos de Logística disponibilizados pela Secretaria de Gestão do Ministério do Planejamento, Desenvolvimento e Gestão.
 
-##### **Seção VII - Do Encerramento dos Contratos**
+#### **Seção VII - Do Encerramento dos Contratos**
 
 Art. 69. Os fiscais do contrato deverão promover as atividades de transição contratual observando, no que couber:
 
-I - a adequação dos recursos materiais e humanos necessários à continuidade do serviço por parte da Administração;
-
-II - a transferência final de conhecimentos sobre a execução e a manutenção do serviço;
-
-III - a devolução ao órgão ou entidade dos equipamentos, espaço físico, crachás, dentre outros; e
-
-IV - outras providências que se apliquem.
+* I - a adequação dos recursos materiais e humanos necessários à continuidade do serviço por parte da Administração;
+* II - a transferência final de conhecimentos sobre a execução e a manutenção do serviço;
+* III - a devolução ao órgão ou entidade dos equipamentos, espaço físico, crachás, dentre outros; e
+* IV - outras providências que se apliquem.
 
 Art. 70. Os fiscais deverão elaborar relatório final acerca das ocorrências da fase de execução do contrato, após a conclusão da prestação do serviço, para ser utilizado como fonte de informações para as futuras contratações.
 
-#### **CAPÍTULO VI - DISPOSIÇÕES FINAIS**
+## **CAPÍTULO VI - DISPOSIÇÕES FINAIS**
 
 Art. 71. A Secretaria de Gestão do Ministério do Planejamento, Desenvolvimento e Gestão poderá desenvolver, propor e implementar modelos, mecanismos, processos e procedimentos para a contratação de determinados serviços pelos órgãos e entidades.
 
@@ -578,7 +512,9 @@ Art. 75. Esta Instrução Normativa entra em vigor cento e vinte dias após sua 
 
 GLEISSON CARDOSO RUBIN
 
-##### **ANEXO I - DEFINIÇÕES**
+---
+
+## **ANEXO I - DEFINIÇÕES**
 
 I - AUTORIDADE COMPETENTE DO SETOR DE LICITAÇÕES: A referida autoridade, para fins do disposto nesta Instrução Normativa, é aquela que possui poder de decisão indicada na lei ou regimento interno do órgão ou entidade como responsável pelas licitações, contratos, ou ordenação de despesas, podendo haver mais de uma designação a depender da estrutura regimental.
 
@@ -592,15 +528,11 @@ V - CUSTO DE REPOSIÇÃO DO PROFISSIONAL AUSENTE: custo necessário para substit
 
 VI - CUSTOS INDIRETOS: os custos envolvidos na execução contratual decorrentes dos gastos da contratada com sua estrutura administrativa, organizacional e gerenciamento de seus contratos, calculados mediante incidência de um percentual sobre o somatório do efetivamente executado pela empresa, a exemplo da remuneração, benefícios mensais e diários, insumos diversos, encargos sociais e trabalhistas, tais como os dispêndios relativos a:
 
-a) funcionamento e manutenção da sede, aluguel, água, luz, telefone, Imposto Predial Territorial Urbano (IPTU), dentre outros;
-
-b) pessoal administrativo;
-
-c) material e equipamentos de escritório;
-
-d) preposto; e
-
-e) seguros.
+* a) funcionamento e manutenção da sede, aluguel, água, luz, telefone, Imposto Predial Territorial Urbano (IPTU), dentre outros;
+* b) pessoal administrativo;
+* c) material e equipamentos de escritório;
+* d) preposto; e
+* e) seguros.
 
 VII - ENCARGOS SOCIAIS E TRABALHISTAS: custos de mão de obra decorrentes da legislação trabalhista e previdenciária, estimados em função das ocorrências verificadas na empresa e das peculiaridades da contratação, calculados mediante incidência percentual sobre a remuneração.
 
@@ -620,7 +552,7 @@ XIV - PAGAMENTO PELO FATO GERADOR: situação de fato ou conjunto de fatos, prev
 
 XV - PLANILHA DE CUSTOS E FORMAÇÃO DE PREÇOS: documento a ser utilizado para detalhar os componentes de custo que incidem na formação do preço dos serviços, podendo ser adequado pela Administração em função das peculiaridades dos serviços a que se destina, no caso de serviços continuados.
 
-XVI - PLANO ANUAL DE CONTRATAÇÕES:  documento que consolida informações sobre todos os itens que o órgão ou entidade planeja contratar no exercício subsequente, acompanhado dos respectivos Estudos Preliminares e Gerenciamento de Riscos, conforme regulamento a ser expedido pela Secretaria de Gestão do Ministério do Planejamento, Desenvolvimento e Gestão.
+XVI - PLANO ANUAL DE CONTRATAÇÕES: documento que consolida informações sobre todos os itens que o órgão ou entidade planeja contratar no exercício subsequente, acompanhado dos respectivos Estudos Preliminares e Gerenciamento de Riscos, conforme regulamento a ser expedido pela Secretaria de Gestão do Ministério do Planejamento, Desenvolvimento e Gestão.
 
 XVII - PRODUTIVIDADE: capacidade de realização de determinado volume de tarefas, em função de uma determinada rotina de execução de serviços, considerando-se os recursos humanos, materiais e tecnológicos disponibilizados, o nível de qualidade exigido e as condições do local de prestação do serviço.
 
@@ -638,57 +570,58 @@ XXIII - TAREFAS EXECUTIVAS: atividades materiais acessórias, instrumentais ou c
 
 XXIV - UNIDADE DE MEDIDA: parâmetro de medição adotado pela Administração para possibilitar a quantificação dos serviços e a aferição dos resultados.
 
-#### **DEMAIS ANEXOS**
+---
+
+## **DEMAIS ANEXOS**
 
 Todos os demais anexos estão disponíveis em PDF [IN_5_2017_(Atualizada)](/Leis%20e%20Manuais/Leis%20e%20Decretos%20(PDF)/IN_5_2017_(Atualizada).pdf) ou online através [deste link](https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-5-de-26-de-maio-de-2017-atualizada).
 
-##### **ANEXO II - DOCUMENTO DE FORMALIZAÇÃO DA DEMANDA**
+### **ANEXO II - DOCUMENTO DE FORMALIZAÇÃO DA DEMANDA**
 
-##### **ANEXO III - DIRETRIZES PARA ELABORAÇÃO DOS ESTUDOS PRELIMINARES (Revogado pela Instrução Normativa nº 49, de 2020)**
+### **ANEXO III - DIRETRIZES PARA ELABORAÇÃO DOS ESTUDOS PRELIMINARES (Revogado pela Instrução Normativa nº 49, de 2020)**
 
-##### **ANEXO IV - MODELO DE MAPA DE RISCOS**
+### **ANEXO IV - MODELO DE MAPA DE RISCOS**
 
-##### **ANEXO V - DIRETRIZES PARA ELABORAÇÃO DO PROJETO BÁSICO (PB) OU TERMO DE REFERÊNCIA (TR)**
+### **ANEXO V - DIRETRIZES PARA ELABORAÇÃO DO PROJETO BÁSICO (PB) OU TERMO DE REFERÊNCIA (TR)**
 
-##### **ANEXO V-A - MODELO DE ORDEM DE SERVIÇO**
+### **ANEXO V-A - MODELO DE ORDEM DE SERVIÇO**
 
-##### **ANEXO V-B - MODELO DE INSTRUMENTO DE MEDIÇÃO DE RESULTADO (IMR)**
+### **ANEXO V-B - MODELO DE INSTRUMENTO DE MEDIÇÃO DE RESULTADO (IMR)**
 
-##### **ANEXO VI - SERVIÇO DE VIGILÂNCIA, LIMPEZA E CONSERVAÇÃO**
+### **ANEXO VI - SERVIÇO DE VIGILÂNCIA, LIMPEZA E CONSERVAÇÃO**
 
-##### **ANEXO VI-A - SERVIÇO DE VIGILÂNCIA**
+### **ANEXO VI-A - SERVIÇO DE VIGILÂNCIA**
 
-##### **ANEXO VI-B - SERVIÇO DE LIMPEZA E CONSERVAÇÃO**
+### **ANEXO VI-B - SERVIÇO DE LIMPEZA E CONSERVAÇÃO**
 
-##### **ANEXO VII - DIRETRIZES PARA ELABORAÇÃO DO ATO CONVOCATÓRIO**
+### **ANEXO VII - DIRETRIZES PARA ELABORAÇÃO DO ATO CONVOCATÓRIO**
 
-##### **ANEXO VII-A - DIRETRIZES GERAIS PARA ELABORAÇÃO DO ATO CONVOCATÓRIO**
+### **ANEXO VII-A - DIRETRIZES GERAIS PARA ELABORAÇÃO DO ATO CONVOCATÓRIO**
 
-##### **ANEXO VII-B - DIRETRIZES ESPECÍFICAS PARA ELABORAÇÃO DO ATO CONVOCATÓRIO**
+### **ANEXO VII-B - DIRETRIZES ESPECÍFICAS PARA ELABORAÇÃO DO ATO CONVOCATÓRIO**
 
-##### **ANEXO VII-C - MODELO DE PROPOSTA**
+### **ANEXO VII-C - MODELO DE PROPOSTA**
 
-##### **ANEXO VII-D - MODELO DE PLANILHA DE CUSTOS E FORMAÇÃO DE PREÇOS**
+### **ANEXO VII-D - MODELO DE PLANILHA DE CUSTOS E FORMAÇÃO DE PREÇOS**
 
-##### **ANEXO VII-E - MODELO DE DECLARAÇÃO DE CONTRATOS FIRMADOS COM A INICIATIVA PRIVADA E A ADMINISTRAÇÃO PÚBLICA**
+### **ANEXO VII-E - MODELO DE DECLARAÇÃO DE CONTRATOS FIRMADOS COM A INICIATIVA PRIVADA E A ADMINISTRAÇÃO PÚBLICA**
 
-##### **ANEXO VII-F - MODELO DE MINUTA DE CONTRATO**
+### **ANEXO VII-F - MODELO DE MINUTA DE CONTRATO**
 
-##### **ANEXO VII-G - DA FORMALIZAÇÃO E PUBLICAÇÃO DO CONTRATO**
+### **ANEXO VII-G - DA FORMALIZAÇÃO E PUBLICAÇÃO DO CONTRATO**
 
-##### **ANEXO VIII - DA FISCALIZAÇÃO TÉCNICA E ADMINISTRATIVA**
+### **ANEXO VIII - DA FISCALIZAÇÃO TÉCNICA E ADMINISTRATIVA**
 
-##### **ANEXO VIII-A - DA FISCALIZAÇÃO TÉCNICA**
+### **ANEXO VIII-A - DA FISCALIZAÇÃO TÉCNICA**
 
-##### **ANEXO VIII-B - DA FISCALIZAÇÃO ADMINISTRATIVA**
+### **ANEXO VIII-B - DA FISCALIZAÇÃO ADMINISTRATIVA**
 
-##### **ANEXO IX - DA VIGÊNCIA E DA PRORROGAÇÃO**
+### **ANEXO IX - DA VIGÊNCIA E DA PRORROGAÇÃO**
 
-##### **ANEXO X - DA ALTERAÇÃO DOS CONTRATOS**
+### **ANEXO X - DA ALTERAÇÃO DOS CONTRATOS**
 
-##### **ANEXO XI - DO PROCESSO DE PAGAMENTO**
+### **ANEXO XI - DO PROCESSO DE PAGAMENTO**
 
-##### **ANEXO XII - CONTA-DEPÓSITO VINCULADA - BLOQUEADA PARA MOVIMENTAÇÃO**
+### **ANEXO XII - CONTA-DEPÓSITO VINCULADA - BLOQUEADA PARA MOVIMENTAÇÃO**
 
-##### **ANEXO XII-A - MODELO DE TERMO DE COOPERAÇÃO TÉCNICA**
-
+### **ANEXO XII-A - MODELO DE TERMO DE COOPERAÇÃO TÉCNICA**

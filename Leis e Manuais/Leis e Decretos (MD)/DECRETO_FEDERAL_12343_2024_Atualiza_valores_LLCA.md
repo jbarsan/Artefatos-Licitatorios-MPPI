@@ -1,36 +1,38 @@
-Presidência da República
+# **[DECRETO Nº 12.343, DE 30 DE DEZEMBRO DE 2024](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/decreto/d12343.htm)**
 
-Casa Civil
+* Presidência da República
+* Casa Civil
+* Secretaria Especial para Assuntos Jurídicos
 
-Secretaria Especial para Assuntos Jurídicos
+## **Atualiza os valores estabelecidos na [Lei nº 14.133, de 1º de abril de 2021](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm).**
 
-### **[DECRETO Nº 12.343, DE 30 DE DEZEMBRO DE 2024](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/decreto/d12343.htm)**
-
-#### **Atualiza os valores estabelecidos na Lei nº 14.133, de 1º de abril de 2021.**
-
-O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 84, caput, inciso IV, da Constituição, e tendo em vista o disposto no art. 182 da [Lei nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md),
+O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 84, caput, inciso IV, da Constituição, e tendo em vista o disposto no [art. 182 da Lei nº 14.133, de 1º de abril de 2021](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm#art182),
 
 DECRETA:
 
-Art. 1º  Ficam atualizados os valores estabelecidos na [Lei nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md), na forma do Anexo.
+Art. 1º Ficam atualizados os valores estabelecidos na [Lei nº 14.133, de 1º de abril de 2021](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm), na forma do Anexo.
 
-Art. 2º  A atualização dos valores de que trata o art. 1º será divulgada no Portal Nacional de Contratações Públicas – PNCP, conforme o disposto no art. 182 da [Lei nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md).
+Art. 2º A atualização dos valores de que trata o art. 1º será divulgada no Portal Nacional de Contratações Públicas – PNCP, conforme o disposto no [art. 182 da Lei nº 14.133, de 1º de abril de 2021](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm#art182).
 
-Art. 3º  Fica revogado o Decreto nº 11.871, de 29 de dezembro de 2023.
+Art. 3º Fica revogado o Decreto nº 11.871, de 29 de dezembro de 2023.
 
-***Art. 4º  Este Decreto entra em vigor em 1º de janeiro de 2025.***
+***Art. 4º Este Decreto entra em vigor em 1º de janeiro de 2025.***
 
 Brasília, 30 de dezembro de 2024; 203º da Independência e 136º da República.
+
+---
 
 LUIZ INÁCIO LULA DA SILVA
 
 Esther Dweck
 
-Este texto não substitui o publicado no DOU de 31.12.2024  
+Este texto não substitui o publicado no DOU de 31.12.2024
 
-##### **ANEXO**
+---
 
-ATUALIZAÇÃO DOS VALORES ESTABELECIDOS NA [LEI Nº 14.133, DE 1º DE ABRIL DE 2021](./LEI_14133_2021_LLCA.md)
+## **ANEXO**
+
+ATUALIZAÇÃO DOS VALORES ESTABELECIDOS NA [LEI Nº 14.133, DE 1º DE ABRIL DE 2021](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm)
 
 **DISPOSITIVO**: Art. 6º, caput, inciso XXII
 

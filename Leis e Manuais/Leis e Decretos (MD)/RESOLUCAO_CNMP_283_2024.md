@@ -46,11 +46,9 @@ Parágrafo único. Se a necessidade ou a disponibilidade da tecnologia surgir ap
 
 Art. 6º As contratações de soluções de TI terão as seguintes etapas:
 
-I - planejamento da Solução;
-
-II - seleção do Fornecedor; e
-
-III - gestão do Contrato.
+* I - planejamento da Solução;
+* II - seleção do Fornecedor; e
+* III - gestão do Contrato.
 
 Parágrafo único. As atividades de gerenciamento de riscos devem ser realizadas durante todas as etapas do processo de contratação, observando o disposto no art. 45 desta Resolução.
 
@@ -62,23 +60,19 @@ Parágrafo único. As etapas de contratação de soluções inovadoras estarão 
 
 Art. 8º A etapa de Planejamento da Solução compreende, no mínimo, a:
 
-I - instituição da Equipe de Planejamento da Solução;
-
-II - elaboração do Estudo Técnico Preliminar (ETP); e
-
-III - elaboração do Termo de Referência (TR).
+* I - instituição da Equipe de Planejamento da Solução;
+* II - elaboração do Estudo Técnico Preliminar (ETP); e
+* III - elaboração do Termo de Referência (TR).
 
 Parágrafo único. A etapa de Planejamento da Solução encerra-se após conclusão dos itens dispostos nos incisos I, II e III deste artigo, com o encaminhamento da documentação elaborada à autoridade máxima da área responsável pela condução desta etapa.
 
-##### **Seção I - Da Instituição da Equipe de Planejamento da Solução**
+#### **Seção I - Da Instituição da Equipe de Planejamento da Solução**
 
 Art. 9º A Equipe de Planejamento da Solução será constituída por, no mínimo, um:
 
-I - Integrante Requisitante: representante da Área Requisitante;
-
-II - Integrante Técnico: representante da Área de TI; e
-
-III - Integrante Administrativo: representante da Área Administrativa.
+* I - Integrante Requisitante: representante da Área Requisitante;
+* II - Integrante Técnico: representante da Área de TI; e
+* III - Integrante Administrativo: representante da Área Administrativa.
 
 § 1º As responsabilidades dos integrantes da Equipe de Planejamento serão definidas no [MOTec](https://www.cnmp.mp.br/portal/images/Comissoes/CPE/MP_Digital/Manuais/MOTec.pdf).
 
@@ -94,7 +88,7 @@ III - Integrante Administrativo: representante da Área Administrativa.
 
 § 7º A Instituição da Equipe de Planejamento poderá ser dispensada nas contratações diretas com fulcro no inciso II do art. 75 da [Lei nº 14.133, de 1º de abril de 2021](LEI_14133_2021_NLLCA.md).
 
-##### **Seção II - Do Estudo Técnico Preliminar (ETP)**
+#### **Seção II - Do Estudo Técnico Preliminar (ETP)**
 
 Art. 10. O Estudo Técnico Preliminar (ETP) compreende, no mínimo, os elementos contidos no § 1º do art. 18 e no art. 44 da [Lei nº 14.133, de 1º de abril de 2021](LEI_14133_2021_NLLCA.md), considerando-se:
 
@@ -162,7 +156,7 @@ Art. 16. O ETP será assinado pelos integrantes da Equipe de Planejamento da Sol
 
 Parágrafo único. Caso seja constatada a inviabilidade, o processo de contratação será interrompido e encaminhado à autoridade máxima da área requisitante e à de TI para ciência.
 
-##### **Seção III - Da Elaboração do Termo de Referência (TR)**
+#### **Seção III - Da Elaboração do Termo de Referência (TR)**
 
 Art. 17. O Termo de Referência (TR) deverá conter, no mínimo, os elementos previstos no inciso XXIII do caput do art. 6º e nos arts. 16, 40, 41, 42, 43 e 47 da [Lei nº 14.133, de 1º de abril de 2021](LEI_14133_2021_NLLCA.md), considerando-se:
 
@@ -260,7 +254,7 @@ VI - estabelecer mais de uma Solução de TI em um único contrato.
 
 Art. 20. O TR será assinado pela Equipe de Planejamento da Solução e o processo será encaminhado à autoridade administrativa competente para dar encaminhamento à contratação.
 
-###### **Subseção I - Da Definição de Responsabilidades**
+##### **Subseção I - Da Definição de Responsabilidades**
 
 Art. 21. As responsabilidades da contratante deverão ser previstas em seção específica do TR e incluir, no mínimo:
 
@@ -326,7 +320,7 @@ e) a previsão da exigência para realização de Prova de Conceito com o licita
 
 Parágrafo único. Sempre que possível, o órgão gerenciador da Ata de Registro de Preços deverá prever a possibilidade de adesão por outros ramos ou unidades do Ministério Público.  
 
-###### **Subseção II - Do Modelo de Execução do Contrato**
+##### **Subseção II - Do Modelo de Execução do Contrato**
 
 Art. 24. O modelo de execução do contrato define os principais procedimentos de execução contratual e deverá contemplar as condições necessárias ao fornecimento da Solução de TI, observando, quando possível:
 
@@ -348,7 +342,7 @@ V - a vigência contratual, observado o disposto nos arts. 105 a 114 da Lei 14.1
 
 VI - a elaboração do Termo de Ciência, contendo declaração de manutenção de sigilo e respeito às normas de segurança vigentes na Instituição, a ser assinado pelo representante legal da contratada e por todos os seus empregados diretamente envolvidos na contratação.
 
-###### **Subseção III - Do Modelo de Gestão do Contrato**
+##### **Subseção III - Do Modelo de Gestão do Contrato**
 
 Art. 25. O modelo de gestão do contrato deve estabelecer as condições e os mecanismos necessários à gestão e à fiscalização da Solução de TI, observando o disposto nos arts. 92 e 140 e nos arts. 155 a 163 da [Lei nº 14.133, de 1º de abril de 2021](LEI_14133_2021_NLLCA.md), e, no mínimo:
 
@@ -362,7 +356,7 @@ b) deixar de utilizar materiais e recursos humanos exigidos para fornecimento da
 
 III - os procedimentos para emissão de nota fiscal e pagamento, descontados os valores oriundos da aplicação de eventuais glosas ou sanções.
 
-###### **Subseção IV - Da Adequação Orçamentária e do Cronograma Físico-Financeiro**
+##### **Subseção IV - Da Adequação Orçamentária e do Cronograma Físico-Financeiro**
 
 Art. 26. A adequação orçamentária e o cronograma físico-financeiro deverão conter:
 
@@ -372,11 +366,11 @@ II - o cronograma de execução física e financeira, quando aplicável, contend
 
 Parágrafo único. Na licitação para Registro de Preços não é necessário indicar a dotação orçamentária, que somente será exigida para a formalização do contrato ou outro instrumento hábil.
 
-###### **Subseção V - Do Regime de Execução do Contrato**
+##### **Subseção V - Do Regime de Execução do Contrato**
 
 Art. 27. O regime de execução do contrato observará, além dos requisitos especificados, o disposto no art. 92 da [Lei nº 14.133, de 1º de abril de 2021](LEI_14133_2021_NLLCA.md).
 
-###### **Subseção VI - Dos Critérios para Seleção do Fornecedor**
+##### **Subseção VI - Dos Critérios para Seleção do Fornecedor**
 
 Art. 28. O estabelecimento de critérios técnicos para julgamento das propostas observará a:
 
@@ -406,7 +400,7 @@ II - necessidade de justificativa técnica nos casos em que não seja permitido 
 
 Art. 30. Quando o objeto de contratação for mensuração ou fiscalização de Solução de TI, a contratada deverá ser distinta da que provê a referida solução.
 
-###### **Subseção VII - Da Estimativa do Valor da Contratação**
+##### **Subseção VII - Da Estimativa do Valor da Contratação**
 
 Art. 31. Caberá à área administrativa a realização de estimativa de valor da contratação, que terá por base o art. 23 da [Lei nº 14.133, de 1º de abril de 2021](LEI_14133_2021_NLLCA.md).
 
@@ -474,7 +468,7 @@ IV - gestor do contrato.
 
 § 10. É dever do servidor reportar ao superior hierárquico as deficiências ou limitações que possam impedir o cumprimento de suas atribuições, caso em que a Administração deverá viabilizar a sua qualificação ou designar outro servidor que atenda às competências requeridas.
 
-##### **Seção I - Do Início do Contrato**
+#### **Seção I - Do Início do Contrato**
 
 Art. 37. As atividades de início do contrato, desempenhadas pelo Gestor do Contrato e pelos Fiscais Técnico, Administrativo e Requisitante, compreendem, quando couber:
 
@@ -496,7 +490,7 @@ V - o refinamento ou a elaboração de listas de verificação e de roteiros de 
 
 Parágrafo único. O disposto neste artigo é dispensável para soluções compostas exclusivamente por fornecimento de bens de TI.
 
-##### **Seção II - Do Encaminhamento Formal de Demandas**
+#### **Seção II - Do Encaminhamento Formal de Demandas**
 
 Art. 38. O encaminhamento formal de demandas deverá ocorrer preferencialmente por meio de Ordens de Serviço ou Fornecimento de Bens ou conforme definido no modelo de execução do contrato, e deverá conter, no mínimo:
 
@@ -510,7 +504,7 @@ IV - a identificação dos responsáveis pela solicitação na área requisitant
 
 Parágrafo único. As demandas deverão atender às condições dispostas no modelo de execução do contrato e garantir que os prazos para entrega final de todos os bens e serviços estejam compreendidos dentro do prazo de vigência contratual.
 
-##### **Seção III - Do Monitoramento da Execução**
+#### **Seção III - Do Monitoramento da Execução**
 
 Art. 39. O monitoramento da execução deverá observar o disposto no modelo de gestão do contrato, e compreende as atividades de:
 
@@ -572,7 +566,7 @@ Art. 41.  No caso de substituição do preposto por parte da contratada, deverá
 
 Art. 42. No caso de substituição ou inclusão de empregados por parte da contratada, o preposto deverá entregar Termo de Ciência assinado pelos novos empregados diretamente envolvidos na execução contratual.
 
-##### **Seção IV - Da Transição e do Encerramento Contratual**
+#### **Seção IV - Da Transição e do Encerramento Contratual**
 
 Art. 43. As atividades de transição contratual, quando aplicáveis, e de encerramento do contrato deverão observar o disposto no [MOTec](https://www.cnmp.mp.br/portal/images/Comissoes/CPE/MP_Digital/Manuais/MOTec.pdf), que deverá contemplar a devolução ao contratante dos dados pessoais confiados ao contratado e a eliminação das cópias.
 

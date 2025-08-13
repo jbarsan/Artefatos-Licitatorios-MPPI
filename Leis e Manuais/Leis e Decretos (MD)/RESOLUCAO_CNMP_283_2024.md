@@ -6,7 +6,7 @@ Disciplina, no âmbito do Ministério Público, os **procedimentos relativos à 
 
 O CONSELHO NACIONAL DO MINISTÉRIO PÚBLICO, no exercício das atribuições que lhe são conferidas pelos arts. 130-A, § 2º, I, e 129, § 3º, da Constituição Federal, com fundamento no art. 147 e seguintes de seu Regimento Interno, em conformidade com a decisão Plenária proferida na 19ª Sessão Ordinária, realizada em 12 de dezembro de 2023, nos autos da Proposição nº 1.00368/2023-07;
 
-Considerando o advento da [Lei nº 14.133, de 1º de abril de 2021](LEI_14133_2021_NLLCA.md) (nova Lei de Licitações e Contratos Administrativos), que estabelece normas gerais de licitação e contratação para as Administrações Públicas diretas, autárquicas e fundacionais da União, dos Estados, do Distrito Federal e dos Municípios;
+Considerando o advento da [Lei nº 14.133, de 1º de abril de 2021](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm) (nova Lei de Licitações e Contratos Administrativos), que estabelece normas gerais de licitação e contratação para as Administrações Públicas diretas, autárquicas e fundacionais da União, dos Estados, do Distrito Federal e dos Municípios;
 
 Considerando a necessidade de se atualizar os procedimentos relativos à contratação de soluções de Tecnologia da Informação no âmbito do Ministério Público;
 
@@ -52,7 +52,7 @@ Art. 6º As contratações de soluções de TI terão as seguintes etapas:
 
 Parágrafo único. As atividades de gerenciamento de riscos devem ser realizadas durante todas as etapas do processo de contratação, observando o disposto no art. 45 desta Resolução.
 
-Art. 7º As contratações de soluções inovadoras seguirão o disposto na [Lei nº 14.133, de 1º de abril de 2021](LEI_14133_2021_NLLCA.md), e na [Lei Complementar nº 182, de 1º de junho de 2021](./LEI_CP_182_2021.md).
+Art. 7º As contratações de soluções inovadoras seguirão o disposto na [Lei nº 14.133, de 1º de abril de 2021](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm), e na [Lei Complementar nº 182, de 1º de junho de 2021](https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp182.htm).
 
 Parágrafo único. As etapas de contratação de soluções inovadoras estarão descritas no [MOTec](https://www.cnmp.mp.br/portal/images/Comissoes/CPE/MP_Digital/Manuais/MOTec.pdf).
 
@@ -86,65 +86,53 @@ Art. 9º A Equipe de Planejamento da Solução será constituída por, no mínim
 
 § 6º O Integrante Técnico somente poderá ser designado líder de Equipe de Planejamento nas contratações demandadas pela área de TI, ressalvadas razões técnicas por ela definidas ou de ordem pública.
 
-§ 7º A Instituição da Equipe de Planejamento poderá ser dispensada nas contratações diretas com fulcro no inciso II do art. 75 da [Lei nº 14.133, de 1º de abril de 2021](LEI_14133_2021_NLLCA.md).
+§ 7º A Instituição da Equipe de Planejamento poderá ser dispensada nas contratações diretas com fulcro no [inciso II do art. 75 da Lei nº 14.133, de 1º de abril de 2021](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm#art75).
 
 #### **Seção II - Do Estudo Técnico Preliminar (ETP)**
 
-Art. 10. O Estudo Técnico Preliminar (ETP) compreende, no mínimo, os elementos contidos no § 1º do art. 18 e no art. 44 da [Lei nº 14.133, de 1º de abril de 2021](LEI_14133_2021_NLLCA.md), considerando-se:
+Art. 10. O Estudo Técnico Preliminar (ETP) compreende, no mínimo, os elementos contidos no [§ 1º do art. 18 e no art. 44 da Lei nº 14.133, de 1º de abril de 2021](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm#art44§1), considerando-se:
 
-I - para o levantamento de mercado:
+* I - para o levantamento de mercado:
 
-a) a disponibilidade de solução similar em outro órgão ou entidade da Administração Pública;  
+  * a) a disponibilidade de solução similar em outro órgão ou entidade da Administração Pública;
+  * b) a capacidade e as alternativas do mercado, inclusive a existência de software livre ou software público, podendo abranger testes de avaliação de soluções;
+  * c) os diferentes modelos de prestação de serviço;
+  * d) a possibilidade de aquisição na forma de bens ou contratação como serviço;
+  * e) a ampliação ou a substituição da solução implantada, demonstrando-se a vantajosidade da escolha;
+  * f) a observância, em especial quando definidos pelo Conselho Nacional do Ministério Público (CNMP), de políticas, premissas, especificações técnicas e padrões governamentais aplicáveis, incluindo a adoção de medidas de segurança, técnicas e administrativas aptas a proteger os dados pessoais desde a fase de concepção do produto ou do serviço até a sua execução; e
+  * g) o orçamento estimado de investimento e custeio.  
 
-b)  a capacidade e as alternativas do mercado, inclusive a existência de software livre ou software público, podendo abranger testes de avaliação de soluções;  
+* II - para a estimativa do valor da contratação:
 
-c)  os diferentes modelos de prestação de serviço;  
+  * a) a comparação de custos totais de propriedade (Total Cost Ownership - TCO) por meio da obtenção dos custos inerentes ao ciclo de vida dos bens e serviços de cada solução, a exemplo dos valores de aquisição dos ativos, insumos, garantia, manutenção.
 
-d)  a possibilidade de aquisição na forma de bens ou contratação como serviço;
+* III - para as providências a serem adotadas pela Administração:
 
-e)  a ampliação ou a substituição da solução implantada, demonstrando-se a vantajosidade da escolha;  
-
-f)  a observância, em especial quando definidos pelo Conselho Nacional do Ministério Público (CNMP), de políticas, premissas, especificações técnicas e padrões governamentais aplicáveis, incluindo a adoção de medidas de segurança, técnicas e administrativas aptas a proteger os dados pessoais desde a fase de concepção do produto ou do serviço até a sua execução; e  
-
-g)  o orçamento estimado de investimento e custeio.  
-
-II - para a estimativa do valor da contratação:
-
-a) a comparação de custos totais de propriedade (Total Cost Ownership - TCO) por meio da obtenção dos custos inerentes ao ciclo de vida dos bens e serviços de cada solução, a exemplo dos valores de aquisição dos ativos, insumos, garantia, manutenção.
-
-III - para as providências a serem adotadas pela Administração:
-
-a) a avaliação das necessidades de adequação do ambiente da Instituição ou entidade para viabilizar a execução contratual, abrangendo, no que couber, a infraestrutura tecnológica e elétrica, a logística, o espaço físico, o mobiliário e outras que se aplicarem; e  
-
-b) a avaliação dos recursos humanos necessários à implantação e à manutenção da Solução de TI, bem como às atividades de gestão e fiscalização do contrato, inclusive quanto à disponibilidade de tempo para aplicação das listas de verificação e roteiros de testes.
+  * a) a avaliação das necessidades de adequação do ambiente da Instituição ou entidade para viabilizar a execução contratual, abrangendo, no que couber, a infraestrutura tecnológica e elétrica, a logística, o espaço físico, o mobiliário e outras que se aplicarem; e
+  * b) a avaliação dos recursos humanos necessários à implantação e à manutenção da Solução de TI, bem como às atividades de gestão e fiscalização do contrato, inclusive quanto à disponibilidade de tempo para aplicação das listas de verificação e roteiros de testes.
 
 Art. 11. A elaboração do ETP fica dispensada quando se tratar de:
 
-I - contratação direta por dispensa de licitação, nos casos previstos nos incisos II, III, VII e VIII do art. 75 da [Lei nº 14.133, de 1º de abril de 2021](LEI_14133_2021_NLLCA.md);
+* I - contratação direta por dispensa de licitação, nos casos previstos nos [incisos II, III, VII e VIII do art. 75 da Lei nº 14.133, de 1º de abril de 2021](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm#art75);
+* II - contratação de licitante remanescente, nos termos do [§ 7º do art. 90 da Lei nº 14.133, de 1º de abril de 2021](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm#art90§7);
+* III - licitação para:
 
-II - contratação de licitante remanescente, nos termos do § 7º do art. 90 da [Lei nº 14.133, de 1º de abril de 2021](LEI_14133_2021_NLLCA.md);
+  * a) compra cujo valor se enquadre no limite do [inciso II do art. 75 da Lei nº 14.133, de 1º de abril de 2021](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm#art75)
+  * b) contratação de serviços cujo valor se enquadre nos limites do [inciso II do art. 75 da Lei nº 14.133, de 1º de abril de 2021](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm#art75);
+  * c) soluções submetidas a processos de padronização de que trata o [art. 43 da Lei nº 14.133, de 1º de abril de 2021](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm#art43).
 
-III - licitação para:
+* IV - prorrogações dos contratos de serviços e fornecimentos contínuos.
 
-a) compra cujo valor se enquadre no limite do inciso II do art. 75 da [Lei nº 14.133, de 1º de abril de 2021](LEI_14133_2021_NLLCA.md);  
-
-b) contratação de serviços cujo valor se enquadre nos limites do inciso II do art. 75 da [Lei nº 14.133, de 1º de abril de 2021](LEI_14133_2021_NLLCA.md);
-
-c) soluções submetidas a processos de padronização de que trata o art. 43 da [Lei nº 14.133, de 1º de abril de 2021](LEI_14133_2021_NLLCA.md).
-
-IV - prorrogações dos contratos de serviços e fornecimentos contínuos.
-
-Parágrafo único. Nas hipóteses de dispensa de elaboração do ETP a que se refere o inciso III deste artigo, deverão constar no planejamento da contratação os elementos da Instrução do Processo Licitatório contidos no § 2º do art. 18 da [Lei nº 14.133, de 1º de abril de 2021](LEI_14133_2021_NLLCA.md).
+Parágrafo único. Nas hipóteses de dispensa de elaboração do ETP a que se refere o inciso III deste artigo, deverão constar no planejamento da contratação os elementos da Instrução do Processo Licitatório contidos no [§ 2º do art. 18 da Lei nº 14.133, de 1º de abril de 2021](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm#art18§2).
 
 Art. 12. A elaboração do ETP fica facultada, mediante justificativa:
 
-I - nas hipóteses em que a pluralidade de soluções existentes no mercado não sofra alteração e seja possível a utilização do ETP de procedimentos anteriores, ficando condicionada à demonstração de que a solução adotada no instrumento de planejamento anterior mantém-se como a mais vantajosa à Administração; e
-
-II - nas hipóteses em que haja somente uma única solução passível de contratação, demandando ato devidamente motivado.
+* I - nas hipóteses em que a pluralidade de soluções existentes no mercado não sofra alteração e seja possível a utilização do ETP de procedimentos anteriores, ficando condicionada à demonstração de que a solução adotada no instrumento de planejamento anterior mantém-se como a mais vantajosa à Administração; e
+* II - nas hipóteses em que haja somente uma única solução passível de contratação, demandando ato devidamente motivado.
 
 § 1º A justificativa a que se refere o inciso I deste artigo deverá avaliar a existência de novas soluções no mercado, e, se constatadas, será necessária a realização de ETP para fins de análise dessas novas alternativas em comparação com as outras já estudadas.
 
-§ 2º Nas hipóteses em que for facultada a elaboração do ETP, deverão constar no planejamento da contratação os elementos da Instrução do Processo Licitatório contidos no § 2º do art. 18 da [Lei nº 14.133, de 1º de abril de 2021](LEI_14133_2021_NLLCA.md).
+§ 2º Nas hipóteses em que for facultada a elaboração do ETP, deverão constar no planejamento da contratação os elementos da Instrução do Processo Licitatório contidos no [§ 2º do art. 18 da Lei nº 14.133, de 1º de abril de 2021](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm#art18§2).
 
 Art. 13. O ETP de outro órgão público poderá ser utilizado como subsídio, no que couber, caso seja identificada contratação similar à pretendida, devendo ser revisto o gerenciamento de riscos quando a natureza do objeto o exigir, observado o [MOTec](https://www.cnmp.mp.br/portal/images/Comissoes/CPE/MP_Digital/Manuais/MOTec.pdf).
 
@@ -152,73 +140,49 @@ Art. 14. O ETP poderá ser elaborado em conjunto com o órgão gerenciador da co
 
 Art. 15. A participação ou a adesão a Ata de Registro de Preços será permitida quando comprovada a compatibilidade dos ETPs e outros documentos de planejamento da contratação do órgão interessado com o TR do órgão gerenciador, facultada a solicitação de informações adicionais.
 
-Art. 16. O ETP será assinado pelos integrantes da Equipe de Planejamento da Solução, que somente dará continuidade ao processo se for concluído que a contratação é adequada e viável, conforme previsto no inciso XIII do § 1º do art. 18 da [Lei nº 14.133, de 1º de abril de 2021](LEI_14133_2021_NLLCA.md).
+Art. 16. O ETP será assinado pelos integrantes da Equipe de Planejamento da Solução, que somente dará continuidade ao processo se for concluído que a contratação é adequada e viável, conforme previsto no [inciso XIII do § 1º do art. 18 da Lei nº 14.133, de 1º de abril de 2021](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm#art18§1).
 
 Parágrafo único. Caso seja constatada a inviabilidade, o processo de contratação será interrompido e encaminhado à autoridade máxima da área requisitante e à de TI para ciência.
 
 #### **Seção III - Da Elaboração do Termo de Referência (TR)**
 
-Art. 17. O Termo de Referência (TR) deverá conter, no mínimo, os elementos previstos no inciso XXIII do caput do art. 6º e nos arts. 16, 40, 41, 42, 43 e 47 da [Lei nº 14.133, de 1º de abril de 2021](LEI_14133_2021_NLLCA.md), considerando-se:
+Art. 17. O Termo de Referência (TR) deverá conter, no mínimo, os elementos previstos no [inciso XXIII do caput do art. 6º](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm#art6) e nos [arts. 16](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm#art16), [40, 41, 42, 43](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm#art40) e [47 da Lei nº 14.133, de 1º de abril de 2021](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm#art47), considerando-se:
 
-I - especificar, a partir do ETP e quando aplicáveis, os seguintes requisitos:
+* I - especificar, a partir do ETP e quando aplicáveis, os seguintes requisitos:
 
-a) de negócio, que independem de características tecnológicas e que definem as necessidades e os aspectos funcionais da Solução de TI;
+  * a) de negócio, que independem de características tecnológicas e que definem as necessidades e os aspectos funcionais da Solução de TI;
+  * b) de capacitação, que definem a necessidade de treinamento, de carga horária e de materiais didáticos;
+  * c) legais, que definem as normas com as quais a Solução de TI deve estar em conformidade;
+  * d) de manutenção, que independem de configuração tecnológica e que definem a necessidade de serviços de manutenção preventiva, corretiva, evolutiva e adaptativa;
+  * e) temporais, que definem datas de entrega da Solução de TI;
+  * f) de segurança e privacidade, nos termos da [Lei nº 13.709, de 14 de agosto de 2018 (LGPD)](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm), que definem os controles a serem observados, por padrão e desde a concepção, para salvaguardar a segurança da informação e os dados pessoais
+  * g) sociais, ambientais, culturais e de sustentabilidade, que definem requisitos que a Solução de TI deve atender para estar em conformidade com costumes, idiomas e ao meio ambiente, dentre outros;
+  * h) de arquitetura tecnológica, composta de hardware, software, padrões de interoperabilidade, linguagens de programação, interface, dentre outros;
+  * i) de projeto e implementação, que estabelecem o processo de desenvolvimento da solução, técnicas, métodos, forma de gestão e documentação, dentre outros;
+  * j) de implantação, que definem o processo de disponibilização da solução em ambiente de produção, dentre outros;
+  * k) de garantia e manutenção tecnológica, que inclui o processo de interação entre as partes envolvidas;
+  * l) de capacitação técnica, que definem a necessidade de treinamento técnico para a equipe de TI sustentar a solução implantada, o ambiente tecnológico dos treinamentos a serem ministrados, os perfis dos instrutores, dentre outros;
+  * m) de experiência profissional da equipe que projetará, implementará e implantará a Solução de TI, que definem os perfis profissionais exigidos e as respectivas formas de comprovação dessa experiência, dentre outros;
+  * n) de formação da equipe que projetará, implementará e implantará a Solução de TI, que definem cursos acadêmicos e técnicos, formas de comprovação dessa formação, dentre outros;
+  * o) de metodologia de trabalho;
+  * p) de segurança dos ativos de TI
+  * q) de previsão da exigência para realização de Prova de Conceito com o licitante provisoriamente classificado em primeiro lugar para fins de comprovação de atendimento das especificações técnicas;
+  * r) de adequação dos índices de reajuste, nas repactuações; e
+  * s) de margens de preferência na licitação, consoante normativos vigentes.
 
-b) de capacitação, que definem a necessidade de treinamento, de carga horária e de materiais didáticos;
+* II - quando aplicável, além dos critérios utilizados para a contratação de bens e serviços comuns, especificar a modalidade de remuneração a ser adotada:
 
-c) legais, que definem as normas com as quais a Solução de TI deve estar em conformidade;
+  * a) por pontos de função complementado por horas de serviço técnico;
+  * b) com pagamento fixo por sprint executado;
+  * c) por alocação de profissionais de TI, com pagamento vinculado a resultados;
+  * d) baseada em valor fixo mensal por sistema sustentado;
+  * e) baseada em valor fixo mensal, com pagamento vinculado a resultados; ou
+  * f) baseada em valor fixo mensal por alocação de profissionais de TI, com pagamento vinculado a resultados.
 
-d) de manutenção, que independem de configuração tecnológica e que definem a necessidade de serviços de manutenção preventiva, corretiva, evolutiva e adaptativa;
+* III - avaliar a viabilidade de:
 
-e) temporais, que definem datas de entrega da Solução de TI;
-
-f) de segurança e privacidade, nos termos da Lei nº 13.709, de 14 de agosto de 2018 (LGPD), que definem os controles a serem observados, por padrão e desde a concepção, para salvaguardar a segurança da informação e os dados pessoais;  
-
-g) sociais, ambientais, culturais e de sustentabilidade, que definem requisitos que a Solução de TI deve atender para estar em conformidade com costumes, idiomas e ao meio ambiente, dentre outros;
-
-h) de arquitetura tecnológica, composta de hardware, software, padrões de interoperabilidade, linguagens de programação, interface, dentre outros;
-
-i) de projeto e implementação, que estabelecem o processo de desenvolvimento da solução, técnicas, métodos, forma de gestão e documentação, dentre outros;
-
-j) de implantação, que definem o processo de disponibilização da solução em ambiente de produção, dentre outros;
-
-k) de garantia e manutenção tecnológica, que inclui o processo de interação entre as partes envolvidas;
-
-l) de capacitação técnica, que definem a necessidade de treinamento técnico para a equipe de TI sustentar a solução implantada, o ambiente tecnológico dos treinamentos a serem ministrados, os perfis dos instrutores, dentre outros;
-
-m) de experiência profissional da equipe que projetará, implementará e implantará a Solução de TI, que definem os perfis profissionais exigidos e as respectivas formas de comprovação dessa experiência, dentre outros;
-
-n) de formação da equipe que projetará, implementará e implantará a Solução de TI, que definem cursos acadêmicos e técnicos, formas de comprovação dessa formação, dentre outros;
-
-o) de metodologia de trabalho;
-
-p) de segurança dos ativos de TI;  
-
-q) de previsão da exigência para realização de Prova de Conceito com o licitante provisoriamente classificado em primeiro lugar para fins de comprovação de atendimento das especificações técnicas;
-
-r) de adequação dos índices de reajuste, nas repactuações; e
-
-s) de margens de preferência na licitação, consoante normativos vigentes.
-
-II - quando aplicável, além dos critérios utilizados para a contratação de bens e serviços comuns, especificar a modalidade de remuneração a ser adotada:
-
-a) por pontos de função complementado por horas de serviço técnico;
-
-b) com pagamento fixo por sprint executado;
-
-c) por alocação de profissionais de TI, com pagamento vinculado a resultados;
-
-d) baseada em valor fixo mensal por sistema sustentado;
-
-e) baseada em valor fixo mensal, com pagamento vinculado a resultados; ou
-
-f) baseada em valor fixo mensal por alocação de profissionais de TI, com pagamento vinculado a resultados.
-
-III - avaliar a viabilidade de:
-
-a) realizar o parcelamento da Solução de TI a ser contratada em tantos itens quanto se comprovarem tecnicamente viáveis e economicamente vantajosos;
-
-b) permitir consórcio ou subcontratação da Solução de TI, observado o disposto nos arts. 15 e 122 da [Lei nº 14.133, de 1º de abril de 2021](LEI_14133_2021_NLLCA.md), justificando-se a decisão.
+* a) realizar o parcelamento da Solução de TI a ser contratada em tantos itens quanto se comprovarem tecnicamente viáveis e economicamente vantajosos;
+* b) permitir consórcio ou subcontratação da Solução de TI, observado o disposto nos [arts. 15](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm#art15) e [122 da Lei nº 14.133, de 1º de abril de 2021](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm#art122), justificando-se a decisão.
 
 § 1º É permitida a fixação da remuneração dos funcionários da contratada quando adotada a métrica homem-hora ou equivalente para aferição de esforço, desde que devidamente justificada e sempre vinculada à entrega de produtos de acordo com prazos e qualidade previamente definidos.
 
@@ -228,29 +192,21 @@ b) permitir consórcio ou subcontratação da Solução de TI, observado o dispo
 
 Art. 18. A etapa de Elaboração do Termo de Referência (TR) fica dispensada:
 
-I - quando a Instituição for copartícipe de procedimento licitatório;
-
-II - na hipótese do inciso III do art. 75 da [Lei nº 14.133, de 1º de abril de 2021](LEI_14133_2021_NLLCA.md);
-
-III - nas adesões a Atas de Registro de Preços; e
-
-IV - nos casos de prorrogações dos contratos de serviços e fornecimentos contínuos.
+* I - quando a Instituição for copartícipe de procedimento licitatório;
+* II - na hipótese do [inciso III do art. 75 da Lei nº 14.133, de 1º de abril de 2021](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm#art75);
+* III - nas adesões a Atas de Registro de Preços; e
+* IV - nos casos de prorrogações dos contratos de serviços e fornecimentos contínuos.
 
 Parágrafo único. Nas adesões a Atas de Registro de Preços, o procedimento de contratação deverá conter, no mínimo, informação acerca do quantitativo demandado e do local de entrega do bem ou da prestação do serviço.
 
 Art. 19. É vedado:
 
-I - indicar pessoas para compor o quadro funcional da contratada;
-
-II - demandar a execução de serviços ou tarefas que escapem ao escopo do objeto da contratação, mesmo que haja assentimento do preposto ou da própria contratada;
-
-III - reembolsar despesas com transporte, hospedagem e outros custos operacionais, que devem ser de exclusiva responsabilidade da contratada;
-
-IV - prever exigências que constituam intervenção indevida da Administração na gestão interna dos fornecedores;
-
-V - prever, como critério de habilitação, apresentação de comprovação de credenciamento junto ao fabricante da solução; e,
-
-VI - estabelecer mais de uma Solução de TI em um único contrato.
+* I - indicar pessoas para compor o quadro funcional da contratada;
+* II - demandar a execução de serviços ou tarefas que escapem ao escopo do objeto da contratação, mesmo que haja assentimento do preposto ou da própria contratada;
+* III - reembolsar despesas com transporte, hospedagem e outros custos operacionais, que devem ser de exclusiva responsabilidade da contratada;
+* IV - prever exigências que constituam intervenção indevida da Administração na gestão interna dos fornecedores;
+* V - prever, como critério de habilitação, apresentação de comprovação de credenciamento junto ao fabricante da solução; e,
+* VI - estabelecer mais de uma Solução de TI em um único contrato.
 
 Art. 20. O TR será assinado pela Equipe de Planejamento da Solução e o processo será encaminhado à autoridade administrativa competente para dar encaminhamento à contratação.
 
@@ -258,65 +214,43 @@ Art. 20. O TR será assinado pela Equipe de Planejamento da Solução e o proces
 
 Art. 21. As responsabilidades da contratante deverão ser previstas em seção específica do TR e incluir, no mínimo:
 
-I - encaminhamento formal da demanda, preferencialmente por meio de Ordem de Serviço ou de Fornecimento de Bens, de acordo com os critérios estabelecidos no TR;
+* I - encaminhamento formal da demanda, preferencialmente por meio de Ordem de Serviço ou de Fornecimento de Bens, de acordo com os critérios estabelecidos no TR;
+* II - recebimento do objeto fornecido pela contratada que esteja em conformidade com a proposta aceita, de acordo com as inspeções realizadas;
+* III - aplicação das sanções administrativas regulamentares e contratuais cabíveis, comunicando ao órgão gerenciador da Ata de Registro de Preços, quando se tratar de contrato dessa natureza;
+* IV - liquidação do empenho e pagamento da contratada dentro dos prazos estabelecidos em contrato;
+* V - comunicação à contratada de todas e quaisquer ocorrências relacionadas ao fornecimento da Solução de TI;
+* VI - definição de produtividade ou capacidade mínima de fornecimento da Solução de TI por parte da contratada, com base em pesquisas de mercado, quando aplicável; e
+* VII - previsão de que os direitos de propriedade intelectual e direitos autorais da Solução de TI sobre os diversos artefatos e produtos produzidos ao longo do contrato, incluindo a documentação, o código-fonte de aplicações, os modelos de dados e as bases de dados pertencerão à Administração, justificando os casos em que isso não ocorrer.
 
-II - recebimento do objeto fornecido pela contratada que esteja em conformidade com a proposta aceita, de acordo com as inspeções realizadas;
+Art. 22. As responsabilidades da contratada deverão ser previstas em seção específica do TR e incluir, além dos elementos contidos nos [incisos XVI e XVII do art. 92](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm#art92), no [art. 93](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm#art93) e no [art. 120 da Lei nº 14.133, de 1º de abril de 2021](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm#art120), no mínimo:
 
-III - aplicação das sanções administrativas regulamentares e contratuais cabíveis, comunicando ao órgão gerenciador da Ata de Registro de Preços, quando se tratar de contrato dessa natureza;
+* I - a indicação formal do preposto apto a representá-la junto à contratante, que deverá responder pela fiel execução do contrato;
+* II - o recebimento, a diligência, o encaminhamento e a resposta, na figura do preposto, das principais questões técnicas, legais e administrativas referentes ao andamento contratual;
+* III - o pronto atendimento de quaisquer orientações e exigências do fiscal do contrato, inerentes à execução do objeto contratual;
+* IV - a disponibilização de todos os meios e facilidades indispensáveis à fiscalização da Solução de TI pela contratante;
+* V - quando especificada, a manutenção de equipe técnica composta por profissionais devidamente habilitados, treinados e qualificados para fornecimento da Solução de TI, durante a execução do contrato;
+* VI - a manutenção da produtividade ou da capacidade mínima de fornecimento da Solução de TI durante a execução do contrato;
+* VII - a cessão dos direitos de propriedade intelectual e direitos autorais da solução de TI sobre os diversos artefatos e produtos produzidos em decorrência da relação contratual, incluindo a documentação, os modelos de dados e as bases de dados ao contratante; e
+* VIII - o cumprimento aos termos da [Lei nº 13.709/2018 (LGPD)](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm).
 
-IV - liquidação do empenho e pagamento da contratada dentro dos prazos estabelecidos em contrato;
+Art. 23. As obrigações do órgão gerenciador do Registro de Preços deverão ser previstas em seção específica do TR e incluir, além do disposto nos arts. 82 a 86 da [Lei nº 14.133, de 1º de abril de 2021](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm), no mínimo:
 
-V - comunicação à contratada de todas e quaisquer ocorrências relacionadas ao fornecimento da Solução de TI;
+* I - o registro do licitante fornecedor e a assinatura da correspondente Ata de Registro de Preço;
+* II - a condução dos procedimentos relativos a eventuais renegociações de condições, produtos ou preços registrados;
+* III - a aplicação das penalidades por descumprimento do pactuado na Ata de Registro de Preços;
+* IV - a autorização ou não do fornecimento da Solução de TI para órgão não participante da Ata de Registro de Preços, desde que prevista no instrumento convocatório, consultado o beneficiário da Ata e verificadas as condições de fornecimento, de forma a evitar extrapolações dos limites de produtividade ou de capacidade mínima de fornecimento da Solução;
+* V - a definição de mecanismos de comunicação com os órgãos participantes e não participantes, contendo:
 
-VI - definição de produtividade ou capacidade mínima de fornecimento da Solução de TI por parte da contratada, com base em pesquisas de mercado, quando aplicável; e
+  * a) as formas de comunicação entre os envolvidos, a exemplo de ofício, telefone, e-mail, ou sistema informatizado, quando disponível;
+  * b) a definição dos eventos a serem reportados ao órgão gerenciador, com a indicação de prazo e responsável, a exemplo de ordem de serviço ou fornecimento de bens, aplicações de sanções administrativas, alteração de item registrado em Ata por modelo equivalente ou superior.
 
-VII - previsão de que os direitos de propriedade intelectual e direitos autorais da Solução de TI sobre os diversos artefatos e produtos produzidos ao longo do contrato, incluindo a documentação, o código-fonte de aplicações, os modelos de dados e as bases de dados pertencerão à Administração, justificando os casos em que isso não ocorrer.
+* VI - a definição de mecanismos de controle de fornecimento da Solução de TI, observando, entre outros:
 
-Art. 22. As responsabilidades da contratada deverão ser previstas em seção específica do TR e incluir, além dos elementos contidos nos incisos XVI e XVII do art. 92,  no art. 93 e no art. 120 da [Lei nº 14.133, de 1º de abril de 2021](LEI_14133_2021_NLLCA.md), no mínimo:
-
-I - a indicação formal do preposto apto a representá-la junto à contratante, que deverá responder pela fiel execução do contrato;
-
-II - o recebimento, a diligência, o encaminhamento e a resposta, na figura do preposto, das principais questões técnicas, legais e administrativas referentes ao andamento contratual;
-
-III - o pronto atendimento de quaisquer orientações e exigências do fiscal do contrato, inerentes à execução do objeto contratual;
-
-IV - a disponibilização de todos os meios e facilidades indispensáveis à fiscalização da Solução de TI pela contratante;
-
-V - quando especificada, a manutenção de equipe técnica composta por profissionais devidamente habilitados, treinados e qualificados para fornecimento da Solução de TI, durante a execução do contrato;
-
-VI - a manutenção da produtividade ou da capacidade mínima de fornecimento da Solução de TI durante a execução do contrato;
-
-VII - a cessão dos direitos de propriedade intelectual e direitos autorais da solução de TI sobre os diversos artefatos e produtos produzidos em decorrência da relação contratual, incluindo a documentação, os modelos de dados e as bases de dados ao contratante; e
-
-VIII - o cumprimento aos termos da Lei nº 13.709/2018 (LGPD).
-
-Art. 23. As obrigações do órgão gerenciador do Registro de Preços deverão ser previstas em seção específica do TR e incluir, além do disposto nos arts. 82 a 86 da [Lei nº 14.133, de 1º de abril de 2021](LEI_14133_2021_NLLCA.md), no mínimo:
-
-I - o registro do licitante fornecedor e a assinatura da correspondente Ata de Registro de Preço;
-
-II - a condução dos procedimentos relativos a eventuais renegociações de condições, produtos ou preços registrados;
-
-III - a aplicação das penalidades por descumprimento do pactuado na Ata de Registro de Preços;
-
-IV - a autorização ou não do fornecimento da Solução de TI para órgão não participante da Ata de Registro de Preços, desde que prevista no instrumento convocatório, consultado o beneficiário da Ata e verificadas as condições de fornecimento, de forma a evitar extrapolações dos limites de produtividade ou de capacidade mínima de fornecimento da Solução;
-
-V - a definição de mecanismos de comunicação com os órgãos participantes e não participantes, contendo:
-
-a) as formas de comunicação entre os envolvidos, a exemplo de ofício, telefone, e-mail, ou sistema informatizado, quando disponível;
-
-b) a definição dos eventos a serem reportados ao órgão gerenciador, com a indicação de prazo e responsável, a exemplo de ordem de serviço ou fornecimento de bens, aplicações de sanções administrativas, alteração de item registrado em Ata por modelo equivalente ou superior.
-
-VI - a definição de mecanismos de controle de fornecimento da Solução de TI, observando, entre outros:
-
-a) a definição da produtividade ou da capacidade mínima de fornecimento da Solução de TI;
-
-b) as regras para fornecimento da Solução de TI aos órgãos não participantes, desde que previsto no instrumento convocatório, cujo fornecimento não poderá prejudicar os compromissos já assumidos e as futuras contratações dos órgãos participantes do Registro de Preços;
-
-c) as regras para gerenciamento da fila de fornecimento da Solução de TI aos órgãos participantes e não participantes, contendo prazos e formas de negociação e redistribuição da demanda, quando esta ultrapassar a produtividade definida ou a capacidade mínima de fornecimento e for requerida pela contratada;
-
-d) as regras para a substituição da solução registrada por meio de apostilamento, garantida a realização de Prova de Conceito, observado o disposto na alínea “b” do inciso V deste artigo e desde que previsto o apostilamento, em função de atualizações tecnológicas existentes no seguimento de informática, na Ata de Registro de Preços; e
-
-e) a previsão da exigência para realização de Prova de Conceito com o licitante provisoriamente classificado em primeiro lugar para fins de comprovação de atendimento das especificações técnicas.
+  * a) a definição da produtividade ou da capacidade mínima de fornecimento da Solução de TI;
+  * b) as regras para fornecimento da Solução de TI aos órgãos não participantes, desde que previsto no instrumento convocatório, cujo fornecimento não poderá prejudicar os compromissos já assumidos e as futuras contratações dos órgãos participantes do Registro de Preços;
+  * c) as regras para gerenciamento da fila de fornecimento da Solução de TI aos órgãos participantes e não participantes, contendo prazos e formas de negociação e redistribuição da demanda, quando esta ultrapassar a produtividade definida ou a capacidade mínima de fornecimento e for requerida pela contratada;
+  * d) as regras para a substituição da solução registrada por meio de apostilamento, garantida a realização de Prova de Conceito, observado o disposto na alínea “b” do inciso V deste artigo e desde que previsto o apostilamento, em função de atualizações tecnológicas existentes no seguimento de informática, na Ata de Registro de Preços; e
+  * e) a previsão da exigência para realização de Prova de Conceito com o licitante provisoriamente classificado em primeiro lugar para fins de comprovação de atendimento das especificações técnicas.
 
 Parágrafo único. Sempre que possível, o órgão gerenciador da Ata de Registro de Preços deverá prever a possibilidade de adesão por outros ramos ou unidades do Ministério Público.  
 
@@ -324,85 +258,70 @@ Parágrafo único. Sempre que possível, o órgão gerenciador da Ata de Registr
 
 Art. 24. O modelo de execução do contrato define os principais procedimentos de execução contratual e deverá contemplar as condições necessárias ao fornecimento da Solução de TI, observando, quando possível:
 
-I - a fixação das rotinas de execução, com a definição de processos e procedimentos de fornecimento da Solução de TI, envolvendo:
+* I - a fixação das rotinas de execução, com a definição de processos e procedimentos de fornecimento da Solução de TI, envolvendo:
 
-a) prazos, horários de fornecimento de bens ou prestação dos serviços e locais de entrega, quando aplicáveis;
+  * a) prazos, horários de fornecimento de bens ou prestação dos serviços e locais de entrega, quando aplicáveis;
+  * b) documentação mínima exigida, observando modelos adotados pela contratante, padrões de qualidade e completude de informações, a exemplo de modelos de desenvolvimento de software, relatórios de execução de serviço ou fornecimento, controles por parte da contratada, ocorrências etc.; e
+  * c) papéis e responsabilidades, por parte da contratante e da contratada, quando couber.
 
-b) documentação mínima exigida, observando modelos adotados pela contratante, padrões de qualidade e completude de informações, a exemplo de modelos de desenvolvimento de software, relatórios de execução de serviço ou fornecimento, controles por parte da contratada, ocorrências etc.; e
-
-c) papéis e responsabilidades, por parte da contratante e da contratada, quando couber.
-
-II - a quantificação ou a estimativa prévia do volume de serviços demandados ou a quantidade de bens a serem fornecidos, para comparação e controle;
-
-III - a definição de mecanismos formais de comunicação a serem utilizados para troca de informações entre a contratada e a Administração, adotando-se preferencialmente as Ordens de Serviço ou de Fornecimento de Bens;
-
-IV - a forma e o prazo de pagamento, que será efetuado em função dos resultados obtidos;  
-
-V - a vigência contratual, observado o disposto nos arts. 105 a 114 da Lei 14.133/2021; e
-
-VI - a elaboração do Termo de Ciência, contendo declaração de manutenção de sigilo e respeito às normas de segurança vigentes na Instituição, a ser assinado pelo representante legal da contratada e por todos os seus empregados diretamente envolvidos na contratação.
+* II - a quantificação ou a estimativa prévia do volume de serviços demandados ou a quantidade de bens a serem fornecidos, para comparação e controle;
+* III - a definição de mecanismos formais de comunicação a serem utilizados para troca de informações entre a contratada e a Administração, adotando-se preferencialmente as Ordens de Serviço ou de Fornecimento de Bens;
+* IV - a forma e o prazo de pagamento, que será efetuado em função dos resultados obtidos
+* V - a vigência contratual, observado o disposto nos [arts. 105 a 114 da Lei 14.133/2021](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm#art105); e
+* VI - a elaboração do Termo de Ciência, contendo declaração de manutenção de sigilo e respeito às normas de segurança vigentes na Instituição, a ser assinado pelo representante legal da contratada e por todos os seus empregados diretamente envolvidos na contratação.
 
 ##### **Subseção III - Do Modelo de Gestão do Contrato**
 
-Art. 25. O modelo de gestão do contrato deve estabelecer as condições e os mecanismos necessários à gestão e à fiscalização da Solução de TI, observando o disposto nos arts. 92 e 140 e nos arts. 155 a 163 da [Lei nº 14.133, de 1º de abril de 2021](LEI_14133_2021_NLLCA.md), e, no mínimo:
+Art. 25. O modelo de gestão do contrato deve estabelecer as condições e os mecanismos necessários à gestão e à fiscalização da Solução de TI, observando o disposto nos [arts. 92](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm#art92) e [140](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm#art140) e nos [arts. 155 a 163 daLei nº 14.133, de 1º de abril de 2021](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm#art155), e, no mínimo:
 
-I - a fixação dos critérios de aceitação dos serviços prestados ou bens fornecidos, abrangendo métricas, indicadores e níveis de serviços com os valores mínimos aceitáveis para os principais elementos que compõem a Solução de TI;
+* I - a fixação dos critérios de aceitação dos serviços prestados ou bens fornecidos, abrangendo métricas, indicadores e níveis de serviços com os valores mínimos aceitáveis para os principais elementos que compõem a Solução de TI;
+* II - a fixação dos valores e procedimentos para retenção ou glosa no pagamento, sem prejuízo das sanções cabíveis, quando a contratada:
 
-II - a fixação dos valores e procedimentos para retenção ou glosa no pagamento, sem prejuízo das sanções cabíveis, quando a contratada:
+  * a) não atingir os valores mínimos aceitáveis fixados nos critérios de  aceitação, não produzir os resultados ou deixar de executar as atividades contratadas; ou
+  * b) deixar de utilizar materiais e recursos humanos exigidos para fornecimento da Solução de TI, ou utilizá-los com qualidade ou quantidade inferior à demandada.
 
-a) não atingir os valores mínimos aceitáveis fixados nos critérios de  aceitação, não produzir os resultados ou deixar de executar as atividades contratadas; ou
-
-b) deixar de utilizar materiais e recursos humanos exigidos para fornecimento da Solução de TI, ou utilizá-los com qualidade ou quantidade inferior à demandada.
-
-III - os procedimentos para emissão de nota fiscal e pagamento, descontados os valores oriundos da aplicação de eventuais glosas ou sanções.
+* III - os procedimentos para emissão de nota fiscal e pagamento, descontados os valores oriundos da aplicação de eventuais glosas ou sanções.
 
 ##### **Subseção IV - Da Adequação Orçamentária e do Cronograma Físico-Financeiro**
 
 Art. 26. A adequação orçamentária e o cronograma físico-financeiro deverão conter:
 
-I - a estimativa do impacto econômico-financeiro no orçamento da Instituição, com indicação das fontes de recurso; e
-
-II - o cronograma de execução física e financeira, quando aplicável, contendo o detalhamento das etapas da solução a ser contratada, com os principais serviços ou bens que a compõem, e a previsão de desembolso para cada uma delas.
+* I - a estimativa do impacto econômico-financeiro no orçamento da Instituição, com indicação das fontes de recurso; e
+* II - o cronograma de execução física e financeira, quando aplicável, contendo o detalhamento das etapas da solução a ser contratada, com os principais serviços ou bens que a compõem, e a previsão de desembolso para cada uma delas.
 
 Parágrafo único. Na licitação para Registro de Preços não é necessário indicar a dotação orçamentária, que somente será exigida para a formalização do contrato ou outro instrumento hábil.
 
 ##### **Subseção V - Do Regime de Execução do Contrato**
 
-Art. 27. O regime de execução do contrato observará, além dos requisitos especificados, o disposto no art. 92 da [Lei nº 14.133, de 1º de abril de 2021](LEI_14133_2021_NLLCA.md).
+Art. 27. O regime de execução do contrato observará, além dos requisitos especificados, o disposto no [art. 92 da Lei nº 14.133, de 1º de abril de 2021](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm#art92).
 
 ##### **Subseção VI - Dos Critérios para Seleção do Fornecedor**
 
 Art. 28. O estabelecimento de critérios técnicos para julgamento das propostas observará a:
 
-I - utilização de critérios correntes no mercado;
-
-II - possibilidade de considerar o somatório de mais de um comprovante relativo ao mesmo requisito de capacidade técnica, quando necessário, para a comprovação da aptidão;
-
-III - justificativa dos critérios de pontuação em termos do benefício que trazem para a contratante; e
-
-IV - utilização de critérios que o fornecedor esteja apto a proteger os dados pessoais desde a fase de concepção do produto ou do serviço até a sua execução.
+* I - utilização de critérios correntes no mercado;
+* II - possibilidade de considerar o somatório de mais de um comprovante relativo ao mesmo requisito de capacidade técnica, quando necessário, para a comprovação da aptidão;
+* III - justificativa dos critérios de pontuação em termos do benefício que trazem para a contratante; e
+* IV - utilização de critérios que o fornecedor esteja apto a proteger os dados pessoais desde a fase de concepção do produto ou do serviço até a sua execução.
 
 Parágrafo único. Para definição de critérios de julgamento das propostas, é vedada a:  
 
-I - indicação de entidade certificadora, exceto nos casos previamente dispostos em normas da Administração Pública;
+* I - indicação de entidade certificadora, exceto nos casos previamente dispostos em normas da Administração Pública;
+* II - pontuação com base em atestados relativos à duração de trabalhos realizados pelo licitante;
+* III - pontuação extra quando apresentado mais de um atestado para o mesmo quesito de capacidade técnica.
 
-II - pontuação com base em atestados relativos à duração de trabalhos realizados pelo licitante;
-
-III - pontuação extra quando apresentado mais de um atestado para o mesmo quesito de capacidade técnica.
-
-Art. 29. O estabelecimento de critérios para qualificação técnica observará o disposto no inciso II do art. 62 e no art. 67 da [Lei nº 14.133, de 1º de abril de 2021](LEI_14133_2021_NLLCA.md).
+Art. 29. O estabelecimento de critérios para qualificação técnica observará o disposto no [inciso II do art. 62](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm#art62) e no [art. 67 da Lei nº 14.133, de 1º de abril de 2021](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm#art67).
 
 Parágrafo único.  Para a definição de critérios de qualificação técnica é vedada a:
 
-I - exigência de atestado, declaração, comprovação de parceria, credenciamento emitidos por fabricantes ou carta de solidariedade, ressalvado o disposto no inciso IV do art. 41 da [Lei nº 14.133, de 1º de abril de 2021](LEI_14133_2021_NLLCA.md);
-
-II - necessidade de justificativa técnica nos casos em que não seja permitido o somatório de atestados para comprovar os quantitativos mínimos relativos ao mesmo quesito de capacidade técnica.
+* I - exigência de atestado, declaração, comprovação de parceria, credenciamento emitidos por fabricantes ou carta de solidariedade, ressalvado o disposto no [inciso IV do art. 41 da Lei nº 14.133, de 1º de abril de 2021](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm#art41);
+* II - necessidade de justificativa técnica nos casos em que não seja permitido o somatório de atestados para comprovar os quantitativos mínimos relativos ao mesmo quesito de capacidade técnica.
 
 Art. 30. Quando o objeto de contratação for mensuração ou fiscalização de Solução de TI, a contratada deverá ser distinta da que provê a referida solução.
 
 ##### **Subseção VII - Da Estimativa do Valor da Contratação**
 
-Art. 31. Caberá à área administrativa a realização de estimativa de valor da contratação, que terá por base o art. 23 da [Lei nº 14.133, de 1º de abril de 2021](LEI_14133_2021_NLLCA.md).
+Art. 31. Caberá à área administrativa a realização de estimativa de valor da contratação, que terá por base o [art. 23 da Lei nº 14.133, de 1º de abril de 2021](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm#art23).
 
 Parágrafo único: Na existência de catálogo de Soluções de TI com condições padronizadas, os preços de itens nele constantes deverão ser utilizados como estimativa, salvo se a pesquisa de preços realizada resultar em valor inferior ao registrado.
 
@@ -410,43 +329,36 @@ Parágrafo único: Na existência de catálogo de Soluções de TI com condiçõ
 
 Art. 32. É obrigatória a utilização da modalidade Pregão para as contratações de bens e serviços comuns, preferencialmente na forma eletrônica, exceto nos casos de inexigibilidade e dispensa de licitação.
 
-Parágrafo único. Para as contratações de inovações tecnológicas ou técnicas, não enquadradas como bens e serviços comuns, poderá ser utilizada a modalidade Diálogo Competitivo, conforme o disposto no art. 32 da [Lei nº 14.133, de 1º de abril de 2021](LEI_14133_2021_NLLCA.md).
+Parágrafo único. Para as contratações de inovações tecnológicas ou técnicas, não enquadradas como bens e serviços comuns, poderá ser utilizada a modalidade Diálogo Competitivo, conforme o disposto no [art. 32 da Lei nº 14.133, de 1º de abril de 2021](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm#art32).
 
 Art. 33. Caberá à Equipe de Planejamento da Solução:
 
-I - durante a elaboração do edital:
+* I - durante a elaboração do edital:
 
-a) analisar as sugestões feitas pela área de licitações, área jurídica, agente de contratação e equipe de apoio para o TR e demais documentos; e
+  * a) analisar as sugestões feitas pela área de licitações, área jurídica, agente de contratação e equipe de apoio para o TR e demais documentos; e
+  * b) observar as normas relativas à preferência ou exclusividade de participação de licitantes, bem como as situações de exceção.
 
-b) observar as normas relativas à preferência ou exclusividade de participação de licitantes, bem como as situações de exceção.
+* II - após a publicação do edital, apoiar tecnicamente o agente de contratação e a Comissão de Contratação da Instituição:
 
-II - após a publicação do edital, apoiar tecnicamente o agente de contratação e a Comissão de Contratação da Instituição:
-
-a) na resposta aos questionamentos ou aos pedidos de impugnação feitos pelos licitantes;
-
-b) na análise da documentação de habilitação;
-
-c) no julgamento das propostas e dos recursos apresentados pelos licitantes; e
-
-d) na realização de diligências, quando necessário, a fim de comprovar o atendimento às exigências do edital.
+  * a) na resposta aos questionamentos ou aos pedidos de impugnação feitos pelos licitantes;
+  * b) na análise da documentação de habilitação;
+  * c) no julgamento das propostas e dos recursos apresentados pelos licitantes; e
+  * d) na realização de diligências, quando necessário, a fim de comprovar o atendimento às exigências do edital.
 
 Art. 34. Finda a etapa de Seleção do Fornecedor, fica automaticamente destituída a Equipe de Planejamento da Solução.
 
 ### **CAPÍTULO V - DA GESTÃO DO CONTRATO**
 
-Art. 35. A etapa de Gestão do Contrato visa acompanhar e garantir a adequada prestação dos serviços e o fornecimento dos bens que compõem a Solução de TI durante todo o período de execução contratual e deverá observar o disposto nos arts.  115 a 123 da [Lei nº 14.133, de 1º de abril de 2021](LEI_14133_2021_NLLCA.md).
+Art. 35. A etapa de Gestão do Contrato visa acompanhar e garantir a adequada prestação dos serviços e o fornecimento dos bens que compõem a Solução de TI durante todo o período de execução contratual e deverá observar o disposto nos arts. [115 a 123 da Lei nº 14.133, de 1º de abril de 2021](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm#art115).
 
 Parágrafo único. A etapa de Gestão do Contrato terá início com a assinatura do contrato e entrega do Termo de Ciência assinado por todos os envolvidos na execução contratual.  
 
 Art. 36. A Equipe de Gestão e Fiscalização do contrato será constituída por representantes designados nos autos do processo para o encargo de:
 
-I - fiscal requisitante;
-
-II - fiscal técnico;
-
-III - fiscal administrativo; e
-
-IV - gestor do contrato.
+* I - fiscal requisitante;
+* II - fiscal técnico;
+* III - fiscal administrativo; e
+* IV - gestor do contrato.
 
 § 1º No mesmo ato, deverão ser designados substitutos para atuar em caso de ausência ou impedimentos eventuais e regulamentares dos titulares.
 
@@ -472,21 +384,16 @@ IV - gestor do contrato.
 
 Art. 37. As atividades de início do contrato, desempenhadas pelo Gestor do Contrato e pelos Fiscais Técnico, Administrativo e Requisitante, compreendem, quando couber:
 
-I - a realização de reunião inicial, convocada pelo Gestor do Contrato, com a participação dos Fiscais Técnico, Requisitante e Administrativo, da contratada e dos demais intervenientes por ele identificados, que observará, pelo menos:
+* I - a realização de reunião inicial, convocada pelo Gestor do Contrato, com a participação dos Fiscais Técnico, Requisitante e Administrativo, da contratada e dos demais intervenientes por ele identificados, que observará, pelo menos:
 
-a) a presença do preposto da contratada;
+  * a) a presença do preposto da contratada;
+  * b) os esclarecimentos relativos a questões operacionais, administrativas e de gestão do contrato; e
+  * c) o repasse à contratada de conhecimentos necessários à execução dos serviços ou ao fornecimento de bens.
 
-b) os esclarecimentos relativos a questões operacionais, administrativas e de gestão do contrato; e
-
-c) o repasse à contratada de conhecimentos necessários à execução dos serviços ou ao fornecimento de bens.
-
-II - a disponibilização de infraestrutura à contratada;
-
-III - o refinamento dos procedimentos de teste e inspeção detalhados no modelo de gestão do contrato, para fins de ateste de recebimento provisório e definitivo;
-
-IV - a configuração ou criação de ferramentas, computacionais ou não, para implantação e acompanhamento dos indicadores; e
-
-V - o refinamento ou a elaboração de listas de verificação e de roteiros de teste com base nos recursos disponíveis para aplicá-los.
+* II - a disponibilização de infraestrutura à contratada;
+* III - o refinamento dos procedimentos de teste e inspeção detalhados no modelo de gestão do contrato, para fins de ateste de recebimento provisório e definitivo;
+* IV - a configuração ou criação de ferramentas, computacionais ou não, para implantação e acompanhamento dos indicadores; e
+* V - o refinamento ou a elaboração de listas de verificação e de roteiros de teste com base nos recursos disponíveis para aplicá-los.
 
 Parágrafo único. O disposto neste artigo é dispensável para soluções compostas exclusivamente por fornecimento de bens de TI.
 
@@ -494,13 +401,10 @@ Parágrafo único. O disposto neste artigo é dispensável para soluções compo
 
 Art. 38. O encaminhamento formal de demandas deverá ocorrer preferencialmente por meio de Ordens de Serviço ou Fornecimento de Bens ou conforme definido no modelo de execução do contrato, e deverá conter, no mínimo:
 
-I - a definição e a especificação dos serviços a serem realizados ou bens a serem fornecidos;
-
-II - o volume de serviços a serem realizados ou a quantidade de bens a serem fornecidos segundo as métricas definidas em contrato;
-
-III - o cronograma de realização dos serviços ou entrega dos bens, incluídas todas as tarefas significativas e seus respectivos prazos; e
-
-IV - a identificação dos responsáveis pela solicitação na área requisitante da Solução de TI.
+* I - a definição e a especificação dos serviços a serem realizados ou bens a serem fornecidos;
+* II - o volume de serviços a serem realizados ou a quantidade de bens a serem fornecidos segundo as métricas definidas em contrato;
+* III - o cronograma de realização dos serviços ou entrega dos bens, incluídas todas as tarefas significativas e seus respectivos prazos; e
+* IV - a identificação dos responsáveis pela solicitação na área requisitante da Solução de TI.
 
 Parágrafo único. As demandas deverão atender às condições dispostas no modelo de execução do contrato e garantir que os prazos para entrega final de todos os bens e serviços estejam compreendidos dentro do prazo de vigência contratual.
 
@@ -508,57 +412,39 @@ Parágrafo único. As demandas deverão atender às condições dispostas no mod
 
 Art. 39. O monitoramento da execução deverá observar o disposto no modelo de gestão do contrato, e compreende as atividades de:
 
-I - confecção e assinatura do Termo de Recebimento Provisório, que é a declaração formal de que o objeto foi entregue para posterior análise da conformidade de qualidade baseada nos critérios de aceitação definidos em contrato;
-
-II - avaliação da qualidade dos serviços realizados ou dos bens entregues e justificativas, a partir da aplicação das listas de verificação e de acordo com os critérios de aceitação definidos em contrato;
-
-III - identificação de não conformidade com os termos contratuais;
-
-IV - verificação de aderência aos termos contratuais;
-
-V - verificação da manutenção das condições classificatórias referentes à pontuação obtida e à habilitação técnica;
-
-VI - encaminhamento das demandas de correção à contratada;
-
-VII - encaminhamento de indicação de glosas e sanções para a área administrativa;
-
-VIII - confecção e assinatura do Termo de Recebimento Definitivo;  
-
-IX - autorização, a ser encaminhada ao preposto da contratada, para emissão de notas fiscais;
-
-X - verificação das regularidades fiscais, trabalhistas e previdenciárias para fins de pagamento;
-
-XI - promoção e instrução dos procedimentos relativos a ateste de nota fiscal e encaminhamento para pagamento;
-
-XII - verificação da manutenção da necessidade, economicidade e oportunidade da contratação;
-
-XIII - acompanhamento do saldo contratual e, quando for o caso, solicitação ao responsável pela execução orçamentária de reforço orçamentário evitando-se desenvolvimento de atividades sem cobertura contratual ou sem recurso;
-
-XIV - verificação de manutenção das condições definidas nos modelos de execução e de gestão do contrato;
-
-XV - controle da vigência do contrato e consulta à autoridade máxima da área requisitante da solução e à contratada, com antecedência mínima de 120 dias do encerramento do contrato, sobre o interesse na prorrogação, atentando para outros prazos processuais estabelecidos;
-
-XVI - encaminhamento à área competente de eventuais pedidos de modificação contratual;
-
-XVII - criação e manutenção de um histórico de gestão do contrato, contendo registros formais de todas as ocorrências positivas e negativas que impactem na execução do contrato, por ordem histórica; e
-
-XVIII - realização de auditoria para verificar o efetivo cumprimento pelo contratado da aplicação dos controles de segurança e privacidade.
+* I - confecção e assinatura do Termo de Recebimento Provisório, que é a declaração formal de que o objeto foi entregue para posterior análise da conformidade de qualidade baseada nos critérios de aceitação definidos em contrato;
+* II - avaliação da qualidade dos serviços realizados ou dos bens entregues e justificativas, a partir da aplicação das listas de verificação e de acordo com os critérios de aceitação definidos em contrato;
+* III - identificação de não conformidade com os termos contratuais;
+* IV - verificação de aderência aos termos contratuais;
+* V - verificação da manutenção das condições classificatórias referentes à pontuação obtida e à habilitação técnica;
+* VI - encaminhamento das demandas de correção à contratada;
+* VII - encaminhamento de indicação de glosas e sanções para a área administrativa;
+* VIII - confecção e assinatura do Termo de Recebimento Definitivo
+* IX - autorização, a ser encaminhada ao preposto da contratada, para emissão de notas fiscais;
+* X - verificação das regularidades fiscais, trabalhistas e previdenciárias para fins de pagamento;
+* XI - promoção e instrução dos procedimentos relativos a ateste de nota fiscal e encaminhamento para pagamento;
+* XII - verificação da manutenção da necessidade, economicidade e oportunidade da contratação;
+* XIII - acompanhamento do saldo contratual e, quando for o caso, solicitação ao responsável pela execução orçamentária de reforço orçamentário evitando-se desenvolvimento de atividades sem cobertura contratual ou sem recurso;
+* XIV - verificação de manutenção das condições definidas nos modelos de execução e de gestão do contrato;
+* XV - controle da vigência do contrato e consulta à autoridade máxima da área requisitante da solução e à contratada, com antecedência mínima de 120 dias do encerramento do contrato, sobre o interesse na prorrogação, atentando para outros prazos processuais estabelecidos;
+* XVI - encaminhamento à área competente de eventuais pedidos de modificação contratual;
+* XVII - criação e manutenção de um histórico de gestão do contrato, contendo registros formais de todas as ocorrências positivas e negativas que impactem na execução do contrato, por ordem histórica; e
+* XVIII - realização de auditoria para verificar o efetivo cumprimento pelo contratado da aplicação dos controles de segurança e privacidade.
 
 § 1º Nas hipóteses de renovação e prorrogação contratual, deverá ser realizada pesquisa de preço que comprove a sua economicidade.  
 
 § 2º Caso não seja comprovada a economicidade, nos termos do § 1º deste artigo, a autoridade máxima da área requisitante deverá justificar a vantajosidade da renovação ou prorrogação.  
 
-Art. 40. O recebimento do objeto do contrato observará o disposto no art. 140 da [Lei nº 14.133, de 1º de abril de 2021](LEI_14133_2021_NLLCA.md), além do seguinte:
+Art. 40. O recebimento do objeto do contrato observará o disposto no [art. 140 da Lei nº 14.133, de 1º de abril de 2021](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm#art140), além do seguinte:
 
-I - o Termo de Recebimento Provisório será assinado:
+* I - o Termo de Recebimento Provisório será assinado:
 
-a) pelos servidores lotados nas áreas de patrimônio ou material para aquisições de bens e materiais respectivamente; ou  
+  * a) pelos servidores lotados nas áreas de patrimônio ou material para aquisições de bens e materiais respectivamente; ou  
+  * b)  pelo fiscal técnico, nos demais casos.
 
-b)  pelo fiscal técnico, nos demais casos.
+* II - o Termo de Recebimento Definitivo será assinado por Comissão de Recebimento Definitivo, composta por, no mínimo, 3 (três) servidores, designados formalmente nos autos do processo.
 
-II - o Termo de Recebimento Definitivo será assinado por Comissão de Recebimento Definitivo, composta por, no mínimo, 3 (três) servidores, designados formalmente nos autos do processo.
-
-§ 1º Nos casos de aquisição de materiais e de contratação de soluções de TI, cujos valores sejam inferiores ao limite estabelecido no inciso II do art. 75 da Lei 14.133/2021, o recebimento definitivo poderá ser realizado por único servidor da Comissão de Recebimento Definitivo.
+§ 1º Nos casos de aquisição de materiais e de contratação de soluções de TI, cujos valores sejam inferiores ao limite estabelecido no [inciso II do art. 75 da Lei 14.133/2021](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm#art75), o recebimento definitivo poderá ser realizado por único servidor da Comissão de Recebimento Definitivo.
 
 § 2º Nos casos de contratos de prestação de serviços continuados, a emissão de Termo de Recebimento Definitivo pode ser substituída pelo atesto da nota fiscal ou fatura correspondente aos serviços prestados.
 
@@ -574,41 +460,31 @@ Art. 44. No caso de aditamento contratual, o Gestor do Contrato deverá, com bas
 
 ### **CAPÍTULO VI - DO GERENCIAMENTO DE RISCOS**
 
-Art. 45. O gerenciamento de riscos deve ser realizado em harmonia com a Política de Gestão de Riscos da Instituição e com o disposto no inciso X do art. 18 e no art. 22 da Lei 14.133/2021, considerando-se:
+Art. 45. O gerenciamento de riscos deve ser realizado em harmonia com a Política de Gestão de Riscos da Instituição e com o disposto no [inciso X do art. 18](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm#art18) e no [art. 22 da Lei 14.133/2021](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm#art22), considerando-se:
 
-I - durante a fase de planejamento, a equipe de Planejamento da Solução deve proceder às ações de gerenciamento de riscos e produzir o Mapa de Gerenciamento de Riscos, que deverá conter, no mínimo:
+* I - durante a fase de planejamento, a equipe de Planejamento da Solução deve proceder às ações de gerenciamento de riscos e produzir o Mapa de Gerenciamento de Riscos, que deverá conter, no mínimo:
 
-a) a identificação e a análise dos principais riscos, consistindo na compreensão da natureza e determinação do nível de risco, mediante a combinação do impacto e de suas probabilidades, que possam comprometer a efetividade da contratação, bem como o alcance dos resultados pretendidos com a solução de TI;
+  * a) a identificação e a análise dos principais riscos, consistindo na compreensão da natureza e determinação do nível de risco, mediante a combinação do impacto e de suas probabilidades, que possam comprometer a efetividade da contratação, bem como o alcance dos resultados pretendidos com a solução de TI;
+  * b) a avaliação das ações previstas a serem adotadas para reduzir ou eliminar as chances de ocorrência dos eventos relacionados a cada risco;
+  * c) a avaliação das ações de contingência a serem adotadas caso os eventos correspondentes aos riscos se concretizem
+  * d) a identificação dos responsáveis pelas ações de prevenção dos riscos e dos procedimentos de contingência;
+  * e) a mensuração das probabilidades de ocorrência e dos danos potenciais relacionados a cada risco identificado; e
+  * f) a avaliação dos mecanismos para continuidade do fornecimento da Solução de TI em eventual interrupção contratual.
 
-b) a avaliação das ações previstas a serem adotadas para reduzir ou eliminar as chances de ocorrência dos eventos relacionados a cada risco;
+* II - durante a fase de Seleção do Fornecedor, o Integrante Administrativo, com apoio dos Integrantes Técnico e Requisitante, deve proceder às ações de gerenciamento dos riscos e atualizar o Mapa de Gerenciamento de Riscos.
+* III - durante a fase de Gestão do Contrato, a Equipe de Fiscalização do Contrato, sob coordenação do Gestor do Contrato, deverá proceder à atualização contínua do Mapa de Gerenciamento de Riscos, que compreende as atividades de:
 
-c) a avaliação das ações de contingência a serem adotadas caso os eventos correspondentes aos riscos se concretizem;  
+  * a) reavaliação dos riscos identificados nas fases anteriores e atualização de suas respectivas ações de tratamento; e
+  * b) identificação, análise, avaliação e tratamento de novos riscos.
 
-d) a identificação dos responsáveis pelas ações de prevenção dos riscos e dos procedimentos de contingência;
+* IV - O Mapa de Gerenciamento de Riscos deve ser juntado aos autos do processo licitatório, pelo menos:
 
-e) a mensuração das probabilidades de ocorrência e dos danos potenciais relacionados a cada risco identificado; e
+  * a) ao final da elaboração do ETP;
+  * b) ao final da fase de Seleção do Fornecedor;
+  * c) durante a renovação contratual; e
+  * d) após eventos relevantes.
 
-f) a avaliação dos mecanismos para continuidade do fornecimento da Solução de TI em eventual interrupção contratual.
-
-II - durante a fase de Seleção do Fornecedor, o Integrante Administrativo, com apoio dos Integrantes Técnico e Requisitante, deve proceder às ações de gerenciamento dos riscos e atualizar o Mapa de Gerenciamento de Riscos.
-
-III - durante a fase de Gestão do Contrato, a Equipe de Fiscalização do Contrato, sob coordenação do Gestor do Contrato, deverá proceder à atualização contínua do Mapa de Gerenciamento de Riscos, que compreende as atividades de:
-
-a) reavaliação dos riscos identificados nas fases anteriores e atualização de suas respectivas ações de tratamento; e
-
-b) identificação, análise, avaliação e tratamento de novos riscos.
-
-IV - O Mapa de Gerenciamento de Riscos deve ser juntado aos autos do processo licitatório, pelo menos:
-
-a) ao final da elaboração do ETP;
-
-b) ao final da fase de Seleção do Fornecedor;
-
-c) durante a renovação contratual; e
-
-d) após eventos relevantes.
-
-V - o Mapa de Gerenciamento de Riscos deve ser assinado pela Equipe de Planejamento da Solução, nas fases de Planejamento da Solução e de Seleção do Fornecedor, e pela Equipe de Gestão e Fiscalização do Contrato, na fase de Gestão do Contrato.
+* V - o Mapa de Gerenciamento de Riscos deve ser assinado pela Equipe de Planejamento da Solução, nas fases de Planejamento da Solução e de Seleção do Fornecedor, e pela Equipe de Gestão e Fiscalização do Contrato, na fase de Gestão do Contrato.
 
 ### **CAPÍTULO VII - DAS DISPOSIÇÕES FINAIS**
 
@@ -627,5 +503,7 @@ Parágrafo único.  Permanecem regidos pela Resolução CNMP nº 102, de 23 de s
 Brasília-DF, \_\_\_\_\_ de \_\_\_\_\_\_\_\_\_\_\_ de 2024.
 
 PAULO GUSTAVO GONET BRANCO
+
+---
 
 Presidente do Conselho Nacional do Ministério Público

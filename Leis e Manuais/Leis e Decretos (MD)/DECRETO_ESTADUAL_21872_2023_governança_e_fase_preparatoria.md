@@ -1,12 +1,12 @@
 # **[DECRETO Nº 21.872, DE 07 DE MARÇO DE 2023](https://drive.google.com/file/d/1t64T6PVu0Ye-evD4FcVV9VMNhq3BE-pV/view)**
 
-Regulamenta a [Lei Federal nº 14.133, de 1º de Abril de 2021](./LEI_14133_2021_LLCA.md) no âmbito do Poder Executivo Estadual, ***para tratar de governança, fase preparatória e procedimental das licitações e contratações diretas para a aquisição de bens, contratações de serviços, obras e serviços de engenharia e sobre bens de luxo***.
+Regulamenta a [Lei Federal nº 14.133, de 1º de Abril de 2021](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm) no âmbito do Poder Executivo Estadual, ***para tratar de governança, fase preparatória e procedimental das licitações e contratações diretas para a aquisição de bens, contratações de serviços, obras e serviços de engenharia e sobre bens de luxo***.
 
-O GOVERNADOR DO ESTADO DO PIAUI, no uso das atribuições que lhe confere o inciso XIII, do art. 102, da [Constituição Estadual](https://www.al.pi.leg.br/ouvidoria/Ouvidoria/20231022131409/constituicao-estadual_pi_ec_054-2019_com_ec_55-61.pdf), e o art. 65, IV, da [Lei Estadual nº 7.884, de 08 de dezembro de 2022](https://drive.google.com/file/d/18-CEaZp7ClOQYwzUBZU5pzVlv4A9jNKQ/view), e tendo em vista o disposto na [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md), DECRETA:
+O GOVERNADOR DO ESTADO DO PIAUI, no uso das atribuições que lhe confere o inciso XIII, do art. 102, da [Constituição Estadual](https://www.al.pi.leg.br/ouvidoria/Ouvidoria/20231022131409/constituicao-estadual_pi_ec_054-2019_com_ec_55-61.pdf), e o art. 65, IV, da [Lei Estadual nº 7.884, de 08 de dezembro de 2022](https://drive.google.com/file/d/18-CEaZp7ClOQYwzUBZU5pzVlv4A9jNKQ/view), e tendo em vista o disposto na [Lei Federal nº 14.133, de 1º de Abril de 2021](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm), DECRETA:
 
 ## **CAPÍTULO I - DISPOSIÇÕES PRELIMINARES**
 
-Art. 1º Este Decreto regulamenta a [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md), dispondo acerca de governança, fase preparatória e procedimental das licitações e contratações diretas para a aquisição de bens, contratações de serviços, obras e serviços de engenharia e sobre bens de luxo, no âmbito do Poder Executivo Estadual, compreendendo os órgãos da Administração Direta, os fundos especiais, as fundações e as autarquias.
+Art. 1º Este Decreto regulamenta a [Lei Federal nº 14.133, de 1º de Abril de 2021](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm), dispondo acerca de governança, fase preparatória e procedimental das licitações e contratações diretas para a aquisição de bens, contratações de serviços, obras e serviços de engenharia e sobre bens de luxo, no âmbito do Poder Executivo Estadual, compreendendo os órgãos da Administração Direta, os fundos especiais, as fundações e as autarquias.
 
 § 1º Quando a contratação envolver total ou parcialmente recursos da União decorrentes de transferências voluntárias para o Estado, deverão ser observados os procedimentos previstos nas normas do ente federal concedente ou no instrumento de transferência, podendo ainda ser utilizado o sistema de compras empregado nas licitações e contratações do concedente.
 
@@ -83,12 +83,12 @@ Art. 10. Compete ao órgão ou entidade, quanto à gestão de estoques do proces
 Art. 11. Compete ao órgão ou entidade, quanto à gestão por competências do processo de contratações públicas:
 
 * I - assegurar a aderência às normas, regulamentações e padrões estabelecidos pela Secretaria de Administração, quanto às competências para os agentes públicos que desempenham papéis ligados à governança, à gestão e à fiscalização das contratações;
-* II - garantir que a escolha dos ocupantes de funções-chave, funções de confiança ou cargos em comissão, na área de contratações, seja fundamentada nos perfis de competências definidos conforme o inciso I, observando os princípios da transparência, da eficiência e do interesse público, bem como os requisitos definidos no art. 7º da [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md); e
+* II - garantir que a escolha dos ocupantes de funções-chave, funções de confiança ou cargos em comissão, na área de contratações, seja fundamentada nos perfis de competências definidos conforme o inciso I, observando os princípios da transparência, da eficiência e do interesse público, bem como os requisitos definidos no [art. 7º da Lei Federal nº 14.133, de 1º de Abril de 2021](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm#art7); e
 * III - elencar ações de desenvolvimento dos dirigentes e demais agentes que atuam no processo de contratação, contemplando aspectos técnicos, gerenciais e comportamentais desejáveis ao bom desempenho de suas funções.
 
 Art. 12. Compete ao órgão ou entidade, quanto à interação com o mercado fornecedor e com associações empresariais:
 
-* I - promover regular e transparente diálogo quando da confecção dos estudos técnicos preliminares, de forma a se obterem insumos para a otimização das especificações dos objetos a serem contratados, dos parâmetros de mercado para melhor técnica e custo das contratações, e das obrigações da futura contratada, conforme dispõe o art. 21 da [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md).
+* I - promover regular e transparente diálogo quando da confecção dos estudos técnicos preliminares, de forma a se obterem insumos para a otimização das especificações dos objetos a serem contratados, dos parâmetros de mercado para melhor técnica e custo das contratações, e das obrigações da futura contratada, conforme dispõe o [art. 21 da Lei Federal nº 14.133, de 1º de Abril de 2021](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm#art21).
 * II - observar a devida transparência acerca dos eventos a serem conduzidos na fase da seleção do fornecedor, respeitados os princípios da isonomia e da publicidade; e
 * III - estabelecer exigências sempre proporcionais ao objeto a ser contratado, para assegurar que as oportunidades sejam projetadas de modo a incentivar a ampla participação de concorrentes potenciais, incluindo novos entrantes e pequenas e médias empresas.
 
@@ -110,7 +110,7 @@ Art. 14. Compete ao órgão ou entidade, quanto à gestão dos contratos:
 * III - estabelecer diretrizes para a nomeação de gestores e fiscais de contrato, com base no perfil de competências previsto no art. 11, e evitando a sobrecarga de atribuições;
 * IV - instaurar processo sancionatório decorrente de contratações públicas, observando-se, em especial, critérios objetivos e isonômicos para a determinação da dosimetria das penas, com fulcro nas disposições legais e contratuais pertinentes;
 * V - acompanhar a implantação de programa de integridade pelo contratado, quando exigido; e
-* VI - constituir, com base no relatório final de que trata a alínea "d" do inciso VI do § 3º do art. 174 da [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md), base de dados de lições aprendidas durante a execução contratual, como forma de aprimoramento das atividades da Administração.
+* VI - constituir, com base no relatório final de que trata a [alínea "d" do inciso VI do § 3º do art. 174 da Lei Federal nº 14.133, de 1º de Abril de 2021](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm#art174§3), base de dados de lições aprendidas durante a execução contratual, como forma de aprimoramento das atividades da Administração.
 
 Art. 15. Compete ao órgão ou entidade, quanto à estrutura da área de contratações públicas:
 
@@ -217,17 +217,17 @@ Art. 23. O estudo técnico preliminar - ETP conterá os seguintes elementos:
 
 § 2º Caso, após o levantamento do mercado de que trata o inciso III, a quantidade de fornecedores for considerada restrita, deve-se verificar se os requisitos que limitam a participação são realmente indispensáveis, flexibilizando-os sempre que possível.
 
-§ 3º Em todos os casos, o estudo técnico preliminar deve privilegiar a consecução dos objetivos de uma contratação, nos termos no art. 11 da [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md), em detrimento de modelagem de contratação centrada em exigências meramente formais.
+§ 3º Em todos os casos, o estudo técnico preliminar deve privilegiar a consecução dos objetivos de uma contratação, nos termos no [art. 11 da Lei Federal nº 14.133, de 1º de Abril de 2021](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm#art11), em detrimento de modelagem de contratação centrada em exigências meramente formais.
 
 § 4º Em se tratando de estudo técnico preliminar para contratação de obras e serviços comuns de engenharia, se demonstrada a inexistência de prejuízo para a aferição dos padrões de desempenho e qualidade almejados, a especificação do objeto poderá ser realizada apenas em termo de referência ou em projeto básico, dispensada a elaboração de projetos.
 
 Art. 24. Durante a elaboração do ETP deverão ser avaliadas:
 
-* I - a possibilidade de utilização de mão de obra, materiais, tecnologias e matérias-primas existentes no local da execução, conservação e operação do bem, serviço ou obra, desde que não haja prejuízos à competitividade do processo licitatório e à eficiência do respectivo contrato, nos termos do § 2º do art. 25 da [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md);
-* II - a necessidade de ser exigido, em edital ou em aviso de contratação direta, que os serviços de manutenção e assistência técnica sejam prestados mediante deslocamento de técnico ou disponibilizados em unidade de prestação de serviços localizada em distância compatível com suas necessidades, conforme dispõe o § 4º do art. 40 da [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md); e
-* III - as contratações anteriores voltadas ao atendimento de necessidade idêntica ou semelhante à atual, como forma de melhorar a performance contratual, em especial nas contratações de execução continuada ou de fornecimento contínuo de bens e serviços, com base, inclusive, no relatório final de que trata a alínea "d" do inciso VI do § 3º do art. 174 da [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md).
+* I - a possibilidade de utilização de mão de obra, materiais, tecnologias e matérias-primas existentes no local da execução, conservação e operação do bem, serviço ou obra, desde que não haja prejuízos à competitividade do processo licitatório e à eficiência do respectivo contrato, nos termos do [§ 2º do art. 25 da Lei Federal nº 14.133, de 1º de Abril de 2021](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm#art25§2);
+* II - a necessidade de ser exigido, em edital ou em aviso de contratação direta, que os serviços de manutenção e assistência técnica sejam prestados mediante deslocamento de técnico ou disponibilizados em unidade de prestação de serviços localizada em distância compatível com suas necessidades, conforme dispõe o [§ 4º do art. 40 da Lei Federal nº 14.133, de 1º de Abril de 2021](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm#art40§4); e
+* III - as contratações anteriores voltadas ao atendimento de necessidade idêntica ou semelhante à atual, como forma de melhorar a performance contratual, em especial nas contratações de execução continuada ou de fornecimento contínuo de bens e serviços, com base, inclusive, no relatório final de que trata a [alínea "d" do inciso VI do § 3º do art. 174 da Lei Federal nº 14.133, de 1º de Abril de 2021](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm#art174§3).
 
-Art. 25. Quando o ETP demonstrar que a avaliação e a ponderação da qualidade técnica das propostas que superarem os requisitos mínimos estabelecidos no edital são relevantes aos fins pretendidos pela Administração, deverá ser escolhido o critério de julgamento de técnica e preço, conforme o disposto no § 1º do art. 36 da [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md).
+Art. 25. Quando o ETP demonstrar que a avaliação e a ponderação da qualidade técnica das propostas que superarem os requisitos mínimos estabelecidos no edital são relevantes aos fins pretendidos pela Administração, deverá ser escolhido o critério de julgamento de técnica e preço, conforme o disposto no [§ 1º do art. 36 da Lei Federal nº 14.133, de 1º de Abril de 2021](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm#art36§1).
 
 Art. 26. Na elaboração do ETP, os órgãos e entidades deverão pesquisar os ETP de outras unidades, como forma de identificar soluções semelhantes que possam se adequar à demanda da Administração.
 
@@ -236,7 +236,7 @@ Art. 27. Ao final da elaboração do ETP, deve-se avaliar a necessidade de class
 Art. 28. A elaboração do ETP:
 
 * I - é facultada nas hipóteses dos incisos I, II, VII e VIII do art. 75 e do § 7º do art. 90 da Lei nº 14.133/2021; e
-* II - é dispensada na hipótese do inciso III do art. 75 da [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md), e nos casos de prorrogações dos contratos de serviços e fornecimentos contínuos.
+* II - é dispensada na hipótese do [inciso III do art. 75 da Lei Federal nº 14.133, de 1º de Abril de 2021](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm#art75), e nos casos de prorrogações dos contratos de serviços e fornecimentos contínuos.
 
 § 1º Podem ser elaborados Estudos Técnicos Preliminares padronizados para serviços de mesma natureza, semelhança ou afinidade, desde que demonstrada a correlação entre os objetos abrangidos, na forma de regulamento expedido pela Secretaria de Administração.
 
@@ -256,7 +256,7 @@ Art. 33. A matriz de riscos é o instrumento que permite a identificação das s
 
 Parágrafo único. A matriz de riscos deverá estar prevista em cláusula específica da minuta contratual anexa ao edital.
 
-Art. 34. Os órgãos e entidades deverão elaborar a matriz de riscos nas contratações de obras, serviços ou fornecimentos cujo valor estimado superar a quantia de 2% do limite previsto no art. 6º, XXII, da Lei nº 14.133/2021.
+Art. 34. Os órgãos e entidades deverão elaborar a matriz de riscos nas contratações de obras, serviços ou fornecimentos cujo valor estimado superar a quantia de 2% do limite previsto no [art. 6º, XXII, da Lei nº 14.133/2021](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm#art6).
 
 Parágrafo único. Além do caso previsto no caput, deverá ser elaborada matriz de riscos quando a natureza do processo envolver riscos relevantes que possam ocasionar o desequilíbrio econômico-financeiro do contrato.
 
@@ -311,9 +311,9 @@ Art. 36. O TR é documento obrigatório para todos os processos licitatórios e 
 
 § 3º Nos casos de contratação de serviços comuns de engenharia, além dos requisitos elencados no caput, o termo de referência deverá conter:
 
-* I - Classificação do objeto como serviço comum de engenharia, conforme art. 6º, XXI, "a", da [Lei Federal nº 14.133/2021](./LEI_14133_2021_LLCA.md);
+* I - Classificação do objeto como serviço comum de engenharia, conforme [art. 6º, XXI, "a", da Lei Federal nº 14.133/2021](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm#art6);
 * II - Cronograma Físico-Financeiro;
-* III - Documentos referentes à responsabilidade técnica, quais sejam, Anotação de Responsabilidade Técnica - ART e Registro de Responsabilidade Técnica - RRT, referentes à totalidade das peças técnicas produzidas por profissional habilitado, consoante previsão do art. 10 do [Decreto Federal nº 7.983/2013](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/decreto/d7983.htm).
+* III - Documentos referentes à responsabilidade técnica, quais sejam, Anotação de Responsabilidade Técnica - ART e Registro de Responsabilidade Técnica - RRT, referentes à totalidade das peças técnicas produzidas por profissional habilitado, consoante previsão do [art. 10 do Decreto Federal nº 7.983/2013](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/decreto/d7983.htm#art10).
 
 Art. 37. ***O TR deve obrigatoriamente conter os elementos dispostos nos incisos I, II, VI, VII, XIII, XVI, XVII, XIX, XX, XXI e XXIII do caput do art. 36***.
 
@@ -339,7 +339,7 @@ Art. 38. A Administração Pública poderá prever, excepcionalmente, a apresent
 
 ### **Seção V - Anteprojeto, Projeto Básico e Projeto Executivo**
 
-Art. 39. A contratação de obras e serviços de engenharia demandará a elaboração de Anteprojeto, Projeto Básico e Projeto Executivo, conforme o caso, observadas as respectivas definições constantes no art. 6º, incisos XXIV, XXV e XXVI da [Lei Federal nº 14.133/2021](./LEI_14133_2021_LLCA.md).
+Art. 39. A contratação de obras e serviços de engenharia demandará a elaboração de Anteprojeto, Projeto Básico e Projeto Executivo, conforme o caso, observadas as respectivas definições constantes no [art. 6º, incisos XXIV, XXV e XXVI da Lei Federal nº 14.133/2021](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm#art6).
 
 Art. 40. Todos os elementos que compõem o projeto básico devem ser elaborados por profissional legalmente habilitado, sendo indispensável a respectiva Anotação de Responsabilidade Técnica - ART e/ou Registro de Responsabilidade Técnica - RRT, identificação do autor e sua assinatura em cada uma das peças gráficas e documentos produzidos.
 
@@ -417,13 +417,13 @@ Art. 48. Nas contratações diretas por inexigibilidade ou por dispensa de licit
 
 § 3º Fica vedada a contratação direta por inexigibilidade caso a justificativa de preços demonstre a possibilidade de competição.
 
-§ 4º Na hipótese de dispensa de licitação com base nos incisos I e II do art. 75 da [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md), a estimativa de preços de que trata ocaput poderá ser realizada concomitantemente à seleção da proposta economicamente mais vantajosa.
+§ 4º Na hipótese de dispensa de licitação com base nos [incisos I e II do art. 75 da Lei Federal nº 14.133, de 1º de Abril de 2021](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm#art75), a estimativa de preços de que trata ocaput poderá ser realizada concomitantemente à seleção da proposta economicamente mais vantajosa.
 
 § 5º O procedimento do § 4º será realizado por meio de solicitação formal de cotações a fornecedores.
 
 Art. 49. Na pesquisa de preço para obtenção do preço estimado relativo às contratações de prestação de serviços com regime de dedicação de mão de obra exclusiva, aplica-se o disposto na Instrução Normativa nº 5, de 26 de maio de 2017, ou outra que venha a substituí-la, observando, no que couber, o disposto neste Decreto.
 
-Art. 50. Para a definição do valor estimado nos processos de contratação direta de obras e serviços de engenharia, de que dispõe o § 2º do art. 23 da [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md), fica autorizada a aplicação do [Decreto Federal nº 7.983, de 8 de abril de 2013](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/decreto/d7983.htm), que estabelece regras e critérios para elaboração do orçamento de referência de obras e serviços de engenharia.
+Art. 50. Para a definição do valor estimado nos processos de contratação direta de obras e serviços de engenharia, de que dispõe o [§ 2º do art. 23 da Lei Federal nº 14.133, de 1º de Abril de 2021](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm#art23§2), fica autorizada a aplicação do [Decreto Federal nº 7.983, de 8 de abril de 2013](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/decreto/d7983.htm), que estabelece regras e critérios para elaboração do orçamento de referência de obras e serviços de engenharia.
 
 Art. 51. Desde que justificado, o orçamento estimado da contratação poderá ter caráter sigiloso, sem prejuízo da divulgação do detalhamento dos quantitativos e das demais informações necessárias para a elaboração das propostas, salvo na hipótese de licitação cujo critério de julgamento for por maior desconto.
 
@@ -492,9 +492,9 @@ Art. 56. Cabe ao agente de contratação ou, conforme o caso, à comissão de co
 
 Art. 57. Na modalidade licitatória de concurso, o agente de contratação, para fins de julgamento por melhor técnica ou conteúdo artístico, contará com a avaliação de banca especializada nos quesitos de natureza qualitativa.
 
-Parágrafo único. A banca referida no caput terá no mínimo 3 (três) membros, facultada a contratação de profissional de notória especialização para compor referida banca, nos termos do inciso XIII do art. 75 da Lei Federal nº 14.133, de 2021.
+Parágrafo único. A banca referida no caput terá no mínimo 3 (três) membros, facultada a contratação de profissional de notória especialização para compor referida banca, nos termos do [inciso XIII do art. 75 da Lei Federal nº 14.133, de 2021](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm#art75).
 
-Art. 58. Nos processos de contratação direta, caberá ao agente de contratação ou à comissão de contratação a análise de conformidade da instrução processual, nos termos dos incisos I a IV do art. 72 da Lei Federal nº 14.133, de 2021, competindo-lhe atestar a habilitação e a qualificação do contratado, bem como verificar a existência de razões suficientes para a escolha do contratado e para a justificativa do preço.
+Art. 58. Nos processos de contratação direta, caberá ao agente de contratação ou à comissão de contratação a análise de conformidade da instrução processual, nos termos dos [incisos I a IV do art. 72 da Lei Federal nº 14.133, de 2021](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm#art72), competindo-lhe atestar a habilitação e a qualificação do contratado, bem como verificar a existência de razões suficientes para a escolha do contratado e para a justificativa do preço.
 
 Art. 59. Compete à Comissão de Contratação, em caráter permanente ou especial, a condução dos seguintes procedimentos:
 
@@ -613,7 +613,7 @@ Art. 74. A Administração poderá convocar, com antecedência mínima de 8 (oit
 
 § 1º Na convocação, serão disponibilizadas a todos os interessados as informações pertinentes, inclusive o estudo técnico preliminar, se houver, e os elementos do edital de licitação.
 
-§ 2º Sempre que o valor estimado para uma licitação ou para um conjunto de licitações for de grande vulto, de acordo com o inciso XXII do art. 6º da [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md), será obrigatória a realização de audiência pública, convocada pela autoridade responsável.
+§ 2º Sempre que o valor estimado para uma licitação ou para um conjunto de licitações for de grande vulto, de acordo com o [inciso XXII do art. 6º da Lei Federal nº 14.133, de 1º de Abril de 2021](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm#art6), será obrigatória a realização de audiência pública, convocada pela autoridade responsável.
 
 § 3º Nas contratações de serviços e fornecimentos contínuos, a caracterização da contratação como de grande vulto se dá com base no valor estimado para o primeiro ano de contratação.
 
@@ -673,7 +673,7 @@ Art. 84. Para fins do disposto nesta Seção, consideram-se lances intermediári
 * I - lances iguais ou superiores ao menor já ofertado, quando adotado o critério de julgamento de menor preço; e
 * II - lances iguais ou inferiores ao maior já ofertado, quando adotado o critério de julgamento de maior desconto.
 
-Art. 85. Deverá ser observado o disposto no art. 14 da [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md), em relação à vedação de participar do procedimento de licitação de que trata esta Seção.
+Art. 85. Deverá ser observado o disposto no [art. 14 da Lei Federal nº 14.133, de 1º de Abril de 2021](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm#art14), em relação à vedação de participar do procedimento de licitação de que trata esta Seção.
 
 #### **Subseção II - Dos Procedimentos**
 
@@ -704,13 +704,13 @@ Art. 87. A realização da licitação pelo critério do menor preço ou maior d
 
 § 2º Eventual postergação do prazo a que se refere o inciso II do § 1º deve ser comunicada tempestivamente via sistema, de forma a não cercear o direito de recorrer do licitante.
 
-§ 3º Na adoção da modalidade de licitação diálogo competitivo, na forma do disposto no inciso III do art. 83, serão observadas as fases próprias desta modalidade, nos termos do art. 32 da [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md).
+§ 3º Na adoção da modalidade de licitação diálogo competitivo, na forma do disposto no inciso III do art. 83, serão observadas as fases próprias desta modalidade, nos termos do [art. 32 da Lei Federal nº 14.133, de 1º de Abril de 2021](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm#art32).
 
 ##### **Parâmetros do critério de julgamento**
 
 Art. 88. O critério de julgamento por menor preço ou maior desconto considerará o menor dispêndio para a Administração, atendidos os parâmetros mínimos de qualidade definidos no edital de licitação.
 
-§ 1º Os custos indiretos, relacionados às despesas de manutenção, utilização, reposição, depreciação e impacto ambiental, entre outros fatores vinculados ao seu ciclo de vida, poderão ser considerados para a definição do menor dispêndio, sempre que objetivamente mensuráveis, conforme parâmetros definidos em regulamento, de acordo com o § 1º do art. 34 da [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md).
+§ 1º Os custos indiretos, relacionados às despesas de manutenção, utilização, reposição, depreciação e impacto ambiental, entre outros fatores vinculados ao seu ciclo de vida, poderão ser considerados para a definição do menor dispêndio, sempre que objetivamente mensuráveis, conforme parâmetros definidos em regulamento, de acordo com o [§ 1º do art. 34 da Lei Federal nº 14.133, de 1º de Abril de 2021](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm#art34§1).
 
 § 2º O julgamento por maior desconto terá como referência o preço global fixado no edital de licitação ou tabela de preços praticada no mercado, e o desconto será estendido aos eventuais termos aditivos.
 
@@ -718,7 +718,7 @@ Art. 88. O critério de julgamento por menor preço ou maior desconto considerar
 
 ##### **Agente de contratação ou comissão de contratação**
 
-Art. 89. A licitação, na forma eletrônica, será conduzida pelo agente de contratação ou pela comissão de contratação, quando o substituir, nos termos do disposto no § 2º do art. 8º da [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md).
+Art. 89. A licitação, na forma eletrônica, será conduzida pelo agente de contratação ou pela comissão de contratação, quando o substituir, nos termos do disposto no [§ 2º do art. 8º da Lei Federal nº 14.133, de 1º de Abril de 2021](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm#art8§2).
 
 Parágrafo único. A designação e atuação do agente de contratação, da equipe de apoio e da comissão de contratação deverão ser estabelecidas de acordo com as regras definidas na [Seção IX](#seção-ix---da-designação-do-agente-de-contratação-da-equipe-de-apoio-e-da-comissão-de-contratação) do [Capítulo III](#capítulo-iii---da-fase-preparatória-da-licitação-e-da-contratação-direta) deste Decreto.
 
@@ -726,7 +726,7 @@ Parágrafo único. A designação e atuação do agente de contratação, da equ
 
 ##### **Orientações gerais**
 
-Art. 90. A fase preparatória do processo licitatório deve compatibilizar-se com o Plano Anual de Contratações, se houver, e com as leis orçamentárias, bem como abordar todas as considerações técnicas, mercadológicas e de gestão que podem interferir na contratação, compreendidos os documentos e procedimentos necessários de que dispõe o art. 18 da [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md), observada a modalidade de licitação adotada, nos termos do art. 83.
+Art. 90. A fase preparatória do processo licitatório deve compatibilizar-se com o Plano Anual de Contratações, se houver, e com as leis orçamentárias, bem como abordar todas as considerações técnicas, mercadológicas e de gestão que podem interferir na contratação, compreendidos os documentos e procedimentos necessários de que dispõe o [art. 18 da Lei Federal nº 14.133, de 1º de Abril de 2021](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm#art18), observada a modalidade de licitação adotada, nos termos do art. 83.
 
 Parágrafo único. Os preceitos do desenvolvimento sustentável serão observados na fase preparatória da licitação, em suas dimensões econômica, social, ambiental e cultural, no mínimo, com base nos planos de gestão de logística sustentável dos órgãos e das entidades.
 
@@ -788,7 +788,7 @@ Art. 96. Os prazos mínimos para a apresentação das propostas e lances, contad
   * c) 60 (sessenta) dias úteis, quando o regime de execução for de contratação integrada;
   * d) 35 (trinta e cinco) dias úteis, quando o regime de execução for o de contratação semi-integrada ou nas hipóteses não abrangidas pelas alíneas "a", "b" e "c" deste inciso;
 
-§ 1º O prazo mínimo para apresentação de propostas será de 60 (sessenta) dias úteis na fase competitiva da modalidade licitatória diálogo competitivo, em atenção ao disposto no inciso VIII do § 1º do art. 32 da [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md).
+§ 1º O prazo mínimo para apresentação de propostas será de 60 (sessenta) dias úteis na fase competitiva da modalidade licitatória diálogo competitivo, em atenção ao disposto no [inciso VIII do § 1º do art. 32 da Lei Federal nº 14.133, de 1º de Abril de 2021](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm#art32§1).
 
 ##### **Apresentação da proposta**
 
@@ -796,9 +796,9 @@ Art. 97. Após a divulgação do edital de licitação, os licitantes encaminhar
 
 § 1º Na hipótese de a fase de habilitação anteceder as fases referidas nos incisos III e IV do art. 87, os licitantes encaminharão, na forma e no prazo estabelecidos no caput, simultaneamente os documentos de habilitação e a proposta com o preço ou o percentual de desconto, observado o disposto no § 1º do art. 115 e no § 1º do art. 118.
 
-§ 2º O licitante declarará, em campo próprio do sistema, sem prejuízo da exigência de outras declarações previstas em legislação específica e na [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md), o cumprimento dos requisitos para a habilitação e a conformidade de sua proposta com as exigências do edital de licitação.
+§ 2º O licitante declarará, em campo próprio do sistema, sem prejuízo da exigência de outras declarações previstas em legislação específica e na [Lei Federal nº 14.133, de 1º de Abril de 2021](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm), o cumprimento dos requisitos para a habilitação e a conformidade de sua proposta com as exigências do edital de licitação.
 
-§ 3º A falsidade da declaração de que trata o § 2º sujeitará o licitante às sanções previstas na [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md).
+§ 3º A falsidade da declaração de que trata o § 2º sujeitará o licitante às sanções previstas na [Lei Federal nº 14.133, de 1º de Abril de 2021](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm).
 
 § 4º Os licitantes poderão retirar ou substituir a proposta ou, na hipótese do § 1º, os documentos de habilitação anteriormente inseridos no sistema, até a abertura da sessão pública.
 
@@ -907,7 +907,7 @@ Art. 106. Caso a desconexão do sistema eletrônico persistir por tempo superior
 
 ##### **Critérios de desempate**
 
-Art. 107. Em caso de empate entre duas ou mais propostas, serão utilizados os critérios de desempate previstos no art. 60 da [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md).
+Art. 107. Em caso de empate entre duas ou mais propostas, serão utilizados os critérios de desempate previstos no [art. 60 da Lei Federal nº 14.133, de 1º de Abril de 2021](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm#art60).
 
 Parágrafo único. Empatadas as propostas iniciais e não havendo o envio de lances após o início da fase competitiva, aplicam-se os critérios de desempate de que trata o caput.
 
@@ -959,17 +959,17 @@ Art. 114. Encerrada a fase de julgamento, após a verificação de conformidade 
 
 ##### **Documentação obrigatória**
 
-Art. 115. Para habilitação dos licitantes, serão exigidos os documentos necessários e suficientes para demonstrar a capacidade do licitante de realizar o objeto da licitação, nos termos dos arts. 62 a 70 da [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md).
+Art. 115. Para habilitação dos licitantes, serão exigidos os documentos necessários e suficientes para demonstrar a capacidade do licitante de realizar o objeto da licitação, nos termos dos [arts. 62 a 70 da Lei Federal nº 14.133, de 1º de Abril de 2021](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm#art62).
 
 § 1º A documentação exigida para fins de habilitação jurídica, fiscal, social e trabalhista e econômico-financeira, desde que previsto no edital de licitação, poderá ser substituída pelo registro cadastral no sistema eletrônico indicado pela Secretaria de Administração.
 
-§ 2º A documentação de habilitação de que trata o caput poderá ser dispensada, total ou parcialmente, nas contratações para entrega imediata, nas contratações em valores inferiores a 1/4 (um quarto) do limite para dispensa de licitação de que trata o inciso II do art. 75 da [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md), e nas contratações de produto para pesquisa e desenvolvimento até o valor de que trata o inciso III do art. 70 da [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md), ressalvado inciso XXXIII do caput do art. 7º e o § 3º do art. 195 da Constituição Federal.
+§ 2º A documentação de habilitação de que trata o caput poderá ser dispensada, total ou parcialmente, nas contratações para entrega imediata, nas contratações em valores inferiores a 1/4 (um quarto) do limite para dispensa de licitação de que trata o [inciso II do art. 75 da Lei Federal nº 14.133, de 1º de Abril de 2021](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm#art75), e nas contratações de produto para pesquisa e desenvolvimento até o valor de que trata o [inciso III do art. 70 da Lei Federal nº 14.133, de 1º de Abril de 2021](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm#art70), ressalvado inciso XXXIII do caput do art. 7º e o § 3º do art. 195 da Constituição Federal.
 
 Art. 116. Quando permitida a participação de empresas estrangeiras que não funcionem no País, as exigências de habilitação serão atendidas mediante documentos equivalentes, inicialmente apresentados em tradução livre.
 
 Parágrafo único. Na hipótese de o licitante vencedor ser empresa estrangeira que não funcione no País, para fins de assinatura do contrato ou da ata de registro de preços, os documentos exigidos para a habilitação serão traduzidos por tradutor juramentado no País e apostilados nos termos do disposto no Decreto Federal nº 8.660, de 29 de janeiro de 2016, ou de outro que venha a substituí-lo, ou consularizados pelos respectivos consulados ou embaixadas.
 
-Art. 117. Quando permitida a participação de consórcio de empresas, será observado o disposto no art. 15 da [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md).
+Art. 117. Quando permitida a participação de consórcio de empresas, será observado o disposto no [art. 15 da Lei Federal nº 14.133, de 1º de Abril de 2021](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm#art15).
 
 ##### **Procedimentos de verificação**
 
@@ -977,9 +977,9 @@ Art. 118. A habilitação será verificada por meio do cadastro eletrônico de f
 
 § 1º Os documentos exigidos para habilitação que não estejam contemplados no cadastro serão enviados por meio do sistema, quando solicitado pelo agente de contratação, ou comissão de contratação quando o substituir, até a conclusão da fase de habilitação.
 
-§ 2º Será exigida a apresentação dos documentos de habilitação apenas do licitante vencedor, exceto quando a fase de habilitação anteceder as fases referidas nos incisos III e IV do art. 87, observado, nesta hipótese, o disposto no § 2º do art. 64 da [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md).
+§ 2º Será exigida a apresentação dos documentos de habilitação apenas do licitante vencedor, exceto quando a fase de habilitação anteceder as fases referidas nos incisos III e IV do art. 87, observado, nesta hipótese, o disposto no [§ 2º do art. 64 da Lei Federal nº 14.133, de 1º de Abril de 2021](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm#art64§2).
 
-§ 3º Na hipótese do § 2º, serão exigidos os documentos relativos à regularidade fiscal, em qualquer caso, somente em momento posterior ao julgamento das propostas, e apenas do licitante mais bem classificado, nos termos do inciso III do art. 63 da [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md).
+§ 3º Na hipótese do § 2º, serão exigidos os documentos relativos à regularidade fiscal, em qualquer caso, somente em momento posterior ao julgamento das propostas, e apenas do licitante mais bem classificado, nos termos do [inciso III do art. 63 da Lei Federal nº 14.133, de 1º de Abril de 2021](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm#art63).
 
 § 4º Após a apresentação dos documentos de habilitação, fica vedada a substituição ou a apresentação de novos documentos, salvo em sede de diligência, para:
 
@@ -1032,17 +1032,17 @@ Art. 122. Na hipótese de necessidade de suspensão da sessão pública para a r
 
 ##### **Adjudicação objeto e homologação do procedimento**
 
-Art. 123. Encerradas as fases de julgamento e habilitação, e exauridos os recursos administrativos, o processo licitatório será encaminhado à autoridade superior para adjudicar o objeto e homologar o procedimento, observado o disposto no art. 71 da [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md).
+Art. 123. Encerradas as fases de julgamento e habilitação, e exauridos os recursos administrativos, o processo licitatório será encaminhado à autoridade superior para adjudicar o objeto e homologar o procedimento, observado o disposto no [art. 71 da Lei Federal nº 14.133, de 1º de Abril de 2021](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm#art71).
 
 #### **Subseção XIII - Da Convocação Para a Contratação**
 
 ##### **Convocação para a assinatura do termo de contrato ou da ata de registro de preços**
 
-Art. 124. Após a homologação, o licitante vencedor será convocado para assinar o termo de contrato ou a ata de registro de preços, ou aceitar ou retirar o instrumento equivalente, no prazo estabelecido no edital de licitação, sob pena de decair o direito à contratação, sem prejuízo das sanções previstas na [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md), e em outras legislações aplicáveis.
+Art. 124. Após a homologação, o licitante vencedor será convocado para assinar o termo de contrato ou a ata de registro de preços, ou aceitar ou retirar o instrumento equivalente, no prazo estabelecido no edital de licitação, sob pena de decair o direito à contratação, sem prejuízo das sanções previstas na [Lei Federal nº 14.133, de 1º de Abril de 2021](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm), e em outras legislações aplicáveis.
 
 § 1º O prazo de convocação poderá ser prorrogado 01 (uma) vez, por igual período, mediante solicitação da parte durante seu transcurso, devidamente justificada, e desde que o motivo apresentado seja aceito pela Administração.
 
-§ 2º Na hipótese de o vencedor da licitação não assinar o contrato ou a ata de registro de preços, ou não aceitar ou não retirar o instrumento equivalente no prazo e nas condições estabelecidas, outro licitante poderá ser convocado, respeitada a ordem de classificação, para celebrar a contratação ou a ata de registro de preços, ou instrumento equivalente, nas condições propostas pelo licitante vencedor, sem prejuízo da aplicação das sanções previstas na [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md), e em outras legislações aplicáveis.
+§ 2º Na hipótese de o vencedor da licitação não assinar o contrato ou a ata de registro de preços, ou não aceitar ou não retirar o instrumento equivalente no prazo e nas condições estabelecidas, outro licitante poderá ser convocado, respeitada a ordem de classificação, para celebrar a contratação ou a ata de registro de preços, ou instrumento equivalente, nas condições propostas pelo licitante vencedor, sem prejuízo da aplicação das sanções previstas na [Lei Federal nº 14.133, de 1º de Abril de 2021](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm), e em outras legislações aplicáveis.
 
 § 3º Caso nenhum dos licitantes aceitar a contratação nos termos do § 2º, a Administração, observados o valor estimado e sua eventual atualização nos termos do edital de licitação, poderá:
 
@@ -1057,7 +1057,7 @@ Art. 124. Após a homologação, o licitante vencedor será convocado para assin
 
 ##### **Aplicação**
 
-Art. 125. Os licitantes estarão sujeitos às sanções administrativas previstas na [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md), e às demais cominações legais, resguardado o direito à ampla defesa, conforme procedimento previsto na Lei Estadual nº 6.782/2016, que trata do procedimento administrativo no âmbito da Administração Pública Estadual.
+Art. 125. Os licitantes estarão sujeitos às sanções administrativas previstas na [Lei Federal nº 14.133, de 1º de Abril de 2021](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm), e às demais cominações legais, resguardado o direito à ampla defesa, conforme procedimento previsto na Lei Estadual nº 6.782/2016, que trata do procedimento administrativo no âmbito da Administração Pública Estadual.
 
 #### **Subseção XV - Da Revogação e da Anulação**
 
@@ -1069,7 +1069,7 @@ Art. 126. A autoridade superior poderá revogar o procedimento licitatório de q
 
 § 2º Ao pronunciar a nulidade, a autoridade indicará expressamente os atos com vícios insanáveis, tornando sem efeito todos os subsequentes que deles dependam, e dará ensejo à apuração de responsabilidade de quem lhes tenha dado causa.
 
-§ 3º Na hipótese da ilegalidade de que trata o caput ser constatada durante a execução contratual, aplica-se o disposto no art. 147 da [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md).
+§ 3º Na hipótese da ilegalidade de que trata o caput ser constatada durante a execução contratual, aplica-se o disposto no [art. 147 da Lei Federal nº 14.133, de 1º de Abril de 2021](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm#art147).
 
 Art. 127. Os horários estabelecidos no edital de licitação, no aviso e durante a sessão pública observarão o horário de Brasília, Distrito Federal, inclusive para contagem de tempo e registro no sistema eletrônico e na documentação relativa ao certame.
 
@@ -1097,7 +1097,7 @@ Art. 129. O critério de julgamento de que trata o art. 128 será escolhido quan
 * IV - obras e serviços especiais de engenharia; e
 * V - objetos que admitam soluções específicas e alternativas e variações de execução, com repercussões significativas e concretamente mensuráveis sobre sua qualidade, produtividade, rendimento e durabilidade, quando essas soluções e variações puderem ser adotadas à livre escolha dos licitantes, conforme critérios objetivamente definidos no edital de licitação.
 
-Parágrafo único. Nas hipóteses previstas nas alíneas "a", "d" e "h" do inciso I deverá ser observado o disposto no § 2º do art. 37 da [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md).
+Parágrafo único. Nas hipóteses previstas nas alíneas "a", "d" e "h" do inciso I deverá ser observado o disposto no § 2º do art. 37 da [Lei Federal nº 14.133, de 1º de Abril de 2021](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm).
 
 ##### **Modalidades**
 
@@ -1108,7 +1108,7 @@ Art. 130. O critério de julgamento por técnica e preço será adotado:
 
 ##### **Vedações**
 
-Art. 131. Deverá ser observado o disposto no art. 14 da [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md), em relação à vedação de participar do procedimento de licitação de que trata esta Seção.
+Art. 131. Deverá ser observado o disposto no art. 14 da [Lei Federal nº 14.133, de 1º de Abril de 2021](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm), em relação à vedação de participar do procedimento de licitação de que trata esta Seção.
 
 #### **Subseção II - Dos Procedimentos**
 
@@ -1133,7 +1133,7 @@ Art. 133. A realização da licitação pelo critério de julgamento por técnic
 
 § 2º Eventual postergação do prazo a que se refere o inciso II do § 1º deve ser comunicada tempestivamente via sistema, de forma a não cercear o direito de recorrer do licitante.
 
-§ 3º Na adoção da modalidade de licitação diálogo competitivo, na forma do disposto no inciso II do art. 130, serão observadas as fases próprias desta modalidade, nos termos do art. 32 da [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md).
+§ 3º Na adoção da modalidade de licitação diálogo competitivo, na forma do disposto no inciso II do art. 130, serão observadas as fases próprias desta modalidade, nos termos do art. 32 da [Lei Federal nº 14.133, de 1º de Abril de 2021](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm).
 
 ##### **Parâmetro do critério de julgamento por técnica e preço**
 
@@ -1143,7 +1143,7 @@ Art. 134. O critério de julgamento por técnica e preço considerará a maior p
 
 ##### **Agente de contratação ou comissão de contratação**
 
-Art. 135. A licitação, na forma eletrônica, será conduzida pelo agente de contratação ou pela comissão de contratação, quando o substituir, nos termos do disposto no § 2º do art. 8º da [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md).
+Art. 135. A licitação, na forma eletrônica, será conduzida pelo agente de contratação ou pela comissão de contratação, quando o substituir, nos termos do disposto no § 2º do art. 8º da [Lei Federal nº 14.133, de 1º de Abril de 2021](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm).
 
 Parágrafo único. A designação e atuação do agente de contratação, da equipe de apoio e da comissão de contratação deverão ser estabelecidas de acordo com o disposto na [Seção IX](#seção-ix---da-designação-do-agente-de-contratação-da-equipe-de-apoio-e-da-comissão-de-contratação) do [Capítulo III](#capítulo-iii---da-fase-preparatória-da-licitação-e-da-contratação-direta) deste Decreto.
 
@@ -1152,13 +1152,13 @@ Parágrafo único. A designação e atuação do agente de contratação, da equ
 Art. 136. Os quesitos de natureza qualitativa da proposta de técnica de que trata o art. 151 serão analisados por banca, composta de, no mínimo, 3 (três) membros, que preencham os seguintes requisitos:
 
 * I - servidores ou empregados públicos; ou
-* II - profissionais contratados por conhecimento técnico, experiência ou renome na avaliação dos quesitos especificados em edital, desde que seus trabalhos sejam supervisionados por profissionais designados conforme o disposto no art. 7º da [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md).
+* II - profissionais contratados por conhecimento técnico, experiência ou renome na avaliação dos quesitos especificados em edital, desde que seus trabalhos sejam supervisionados por profissionais designados conforme o disposto no art. 7º da [Lei Federal nº 14.133, de 1º de Abril de 2021](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm).
 
 #### **Subseção IV - Da Fase Preparatória**
 
 ##### **Orientações gerais**
 
-Art. 137. A fase preparatória do processo licitatório deve compatibilizar-se com o Plano Anual de Contratações, se houver, e com as leis orçamentárias, bem como abordar todas as considerações técnicas, mercadológicas e de gestão que podem interferir na contratação, compreendidos os documentos e procedimentos necessários de que dispõe o art. 18 da [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md), observada a modalidade de licitação adotada, nos termos do art. 130.
+Art. 137. A fase preparatória do processo licitatório deve compatibilizar-se com o Plano Anual de Contratações, se houver, e com as leis orçamentárias, bem como abordar todas as considerações técnicas, mercadológicas e de gestão que podem interferir na contratação, compreendidos os documentos e procedimentos necessários de que dispõe o art. 18 da [Lei Federal nº 14.133, de 1º de Abril de 2021](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm), observada a modalidade de licitação adotada, nos termos do art. 130.
 
 Parágrafo único. Os preceitos do desenvolvimento sustentável serão observados na fase preparatória da licitação, em suas dimensões econômica, social, ambiental e cultural, no mínimo, com base nos planos de gestão de logística sustentável dos órgãos e das entidades.
 
@@ -1166,7 +1166,7 @@ Parágrafo único. Os preceitos do desenvolvimento sustentável serão observado
 
 Art. 138. Para o uso do critério de julgamento por técnica e preço, o estudo técnico preliminar, além dos elementos definidos na [Seção III](#seção-iii---da-elaboração-dos-estudos-técnicos-preliminares) do [Capítulo III](#capítulo-iii---da-fase-preparatória-da-licitação-e-da-contratação-direta) deste Decreto, deve compreender a justificativa dos critérios de pontuação e julgamento das propostas técnicas.
 
-Parágrafo único. Quando o estudo técnico preliminar demonstrar que os serviços que envolverem o desenvolvimento de soluções específicas de natureza intelectual, científica e técnica puderem ser descritos como comuns, nos termos do inciso XIII do art. 6º da [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md), o objeto será licitado pelo critério de julgamento por menor preço ou maior desconto.
+Parágrafo único. Quando o estudo técnico preliminar demonstrar que os serviços que envolverem o desenvolvimento de soluções específicas de natureza intelectual, científica e técnica puderem ser descritos como comuns, nos termos do inciso XIII do art. 6º da [Lei Federal nº 14.133, de 1º de Abril de 2021](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm), o objeto será licitado pelo critério de julgamento por menor preço ou maior desconto.
 
 ##### **Edital de licitação**
 
@@ -1175,8 +1175,8 @@ Art. 139. O edital de licitação deverá prever, no mínimo:
 * I - distribuição em quesitos da pontuação de técnica e de preço a ser atribuída a cada proposta, graduando as notas que serão conferidas a cada item, na proporção máxima de 70% (setenta por cento) de valoração para a proposta de técnica;
 * II - procedimentos para a ponderação e a valoração da proposta de técnica, por meio da atribuição de:
 
-  * a) notas por desempenho do licitante em contratações anteriores aferida nos documentos comprobatórios de que trata os §§ 3º e 4º do art. 88 da [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md), e em registro cadastral unificado disponível no PNCP, conforme definido em ato da Secretaria de Administração;
-  * b) pontuação da capacitação técnico-profissional, se for o caso, vinculada à participação direta e pessoal do(s) profissional(is) indicado(s) na proposta, admitida a substituição por profissionais de experiência equivalente ou superior, desde que aprovada pela Administração, nos termos do disposto no § 6º do art. 67 da [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md);
+  * a) notas por desempenho do licitante em contratações anteriores aferida nos documentos comprobatórios de que trata os §§ 3º e 4º do art. 88 da [Lei Federal nº 14.133, de 1º de Abril de 2021](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm), e em registro cadastral unificado disponível no PNCP, conforme definido em ato da Secretaria de Administração;
+  * b) pontuação da capacitação técnico-profissional, se for o caso, vinculada à participação direta e pessoal do(s) profissional(is) indicado(s) na proposta, admitida a substituição por profissionais de experiência equivalente ou superior, desde que aprovada pela Administração, nos termos do disposto no § 6º do art. 67 da [Lei Federal nº 14.133, de 1º de Abril de 2021](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm);
   * c) verificação da capacitação e da experiência do licitante;
   * d) notas a quesitos de natureza qualitativa por banca designada, na forma do art. 136, compreendendo:
 
@@ -1196,7 +1196,7 @@ Art. 139. O edital de licitação deverá prever, no mínimo:
     X2 - Valor global proposto pelo licitante classificado.
 
 * IV - orientações sobre o formato em que as propostas de técnica e de preço deverão ser apresentadas pelos licitantes;
-* V - direito de realização de vistoria prévia, nos termos dos §§ 2º a 4º do art. 63 da [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md), na hipótese de a avaliação prévia do local de intervenção ser imprescindível para a confecção da proposta de técnica.
+* V - direito de realização de vistoria prévia, nos termos dos §§ 2º a 4º do art. 63 da [Lei Federal nº 14.133, de 1º de Abril de 2021](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm), na hipótese de a avaliação prévia do local de intervenção ser imprescindível para a confecção da proposta de técnica.
 
 Parágrafo único. Poderá ser utilizado parâmetro matemático diferente do estabelecido no inciso III, desde que demonstrado no estudo técnico preliminar que o novo parâmetro é mais vantajoso para a ponderação e a valoração das propostas de preço, e que este atende ao disposto no caput do art. 129.
 
@@ -1222,7 +1222,7 @@ Art. 141. A fase externa da licitação, na forma eletrônica, observará as nor
 
 Art. 142. O prazo mínimo para a apresentação das propostas de técnica e de preço, contados a partir do 1º dia útil subsequente à data de divulgação do edital de licitação no Portal Nacional de Contratações Públicas, é de 35 (trinta e cinco) dias úteis.
 
-Parágrafo único. O prazo mínimo para apresentação das propostas será de 60 (sessenta) dias úteis na fase competitiva da modalidade licitatória diálogo competitivo, em atenção ao disposto no inciso VIII do § 1º do art. 32 da [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md).
+Parágrafo único. O prazo mínimo para apresentação das propostas será de 60 (sessenta) dias úteis na fase competitiva da modalidade licitatória diálogo competitivo, em atenção ao disposto no inciso VIII do § 1º do art. 32 da [Lei Federal nº 14.133, de 1º de Abril de 2021](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm).
 
 ##### **Apresentação das propostas**
 
@@ -1230,9 +1230,9 @@ Art. 143. Após a divulgação do edital de licitação, os licitantes encaminha
 
 § 1º Na hipótese de a fase de habilitação anteceder as fases referidas nos incisos III e IV do art. 133, os licitantes encaminharão, na forma e no prazo estabelecidos no caput, simultaneamente os documentos de habilitação, a proposta de técnica e a proposta de preço, observado o disposto § 1º do art. 115 e no § 1º do art. 118.
 
-§ 2º O licitante declarará, em campo próprio do sistema, sem prejuízo da exigência de outras declarações previstas em legislação específica e na [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md), o cumprimento dos requisitos para a habilitação e a conformidade de suas propostas com as exigências do edital de licitação.
+§ 2º O licitante declarará, em campo próprio do sistema, sem prejuízo da exigência de outras declarações previstas em legislação específica e na [Lei Federal nº 14.133, de 1º de Abril de 2021](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm), o cumprimento dos requisitos para a habilitação e a conformidade de suas propostas com as exigências do edital de licitação.
 
-§ 3º A falsidade da declaração de que trata o § 2º sujeitará o licitante às sanções previstas na [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md).
+§ 3º A falsidade da declaração de que trata o § 2º sujeitará o licitante às sanções previstas na [Lei Federal nº 14.133, de 1º de Abril de 2021](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm).
 
 § 4º Os licitantes poderão retirar ou substituir as propostas de técnica e as propostas de preço ou, na hipótese do § 1º, os documentos de habilitação, anteriormente inseridas no sistema até a abertura da sessão pública.
 
@@ -1272,9 +1272,9 @@ Art. 147. Na hipótese de o sistema eletrônico se desconectar no decorrer da se
 
 ##### **Critérios de desempate**
 
-Art. 148. Em caso de empate entre duas ou mais notas finais atribuídas à ponderação entre as propostas de técnica e de preço, serão utilizados os critérios de desempate previstos no art. 60 da [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md).
+Art. 148. Em caso de empate entre duas ou mais notas finais atribuídas à ponderação entre as propostas de técnica e de preço, serão utilizados os critérios de desempate previstos no art. 60 da [Lei Federal nº 14.133, de 1º de Abril de 2021](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm).
 
-Parágrafo único. O critério previsto no inciso I do art. 60 da [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md), será aplicado apenas com relação à proposta de preço.
+Parágrafo único. O critério previsto no inciso I do art. 60 da [Lei Federal nº 14.133, de 1º de Abril de 2021](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm), será aplicado apenas com relação à proposta de preço.
 
 #### **Subseção IX - Da Fase do Julgamento**
 
@@ -1308,7 +1308,7 @@ Art. 151. O exame de conformidade das propostas de técnica observará as regras
 
 Art. 152. No caso de obras e serviços de engenharia, serão consideradas inexequíveis as propostas cujos valores forem inferiores a 75% (setenta e cinco por cento) do valor orçado pela Administração.
 
-Parágrafo único. Na hipótese do caput, o agente de contratação ou a comissão de contratação, quando o substituir, poderá realizar diligências para aferir a exequibilidade das propostas ou exigir dos licitantes que ela seja demonstrada, em atenção ao disposto no § 2º do art. 59 da [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md).
+Parágrafo único. Na hipótese do caput, o agente de contratação ou a comissão de contratação, quando o substituir, poderá realizar diligências para aferir a exequibilidade das propostas ou exigir dos licitantes que ela seja demonstrada, em atenção ao disposto no § 2º do art. 59 da [Lei Federal nº 14.133, de 1º de Abril de 2021](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm).
 
 Art. 153. No caso de bens e serviços em geral, é indício de inexequibilidade das propostas valores inferiores a 50% (cinquenta por cento) do valor orçado pela Administração.
 
@@ -1347,10 +1347,10 @@ Art. 157. Os órgãos e entidades da administração pública estadual, quando d
 
 Art. 158. Os órgãos e entidades adotarão a dispensa de licitação, na forma eletrônica, nas seguintes hipóteses:
 
-* I - contratação de obras e serviços de engenharia ou de serviços de manutenção de veículos automotores, no limite do disposto no inciso I do caput do art. 75 da [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md);
-* II - contratação de bens e serviços, no limite do disposto no inciso II do caput do art. 75 da [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md);
-* III - contratação de obras, bens e serviços, incluídos os serviços de engenharia, nos termos do disposto no inciso III e seguintes do caput do art. 75 da [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md), quando cabível; e
-* IV - registro de preços para a contratação de bens e serviços por mais de um órgão ou entidade, nos termos do § 6º do art. 82 da [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md).
+* I - contratação de obras e serviços de engenharia ou de serviços de manutenção de veículos automotores, no limite do disposto no inciso I do caput do art. 75 da [Lei Federal nº 14.133, de 1º de Abril de 2021](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm);
+* II - contratação de bens e serviços, no limite do disposto no inciso II do caput do art. 75 da [Lei Federal nº 14.133, de 1º de Abril de 2021](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm);
+* III - contratação de obras, bens e serviços, incluídos os serviços de engenharia, nos termos do disposto no inciso III e seguintes do caput do art. 75 da [Lei Federal nº 14.133, de 1º de Abril de 2021](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm), quando cabível; e
+* IV - registro de preços para a contratação de bens e serviços por mais de um órgão ou entidade, nos termos do § 6º do art. 82 da [Lei Federal nº 14.133, de 1º de Abril de 2021](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm).
 
 § 1º Para fins de aferição dos valores que atendam aos limites referidos nos incisos I e II do caput, deverão ser observados:
 
@@ -1359,11 +1359,11 @@ Art. 158. Os órgãos e entidades adotarão a dispensa de licitação, na forma 
 
 § 2º Considera-se ramo de atividade a partição econômica do mercado, identificada pelo nível de subclasse da Classificação Nacional de Atividades Econômicas - CNAE.
 
-§ 3º O disposto no § 1º deste artigo não se aplica às contratações de até R$ 8.000,00 (oito mil reais) de serviços de manutenção de veículos automotores de propriedade do órgão ou entidade contratante, incluído o fornecimento de peças, de que trata o § 7º do art. 75 da [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md).
+§ 3º O disposto no § 1º deste artigo não se aplica às contratações de até R$ 8.000,00 (oito mil reais) de serviços de manutenção de veículos automotores de propriedade do órgão ou entidade contratante, incluído o fornecimento de peças, de que trata o § 7º do art. 75 da [Lei Federal nº 14.133, de 1º de Abril de 2021](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm).
 
 § 4º Os valores referidos nos incisos I e II do caput serão duplicados para compras, obras e serviços contratados por consórcio público ou por autarquia ou fundação qualificadas como agências executivas na forma da lei.
 
-§ 5º Quando do enquadramento de bens, serviços ou obras nos termos das hipóteses previstas neste artigo, a autoridade competente pela autorização e a autoridade superior responsável pela adjudicação e pela homologação da contratação devem observar o disposto no art. 73 da [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md), e no art. 337-E do Decreto-Lei nº 2.848, de 7 de dezembro de 1940.
+§ 5º Quando do enquadramento de bens, serviços ou obras nos termos das hipóteses previstas neste artigo, a autoridade competente pela autorização e a autoridade superior responsável pela adjudicação e pela homologação da contratação devem observar o disposto no art. 73 da [Lei Federal nº 14.133, de 1º de Abril de 2021](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm), e no art. 337-E do Decreto-Lei nº 2.848, de 7 de dezembro de 1940.
 
 ### **Seção II - Do Procedimento**
 
@@ -1409,7 +1409,7 @@ Art. 162. O fornecedor interessado, após a divulgação do aviso de contrataç�
 * III - o pleno conhecimento e aceitação das regras e das condições gerais da contratação, constantes do procedimento;
 * IV - a responsabilidade pelas transações que forem efetuadas no sistema, assumindo como firmes e verdadeiras;
 * V - o cumprimento das exigências de reserva de cargos para pessoa com deficiência e para reabilitado da Previdência Social, de que trata o art. 93 da Lei nº 8.213, de 24 de julho de 1991, se couber; e
-* VI - o cumprimento do disposto no inciso VI do art. 68 da [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md).
+* VI - o cumprimento do disposto no inciso VI do art. 68 da [Lei Federal nº 14.133, de 1º de Abril de 2021](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm).
 
 Art. 163. Quando do cadastramento da proposta, na forma do art. 162, o fornecedor poderá parametrizar o seu valor final mínimo e obedecerá às seguintes regras:
 
@@ -1452,7 +1452,7 @@ Art. 171. Definida a proposta vencedora, o órgão ou a entidade deverá solicit
 
 Parágrafo único. No caso de contratação em que o procedimento exija apresentação de planilhas com indicação dos quantitativos e dos custos unitários ou de custos e formação de preços, esta deverá ser encaminhada pelo sistema com os respectivos valores readequados à proposta vencedora.
 
-Art. 172. Para a habilitação do fornecedor mais bem classificado serão exigidas, exclusivamente, as condições de que dispõe a [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md).
+Art. 172. Para a habilitação do fornecedor mais bem classificado serão exigidas, exclusivamente, as condições de que dispõe a [Lei Federal nº 14.133, de 1º de Abril de 2021](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm).
 
 § 1º A verificação dos documentos de que trata o caput poderá ser realizada pelo cadastro eletrônico de fornecedores indicado pela Secretaria de Administração.
 
@@ -1460,7 +1460,7 @@ Art. 172. Para a habilitação do fornecedor mais bem classificado serão exigid
 
 § 3º Na hipótese de necessidade de envio de documentos complementares aos já apresentados para a habilitação, na forma estabelecida no § 1º, ou de documentos não constantes do cadastro indicado no caput, o órgão ou entidade deverá solicitar ao vencedor, no prazo definido no edital, o envio desses por meio do sistema.
 
-Art. 173. No caso de contratações para entrega imediata, considerada aquela com prazo de entrega de até 30 (trinta) dias da ordem de fornecimento, e nas contratações com valores inferiores a 1/4 (um quarto) do limite para dispensa de licitação para compras em geral e nas contratações de produto para pesquisa e desenvolvimento de que trata a alínea "c" do inciso IV do art. 75 da [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md), somente será exigida das pessoas jurídicas a comprovação da regularidade fiscal estadual, social e trabalhista e, das pessoas físicas, a quitação com a Fazenda Estadual.
+Art. 173. No caso de contratações para entrega imediata, considerada aquela com prazo de entrega de até 30 (trinta) dias da ordem de fornecimento, e nas contratações com valores inferiores a 1/4 (um quarto) do limite para dispensa de licitação para compras em geral e nas contratações de produto para pesquisa e desenvolvimento de que trata a alínea "c" do inciso IV do art. 75 da [Lei Federal nº 14.133, de 1º de Abril de 2021](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm), somente será exigida das pessoas jurídicas a comprovação da regularidade fiscal estadual, social e trabalhista e, das pessoas físicas, a quitação com a Fazenda Estadual.
 
 Art. 174. Constatado o atendimento às exigências estabelecidas no art. 172, o fornecedor será habilitado.
 
@@ -1474,7 +1474,7 @@ Art. 175. No caso do procedimento restar fracassado, o órgão ou entidade poder
 
 Parágrafo único. O disposto nos incisos I e III caput poderá ser utilizado nas hipóteses de o procedimento restar deserto.
 
-Art. 176. Encerradas a etapa de julgamento e de habilitação, o processo será encaminhado à autoridade superior para adjudicação do objeto e homologação do procedimento, observado, no que couber, o disposto no art. 71 da [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md).
+Art. 176. Encerradas a etapa de julgamento e de habilitação, o processo será encaminhado à autoridade superior para adjudicação do objeto e homologação do procedimento, observado, no que couber, o disposto no art. 71 da [Lei Federal nº 14.133, de 1º de Abril de 2021](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm).
 
 Art. 177. Os horários estabelecidos na divulgação do procedimento e durante o envio de lances observarão o horário de Brasília, Distrito Federal, inclusive para contagem de tempo e registro no Sistema e na documentação relativa ao procedimento.
 
@@ -1536,7 +1536,7 @@ Parágrafo único. As disposições deste Decreto aplicam-se, no que couber, às
 
 Art. 188. A Secretaria de Administração, na expedição de normas para fiel execução deste Decreto, deverá ouvir previamente a Procuradoria-Geral do Estado.
 
-Art. 189. Este Decreto será aplicado apenas aos processos licitatórios e contratações diretas realizados com base na [Lei Federal nº 14.133, de 1º de abril de 2021](./LEI_14133_2021_LLCA.md).
+Art. 189. Este Decreto será aplicado apenas aos processos licitatórios e contratações diretas realizados com base na [Lei Federal nº 14.133, de 1º de Abril de 2021](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm).
 
 Art. 190. Ficam recepcionados, naquilo que for compatível com a Lei nº 14.133/2021 e com este Decreto, até que sobrevenha nova regulamentação, os seguintes atos normativos estaduais:
 

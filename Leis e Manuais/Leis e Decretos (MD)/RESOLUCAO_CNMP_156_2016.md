@@ -36,19 +36,13 @@ Art. 1º Ficam instituídas a Política de Segurança Institucional do Ministér
 
 Art. 2º A atividade de segurança institucional será desenvolvida no âmbito do Ministério Público com a observância, entre outros, dos seguintes princípios:
 
-I – proteção aos direitos fundamentais e respeito aos princípios constitucionais da atividade administrativa;
-
-II – orientação de suas práticas pela ética profissional e pelos valores fundamentais do Estado Democrático de Direito;
-
-III – atuação preventiva e proativa, de modo a possibilitar antecipação às ameaças e ações hostis e sua neutralização;
-
-IV – profissionalização e caráter perene da atividade, inclusive com conexão com outras áreas internas para proteção integral da Instituição e de seus integrantes;
-
-V – integração do Ministério Público com outros órgãos essenciais à atividade de segurança institucional;
-
-VI – orientação da atividade às ameaças reais ou potenciais à Instituição e a seus integrantes, inclusive no que tange aos efeitos de acidentes naturais; e
-
-VII – salvaguarda da imagem da Instituição, evitando sua exposição e exploração negativas.
+* I – proteção aos direitos fundamentais e respeito aos princípios constitucionais da atividade administrativa;
+* II – orientação de suas práticas pela ética profissional e pelos valores fundamentais do Estado Democrático de Direito;
+* III – atuação preventiva e proativa, de modo a possibilitar antecipação às ameaças e ações hostis e sua neutralização;
+* IV – profissionalização e caráter perene da atividade, inclusive com conexão com outras áreas internas para proteção integral da Instituição e de seus integrantes;
+* V – integração do Ministério Público com outros órgãos essenciais à atividade de segurança institucional;
+* VI – orientação da atividade às ameaças reais ou potenciais à Instituição e a seus integrantes, inclusive no que tange aos efeitos de acidentes naturais; e
+* VII – salvaguarda da imagem da Instituição, evitando sua exposição e exploração negativas.
 
 ##### **Seção II - Das Medidas de Segurança Institucional**
 
@@ -58,13 +52,10 @@ Art. 3º A segurança institucional compreende o conjunto de medidas voltadas a 
 
 §2º A segurança orgânica é composta pelos seguintes grupos de medidas:
 
-I – segurança de pessoas;
-
-II – segurança do material;
-
-III – segurança das áreas e instalações;
-
-IV – segurança da informação.
+* I – segurança de pessoas;
+* II – segurança do material;
+* III – segurança das áreas e instalações;
+* IV – segurança da informação.
 
 §3º A segurança ativa compreende ações de caráter proativo e medidas de contrassabotagem, contraespionagem, contra crime organizado e contrapropaganda.
 
@@ -98,13 +89,10 @@ Art. 7º A segurança da informação compreende o conjunto de medidas voltadas 
 
 §2º A segurança da informação, pela sua relevância e complexidade, desdobra-se nos seguintes subgrupos:
 
-I – segurança da informação nos meios de tecnologia da informação;
-
-II – segurança da informação de pessoas;
-
-III – segurança da informação na documentação; e
-
-IV – segurança da informação nas áreas e instalações.
+* I – segurança da informação nos meios de tecnologia da informação;
+* II – segurança da informação de pessoas;
+* III – segurança da informação na documentação; e
+* IV – segurança da informação nas áreas e instalações.
 
 §3º Todo dado ou informação deve ser classificado de acordo com o grau de sigilo exigido por seu conteúdo, de forma a assegurar que receba nível adequado de proteção, nos termos da legislação pertinente.
 
@@ -114,23 +102,17 @@ Art. 8º A segurança da informação nos meios de tecnologia da informação co
 
 Parágrafo único. As medidas reportadas no caput deverão:
 
-I – Privilegiar a utilização de tecnologias modernas e o uso de sistemas criptográficos na transmissão de dados e informações sensíveis ou sigilosos, inclusive nos meios de comunicação por telefonia;
-
-II – priorizar a utilização de certificação digital, em especial nos assuntos que necessitem de sigilo e validade jurídica, e o armazenamento de dados (backup), que promovam a segurança e disponibilidade da informação;
-
-III – conter funcionalidades que permitam o registro e rastreamento de logs de acesso e de ocorrências, para fins de auditoria e contrainteligência; e
-
-IV – ser efetivada por cruzamento de verificação e com segregação de funções preferencialmente por estrutura não subordinada à área de tecnologia da informação e comunicações.
+* I – Privilegiar a utilização de tecnologias modernas e o uso de sistemas criptográficos na transmissão de dados e informações sensíveis ou sigilosos, inclusive nos meios de comunicação por telefonia;
+* II – priorizar a utilização de certificação digital, em especial nos assuntos que necessitem de sigilo e validade jurídica, e o armazenamento de dados (backup), que promovam a segurança e disponibilidade da informação;
+* III – conter funcionalidades que permitam o registro e rastreamento de logs de acesso e de ocorrências, para fins de auditoria e contrainteligência; e
+* IV – ser efetivada por cruzamento de verificação e com segregação de funções preferencialmente por estrutura não subordinada à área de tecnologia da informação e comunicações.
 
 Art. 9º A segurança da informação de pessoas compreende um conjunto de medidas voltadas a assegurar comportamentos adequados dos integrantes da Instituição ou terceiros, que garantam a salvaguarda de informações sensíveis ou sigilosas, em especial:
 
-I – segurança no processo seletivo, no desempenho da função e no desligamento da função ou da Instituição;
-
-II – detecção, identificação, prevenção e gerenciamento de infiltrações, recrutamentos e outras ações adversas de obtenção indevida de informações;
-
-III – identificação precisa, atualizada e detalhada das pessoas em atuação ou de inter-relação no respectivo ramo do Ministério Público; e
-
-IV – verificação e monitoramento de ações de prestadores de serviços à Instituição.
+* I – segurança no processo seletivo, no desempenho da função e no desligamento da função ou da Instituição;
+* II – detecção, identificação, prevenção e gerenciamento de infiltrações, recrutamentos e outras ações adversas de obtenção indevida de informações;
+* III – identificação precisa, atualizada e detalhada das pessoas em atuação ou de inter-relação no respectivo ramo do Ministério Público; e
+* IV – verificação e monitoramento de ações de prestadores de serviços à Instituição.
 
 §1º Todos os integrantes da Instituição ou terceiros que, de algum modo, possam ter acesso a informações sensíveis ou sigilosas deverão subscrever Termo de Compromisso de Manutenção de Sigilo – TCMS.
 
@@ -188,13 +170,10 @@ Art. 17 A Instituição deverá adotar e implementar um planejamento de conting�
 
 Art. 18 O Sistema Nacional de Segurança Institucional do Ministério Público – SNS/MP é composto:
 
-I – pela Comissão de Preservação da Autonomia do Ministério Público – CPAMP;
-
-II – pela Secretaria Executiva de Segurança Institucional – SESI;
-
-III – pelo Comitê de Políticas de Segurança Institucional – CPSI;
-
-IV – pelos membros coordenadores da segurança institucional dos ramos do Ministério Público da União e Ministérios Público dos Estados.
+* I – pela Comissão de Preservação da Autonomia do Ministério Público – CPAMP;
+* II – pela Secretaria Executiva de Segurança Institucional – SESI;
+* III – pelo Comitê de Políticas de Segurança Institucional – CPSI;
+* IV – pelos membros coordenadores da segurança institucional dos ramos do Ministério Público da União e Ministérios Público dos Estados.
 
 Parágrafo único. Compete à CPAMP, pelo seu presidente, a gestão e coordenação estratégica do SNS/MP.
 
@@ -204,65 +183,38 @@ Parágrafo único. A SESI é composta pelo Coordenador e Vice-Coordenador do CPS
 
 Art. 20 Compete à SESI:
 
-I – conhecer das questões afetas à área, orientando mecanismos para garantir as atividades de gerência, auditoria e validação de processos sensíveis;
-
-II – instituir padrões mínimos de segurança orgânica, bem como normas e procedimentos necessários à execução de tais planos, inclusive com cronogramas específicos, observando a autonomia, a realidade local de cada unidade do Ministério Público e o estabelecido na presente resolução;
-
-III – planejar e executar ações relativas à obtenção e integração de informações, inclusive produzindo conhecimentos de relevância para a segurança institucional, em coordenação com a área de inteligência;
-
-IV – desenvolver e difundir uma mentalidade de segurança institucional, fazendo com que todos os integrantes da Instituição compreendam as necessidades das medidas adotadas e incorporem o conceito de que todos são responsáveis pela manutenção do nível de segurança adequado;
-
-V – elaborar programas de divulgação, educação e informação de conteúdos de segurança para todos os integrantes da Instituição;
-
-VI – executar a capacitação e estimular a criação de programas de capacitação de pessoas e de treinamento continuado específico para os servidores e terceirizados com funções de segurança e para os membros;
-
-VII – intercambiar informações necessárias à produção de conhecimentos relacionados com as atividades de segurança institucional;
-
-VIII – acompanhar, permanentemente ou mediante provocação, os cenários de interesse do Ministério Público, no que se refere à segurança institucional, de modo a proporcionar suporte adequado ao desempenho das funções da Instituição;
-
-IX – fornecer ao CNMP, para fins de integração, informações e conhecimentos específicos relacionados com a defesa do Ministério Público e seus integrantes;
-
-X – elaborar atos normativos, recomendações, diretrizes, protocolos, rotinas, ações e medidas de segurança institucional de interesse do Ministério Público;
-
-XI – levantar informações e desenvolver ações de inteligência, em coordenação com as respectivas áreas de inteligência, com vistas a subsidiar a tomada de decisões pelo Plenário, pelo Presidente, pela Corregedoria Nacional do Ministério Público e, quando solicitado e autorizado pelo Presidente, pelas instituições ministeriais;
-
-XII – executar, supervisionar e avaliar, quando solicitado, as medidas de proteção adotadas em favor de membros, servidores e seus familiares;
-
-XIII – avaliar a conjuntura de segurança que envolve o Ministério Público;
-
-XIV – promover a articulação com os ramos do Ministério Público para a concretização das ações relativas à área;
-
-XV – executar outras atividades correlatas que lhe forem determinadas pelo Plenário, pelo Presidente ou pela Corregedoria Nacional do Ministério Público.
+* I – conhecer das questões afetas à área, orientando mecanismos para garantir as atividades de gerência, auditoria e validação de processos sensíveis;
+* II – instituir padrões mínimos de segurança orgânica, bem como normas e procedimentos necessários à execução de tais planos, inclusive com cronogramas específicos, observando a autonomia, a realidade local de cada unidade do Ministério Público e o estabelecido na presente resolução;
+* III – planejar e executar ações relativas à obtenção e integração de informações, inclusive produzindo conhecimentos de relevância para a segurança institucional, em coordenação com a área de inteligência;
+* IV – desenvolver e difundir uma mentalidade de segurança institucional, fazendo com que todos os integrantes da Instituição compreendam as necessidades das medidas adotadas e incorporem o conceito de que todos são responsáveis pela manutenção do nível de segurança adequado;
+* V – elaborar programas de divulgação, educação e informação de conteúdos de segurança para todos os integrantes da Instituição;
+* VI – executar a capacitação e estimular a criação de programas de capacitação de pessoas e de treinamento continuado específico para os servidores e terceirizados com funções de segurança e para os membros;
+* VII – intercambiar informações necessárias à produção de conhecimentos relacionados com as atividades de segurança institucional;
+* VIII – acompanhar, permanentemente ou mediante provocação, os cenários de interesse do Ministério Público, no que se refere à segurança institucional, de modo a proporcionar suporte adequado ao desempenho das funções da Instituição;
+* IX – fornecer ao CNMP, para fins de integração, informações e conhecimentos específicos relacionados com a defesa do Ministério Público e seus integrantes;
+* X – elaborar atos normativos, recomendações, diretrizes, protocolos, rotinas, ações e medidas de segurança institucional de interesse do Ministério Público;
+* XI – levantar informações e desenvolver ações de inteligência, em coordenação com as respectivas áreas de inteligência, com vistas a subsidiar a tomada de decisões pelo Plenário, pelo Presidente, pela Corregedoria Nacional do Ministério Público e, quando solicitado e autorizado pelo Presidente, pelas instituições ministeriais;
+* XII – executar, supervisionar e avaliar, quando solicitado, as medidas de proteção adotadas em favor de membros, servidores e seus familiares;
+* XIII – avaliar a conjuntura de segurança que envolve o Ministério Público;
+* XIV – promover a articulação com os ramos do Ministério Público para a concretização das ações relativas à área;
+* XV – executar outras atividades correlatas que lhe forem determinadas pelo Plenário, pelo Presidente ou pela Corregedoria Nacional do Ministério Público.
 
 Art. 21 O Comitê de Políticas de Segurança Institucional - CPSI, vinculado à CPAMP, como órgão consultivo, deliberativo e propositivo, tem a função de promover o direcionamento das ações de segurança institucional do Ministério Público brasileiro, através de deliberações que promovam a uniformização, padronização e integração dos Planos de Segurança Institucional, dos Planos de Segurança Orgânica e das Ações de Segurança Institucional, gerais ou setoriais, competindo-lhe:
 
-I – fomentar a integração entre os ramos e as unidades do Ministério Público brasileiro e entre estes e outros órgãos essenciais à sua atividade;
-
-II – fomentar o Planejamento Estratégico de Segurança Institucional e subsidiar a elaboração de Planejamento Estratégico Organizacional;
-
-III – incentivar a adoção de boas práticas em segurança institucional;
-
-IV – propor metas nacionais para atuação de segurança institucional no âmbito do Ministério Público;
-
-V – propor os objetivos e as diretrizes gerais de segurança institucional no âmbito do Ministério Público;
-
-VI – propor critérios para orientar a aquisição de bens e serviços de segurança institucional no Ministério Público;
-
-VII – compartilhar, salvo se protegido por sigilo legal, conhecimentos, informações, soluções de segurança institucional e bases de dados com intuito de promover a melhoria de resultados institucionais e da administração pública;
-
-VIII – incentivar a adoção de medidas eficazes para resguardar a segurança na tramitação eletrônica de documentos;
-
-IX – incentivar a utilização de padrões governamentais em segurança institucional;
-
-X – propor a capacitação de pessoas, necessária à preparação adequada dos integrantes da Instituição para o desempenho das atividades de segurança institucional;
-
-XI – propor treinamentos para membros e servidores na área da segurança institucional;
-
-XII – encaminhar ao CNMP, através da CPAMP, sugestões para elaboração de atos normativos na área de segurança institucional;
-
-XIII – prestar consultoria e assessoria técnica na área de segurança institucional em procedimentos em andamento no CNMP; e
-
-XIV – praticar outros atos necessários ao cumprimento do seu objetivo e compatíveis com suas atribuições.
+* I – fomentar a integração entre os ramos e as unidades do Ministério Público brasileiro e entre estes e outros órgãos essenciais à sua atividade;
+* II – fomentar o Planejamento Estratégico de Segurança Institucional e subsidiar a elaboração de Planejamento Estratégico Organizacional;
+* III – incentivar a adoção de boas práticas em segurança institucional;
+* IV – propor metas nacionais para atuação de segurança institucional no âmbito do Ministério Público;
+* V – propor os objetivos e as diretrizes gerais de segurança institucional no âmbito do Ministério Público;
+* VI – propor critérios para orientar a aquisição de bens e serviços de segurança institucional no Ministério Público;
+* VII – compartilhar, salvo se protegido por sigilo legal, conhecimentos, informações, soluções de segurança institucional e bases de dados com intuito de promover a melhoria de resultados institucionais e da administração pública;
+* VIII – incentivar a adoção de medidas eficazes para resguardar a segurança na tramitação eletrônica de documentos;
+* IX – incentivar a utilização de padrões governamentais em segurança institucional;
+* X – propor a capacitação de pessoas, necessária à preparação adequada dos integrantes da Instituição para o desempenho das atividades de segurança institucional;
+* XI – propor treinamentos para membros e servidores na área da segurança institucional;
+* XII – encaminhar ao CNMP, através da CPAMP, sugestões para elaboração de atos normativos na área de segurança institucional;
+* XIII – prestar consultoria e assessoria técnica na área de segurança institucional em procedimentos em andamento no CNMP; e
+* XIV – praticar outros atos necessários ao cumprimento do seu objetivo e compatíveis com suas atribuições.
 
 §1º O CPSI será composto por integrantes de cada ramo do Ministério Público, sendo um titular e um suplente.
 
@@ -272,43 +224,27 @@ XIV – praticar outros atos necessários ao cumprimento do seu objetivo e compa
 
 Art. 22 Cabe às instituições que compõem o SNS/MP, entre outras medidas, o seguinte:
 
-I – instituir comitê vinculado ao Procurador-Geral com o fim de realizar a gestão estratégica da segurança institucional e de articular os diversos setores da Instituição para a concretização das ações relativas à área, tudo dentro de uma concepção sistêmica de proteção e salvaguarda institucionais;
-
-II – instituir órgão de segurança institucional para tratar das questões afetas à área, criando mecanismos para garantir as atividades de gerência, auditoria e validação de processos sensíveis;
-
-III – instituir política e plano de segurança institucional, planos de segurança orgânica e normas e procedimentos necessários à execução de tais planos, inclusive com cronogramas específicos, tudo em consonância com a realidade local e com a presente Resolução;
-
-IV – planejar e executar ações relativas à obtenção e integração de dados e informações, inclusive produzindo conhecimentos de relevância para a segurança institucional;
-
-V – desenvolver atitudes favoráveis ao cumprimento de normas de segurança no âmbito da Instituição, estimulando o comprometimento e o apoio explícito de todos os níveis de direção e chefia, sem prejuízo das medidas de responsabilização pelo descumprimento;
-
-VI – desenvolver e difundir uma mentalidade de segurança institucional, fazendo com que todos os integrantes da Instituição compreendam as necessidades das medidas adotadas e incorporem o conceito de que cada um é responsável pela manutenção do nível de segurança adequado;
-
-VII – elaborar programas de divulgação, educação e informação de conteúdos de segurança para todos os integrantes da Instituição;
-
-VIII – prover recursos financeiros suficientes para as atividades de segurança institucional;
-
-IX – criar programas de formação de pessoas e de treinamento continuado específico para os servidores e terceirizados com funções de segurança e para os membros;
-
-X – intercambiar informações necessárias à produção de conhecimentos relacionados com as atividades de segurança institucional;
-
-XI – acompanhar, permanentemente, os cenários de interesse do Ministério Público no que se refere à segurança institucional, de modo a proporcionar suporte adequado ao desempenho das funções da Instituição;
-
-XII – fornecer ao CNMP, para fins de integração, informações e conhecimentos específicos relacionados com a defesa do Ministério Público e de seus integrantes.
+* I – instituir comitê vinculado ao Procurador-Geral com o fim de realizar a gestão estratégica da segurança institucional e de articular os diversos setores da Instituição para a concretização das ações relativas à área, tudo dentro de uma concepção sistêmica de proteção e salvaguarda institucionais;
+* II – instituir órgão de segurança institucional para tratar das questões afetas à área, criando mecanismos para garantir as atividades de gerência, auditoria e validação de processos sensíveis;
+* III – instituir política e plano de segurança institucional, planos de segurança orgânica e normas e procedimentos necessários à execução de tais planos, inclusive com cronogramas específicos, tudo em consonância com a realidade local e com a presente Resolução;
+* IV – planejar e executar ações relativas à obtenção e integração de dados e informações, inclusive produzindo conhecimentos de relevância para a segurança institucional;
+* V – desenvolver atitudes favoráveis ao cumprimento de normas de segurança no âmbito da Instituição, estimulando o comprometimento e o apoio explícito de todos os níveis de direção e chefia, sem prejuízo das medidas de responsabilização pelo descumprimento;
+* VI – desenvolver e difundir uma mentalidade de segurança institucional, fazendo com que todos os integrantes da Instituição compreendam as necessidades das medidas adotadas e incorporem o conceito de que cada um é responsável pela manutenção do nível de segurança adequado;
+* VII – elaborar programas de divulgação, educação e informação de conteúdos de segurança para todos os integrantes da Instituição;
+* VIII – prover recursos financeiros suficientes para as atividades de segurança institucional;
+* IX – criar programas de formação de pessoas e de treinamento continuado específico para os servidores e terceirizados com funções de segurança e para os membros;
+* X – intercambiar informações necessárias à produção de conhecimentos relacionados com as atividades de segurança institucional;
+* XI – acompanhar, permanentemente, os cenários de interesse do Ministério Público no que se refere à segurança institucional, de modo a proporcionar suporte adequado ao desempenho das funções da Instituição;
+* XII – fornecer ao CNMP, para fins de integração, informações e conhecimentos específicos relacionados com a defesa do Ministério Público e de seus integrantes.
 
 § 1º Compete a cada ramo e a cada unidade do Ministério Público, nos termos de regulamentação específica própria, observados os parâmetros normativos da presente Resolução: (Anterior parágrafo único renumerado para § 1º e com redação dada pela Resolução nº 270, de 12 de setembro de 2023)
 
-I - a elaboração de plano de proteção e assistência dos membros, inclusive inativos, servidores e familiares em situação de risco em razão do exercício funcional; (Anterior alínea “a” do parágrafo único renumerada para inciso I do § 1º pela Resolução nº 270, de 12 de setembro de 2023)
-
-II - a análise acerca dos pedidos de proteção pessoal formulados; (Anterior alínea “b” do parágrafo único renumerada para inciso II do § 1º e com redação dada pela Resolução nº 270, de 12 de setembro de 2023)
-
-III - o acompanhamento das medidas que tenham sido determinadas em face do disposto na Lei n.º 12.694, de 24 de julho de 2012; (Anterior alínea “c” do parágrafo único renumerada para inciso III do § 1º pela Resolução nº 270, de 12 de setembro de 2023)
-
-IV - a execução de medidas de segurança de proteção pessoal de membros, servidores ou familiares em situação de risco em razão do exercício funcional que se revelem necessárias; (Anterior alínea “d” do parágrafo único renumerada para inciso IV do § 1º pela Resolução nº 270, de 12 de setembro de 2023)
-
-V - a divulgação entre os integrantes da Instituição da escala de plantão dos integrantes do órgão de segurança institucional, com os nomes e os números dos celulares respectivos; (Anterior alínea “e” do parágrafo único renumerada para inciso V do § 1º pela Resolução nº 270, de 12 de setembro de 2023)
-
-VI - outras atribuições previstas nas normas expedidas pela Instituição. (Anterior alínea “f” do parágrafo único renumerada para inciso VI do § 1º pela Resolução nº 270, de 12 de setembro de 2023)
+* I - a elaboração de plano de proteção e assistência dos membros, inclusive inativos, servidores e familiares em situação de risco em razão do exercício funcional; (Anterior alínea “a” do parágrafo único renumerada para inciso I do § 1º pela Resolução nº 270, de 12 de setembro de 2023)
+* II - a análise acerca dos pedidos de proteção pessoal formulados; (Anterior alínea “b” do parágrafo único renumerada para inciso II do § 1º e com redação dada pela Resolução nº 270, de 12 de setembro de 2023)
+* III - o acompanhamento das medidas que tenham sido determinadas em face do disposto na Lei n.º 12.694, de 24 de julho de 2012; (Anterior alínea “c” do parágrafo único renumerada para inciso III do § 1º pela Resolução nº 270, de 12 de setembro de 2023)
+* IV - a execução de medidas de segurança de proteção pessoal de membros, servidores ou familiares em situação de risco em razão do exercício funcional que se revelem necessárias; (Anterior alínea “d” do parágrafo único renumerada para inciso IV do § 1º pela Resolução nº 270, de 12 de setembro de 2023)
+* V - a divulgação entre os integrantes da Instituição da escala de plantão dos integrantes do órgão de segurança institucional, com os nomes e os números dos celulares respectivos; (Anterior alínea “e” do parágrafo único renumerada para inciso V do § 1º pela Resolução nº 270, de 12 de setembro de 2023)
+* VI - outras atribuições previstas nas normas expedidas pela Instituição. (Anterior alínea “f” do parágrafo único renumerada para inciso VI do § 1º pela Resolução nº 270, de 12 de setembro de 2023)
 
 § 2º A prestação dos serviços de segurança em curso deverá ser assegurada ao membro ou servidor do Ministério Público que passar à inatividade, e a seus familiares, enquanto perdurar a situação ensejadora da medida, mediante avaliação de riscos, nos termos da Resolução CNMP nº 116, de 6 de outubro de 2014. (Incluído pela Resolução nº 270, de 12 de setembro de 2023)
 
@@ -316,15 +252,11 @@ VI - outras atribuições previstas nas normas expedidas pela Instituição. (An
 
 § 4º Para garantia do disposto no § 3º do art. 22, fica assegurada a disponibilização de assessoria de segurança ao Procurador-Geral que se afastar ou terminar seu mandato, a ser lotado em setor orgânico especificamente criado na unidade de segurança para: (Incluído pela Resolução nº 270, de 12 de setembro de 2023)
 
-I - gerenciar riscos referentes à segurança pessoal; (Incluído pela Resolução nº 270, de 12 de setembro de 2023)
-
-II - supervisionar a proteção residencial; (Incluído pela Resolução nº 270, de 12 de setembro de 2023)
-
-III - dirigir a segurança aproximada; (Incluído pela Resolução nº 270, de 12 de setembro de 2023)
-
-IV - gerir medidas de segurança e definir equipe de segurança a partir das análises de riscos; e (Incluído pela Resolução nº 270, de 12 de setembro de 2023)
-
-V - solicitar o apoio técnico e de pessoal do respectivo órgão de segurança. (Incluído pela Resolução nº 270, de 12 de setembro de 2023)
+* I - gerenciar riscos referentes à segurança pessoal; (Incluído pela Resolução nº 270, de 12 de setembro de 2023)
+* II - supervisionar a proteção residencial; (Incluído pela Resolução nº 270, de 12 de setembro de 2023)
+* III - dirigir a segurança aproximada; (Incluído pela Resolução nº 270, de 12 de setembro de 2023)
+* IV - gerir medidas de segurança e definir equipe de segurança a partir das análises de riscos; e (Incluído pela Resolução nº 270, de 12 de setembro de 2023)
+* V - solicitar o apoio técnico e de pessoal do respectivo órgão de segurança. (Incluído pela Resolução nº 270, de 12 de setembro de 2023)
 
 § 5° O respectivo órgão de segurança deverá, salvo por motivo justificado e devidamente fundamentado, atender às solicitações indicadas pela assessoria de segurança referida no § 4º do art. 22. (Incluído pela Resolução nº 270, de 12 de setembro de 2023)
 
@@ -336,33 +268,22 @@ V - solicitar o apoio técnico e de pessoal do respectivo órgão de segurança.
 
 Art. 23 O CNMP velará pela segurança dos Conselheiros, inclusive após findo o mandato, e de seus servidores, inclusive familiares, quando em risco decorrente do exercício funcional, competindo-lhe, entre outras atribuições:
 
-I – instituir plano de segurança orgânica referente ao âmbito do próprio CNMP e expedir atos normativos necessários à regulamentação e implementação da Política de Segurança Institucional do Ministério Público no âmbito interno;
+* I – instituir plano de segurança orgânica referente ao âmbito do próprio CNMP e expedir atos normativos necessários à regulamentação e implementação da Política de Segurança Institucional do Ministério Público no âmbito interno;
+* II – implementar programas de gestão do conhecimento em segurança institucional do Ministério Público, desenvolver sistemas informatizados para controle de segurança e banco de dados de segurança e estimular uma cultura de inovação para a área, inclusive promovendo estudos, avaliações e aplicações de novas tecnologias, táticas, técnicas e procedimentos de segurança;
+* III – firmar instrumentos de cooperação técnica com o Conselho Nacional de Justiça – CNJ, com o Poder Judiciário, com órgãos de inteligência nacionais e internacionais e com outras instituições;
+* IV – requisitar servidores, policiais e militares, quando necessário, sobretudo quando as medidas de proteção já requisitadas pela Instituição não tiverem sido atendidas ou quando as medidas já disponibilizadas pelos órgãos do Poder Executivo não se revelarem suficientes para proteger membros, servidores e seus respectivos familiares em situação de risco em razão do exercício funcional;
+* V – recomendar ao respectivo Procurador-Geral, mediante prévio parecer da CPAMP, nos casos em que estiver caracterizada grave situação de risco ao membro, servidor ou a seus familiares em razão do exercício da função:
 
-II – implementar programas de gestão do conhecimento em segurança institucional do Ministério Público, desenvolver sistemas informatizados para controle de segurança e banco de dados de segurança e estimular uma cultura de inovação para a área, inclusive promovendo estudos, avaliações e aplicações de novas tecnologias, táticas, técnicas e procedimentos de segurança;
+  * a) o exercício provisório das funções fora da sede de lotação ou remoção do membro ou servidor, mediante provocação deste;
+  * b) a cooperação entre Instituições ministeriais para auxílio em investigação ou processo;
+  * c) o apoio a ramo ou unidade do Ministério Público.
 
-III – firmar instrumentos de cooperação técnica com o Conselho Nacional de Justiça – CNJ, com o Poder Judiciário, com órgãos de inteligência nacionais e internacionais e com outras instituições;
-
-IV – requisitar servidores, policiais e militares, quando necessário, sobretudo quando as medidas de proteção já requisitadas pela Instituição não tiverem sido atendidas ou quando as medidas já disponibilizadas pelos órgãos do Poder Executivo não se revelarem suficientes para proteger membros, servidores e seus respectivos familiares em situação de risco em razão do exercício funcional;
-
-V – recomendar ao respectivo Procurador-Geral, mediante prévio parecer da CPAMP, nos casos em que estiver caracterizada grave situação de risco ao membro, servidor ou a seus familiares em razão do exercício da função:
-
-a) o exercício provisório das funções fora da sede de lotação ou remoção do membro ou servidor, mediante provocação deste;
-
-b) a cooperação entre Instituições ministeriais para auxílio em investigação ou processo;
-
-c) o apoio a ramo ou unidade do Ministério Público.
-
-VI – sem prejuízo da possibilidade de a própria Instituição fazê-lo, representar ao Ministro da Justiça e Cidadania e as demais autoridades do Poder Executivo, para a adoção de providências efetivas para resguardar a segurança da Instituição, de seus membros, de seus servidores ou de seus respectivos familiares, do patrimônio, quando em situação de risco em razão do exercício funcional;
-
-VII – orientar e apoiar as instituições ministeriais nas questões de segurança institucional quando se revelar necessário, sobretudo em situações de emergência;
-
-VIII – representar ao CNJ para que adote as providências necessárias para conferir celeridade à instrução e julgamento de processos associados à situação de grave risco;
-
-IX – representar ao juiz competente a afetação provisória de bens objetos de medida cautelar de constrição, de natureza criminal ou decretada em ação de improbidade administrativa, para atender situação de risco envolvendo membro ou servidor do Ministério Público;
-
-X – acompanhar, quando necessário, investigação ou processo que tenha por objeto crime praticado contra Conselheiro do CNMP, membro do Ministério Público, servidor ou familiar, em razão do exercício funcional;
-
-XI – acompanhar a tramitação de ações judiciais, de natureza cível ou criminal, em face de membros, servidores do Ministério Público ou Conselheiros do CNMP, ajuizadas como retaliação ao exercício da sua atividade funcional.
+* VI – sem prejuízo da possibilidade de a própria Instituição fazê-lo, representar ao Ministro da Justiça e Cidadania e as demais autoridades do Poder Executivo, para a adoção de providências efetivas para resguardar a segurança da Instituição, de seus membros, de seus servidores ou de seus respectivos familiares, do patrimônio, quando em situação de risco em razão do exercício funcional;
+* VII – orientar e apoiar as instituições ministeriais nas questões de segurança institucional quando se revelar necessário, sobretudo em situações de emergência;
+* VIII – representar ao CNJ para que adote as providências necessárias para conferir celeridade à instrução e julgamento de processos associados à situação de grave risco;
+* IX – representar ao juiz competente a afetação provisória de bens objetos de medida cautelar de constrição, de natureza criminal ou decretada em ação de improbidade administrativa, para atender situação de risco envolvendo membro ou servidor do Ministério Público;
+* X – acompanhar, quando necessário, investigação ou processo que tenha por objeto crime praticado contra Conselheiro do CNMP, membro do Ministério Público, servidor ou familiar, em razão do exercício funcional;
+* XI – acompanhar a tramitação de ações judiciais, de natureza cível ou criminal, em face de membros, servidores do Ministério Público ou Conselheiros do CNMP, ajuizadas como retaliação ao exercício da sua atividade funcional.
 
 §1º As medidas de que trata este artigo poderão ser adotadas pelos ramos do Ministério Público, nos limites de suas atribuições legais e em consonância com o disposto nesta resolução.
 
@@ -399,6 +320,8 @@ Art. 31 O CNMP e os ramos do Ministério Público, em parceria com a Polícia Fe
 Art. 32 Esta Resolução entra em vigor na data da sua publicação.
 
 Brasília-DF, 13 de dezembro de 2016.
+
+---
 
 RODRIGO JANOT MONTEIRO DE BARROS
 

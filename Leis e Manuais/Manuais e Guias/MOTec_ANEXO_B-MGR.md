@@ -18,12 +18,45 @@ Local, \<mês> de \<ano>
 
 Histórico de Revisões
 
-| Data | Versão | Descrição | Fase* | Autor |
-|:---:|:---:|:---:|:---:|:---:|
-| XX/XX/20XX | 1.0 | Finalização da primeira versão do documento | PCTI | XXXXXXXXXXXX |
-| XX/XX/20XX | 2.0 | Revisão do documento após análise jurídica | PCTI | XXXXXXXXXXXX |
-| XX/XX/20XX | X.X | Descrição | \<fase> | XXXXXXXXXXXX |
-| XX/XX/20XX | X.X | Descrição | \<fase> | XXXXXXXXXXXX |
+<table border="1" cellspacing="0" cellpadding="5" style="border-collapse:collapse; width:100%;">
+
+<tr>
+    <th style="text-align:center;">Data</th>
+    <th style="text-align:center;">Versão</th>
+    <th style="text-align:center;">Descrição</th>
+    <th style="text-align:center;">Fase*</th>
+    <th style="text-align:center;">Autor</th>
+</tr>
+<tr>
+    <td style="text-align:center;">XX/XX/2024</td>
+    <td style="text-align:center;">1.0</td>
+    <td style="text-align:center;">Finalização da primeira versão do documento</td>
+    <td style="text-align:center;">PCTI</td>
+    <td style="text-align:center;">xxxxxxxxxxxxxxxxxxxxx</td>
+</tr>
+<tr>
+    <td style="text-align:center;">XX/XX/2024</td>
+    <td style="text-align:center;">2.0</td>
+    <td style="text-align:center;">Revisão do documento após análise jurídica</td>
+    <td style="text-align:center;">PCTI</td>
+    <td style="text-align:center;">xxxxxxxxxxxxxxxxxxxxx</td>
+</tr>
+<tr>
+    <td style="text-align:center;">XX/XX/2024</td>
+    <td style="text-align:center;">X.X</td>
+    <td style="text-align:center;">Descrição</td>
+    <td style="text-align:center;">Fase</td>
+    <td style="text-align:center;">xxxxxxxxxxxxxxxxxxxxx</td>
+</tr>
+<tr>
+    <td style="text-align:center;">XX/XX/2024</td>
+    <td style="text-align:center;">X.X</td>
+    <td style="text-align:center;">Descrição</td>
+    <td style="text-align:center;">Fase</td>
+    <td style="text-align:center;">xxxxxxxxxxxxxxxxxxxxx</td>
+</tr>
+
+</table>
 
 *Fase: Registro da fase do processo de contratação da solução de TI relacionada à criação/alteração da Análise de Riscos:
 
@@ -177,7 +210,7 @@ A seguir são apresentados alguns riscos meramente exemplificativos.
 
 <table border="1" cellspacing= "0" cellpadding="5">
     <tr>
-        <td rowspan="9" style="font-weight: bold; text-align: center; vertical-align: top;">Risco 1</td>
+        <td rowspan="9" style="font-weight: bold; text-align: center; vertical-align: middle;">Risco 1</td>
         <td style="font-weight: bold; text-align: center;">Risco:</td>
         <td colspan="2" style="font-weight: bold; text-align: center;">Não aprovação dos artefatos do Planejamento da Contratação</td>
     </tr>
@@ -226,7 +259,7 @@ A seguir são apresentados alguns riscos meramente exemplificativos.
 
 <table border="1" cellspacing= "0" cellpadding="5">
     <tr>
-        <td rowspan="9" style="font-weight: bold; text-align: center; vertical-align: top;">Risco 2</td>
+        <td rowspan="9" style="font-weight: bold; text-align: center; vertical-align: middle;">Risco 2</td>
         <td style="font-weight: bold; text-align: center;">Risco:</td>
         <td colspan="2" style="font-weight: bold; text-align: center;">Ausência de recursos orçamentários ou financeiros</td>
     </tr>
@@ -275,7 +308,7 @@ A seguir são apresentados alguns riscos meramente exemplificativos.
 
 <table border="1" cellspacing= "0" cellpadding="5">
     <tr>
-        <td rowspan="10" style="font-weight: bold; text-align: center; vertical-align: top;">Risco 3</td>
+        <td rowspan="10" style="font-weight: bold; text-align: center; vertical-align: middle;">Risco 3</td>
         <td style="font-weight: bold; text-align: center;">Risco:</td>
         <td colspan="2" style="font-weight: bold; text-align: center;">Incapacidade de execução do contrato</td>
     </tr>
@@ -328,7 +361,7 @@ A seguir são apresentados alguns riscos meramente exemplificativos.
 
 <table border="1" cellspacing= "0" cellpadding="5">
     <tr>
-        <td rowspan="8" style="font-weight: bold; text-align: center; vertical-align: top;">Risco 4</td>
+        <td rowspan="8" style="font-weight: bold; text-align: center; vertical-align: middle;">Risco 4</td>
         <td style="font-weight: bold; text-align: center;">Risco:</td>
         <td colspan="2" style="font-weight: bold; text-align: center;">Serviço de suporte técnico demorar para interagir com a equipe técnica</td>
     </tr>
@@ -372,7 +405,7 @@ A seguir são apresentados alguns riscos meramente exemplificativos.
 
 <table border="1" cellspacing= "0" cellpadding="5">
     <tr>
-        <td rowspan="9" style="font-weight: bold; text-align: center; vertical-align: top;">Risco 5</td>
+        <td rowspan="9" style="font-weight: bold; text-align: center; vertical-align: middle;">Risco 5</td>
         <td style="font-weight: bold; text-align: center;">Risco:</td>
         <td colspan="2" style="font-weight: bold; text-align: center;">Fabricante não fornecer atualizações de segurança visando correções de problemas conhecidos publicamente</td>
     </tr>

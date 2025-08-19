@@ -1,249 +1,395 @@
-# ESTRUTURA DO ETP (MPPI)
+# ESTUDO TÉCNICO PRELIMINAR
 
-___
+## Contratações de Tecnologia da Informação e Comunicação
 
-## 1. Informações básicas
+> [!IMPORTANT]
+> Esta estrutura está direcionada para as contratações de TIC está de acordo com o disposto na Instrução Normativa IN SGD/ME nº 94, de 23 de dezembro de 2022, integrado aos elementos obrigatórios e não obrigatórios da Lei nº 14.133/2021 (Nova Lei de Licitações) e complementado pelas disposições da Resolução CNMP nº 283/2024 e MOTec para órgãos do Ministério Público.
 
+---
+
+### MODELO OBRIGATÓRIO MP: ETP Digital + MOTec CNMP 283/2024
+
+---
+
+## INFORMAÇÕES BÁSICAS
+
+### 1. Informações básicas
+
+- Número do ETP (Gerado automaticamente pelo ETP Digital):
 - Número do processo (PGEA):
 
-## 2. Histórico de revisões
+### 2. Histórico de revisões (MOTec)
 
-## 3. Previsão da contratação no PCA/MPPI
+> [!NOTE]
+> Data, versão, descrição, fase (PCTI/SFTI/GCTI), autor.
 
-## 4. Descrição da necessidade
+|Data|Versão|Descrição|Fase|Autor|
+|:---:|:---:|:---:|:---:|:---:|
+|13/08/2025|1.0|Fim da primeira versão|PCTI|CTI|
 
-### Contextualização
+### 3. Previsão da contratação no PCA/MPPI (Lei 14.133/2021 §1ºII; IN94/2022art6; MOTec)
 
-### Necessidades
+> [!WARNING]
+> Este item é obrigatório
 
-## 5. Necessidades de negócio (Requisitos de negócios)
+#### 3.1. Planos estratégicos
 
-## 6. Necessidades tecnológicas
+|ID|Objetivos|
+|:---:|:---:|
+|1|bla bla|
 
-## 7. Área requisitante
+#### 3.2. Alinhamento ao PDTI
 
-## 8. Demais requisitos necessários e suficientes à escolha da solução de TIC
+|ID|Acço|
+|:---:|:---:|
+|1|bla bla|
 
-### Requisitos legais
+#### 3.3. Alinhamento ao PCA
 
-### Requisitos de capacitação técnica
+|Item|Descrição|
+|:---:|:---:|
+|1|bla bla|
 
-### Requisitos de garantia, manutenção e assistência técnica
+## NECESSIDADES
 
-### Requisitos temporais
+### 4. Descrição da necessidade (Lei 14.133/2021 §1º I; IN94/2022 art.11 I; MOTec)
 
-### Requisitos de segurança e privacidade
+> [!WARNING]
+> Este item é obrigatório
 
-### Requisitos sociais, ambientais, culturais e de sustentabilidade
+#### 4.1. Identificação da demanda
 
-### Requisitos de arquitetura tecnológica
+#### 4.2. Justificativa
 
-### Requisitos de projeto e implementação
+#### 4.3. Problema
 
-### Requisitos de implantação
+#### 4.4. Interesse público
 
-### Requisitos de experiência profissional da equipe que projetará, implementará e implantará a Solução de TI
+#### 4.5. Resultados
 
-### Requisitos de formação da equipe que projetará, implementará e implantará a Solução de TI
+### 5. Área requisitante (MOTec)
 
-### Requisitos de metodologia de trabalho
+> [!NOTE]
+> Unidade, responsável, matrícula, e-mail.
 
-### Requisitos de segurança dos ativos de TI
+### 6. Necessidades de negócio (IN 94/2022 art.11 I; MOTec)
 
-### Requisitos de previsão da exigência para realização de Prova de Conceito
+> [!NOTE]
+> Metas, objetivos e resultados, sem tecnologia.
+
+### 7. Necessidades tecnológicas (IN 94/2022 art.11 I; MOTec)
+
+> [!NOTE]
+> Padrões, metodologias, processos e segurança.
+
+### 8. Demais requisitos necessários e suficientes à escolha da solução de TIC (Lei 14.133/2021 §1º III; IN 94/2022 art. 16; MOTec)
+
+> [!TIP]
+> categorias conforme MOTec.
+
+#### Requisitos de Negócio
+
+#### Requisitos legais
+
+#### Requisitos temporais
+
+#### Requisitos de segurança e privacidade
+
+#### Requisitos sociais, ambientais, culturais e de sustentabilidade
+
+#### Requisitos de arquitetura tecnológica
+
+#### Requisitos de projeto e implementação
+
+#### Requisitos de implantação
+
+#### Requisitos de garantia, manutenção e assistência técnica
+
+#### Requisitos de capacitação técnica
+
+#### Requisitos de experiência profissional
+
+> [!NOTE]
+> Da equipe que projetará, implementará e/ou implantará a Solução de TI. Também aplicável aos profissionais que aplicarão cursos de capacitação e treinamentos.
+
+#### Requisitos de formação da equipe
+
+> [!NOTE]
+> Da equipe que projetará, implementará e/ou implantará a Solução de TI. Também aplicável aos profissionais que aplicarão cursos de capacitação e treinamentos.
+
+#### Requisitos de metodologia de trabalho
+
+#### Requisitos de segurança dos ativos de TI
+
+#### Requisitos de previsão da exigência para realização de Prova de Conceito
   
-### Realização de vistoria
+#### Realização de vistoria
 
-### Da carta de solidariedade para o fornecimento de bens
+#### Da carta de solidariedade para o fornecimento de bens
 
-### Da indicação de marcas ou modelos (quando necessário)
+#### Da indicação de marcas ou modelos (quando aplicável)
 
-## 8. Estimativa da demanda - quantidade de bens e serviços
+#### Da Garantia Contratual (Garantia da Contratação)
 
-## 9. Garantia Contratual
+> [!IMPORTANT]
+> Se for exigir ou não a Garantia Contratual, é necessário Justificar.
 
-### Justificativa para a/não solicitação
+### 9. Estimativa da demanda - quantidade de bens e serviços (Lei 14.133/2021 §1º IV; IN 94/2022 art. 11 I; MOTec)
 
-## 10. Levantamento de soluções
+> [!WARNING]
+> Este item é obrigatório
 
-### Listagem de todas as soluções possíveis
+- Memorial de cálculo
+- Interdependências
+- Economia de escala
 
-### Pesquisa inicial de preços de mercado
+## SOLUÇÃO
 
-### Contratações Similares em outros órgâos públicos
+### 10. Levantamento de soluções (Lei 14.133/2021 §1º V; IN 94/2022 art.11 II; MOTec)
 
-## 11. Análise comparativa de soluções
+> [!NOTE]
+> Levantamento: soluções públicas, mercado, padrões.
 
-## 12. Registro de soluções consideradas inviáveis
+- 10.1. Soluções similares
+- 10.2. Contratações Similares em outros órgâos públicos
+- 10.3. Alternativas
+- 10.4. Software público
+- 10.5. Padrões gov
+- 10.6. Adequação de ambiente
+- 10.7. Modelos de prestação
+- 10.8. Aquisição vs serviço
+- 10.9. Ampliação/substituição
+- 10.10. Métricas
 
-### Descrição das soluções inviáveis
+### 11. Análise comparativa de soluções (IN 94/2022 art. 11 II; MOTec)
 
-#### Justificativa da inviabilidade
+> [!NOTE]
+> Compare custos e benefícios qualitativos.
 
-## 13. Análise comparativa de custos (TCO)
+### 12. Registro de soluções consideradas inviáveis (IN 94/2022 art. 11 §1º; MOTec)
 
-## 14. Descrição da solução de TIC a ser contratada
+> [!NOTE]
+> Descreva e justifique soluções inviáveis.
 
-## 15. Estimativa de custo total da contratação
+#### Pesquisa inicial de preços (MOTec)
 
-## 16. Justificativa técnica da escolha da solução
+> [!NOTE]
+> Pesquisa preliminar de valores.
 
-## 17. Justificativa econômica da escolha da solução
+- Fontes
+- Tabela
 
-## 18. Parcelamento ou não da solução de TIC
+### 13. Análise comparativa de custos (TCO) (Lei 14.133/2021 §1º VI; IN 94/2022 art.11 III; MOTec)
 
-### Justificativa para o parcelamento ou não da solução
+> [!WARNING]
+> Este item é obrigatório
 
-## 19. Declaração de conformidade
+- Cálculo TCO
+- Memória de cálculo
+- Mapa comparativo
 
-## 20. Benefícios a serem alcançados com a contratação
+### 14. Descrição da solução de TIC a ser contratada (Lei14.133/2021 §1º VII; MOTec)
 
-## 21. Providências a serem adotadas pela administração
+> [!NOTE]
+> Detalhe solução e assistência técnica.
 
-## 22. Contratações correlatas/interdependentes
+### 15. Estimativa de custo total da contratação (Lei 14.133/2021 §1º VI; IN 94/2022 art. 11 IV; MOTec)
 
-## 23. Possíveis Impactos ambientais e medidas mitigadoras
+> [!WARNING]
+> Este item é obrigatório
 
-### Impactos ambientais
+> [!NOTE]
+> Registro da estimativa do custo da contratação, considerando a Solução escolhida em formato numérico.
 
-### Medidas mitigadoras
+### 16. Justificativa técnica da escolha da solução
 
-## 24. Modelo de Execução do Contrato
+> [!NOTE]
+> Descrever as razões técnicas que motivaram a escolha da solução, considerando os aspectos qualitativos incluindo riscos e a relação aos benefícios esperados.
 
-### Rotinas de execução
+### 17. Justificativa econômica da escolha da solução
 
-### Prazos, horários de fornecimento de bens ou prestação dos serviços e locais de entrega
+> [!NOTE]
+> Descrever as razões em termos quantitativos que motivaram a escolha da solução enfatizando os aspectos de economididade em relação às demais.
 
-### Documentação mínima exigida
+## PLANEJAMENTO
 
-### Papéis e responsabilidades
+### 18. Benefícios a serem alcançados com a contratação (Lei 14.133/2021 §1º IX)
+
+> [!NOTE]
+> Identificação dos resultados a serem alcançados com a contratação da solução de TIC. Os resultados podem ser descritos em termos de benefíos às atividades do órgão ou entidade, à sociedades ou a públicos alvos relacionados à necessidade da contratação, resultados em termos de economicidade.
+
+### 19. Providências a serem adotadas pela administração (Lei 14.133/2021 §1º X; Res. CNMP283/2024)
+
+> [!NOTE]
+> Adequação de ambiente e capacitação de pessoal.
+> Informar, se houver, todas as providências e as necessidades de adequação do ambiente do órgão ou entidade para viabilizar a execução contratual (alínea “e”, Inciso II, art. 11, da IN SGD/ME nº 94, de 2022).
+
+### 20. Papéis e responsabilidades
 
 #### Papéis do contratante
 
-##### Equipe de gestão e fiscalização
-
 #### Papéis da contratada
 
-##### Representante legal
+> [!NOTE]
+> Especificar sobre o Representante legal e o preposto
 
-##### Preposto
+#### Obrigações do Contratante
 
-### Obrigações do Contratante
+#### Obrigações da Contratada
 
-### Obrigações da Contratada
+#### Obrigações do Gestor da Ata de Registro de Preços (Quando aplicável)
 
-### Obrigações do Gestor da Ata de Registro de Preços (Opcional)
+### 21. Modelo de Execução do Contrato (MOTec; IN 94/2022 arts. 18-22)
 
-### Quantidade mínima de bens e serviços para comparação e controle
+#### Rotinas de execução
 
-### Mecanismos formais de comunicação
+#### Prazos, horários de fornecimento de bens ou prestação dos serviços e locais de entrega
 
-### Forma e prazo de pagamento
+#### Documentação mínima exigida
 
-### Vigência contratual
+#### Quantidade mínima de bens e serviços para comparação e controle
 
-### Termo de ciência de manutenção de sigilo (Art. 24, inciso VI, da Resolução CNMP nº 283/2024)
+#### Mecanismos formais de comunicação
 
-## 25. Modelo de Gestão do Contrato
+#### Forma e prazo de pagamento
 
-### Reunião inicial
+#### Vigência contratual
 
-### Fiscalização
+#### Termo de ciência de manutenção de sigilo (Art. 24, inciso VI, da Resolução CNMP nº 283/2024)
 
-#### Fiscal requisitante (Art. 36, Resolução CNMP 283/2024)
+#### Estratégia de independência
 
-#### Fiscal técnico
+##### Formas de transferência de conhecimento
 
-#### Fiscal administrativo
+##### Direitos de propriedade intelectual e autorais
 
-#### Gestor do contrato
+### 22. Modelo de Gestão do Contrato
 
-### Critérios de aceitação
+#### Reunião inicial
 
-### Níveis mínimos de serviço exigidos
+#### Equipe de Fiscalização
 
-### Sanções administrativas e procedimentos para retenção ou glosa no pagamento
+##### Fiscal requisitante (Art. 36, Resolução CNMP 283/2024)
 
-### Procedimento de teste e inspeção
+##### Fiscal técnico
 
-### Forma de obtenção das informações
+##### Fiscal administrativo
 
-### Lista de verificação e roteiro de testes aplicáveis
+##### Gestor do contrato
 
-### Inspeções e diligências aplicáveis
+#### Critérios de aceitação
 
-### Procedimentos para recebimento provisório e definitivo
+#### Níveis mínimos de serviço exigidos
 
-### Procedimento para pagamento
+#### Sanções administrativas e procedimentos para retenção ou glosa no pagamento
 
-#### Liquidação
+#### Procedimento de teste e inspeção
 
-#### Prazo de Pagamento
+#### Lista de verificação e roteiro de testes aplicáveis
 
-#### Forma de Pagamento
+#### Inspeções e diligências aplicáveis
 
-### Plano de sustentação e transição contratual
+#### Procedimentos para recebimento provisório e definitivo
 
-#### Recursos necessários à continuidade do negócio durante e após a execução do contrato
+#### Procedimento para pagamento
 
-##### Recursos materiais
+##### Liquidação
 
-##### Recursos humanos
+##### Prazo de Pagamento
 
-### Estratégia e ações de transição contratual
+##### Forma de Pagamento
+
+#### Plano de sustentação e transição contratual
+
+##### Recursos necessários à continuidade do negócio durante e após a execução do contrato
+
+###### Recursos materiais
+
+###### Recursos humanos
+
+##### Estratégia e ações de transição contratual
 
 #### Extinção contratual
 
-## 26. Do reajuste contratual
+### 23. Contratações correlatas/interdependentes (Lei 14.133/2021 §1º XI)
 
-## 27. Estratégia de independência
+### 24. Possíveis Impactos ambientais e medidas mitigadoras (Lei 14.133/2021 §1º XII)
 
-### Formas de transferência de conhecimento
+#### Impactos ambientais
 
-### Direitos de propriedade intelectual e autorais
+#### Medidas mitigadoras
 
-## 28. Forma e Critério de seleção do fornecedor
+### 25. Justificativas para parcelamento (Lei 14.133/2021 §1º VIII)
 
-### Forma de seleção e Critério de julgamento da proposta
+> [!WARNING]
+> Este item é obrigatório
 
-#### Justificativa da escolha da modalidade
+### 26. Do reajuste contratual
 
-### Regime de execução/fornecimento
+### 27. Adequação orçamentária e cronograma (IN 94/2022 art.21)
 
-### Margens de preferência
+### 28. Forma e Critério de seleção do fornecedor (IN 94/2022 arts. 28-29)
 
-#### Justificativa para a não aplicação da margem de preferência
+#### Forma de seleção e Critério de julgamento da proposta
 
-### Tratamento diferenciado para ME e EPP
+##### Justificativa da escolha da modalidade
 
-#### Justificativa para o não tratamento diferenciado
+#### Regime de execução/fornecimento (IN 94/2022 art. 22; Lei 14.133/2021 art.92)
 
-### Subcontratação, Consórcios e Cooperativa
+#### Da aplicação da margem de preferência
+
+##### Justificativa para a não aplicação da margem de preferência
+
+#### Tratamento diferenciado para ME e EPP
+
+##### Justificativa para o não tratamento diferenciado
+
+#### Subcontratação, Consórcios e Cooperativa
 
 #### Justificativa para a participação ou não participação de Consórcios e Subcontratação (Art. 17, inciso I, alínea 's' da Resolução CNMP nº 283/2024)
 
-### Apresentação das propostas
+#### Apresentação das propostas
 
-### Exigências para a habilitação
+#### Exigências para a habilitação
 
-#### Habilitação jurídica
+##### Habilitação jurídica
 
-#### Habilitação fiscal, social e trabalhista
+##### Habilitação fiscal, social e trabalhista
 
-#### Qualificação econômico-financeira
+##### Qualificação econômico-financeira
 
-#### Qualificação técnica
+> [!IMPORTANT]
+> Caso a licitação não seja EXCLUSIVA para ME/EPP e se permita a participação desse tipo de empresa, é preciso remover a alínea "b" do seguinte texto:
+>
+> 28.XX.YY. O Licitante enquadrado como microempreendedor individual que pretenda auferir os benefícios do tratamento diferenciado previstos na Lei Complementar nº 123/2006, estará dispensado (a) da prova de inscrição nos cadastros de contribuintes estadual e municipal ~~e (b) da apresentação do balanço patrimonial e das condições contábeis do último exercício~~.
 
-## 29. Da alteração subjetiva
+##### Qualificação técnica
 
-## 30. Declaração de Viabilidade
+### 29. Mapa de Gerenciamento de Riscos (Res. CNMP 283/2024 art. 45; IN 94/2022 art. 38; MOTec)
 
-### Justificativa da Viabilidade/Inviabilidade
+> [!WARNING]
+> Este item é obrigatório
+>
+> Pode ser feito a parte e referenciado aqui.
 
-## 31. Responsáveis
+## VIABILIDADE
 
-### Integrante Requisitante
+### 30. Declaração de conformidade
 
-### Integrante Técnico
+### 31. Declaração de Viabilidade (Lei 14.133/2021 §1º XIII; IN 94/2022 art.11 V; MOTec)
 
-### Integrante Administrativo
+#### Justificativa da Viabilidade/Inviabilidade
+
+> [!WARNING]
+> Este item e sua justificativa são obrigatórios
+
+### 32. Responsáveis (IN 94/2022 art. 11 §2-3; MOTec)
+
+- Integrante Requisitante
+- Integrante Técnico
+- Integrante Administrativo
+- Autoridade/TIC
+
+---
+
+**Referências**: Lei 14.133/2021; IN 94/2022; Resolução CNMP 283/2024; MOTec V.10 CNMP.

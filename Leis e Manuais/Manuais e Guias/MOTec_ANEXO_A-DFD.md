@@ -16,9 +16,22 @@ Local, \<mês> de \<ano>
 
 Histórico de Versões
 
-| Data | Versão | Descrição | Autor |
-|:----:|:------:|:---------:|:-----:|
-| XX/XX/2024 | 1.0 | Finalização da primeira versão do documento | XXXXXXXXXXXX |
+<table border="1" cellspacing="0" cellpadding="5" style="border-collapse:collapse; width:100%;">
+
+<tr>
+    <th style="text-align:center;">Data</th>
+    <th style="text-align:center;">Versão</th>
+    <th style="text-align:center;">Descrição</th>
+    <th style="text-align:center;">Autor</th>
+</tr>
+<tr>
+    <td style="text-align:center;">XX/XX/2024</td>
+    <td style="text-align:center;">1.0</td>
+    <td style="text-align:center;">Finalização da primeira versão do documento</td>
+    <td style="text-align:center;">xxxxxxxxxxxxxxxxxxxxx</td>
+</tr>
+
+</table>
 
 Os elementos e etapas do Documento de Formalização da Demanda- DFD poderão ser subdivididos pelo órgão ministerial, desde que todos os elementos obrigatórios constem no Procedimento de Gestão Administrativa.
 

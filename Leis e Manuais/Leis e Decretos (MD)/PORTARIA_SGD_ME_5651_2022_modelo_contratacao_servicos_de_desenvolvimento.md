@@ -1,4 +1,4 @@
-# PORTARIA SGD/ME Nº 5.651, DE 28 DE JUNHO DE 2022
+# [PORTARIA SGD/ME Nº 5.651, DE 28 DE JUNHO DE 2022](https://www.in.gov.br/en/web/dou/-/portaria-sgd/me-n-5.651-de-28-de-junho-de-2022-411399829)
 
 * MINISTÉRIO DA ECONOMIA
 
@@ -43,23 +43,24 @@ Art. 7º A Secretaria de Governo Digital disponibilizará planilhas e material c
 
 ## CAPÍTULO IV - DISPOSIÇÕES FINAIS E TRANSITÓRIAS
 
-Orientações Gerais
+### Orientações Gerais
 
 Art. 8º Os casos omissos decorrentes da aplicação desta Portaria serão dirimidos pela Secretaria de Governo Digital da Secretaria Especial de Desburocratização, Gestão e Governo Digital do Ministério da Economia, que poderá expedir normas complementares, bem como disponibilizar informações adicionais em meio eletrônico.
 
-Disposições Transitórias
+### Disposições Transitórias
 
 Art. 9º O disposto nesta Portaria não se aplica às contratações cujo processo administrativo tenha sido autuado ou registrado até a data de entrada em vigor desta norma, nem às renovações de contratos assinados antes da vigência desta Portaria, sendo facultada aos órgãos e entidades a aplicação do modelo.
 
-Revogação
+### Revogação
 
 Art. 10. Fica revogada a Portaria SLTI/MP nº 4, de 28 de março de 2017.
 
-Vigência
+### Vigência
 
 Art. 11. Esta Portaria entra em vigor no dia 1º de agosto de 2022.
 
 FERNANDO ANDRE COELHO MITKIEWICZ
+
 Secretário
 
 ---
@@ -357,7 +358,10 @@ Secretário
 
 5.2.1.10. Na aplicação da técnica de Análise de Pontos de Função, deve-se evitar a utilização de fatores de ponderação ou de ajuste baseados em complexidade ou outra característica temporal. Tal vedação não se confunde com a aplicação do “fator ágil”, utilizado por este modelo.
 
-5.2.1.11. A alteração do catálogo de atividades somente poderá ocorrer mediante aditamento contratual, desde que se observe as seguintes vedações: a) Inclusão de atividades não relacionadas à natureza ou objeto da contratação. b) Alteração da formação de preços original, que orientou a realização do certame.
+5.2.1.11. A alteração do catálogo de atividades somente poderá ocorrer mediante aditamento contratual, desde que se observe as seguintes vedações:
+
+* a) Inclusão de atividades não relacionadas à natureza ou objeto da contratação.
+* b) Alteração da formação de preços original, que orientou a realização do certame.
 
 5.2.1.12. Na aplicação da modalidade de horas de serviço técnico, o valor estimado da contratação é obtido por meio do produto entre o valor da hora de serviço, aplicado a um perfil de referência, e a quantidade horas estimadas, considerando aplicação dos fatores de ajuste previamente definidos de acordo com o perfil profissional necessário, a execução de cada serviço.
 
@@ -365,13 +369,7 @@ Secretário
 
 5.2.1.14. O objeto da contratação deverá ser dividido em itens aferidos por meio de Pontos de função por tecnologia predominante e item aferido por HST, conforme quadro exemplificativo:
 
-Grupo | Item | Descrição | Métrica | Custo unitário (A) | Quantidade Máxima (B) | Valor total (C) = A x B
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|1 | 1 | Serviços de Desenvolvimento e manutenção de Software - Python | Ponto de Função
-|  | 2 | Serviços de Desenvolvimento e manutenção de Software - Java | Ponto de Função
-|  | 3 | Serviços Complementares de Desenvolvimento e manutenção de Software | Hora de serviço Técnico –
-
-Perfil de referência Desenvolvedor Junior
+![5.2.1.14](/images/Portaria_5651_2022/Tabela_5.2.1.14.png)
 
 5.2.2. Mecanismos de gestão
 
@@ -442,14 +440,8 @@ Perfil de referência Desenvolvedor Junior
 5.3.1.6. A capacidade alocada para um determinado tipo de sprint deve ser atribuída por meio de uma unidade de medida como, por exemplo, Hora de Serviço Técnico – HST.
 
 5.3.1.7. Para calcular a capacidade total alocada a um tipo de sprint, deve-se definir a composição da equipe que atuará no projeto e atribuir a cada perfil a sua capacidade diária em função da unidade de medida escolhida, a exemplo de:
- 
-                     | Sprint Tipo A    | Sprint Tipo B 
-Composição da equipe | 1 SM (5 HST/dia) | 1 SM (5 HST/dia)
-                     | 1 DEV_SR (8 HST/dia) | 1 DEV_SR (8 HST/dia)
-                     | 1 DEV_PL (7 HST/dia) | 2 DEV_PL (14 HST/dia)
-                     | Total = 20 HST/dia | Total = 27 HST/dia
-Timebox              | 15 dias  |  15 dias
-Capacidade alocada por Sprint | = 300 HST (15d *20 HST) | = 405 HST (15d* 27 HST)
+
+![5.3.1.7](/images/Portaria_5651_2022/Tabela_5.3.1.7.png)
 
 5.3.2. Mecanismos de gestão
 
@@ -507,12 +499,8 @@ Capacidade alocada por Sprint | = 300 HST (15d *20 HST) | = 405 HST (15d* 27 HST
 
 5.4.1.7. O objeto da contratação deverá ser dividido em itens por tipo de perfil necessário à execução dos serviços. Devendo-se prever a quantidade máxima de profissionais de TI a serem alocados para cada item, a exemplo:
 
-Grupo | Item | Perfil Profissional | Custo unitário mensal (A) | Quantidade Máxima de profissionais de TI (B) | Valor máximo mensal (C) = A x B | Valor máximo anual (D) = C x 12
+![5.4.1.7](/images/Portaria_5651_2022/Tabela_5.4.1.7.png)
 
-1 | 1 | Perfil 1 – Desenvolvedor Pleno
-  | 2 | Perfil 2 – Desenvolvedor Sênior
-  | 3 | Perfil 3 – Scrum Master
-    
 5.4.1.8. No que diz respeito à organização da forma de trabalho, em equipes mistas compostas por profissionais da contratada e servidores da contratante ou profissionais por ela designados, as atribuições devem ser distintas, sem sobreposição.
 
 5.4.2. Mecanismos de gestão
@@ -692,7 +680,7 @@ Grupo | Item | Perfil Profissional | Custo unitário mensal (A) | Quantidade Má
 
 5.6. A remuneração de serviços de sustentação de software por alocação de profissionais de TI deve seguir as mesmas diretrizes constantes do subitem 5.4 - Remuneração por alocação de profissionais de TI vinculada a resultado.
 
-6. DAS DIRETRIZES PARA A SELEÇÃO DA MODALIDADE DE CONTRATAÇÃO
+### 6. DAS DIRETRIZES PARA A SELEÇÃO DA MODALIDADE DE CONTRATAÇÃO
 
 6.1. Há diferentes condições, capacidades e características que possibilitam a seleção da modalidade mais adequada, em termos de mitigação de riscos e aderência à maturidade de gestão de serviços de desenvolvimento, manutenção e sustentação de softwares para cada organização.
 
@@ -738,181 +726,35 @@ Grupo | Item | Perfil Profissional | Custo unitário mensal (A) | Quantidade Má
 
 * a) Indicador de Aceitação da Sprint/Entrega (IAS), com o objetivo de aferir se as demandas planejadas nas sprints foram executadas no timebox e com qualidade, conforme quadro exemplificativo a seguir:
 
-Finalidade   | Garantir a qualidade na entrega das sprints.
-Meta a cumprir   | IAS igual ou superior a 75%
-Forma de acompanhamento | São apuradas a quantidade total de sprints entregues no período, a quantidade de sprints que foram aceitas integralmente e a quantidade de sprints aceitas parcialmente.
-Periodicidade   | Mensal
-Mecanismo de cálculo (%)| É feita uma relação de proporção entre a quantidade de sprints aceitas integralmente e parcialmente junto ao total chegando a um valor percentual:
-
-   | IAS = (Qi + Qp/3) x 100
-            ________________________
-               Qt 
-
-   | Onde:
-   | IAS = Indicador de Aceitação da Sprint/Entrega;
-   | Qi = Quantidade de sprints aceitas integralmente;
-   | Qp = Quantidade de sprints aceitas parcialmente;
-   | Qt = Quantidade total de sprints enviadas para aceite.
-
-Início da vigência | A partir da emissão da ordem de serviço.
-Sanções/ faixas de ajuste | IAS >= 75%: sem descontos sobre o valor da OS.
-     | zAS >= 65% e < 75%:  10% de desconto sobre o valor da OS .
-     | IAS >= 55% e < 65%: 20% de desconto sobre o valor da OS.
-     | IAS < 45%: 30% de desconto sobre o valor da OS.
-
-Observações  | O peso das sprints aceitas integralmente deve ser maior que o das aceitas parcialmente. Nessa fórmula específica, o peso das sprints aceitas integralmente é três vezes maior que o das aceitas parcialmente.
-   | Para efeitos desse indicador, não são contabilizadas sprints rejeitadas, pois não atendem aos critérios mínimos de aceitação previamente estabelecidos.
+![8.3.6.a](/images/Portaria_5651_2022/Tabela_8.3.6.a.png)
 
 * b) Indicador de Produtividade Ágil (IPA), que deve estabelecer e monitorar o alcance das metas de produtividade, conforme quadro exemplificativo a seguir:
 
-Finalidade | Garantir a produtividade das equipes ágeis, em termos do alcance de metas aferidas por meio de métricas de software, observando os critérios de qualidade e de aceitação definidos, bem como mensuração em termo de produto ou resultado entregue.
-Meta a cumprir | IPA igual ou superior a 75%
-Forma de acompanhamento | Por períodos previamente definidos (a ex. mensal), é definida uma produtividade mínima utilizando-se as diretrizes de definição de métricas de software propostas na seção 12. Dessa forma, afere-se a produtividade realizada no período, considerando as metas de produtividade previamente estabelecidas na ordem de serviço, conforme condições a constar do Termo de Referência, que podem variar por projeto, tecnologia, modalidade ou métrica adotada.
-
-Periodicidade | Mensal, a partir de determinada sprint a ser definida no instrumento convocatório, por exemplo: mensalmente, a partir da 4º sprint de cada projeto.
-
-Mecanismo de cálculo (%) | IPA_Total = 100 * soma(Pr / Pp)
-    | Onde:
-    | IPA = Indicador de Produtividade Ágil;
-    | Pr = produtividade realizada no período, em função da métrica de software previamente estabelecida;
-    | Pp = produtividade prevista no período, em função da métrica de software previamente estabelecida.
-
-Início da vigência  | A partir da emissão da ordem de serviço.
-Sanções/ faixas de ajuste | IPA>= 75%: sem descontos sobre o valor da OS
-     | IPA >= 65% e < 75%:  10% de desconto sobre o valor da OS.
-     | IPA >= 55% e < 65%: 20% de desconto sobre o valor da OS.
-     | IPA < 45%: 30% de desconto sobre o valor da OS.
-
-Observações   | Esse indicador é individualmente calculado para cada período previsto, mantendo-se a vinculação às Ordens de Serviço.
-    | A produtividade mínima prevista e a respectiva métrica de software a ser aferida devem constar do Termo de Referência.
+![8.3.6.b](/images/Portaria_5651_2022/Tabela_8.3.6.b.png)
 
 * c) Indicador de atendimento aos prazos de chamados de sustentação (IAP), com o objetivo de assegurar a resposta tempestiva dos chamados relacionados à sustentação das aplicações e incentivar a atuação preventiva na execução dos serviços, conforme quadro exemplificativo a seguir:
 
-Finalidade | Assegurar a resposta tempestiva aos chamados relacionados à sustentação das aplicações e incentivar a atuação preventiva na execução dos serviços de sustentação.
-Meta a cumprir | IAP igual ou superior a 90%
-Forma de acompanhamento | É apurada a quantidade de chamados atendidos dentro do prazo máximo estabelecido em relação a quantidade total de chamados atendidos no período de referência.
-Periodicidade: | Mensal
-Instrumentos de medição | Deve ser aferido por meio de ferramentas, procedimentos de amostragem ou outros procedimentos de inspeção.
-Mecanismo de cálculo (%) | IAP = 100 * soma(Qcap / Qctot)
-    | Onde:
-    | IAP = Indicador de atendimento aos prazos de chamados de sustentação;
-    | Qcap = Quantidade de chamados atendidos no prazo máximo estabelecido no TR com previsão de encerramento para  o período de referência;
-    | Qctot = Quantidade total de chamados registrados com previsão de encerramento para  o período de referência.
-Início da vigência  | <indicar o marco de início da aferição do indicador>
-Sanções/ faixas de ajuste: | IAP >= 90%: sem descontos sobre o valor da fatura mensal.
-      | IAP >= 80% e < 90%:  10% de desconto sobre o valor da fatura mensal.
-      | IAP >= 60% e < 80%: 20% de desconto sobre o valor da fatura mensal.
-         | IAP < 60%: 30% de desconto sobre o valor da fatura mensal.
-Observações:   | <incluir as observações complementares>
+![8.3.6.c](/images/Portaria_5651_2022/Tabela_8.3.6.c.png)
 
 * d) Indicador de cobertura de testes (ICT), com o objetivo de incentivar ações proativas de mitigação de risco da ocorrência de erros, conforme quadro exemplificativo a seguir:
 
-Finalidade | Incentivar ações proativas de testes de qualidade do código.
-Meta a cumprir  | 100%
-Forma de acompanhamento | < Indicar se a aferição será realizada exclusivamente por meio de ferramentas ou por meio de procedimentos de amostragem ou outros procedimentos de inspeção >
-Periodicidade:  | Mensal
-Instrumentos de medição | < indicar as ferramentas automatizadas para extração dos dados >
-Mecanismo de cálculo (%) | ICT = I / Tlic
-    | Onde:
-    | ICT= Indicador de cobertura de testes;
-    | I = número de itens executados (instruções, ramificações e caminhos de código, pontos de decisão do estado de dados ou nomes de elementos de dados);
-    | Tlic = é o número total de itens no código.
-Início da vigência  | <indicar o marco de início da aferição do indicador>
-Sanções/ faixas de ajuste: | ICT>= 75%: sem descontos sobre o valor da OS
-      | ICT>= 65% e < 75%:  10% de desconto sobre o valor da OS.
-      | ICT >= 55% e < 65%: 20% de desconto sobre o valor da OS.
-      | ICT < 45%: 30% de desconto sobre o valor da OS.
-Observações:  | A cobertura baseada em código é efetuada a a partir da quantidade de código executado (durante o período de teste) em comparação à quantidade total de código pendente de execução.
-   | É possível combinar cobertura com complexidade, para estimar o esforço necessário para testar um determinado produto.
-   | Quanto mais complexo for o software, mais difícil será para atingir um nível específico de cobertura.
+![8.3.6.d](/images/Portaria_5651_2022/Tabela_8.3.6.d.png)
 
 * e) Indicador de desmobilização de equipe (IDE), capaz de monitorar e incentivar a manutenção dos membros das equipes durante a execução das sprints, conforme quadro exemplificativo:
 
-Finalidade | Incentivar que a contratada assegure a manutenção da equipe alocada na execução da sprint, ou que crie mecanismos e estratégias para realizar uma substituição transparente (sem prejuízos à execução da sprint), promover a comunicação e transferência de conhecimento efetivas
-Meta a cumprir | IDE = 0
-Forma de acompanhamento | Para cada projeto que teve uma sprint rejeitada ou aceita parcialmente, é apurado o somatório de desligamento de pessoas das equipes ágeis nas 2 Sprints anteriores.
-Periodicidade | A cada sprint rejeitada ou aceita parcialmente, por projeto
-Mecanismo de cálculo (%) | O índice total é o somatório de todos os fatores parciais levantados por projeto:
-    | Para Sprints rejeitadas: 0,005% para cada desligamento.
-    | Para Sprints aceitas parcialmente: 0,002% para cada desligamento.
-    | IDE = soma(Qsr *0,005) + soma(Qsp* 0,002)
-    | Onde:
-    | IDE= Indicador de desmobilização de equipe;
-    | Qsr = Número de desligamentos de pessoal (por projeto) da respectiva equipe ágil nas últimas 2 Sprints, anteriores à sprint atual rejeitada;
-    | Qsp = Número de desligamentos de pessoal (por projeto) da respectiva equipe ágil nas últimas 2 Sprints, anteriores à sprint atual aceita parcialmente.
-Início da vigência  | <indicar o marco de início da aferição do indicador>
-Exemplo:   | Projeto 1: Sprint rejeitada - 1 desligamento (1 x 0,005) em sprint anterior.
-    | Projeto 2: Sprint rejeitada - 2 desligamentos (2 x 0,005) em sprints anteriores.
-    | Projeto 3: Sprint aceita parcial - 3 desligamentos (3 x  0,002) em sprints anteriores.
-    | IDE = (1 x 0,005) + (2 x 0,005) + (3 x 0,002) = 1,5% + 0,006% = 2,1% de redução no faturamento do mês de aferição
-Sanções/ faixas de ajuste | O índice IDE representa diretamente o percentual de desconto sobre a fatura mensal
-Observações   | Projetos que sofrerem desligamento/mudança de integrantes de times ágeis e subsequente insucesso total ou parcial na aceitação de Sprints estarão sujeitos ao Índice de Desmobilização de Equipe.
-    | Para cada insucesso parcial ou total de Sprint, será observado se houve desligamento de algum membro da equipe em até 2 (duas) Sprints imediatamente anteriores (independente da aceitação ou não dessas Sprints prévias). Não é considerado o número de desligamentos da Sprint corrente.
+![8.3.6.e](/images/Portaria_5651_2022/Tabela_8.3.6.e.png)
 
 * f) Indicador de qualidade de código (IQC), com o objetivo de assegurar a qualidade técnica dos serviços prestados baseada em padrões pré-estabelecidos, conforme quadro exemplificativo a seguir:
 
-Finalidade | Assegurar a qualidade do código em projetos de desenvolvimento e/ou sustentação e diminuir a ocorrência de defeitos
-Meta a cumprir | Medir o nível de adequação do código fonte a características de qualidade determinadas pela contratante
-Forma de acompanhamento | < Indicar se a aferição será realizada exclusivamente por meio de ferramentas ou por meio de procedimentos de amostragem ou outros procedimentos de inspeção >
-Periodicidade: | Por período previamente definido seja em termos de sprints executadas ou releases homologadas.
-Instrumentos de medição | < indicar as ferramentas automatizadas para extração dos dados >
-Mecanismo de cálculo (%) | IQC = 100 * soma(Qrc / Qtr)
-    | Onde:
-    | IQC = Indicador de qualidade de código;
-    | Qrc = Quantidade de requisitos de qualidade de código atendidos;
-    | Qtr = Quantidade total de requisitos de qualidade de código avaliados.
-Início da vigência | <indicar o marco de início da aferição do indicador>
-Sanções/ faixas de ajuste: | IQC >= 75%: sem descontos sobre o valor da OS.
-      | IQC >= 65% e < 75%:  10% de desconto sobre o valor da OS.
-      | IQC >= 55% e < 65%: 20% de desconto sobre o valor da OS.
-      | IQC < 45%: 30% de desconto sobre o valor da OS.
-Observações: | A qualidade de código faz parte da visão dos desenvolvedores, engenheiros, arquitetos e, em alguns casos, analistas e gerentes.
-  | Indicadores da qualidade de código incluem: complexidade do código, duplicações de código, tamanho do código, entre outros.
-  | Vale ressaltar que a menor qualidade no código está relacionada a uma ocorrência maior de defeitos nas aplicações, que afetarão diretamente a produtividade da equipe de desenvolvimento.
-  | Esse indicador pode ser utilizado desde o início do projeto, fazendo com que o código seja desenvolvido dentro de padrões aceitáveis de qualidade.
-  | Faz-se necessário que os critérios técnicos de qualidade de código sejam formalizados e conste em manuais ou procedimento específico vinculado ou referenciado pelo instrumento convocatório.
-  | Problemas de qualidade no código-fonte do software pré-existentes à abertura da OS devem ser desconsiderados na aferição do IQC.
+![8.3.6.f](/images/Portaria_5651_2022/Tabela_8.3.6.f.png)
 
 * g) Indicador de Satisfação do Dono do Produto (ISP) com o objetivo de assegurar a qualidade na execução dos processos de entrega dos produtos em termos de satisfação das partes interessadas segundo critérios pré-estabelecidos:
 
-Finalidade | Assegurar a qualidade na execução dos processos de entrega dos produtos em termos de satisfação das partes interessadas, segundo critérios pré-estabelecidos.
-Meta a cumprir | ISP igual ou superior de 80%.
-Forma de acompanhamento | Avaliação periódica junto aos donos de produtos por meio de questionário estruturado baseado em critérios e pontuações previamente definidas.
-Periodicidade: | Mensalmente
-Instrumentos de medição | Ordem de Serviço e questionários de avaliação da satisfação
-Mecanismo de cálculo (%) | ISP = 100 * soma(Pafr / Ptot)
-    | Onde:
-    | ISP = Indicador de satisfação do Dono de Produto;
-    | Pafr = Pontuação aferida;
-    | Ptot = Pontuação total máxima possível para todos os critérios estabelecidos.
-Início da vigência | <indicar o marco de início da aferição do indicador>
-Sanções/ faixas de ajuste: | ISP >= 80%: sem descontos sobre o valor da OS.
-      | ISP >= 70% e < 80%: 1% de desconto sobre o valor da OS.
-      | ISP >= 60% e < 70%: 3% de desconto sobre o valor da OS.
-      | ISP < 60%: 5% de desconto sobre o valor da OS.
-Observações: | Recomenda-se automatizar a avaliação em ferramenta de homologação da demanda pelo gestor/dono do produto.
+![8.3.6.g](/images/Portaria_5651_2022/Tabela_8.3.6.g.png)
 
 * h) Indicador de avaliação individual do Perfil Profissional (IPP) com o objetivo de avaliar individualmente os profissionais de TI alocados:
 
-Finalidade | Assegurar que os profissionais alocados nos perfis profissionais agreguem valor ao time por meio de contribuições técnicas e participação ativa no processo.
-Meta a cumprir | Recomenda-se um IPP mínimo de 70%.
-Forma de acompanhamento | Avaliação periódica por meio de questionário estruturado baseado em critérios e pontuações previamente definidas com enfoque nas seguintes dimensões:
-   | a) Demonstração de conhecimento técnico;
-   | b) Assiduidade;
-   | c) Comunicação e iteração com a equipe.
-Periodicidade: | Mensalmente por perfil alocado
-Instrumentos de medição | Ordem de Serviço e questionários de avaliação
-Mecanismo de cálculo (%) | IPP = 100 * soma(Pafr / Ptot)
-    | Onde:
-    | IPP = Indicador de avaliação individual do Perfil Profissional
-    | Pafr = Pontuação aferida.
-    | Ptot = Pontuação total máxima possível para todos os critérios estabelecidos.
-Início da vigência | <indicar o marco de início da aferição do indicador>
-Sanções/ faixas de ajuste: | IPP >= 70%: sem descontos sobre o valor da OS.
-      | IPP >= 70% e < 80%: 0,1% de desconto sobre o valor da OS.
-      | IPP >= 60% e < 70%: 0,5% de desconto sobre o valor da OS.
-      | IPP < 60%: 1% de desconto sobre o valor da OS.
-Observações: | A avaliação dos perfis profissionais deve ser realizada pela equipe de fiscalização e gestão do contrato com o apoio do respectivo dono de produto ou representantes técnicos da contratante que acompanharam a execução dos serviços.
+![8.3.6.h](/images/Portaria_5651_2022/Tabela_8.3.6.h.png)
 
 8.3.7. Deve-se adotar, no mínimo, os seguintes indicadores por modalidade de remuneração.
 
@@ -1156,11 +998,12 @@ Observações: | A avaliação dos perfis profissionais deve ser realizada pela 
 
 ## ANEXO II - MAPA DE PESQUISA SALARIAL DE REFERÊNCIA PARA SERVIÇOS DE DESENVOLVIMENTO E SUSTENTAÇÃO DE SOFTWARE
 
-1. O Mapa de pesquisa salarial deve ser utilizado na definição do preço de referência da licitação, na definição do patamar mínimo de presunção relativa de inexequibilidade e na definição de parâmetros a serem utilizados na aplicação das modalidades de remuneração previstas nesse modelo.
+1\. O Mapa de pesquisa salarial deve ser utilizado na definição do preço de referência da licitação, na definição do patamar mínimo de presunção relativa de inexequibilidade e na definição de parâmetros a serem utilizados na aplicação das modalidades de remuneração previstas nesse modelo.
 
-2. Os custos unitários de referência dos perfis profissionais constam da tabela a seguir:
+2\. Os custos unitários de referência dos perfis profissionais constam da tabela a seguir:
 
 Cód. Identificação do Perfil | Descrição do Perfil | Valor Salarial (R$)
+:---:|:---:|:---:
 ARQSOF-01 | Arquiteto de Software – Pleno |R$ 10.498,73
 ARQSOF-02 | Arquiteto de Software – Sênior | R$ 15.779,17
 ATQ-01 | Analista de Testes/Qualidade – Junior | R$ 5.200,46
@@ -1181,17 +1024,18 @@ ADADOS-03 | Administrador de Dados Sênior | R$ 9.946,67
 SCRUM | Scrum Master | R$ 11.488,00
 GEPRO | Gerente de projetos de tecnologia da informação | R$ 13.896,33
 
-3. Os dados analisados para composição do Mapa de Pesquisa Salarial foram extraídos das últimas publicações de guias salariais de TIC em mídia especializada, contratações de órgãos do SISP dos últimos 12 meses, dados do Cadastro Geral de Empregados e Desempregados (CAGED) e dados da Relação Anual de Informações Sociais (RAIS) dos últimos 12 meses.
+3\. Os dados analisados para composição do Mapa de Pesquisa Salarial foram extraídos das últimas publicações de guias salariais de TIC em mídia especializada, contratações de órgãos do SISP dos últimos 12 meses, dados do Cadastro Geral de Empregados e Desempregados (CAGED) e dados da Relação Anual de Informações Sociais (RAIS) dos últimos 12 meses.
 
-4. Para fins de estimativa do valor de referência da contratação, deve-se adotar um fator-k de 2,01. Admite-se a adoção de outro valor, desde que seja justificado com a respectiva memória de cálculo e não seja superior a 3.
+4\. Para fins de estimativa do valor de referência da contratação, deve-se adotar um fator-k de 2,01. Admite-se a adoção de outro valor, desde que seja justificado com a respectiva memória de cálculo e não seja superior a 3.
 
-5. Para fins de análise crítica da composição de preços unitários propostos no certame, deve-se considerar um Fator-k igual ou inferior a 3. Valores acima desse limite devem ser objeto de diligência e análise pormenorizada dos componentes ou das causas que levaram ao avanço do limite estabelecido como referência.
+5\. Para fins de análise crítica da composição de preços unitários propostos no certame, deve-se considerar um Fator-k igual ou inferior a 3. Valores acima desse limite devem ser objeto de diligência e análise pormenorizada dos componentes ou das causas que levaram ao avanço do limite estabelecido como referência.
 
-6. O custo total estimado de cada perfil é definido por meio do produto do valor salarial e o fator-k.
+6\. O custo total estimado de cada perfil é definido por meio do produto do valor salarial e o fator-k.
 
-7. Os perfis profissionais constantes do mapa salarial possuem campos de atuação distintos, a exemplo do descrito a seguir:
+7\. Os perfis profissionais constantes do mapa salarial possuem campos de atuação distintos, a exemplo do descrito a seguir:
 
 Descrição do Perfil | Descrição da Atuação
+:---|:---
 Arquiteto de Software (Pleno e Sênior) | Atua no apoio à tomada de decisão técnica em relação as diferentes arquiteturas de software, na análise e garantia do máximo de retorno esperado de uma arquitetura de software em termos de performance, segurança e relação custo/benefício, no acompanhamento da construção do software atuando proativamente na proposição de soluções técnicas, no diagnóstico de problemas e na superação de obstáculos relacionados à codificação e implementação dos frameworks e componentes.
 Analista de Testes/Qualidade (Junior, Pleno e Sênior) | Atua na garantia da entrega de software com alta qualidade, planejando, implementando e automatizando os testes de software e de garantia de qualidade de software. O analista de Teste e Qualidade busca desenvolver planos de teste, criar casos de teste, escrever código de automação de teste e relatar resultados, avaliar a qualidade técnica e funcional dos produtos, identificar riscos e possíveis falhas relacionadas aos códigos e funcionalidades entregues.
 Desenvolvedor de Software (Junior, Pleno e Sênior) | Atua na codificação, design de componentes, testes unitários, construção de aplicações, implementação e manutenção de software em busca de alta qualidade na aplicação de técnicas, normas e procedimentos atualizados de codificação e construção de software. O desenvolvedor de software busca escrever códigos de alta qualidade para atender as funcionalidades das partes interessadas assegurando otimização de recursos computacionais, segurança e desempenho.
@@ -1274,6 +1118,7 @@ Gerente de projetos de tecnologia da informação | Atua na organização das at
 * b) Regras para compartilhamento/alocação dos profissionais, obedecendo limites pré-estabelecidos;
 
 Perfis Profissionais | Quantidade | Compartilhamento / Alocação
+:---:|:---:|:---:
 Scrum Master | 1 | Até 3 projetos
 Desenvolvedor Pleno | 2 | Não pode ser compartilhado entre projetos
 Desenvolvedor Sênior | 1 |Não pode ser compartilhado entre projetos
@@ -1284,15 +1129,15 @@ Analista de Testes/Qualidade Sênior | 1 | Até 5 projetos
 
 ## ANEXO V - EXEMPLO DE DEFINIÇÃO DE PRONTO (CHECKLIST DE ADMISSÃO DO PRODUTO)
 
-1. O presente anexo apresenta exemplos de critérios para admissão de um produto.
+1\. O presente anexo apresenta exemplos de critérios para admissão de um produto.
 
-2. Esses critérios devem ser observados quando um produto é enviado para homologação por parte da contratada, para admissão à implantação em ambiente de homologação.
+2\. Esses critérios devem ser observados quando um produto é enviado para homologação por parte da contratada, para admissão à implantação em ambiente de homologação.
 
-3. A Definição de Pronto é uma descrição formal do estado do incremento, quando ele atende aos níveis de serviço exigidos para o produto; todo o time ágil deve estar em conformidade com a definição de pronto.
+3\. A Definição de Pronto é uma descrição formal do estado do incremento, quando ele atende aos níveis de serviço exigidos para o produto; todo o time ágil deve estar em conformidade com a definição de pronto.
 
-4. A organização deve estabelecer critérios sem os quais o produto é rejeitado de imediato.
+4\. A organização deve estabelecer critérios sem os quais o produto é rejeitado de imediato.
 
-5. Para admissibilidade do produto: a organização deve estabelecer critérios objetivos para aceitação dos produtos e serviços prestados, a exemplo:
+5\. Para admissibilidade do produto: a organização deve estabelecer critérios objetivos para aceitação dos produtos e serviços prestados, a exemplo:
 
 * a) Código-fonte submetido ao controle de versões da contratada;
 * b) Existência de testes unitários e do Relatório de Testes;
@@ -1302,19 +1147,19 @@ Analista de Testes/Qualidade Sênior | 1 | Até 5 projetos
 * f) Existência de Manual de Implantação, conforme modelo disponível no PDS;
 * g) Existência de Manual do Usuário, conforme modelo disponível no PDS.
 
-6. Para aceitação da demanda: após realizar a inspeção do produto quanto à sua admissibilidade, a contratada deverá:
+6\. Para aceitação da demanda: após realizar a inspeção do produto quanto à sua admissibilidade, a contratada deverá:
 
 * a) Executar testes funcionais automatizados que tenham sido solicitados e, consequentemente, verificar se estão corretamente implementados ou mesmo se existem, além de observar os resultados da execução;
 * b) Executar testes unitários ou verificar relatórios de execução destes que possam envolver porções críticas do produto;
 * c) Realizar alguns testes funcionais, pelo menos nos principais fluxos do produto entregue.
 
-7. Após a realização dos testes, a organização deve proceder a uma das ações a seguir:
+7\. Após a realização dos testes, a organização deve proceder a uma das ações a seguir:
 
 * a) Rejeição: caso sejam percebidos defeitos de natureza impeditiva em alguma história implementada ou não tenha coberto o escopo planejado de tal forma que a entrega não seja passível de aceitação;
 * b) Aceitação parcial: caso a demanda possua alguns defeitos significativos de natureza não-impeditiva ou não tenha coberto o escopo planejado de tal forma que ainda seja passível de aceitação;
 * c) Aceitação integral: caso a demanda esteja em nível de qualidade tal que não sejam percebidos defeitos significativos, bem como envolva cumprimento do escopo planejado.
 
-8. A contratada deve registrar todos os aspectos relevantes. Os defeitos percebidos nos casos de rejeição ou aceitação parcial da sprint devem fazer parte de um item de backlog da próxima sprint.
+8\. A contratada deve registrar todos os aspectos relevantes. Os defeitos percebidos nos casos de rejeição ou aceitação parcial da sprint devem fazer parte de um item de backlog da próxima sprint.
 
 ## ANEXO VI - EXEMPLOS DE PLANILHAS DE CUSTOS E FORMAÇÃO DE PREÇOS POR MODALIDADE DE REMUNERAÇÃO
 
@@ -1340,17 +1185,807 @@ Analista de Testes/Qualidade Sênior | 1 | Até 5 projetos
 
 3.1. Para contratações realizadas por meio da modalidade de remuneração baseada em Pontos de Função complementado por Horas de Serviço Técnico, deve-se utilizar como referência o modelo de planilha descrito a seguir, admitindo-se adaptações se necessário.
 
-Contratação por Pontos de Função complementado por Horas de Serviço Técnico
+<table border="1" cellspacing="0" cellpadding="5" style="border-collapse:collapse; width:100%;">
+  <tr>
+    <td colspan="11" style="text-align:center; font-weight:bold;">
+      Contratação por Pontos de Função complementado por Horas de Serviço Técnico
+    </td>
+  </tr>
+  
+  <tr>
+    <td colspan="11" style="text-align:center; font-weight:bold;">
+    </td>
+  </tr>
 
-MODELO DE PLANILHA DE COMPOSIÇÃO DE CUSTOS E FORMAÇÃO DE PREÇOS DO PONTO DE FUNÇÃO
-OBS.: Modelo de planilha disponível no endereço <https://www.gov.br/governodigital/pt-br/contratacoes-de-tic/portaria-sgd-me-no-5651-de-28-de-junho-de-2022>
- 
+  <tr>
+    <td colspan="11" style="text-align:center; font-weight:bold;">
+      MODELO DE PLANILHA DE COMPOSIÇÃO DE CUSTOS E FORMAÇÃO DE PREÇOS DO PONTO DE FUNÇÃO
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="11">
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="5">Identificação da Licitação</td>
+    <td colspan="6"></td>
+  </tr>
+
+  <tr>
+    <td colspan="5">Nº do Processo</td>
+    <td colspan="6"></td>
+  </tr>
+  <tr>
+    <td colspan="5">Nº da Licitação</td>
+    <td colspan="6"></td>
+  </tr>
+  <tr>
+    <td colspan="5">Nome da Empresa</td>
+    <td colspan="6"></td>
+  </tr>
+  <tr>
+    <td colspan="5">CNPJ</td>
+    <td colspan="6"></td>
+  </tr>
+
+  <tr>
+    <td colspan="11">
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="5">GRUPO XX - &lt;descrição do grupo&gt;</td>
+    <td colspan="6"></td>
+  </tr>
+  <tr>
+    <td colspan="5">ITEM XX - &lt;descrição do Item&gt;</td>
+    <td colspan="6"></td>
+  </tr>
+
+  <tr>
+    <td colspan="11">
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="11"><b>Componentes de Custo do Time</b></td>
+  </tr>
+
+  <tr>
+    <td>Identificação do Perfil Profissional</td>
+    <td>Salário (S)</td>
+    <td>Custo Perfil (Cp = S x Fator-k)</td>
+    <td>Custo Adicionais por perfil (Ca)</td>
+    <td>Custo total por perfil (Ct = Cp + Ca)</td>
+    <td>Taxa de Alocação (Ta)</td>
+    <td>Alocação em horas (A = Ta x 160)</td>
+    <td>Qtde. profissionais por perfil (Q)</td>
+    <td>Horas por perfil (Hp = A x Q)</td>
+    <td>Custo por Hora (Ch = Ct / 160)</td>
+    <td>Custo Mensal do Perfil (Cm = A x Q x Ch)</td>
+  </tr>
+
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>0</td>
+    <td></td>
+    <td>0</td>
+    <td></td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>0</td>
+    <td></td>
+    <td>0</td>
+    <td></td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>0</td>
+    <td></td>
+    <td>0</td>
+    <td></td>
+    <td></td>
+  </tr>  
+
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>0</td>
+    <td></td>
+    <td>0</td>
+    <td></td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>0</td>
+    <td></td>
+    <td>0</td>
+    <td></td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td>Total</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>0</td>
+    <td>0</td>
+    <td>R$ -</td>
+    <td>R$ -</td>
+  </tr>
+
+  <tr>
+    <td colspan="11">
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="9">Produtividade Minima Declarada no TR:</td>
+    <td></td>
+    <td>hora/PF</td>
+  </tr>
+  <tr>
+    <td colspan="9">Total de horas/Time/Mês></td>
+    <td>0</td>
+    <td>horas/mês</td>
+  </tr>
+  <tr>
+    <td colspan="9">Produtividade Minima esperada PF/Mês:</td>
+    <td></td>
+    <td>PF/Mês</td>
+  </tr>
+  <tr>
+    <td colspan="9">Custo mensal do Time:</td>
+    <td>R$ -</td>
+    <td>R$/Mês</td>
+  </tr>
+
+  <tr>
+    <td colspan="11">
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="11"><b>Componentes de Custos Adicionais</b></td>
+  </tr>
+  <tr>
+    <td colspan="10">Descrição</td>
+    <td>Valor Mensal</td>
+  </tr>
+  <tr>
+    <td colspan="10">Custos com <b>software</b></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="10">Custos com recursos de computação</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="10">Custos com equipamentos</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="10">Custos com serviços de informações</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="10">Outros custos (especificar)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="10">Custos Adicionais por perfil/mês</td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td colspan="11">
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="10">Custo por ponto de Função</td>
+    <td></td>
+  </tr>
+</table>
+
+<table border="1" cellspacing="0" cellpadding="5" style="border-collapse:collapse; width:100%;">
+  <tr>
+    <td colspan="11" style="text-align:center; font-weight:bold;">
+      MODELO DE PLANILHA DE COMPOSIÇÃO DE CUSTOS E FORMAÇÃO DE PREÇOS DA HORA DE SERVIÇO TÉCNICO
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="11">
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="5">GRUPO XX - &lt;descrição do grupo&gt;</td>
+    <td colspan="6"></td>
+  </tr>
+  <tr>
+    <td colspan="5">ITEM XX - &lt;descrição do Item&gt;</td>
+    <td colspan="6"></td>
+  </tr>
+
+  <tr>
+    <td colspan="11">
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="11"><b>Componentes de Custo do Profissional de Referência</b></td>
+  </tr>
+
+  <tr>
+    <td>Identificação do Perfil Profissional</td>
+    <td>Salário (S)</td>
+    <td>Custo Perfil (Cp = S x Fator-k)</td>
+    <td>Custo Adicionais por perfil (Ca)</td>
+    <td>Custo total por perfil (Ct = Cp + Ca)</td>
+    <td>Taxa de Alocação (Ta)</td>
+    <td>Alocação em horas (A = Ta x 160)</td>
+    <td>Qtde. profissionais por perfil (Q)</td>
+    <td>Horas por perfil (Hp = A x Q)</td>
+    <td>Custo por Hora (Ch = Ct / 160)</td>
+    <td>Custo Mensal do Perfil (Cm = A x Q x Ch)</td>
+  </tr>
+
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>0</td>
+    <td></td>
+    <td>0</td>
+    <td></td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td>Total</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>0</td>
+    <td>0</td>
+    <td>R$ -</td>
+    <td>R$ -</td>
+  </tr>
+
+  <tr>
+    <td colspan="11">
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="11">
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="11"><b>Componentes de Custos Adicionais</b></td>
+  </tr>
+  <tr>
+    <td colspan="10">Descrição</td>
+    <td>Valor Mensal</td>
+  </tr>
+  <tr>
+    <td colspan="10">Custos com <b>software</b></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="10">Custos com recursos de computação</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="10">Custos com equipamentos</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="10">Custos com serviços de informações</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="10">Outros custos (especificar)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="10">Custos Adicionais do perfil do profissional de referência/mês</td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td colspan="11">
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="10">Custo da Hora de Serviço Técnico (Perfil profissional de Referência)</td>
+    <td></td>
+  </tr>
+</table>
+
+4\. Contratação por sprint executada.
+
+4.1. Para contratações realizadas por meio da modalidade de remuneração baseada em Sprints executadas, deve-se utilizar como referência o modelo de planilha descrito a seguir, admitindo-se adaptações se necessário.
+
+<table border="1" cellspacing="0" cellpadding="5" style="border-collapse:collapse; width:100%;">
+  <tr>
+    <td colspan="11" style="text-align:center; font-weight:bold;">
+      Contratação por <b>Sprint</b> executada
+    </td>
+  </tr>
+  
+  <tr>
+    <td colspan="11" style="text-align:center; font-weight:bold;">
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="11" style="text-align:center; font-weight:bold;">
+      MODELO DE PLANILHA DE COMPOSIÇÃO DE CUSTOS E FORMAÇÃO DE PREÇOS
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="11">
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="5">Identificação da Licitação</td>
+    <td colspan="6"></td>
+  </tr>
+
+  <tr>
+    <td colspan="5">Nº do Processo</td>
+    <td colspan="6"></td>
+  </tr>
+  <tr>
+    <td colspan="5">Nº da Licitação</td>
+    <td colspan="6"></td>
+  </tr>
+  <tr>
+    <td colspan="5">Nome da Empresa</td>
+    <td colspan="6"></td>
+  </tr>
+  <tr>
+    <td colspan="5">CNPJ</td>
+    <td colspan="6"></td>
+  </tr>
+
+  <tr>
+    <td colspan="11">
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="5">GRUPO XX - &lt;descrição do grupo&gt;</td>
+    <td colspan="6"></td>
+  </tr>
+  <tr>
+    <td colspan="5">ITEM XX - &lt;descrição do Item&gt;</td>
+    <td colspan="6"></td>
+  </tr>
+
+  <tr>
+    <td colspan="11">
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="11"><b>Componentes de Custo do Time</b></td>
+  </tr>
+
+  <tr>
+    <td>Identificação do Perfil Profissional</td>
+    <td>Salário (S)</td>
+    <td>Custo Perfil (Cp = S x Fator-k)</td>
+    <td>Custo Adicionais por perfil (Ca)</td>
+    <td>Custo total por perfil (Ct = Cp + Ca)</td>
+    <td>Taxa de Alocação (Ta)</td>
+    <td>Alocação em horas (A = Ta x 160)</td>
+    <td>Qtde. profissionais por perfil (Q)</td>
+    <td>Horas por perfil (Hp = A x Q)</td>
+    <td>Custo por Hora (Ch = Ct / 160)</td>
+    <td>Custo Mensal do Perfil (Cm = A x Q x Ch)</td>
+  </tr>
+
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>  
+
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td>Total</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>R$ -</td>
+    <td>R$ -</td>
+  </tr>
+
+  <tr>
+    <td colspan="11">
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="11"><b>Componentes de Custos Adicionais</b></td>
+  </tr>
+  <tr>
+    <td colspan="10">Descrição</td>
+    <td>Valor Mensal</td>
+  </tr>
+  <tr>
+    <td colspan="10">Custos com <b>software</b></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="10">Custos com recursos de computação</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="10">Custos com equipamentos</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="10">Custos com serviços de informações</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="10">Outros custos (especificar)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="10">Custos Adicionais por perfil/mês</td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td colspan="11">
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="10">Custo por <b>Sprint</b></td>
+    <td></td>
+  </tr>
+</table>
+
 5\. Contratação de Serviços de Sustentação de Software por preço fixo mensal
 
 5.1. Para contratações realizadas por meio da modalidade de remuneração baseada em Sustentação de Software por preço fixo mensal, deve-se utilizar como referência o modelo de planilha descrito a seguir, admitindo-se adaptações se necessário.
 
-OBS.: Modelo de planilha disponível no endereço <https://www.gov.br/governodigital/pt-br/contratacoes-de-tic/portaria-sgd-me-no-5651-de-28-de-junho-de-2022>
- 
+<table border="1" cellspacing="0" cellpadding="5" style="border-collapse:collapse; width:100%;">
+  <tr>
+    <td colspan="11" style="text-align:center; font-weight:bold;">
+      Contratação de Serviços de Sustentação de <b>Software</b> por preço fixo mensal
+    </td>
+  </tr>
+  
+  <tr>
+    <td colspan="11" style="text-align:center; font-weight:bold;">
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="11" style="text-align:center; font-weight:bold;">
+      MODELO DE PLANILHA DE COMPOSIÇÃO DE CUSTOS E FORMAÇÃO DE PREÇOS
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="11">
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="5">Identificação da Licitação</td>
+    <td colspan="6"></td>
+  </tr>
+
+  <tr>
+    <td colspan="5">Nº do Processo</td>
+    <td colspan="6"></td>
+  </tr>
+  <tr>
+    <td colspan="5">Nº da Licitação</td>
+    <td colspan="6"></td>
+  </tr>
+  <tr>
+    <td colspan="5">Nome da Empresa</td>
+    <td colspan="6"></td>
+  </tr>
+  <tr>
+    <td colspan="5">CNPJ</td>
+    <td colspan="6"></td>
+  </tr>
+
+  <tr>
+    <td colspan="11">
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="5">GRUPO XX - &lt;descrição do grupo&gt;</td>
+    <td colspan="6"></td>
+  </tr>
+  <tr>
+    <td colspan="5">ITEM XX - &lt;descrição do Item&gt;</td>
+    <td colspan="6"></td>
+  </tr>
+
+  <tr>
+    <td colspan="11">
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="11"><b>Componentes de Custo do Time</b></td>
+  </tr>
+
+  <tr>
+    <td>Identificação do Perfil Profissional</td>
+    <td>Salário (S)</td>
+    <td>Custo Perfil (Cp = S x Fator-k)</td>
+    <td>Custo Adicionais por perfil (Ca)</td>
+    <td>Custo total por perfil (Ct = Cp + Ca)</td>
+    <td>Taxa de Alocação (Ta)</td>
+    <td>Alocação em horas (A = Ta x 160)</td>
+    <td>Qtde. profissionais por perfil (Q)</td>
+    <td>Horas por perfil (Hp = A x Q)</td>
+    <td>Custo por Hora (Ch = Ct / 160)</td>
+    <td>Custo Mensal do Perfil (Cm = A x Q x Ch)</td>
+  </tr>
+
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>  
+
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td>Total</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>R$ -</td>
+    <td>R$ -</td>
+  </tr>
+
+  <tr>
+    <td colspan="11">
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="11"><b>Componentes de Custos Adicionais</b></td>
+  </tr>
+  <tr>
+    <td colspan="10">Descrição</td>
+    <td>Valor Mensal</td>
+  </tr>
+  <tr>
+    <td colspan="10">Custos com <b>software</b></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="10">Custos com recursos de computação</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="10">Custos com equipamentos</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="10">Custos com serviços de informações</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="10">Outros custos (especificar)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="10">Custos Adicionais por perfil/mês</td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td colspan="11">
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="10">Custo Fixo por Mês</td>
+    <td></td>
+  </tr>
+</table>
+
 6\. Contratação de Serviços de desenvolvimento e/ou manutenção e/ou sustentação de Software por alocação de profissionais de TIC.
 
 6.1. Deve-se adotar, o modelo de planilha de custos e formação de preços definida pela Instrução Normativa Seges/MP nº 5, de 2017, ou posterior, individualizada por perfil previsto, incluindo as orientações relacionadas ao preenchimento e análise, admitindo-se adaptações ao contexto de serviços de Tecnologia da Informação amparadas pela legislação vigente, conforme templates disponibilizados na página gov.br pela Secretaria de Governo Digital.

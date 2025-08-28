@@ -8,8 +8,8 @@
 
 * Versão: 1.0
 * Autor: João Carlos B. Santos
-* Matrícula: 15379
-* Assessor Técnico I - CTI
+* Matrícula: XXXXX
+* Cargo: Assessor Técnico I - CTI
 
 ### BASES LEGAIS
 

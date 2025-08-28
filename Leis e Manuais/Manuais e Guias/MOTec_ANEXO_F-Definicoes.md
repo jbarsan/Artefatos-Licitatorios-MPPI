@@ -15,7 +15,8 @@ Consideram-se soluções de TI os bens e/ou serviços que se adequam à definiç
 - Impressoras térmicas;
 - Scanners de documentos;
 - Tablets;
-  - incluindo-se serviços de manutenção e suporte desses equipamentos.
+
+***Incluindo-se serviços de manutenção e suporte desses equipamentos.***
 
 **Excluem-se dessa categoria:**
 

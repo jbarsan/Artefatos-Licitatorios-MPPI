@@ -62,7 +62,7 @@ Conforme o [Art. 17 do Decreto Estadual nº 21.872, de 07 de março de 2023](/Le
 * Anexos do ETP e TR (quando necessários);
 * Anexar/Solicitar Portaria PGJ/PI de designação de servidores para a composição da equipe de planejamento da contratação de TIC;
 * Anexar o PCA do ano corrente; ou
-* Anexar o despacho do PGJ autoizando a aquisição;
+* Anexar o despacho do PGJ autorizando a aquisição;
 * Anexar a ATA de aprovação do PCA pelo CETI; ou
 * Despacho do presidente do CETI autorizando a aquisição (quando necessário);
 * Ofício de oficialização de licitação.

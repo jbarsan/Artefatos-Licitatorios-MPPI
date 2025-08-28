@@ -62,18 +62,64 @@ Conforme a **PORTARIA PGJ/PI Nº 0000/202x**, de **00 de novembro de 202x**, fic
 
 ### 4.1. IDENTIFICAÇÃO E CIÊNCIA DO INTEGRANTE REQUISITANTE
 
-<table><tr><th><b>NOME:</b></th><th>NOME COMPLETO DO INTEGRANTE REQUISITANTE</th><th><b>MATRÍCULA:</b></th><th>0000</th></tr>
-<tr><td><b>CARGO:</b></td><td>DESCRIÇÃO DO CARGO AQUI</td><td><b>LOTAÇÃO:</b></td><td>DESCRIÇÃO DA LOTAÇÃO</td></tr>
-<tr><td><b>E-MAIL:</b></td><td>e-mail@mppi.mp.br</td><td><b>TELEFONE:</b></td><td>(XX) 9XXXX-XXXX</td></tr>
-<tr><td colspan="4"><p>Por este instrumento declaro ter ciência das competências do INTEGRANTE REQUISITANTE definidas na Resolução CNMP nº 283, de 05 de fevereiro de 2024 e seus anexos, bem como da minha indicação para exercer esse papel na Equipe de Planejamento da Contratação.</p><p> </p><p>Teresina, na data da assinatura.<br><br>__________________________________</p><p>NOME COMPLETO DO INTEGRANTE REQUISITANTE</p></td></tr>
+<table>
+    <tr>
+        <th><b>NOME:</b></th>
+        <th>NOME COMPLETO DO INTEGRANTE REQUISITANTE</th>
+        <th><b>MATRÍCULA:</b></th>
+        <th>0000</th>
+    </tr>
+    <tr>
+        <td><b>CARGO:</b></td>
+        <td>DESCRIÇÃO DO CARGO AQUI</td>
+        <td><b>LOTAÇÃO:</b></td>
+        <td>DESCRIÇÃO DA LOTAÇÃO</td>
+    </tr>
+    <tr>
+        <td><b>E-MAIL:</b></td>
+        <td>e-mail@mppi.mp.br</td>
+        <td><b>TELEFONE:</b></td>
+        <td>(XX) 9XXXX-XXXX</td>
+    </tr>
+    <tr>
+        <td colspan="4">
+            <p>Por este instrumento declaro ter ciência das competências do INTEGRANTE REQUISITANTE definidas na Resolução CNMP nº 283, de 05 de fevereiro de 2024 e seus anexos, bem como da minha indicação para exercer esse papel na Equipe de Planejamento da Contratação.</p>
+            <p> </p>
+            <p>Teresina, na data da assinatura.<br><br>__________________________________</p>
+            <p>NOME COMPLETO DO INTEGRANTE REQUISITANTE</p>
+        </td>
+    </tr>
 </table>
 
 ### 4.2. IDENTIFICAÇÃO E CIÊNCIA DO INTEGRANTE TÉCNICO
 
-<table><tr><th><b>NOME:</b></th><th><b>NOME COMPLETO DO INTEGRANTE TÉCNICO</b></th><th><b>MATRÍCULA:</b></th><th><b>00000</b></th></tr>
-<tr><td><b>CARGO:</b></td><td>DESCRIÇÃO DO CARGO AQUI</td><td><b>LOTAÇÃO:</b></td><td>DESCRIÇÃO DA LOTAÇÃO</td></tr>
-<tr><td><b>E-MAIL:</b></td><td>e-mail@mppi.mp.br</td><td><b>TELEFONE:</b></td><td>(XX) 9XXXX-XXXX</td></tr>
-<tr><td colspan="4"><p>Por este instrumento declaro ter ciência das competências do INTEGRANTE TÉCNICO definidas na Resolução CNMP nº 283, de 05 de fevereiro de 2024 e seus anexos, bem como da minha indicação para exercer esse papel na Equipe de Planejamento da Contratação.</p><p> </p><p>Teresina, na data da assinatura.<br><br>__________________________________</p><p>NOME COMPLETO DO INTEGRANTE TÉCNICO</p></td></tr>
+<table>
+    <tr>
+        <th><b>NOME:</b></th>
+        <th><b>NOME COMPLETO DO INTEGRANTE TÉCNICO</b></th>
+        <th><b>MATRÍCULA:</b></th>
+        <th><b>00000</b></th>
+    </tr>
+    <tr>
+        <td><b>CARGO:</b></td>
+        <td>DESCRIÇÃO DO CARGO AQUI</td>
+        <td><b>LOTAÇÃO:</b></td>
+        <td>DESCRIÇÃO DA LOTAÇÃO</td>
+    </tr>
+    <tr>
+        <td><b>E-MAIL:</b></td>
+        <td>e-mail@mppi.mp.br</td>
+        <td><b>TELEFONE:</b></td>
+        <td>(XX) 9XXXX-XXXX</td>
+    </tr>
+    <tr>
+        <td colspan="4">
+            <p>Por este instrumento declaro ter ciência das competências do INTEGRANTE TÉCNICO definidas na Resolução CNMP nº 283, de 05 de fevereiro de 2024 e seus anexos, bem como da minha indicação para exercer esse papel na Equipe de Planejamento da Contratação.</p>
+            <p> </p>
+            <p>Teresina, na data da assinatura.<br><br>__________________________________</p>
+            <p>NOME COMPLETO DO INTEGRANTE TÉCNICO</p>
+        </td>
+    </tr>
 </table>
 
 ### 4.3. IDENTIFICAÇÃO E CIÊNCIA DO INTEGRANTE ADMINISTRATIVO
@@ -150,7 +196,6 @@ Conforme o **art. 34 da Resolução CNMP nº 283, de 05 de fevereiro de 2024**, 
 
 Nos termos do art. 17, VIII, do decreto 21.872/2023, e art. 11, § 1º do Ato PGJ 1381/2024, que regulamenta o PCA, as demandas constantes neste DFD já foram aprovadas previamente no PCA vigente, ficando autorizada a abertura dos respectivos processos de licitação ou contratação direta pelas Unidades Requisitantes deste Parquet.
 
-
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 NOME COMPLETO DE QUEM PREENCHEU O DFD - Nº MATRÍCULA
@@ -174,6 +219,6 @@ Nos termos do art. 53 do decreto estadual 21.872/2023, autorizo a abertura do pr
 NOME COMPLETO DO ORDENADOR DE DESPESAS (PGJ/FMPPI/PROCON)
 Ordenador de Despesas
 
->[!IMPORTANT] Importante
+>[!IMPORTANT]
 >
 >TODOS OS INTEGRANTES (COM EXCEÇÃO DOS FISCAIS) DEVEM ASSINAR O DFD.

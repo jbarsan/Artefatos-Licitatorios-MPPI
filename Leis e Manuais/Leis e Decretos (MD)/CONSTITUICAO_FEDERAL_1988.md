@@ -4734,6 +4734,8 @@ In Memoriam: Alair Ferreira - Antônio Farias - Fábio Lucena - Norberto Schwant
 
 Este texto não substitui o publicado no DOU de 5.10.1988
 
+---
+
 ATO DAS DISPOSIÇÕES CONSTITUCIONAIS TRANSITÓRIAS
 
 Art. 1º.. O Presidente da República, o Presidente do Supremo Tribunal Federal e os membros do Congresso Nacional prestarão o compromisso de manter, defender e cumprir a Constituição, no ato e na data de sua promulgação.

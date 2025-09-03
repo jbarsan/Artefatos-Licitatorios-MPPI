@@ -988,6 +988,36 @@ Justificativa:
 
 ---
 
+#### Do reajuste contratual
+
+8.125. Os preços são fixos e irreajustáveis no prazo de 12 (doze) meses, contado da data do orçamento estimado: \<informar a data da assinatura da pesquisa de preços>.
+
+> [!TIP]
+> Índice de Custo de Tecnologia da Informação (ICTI), do Instituto de Pesquisa Econômica Aplicada (IPEA) - Obrigatório para contratação de serviços.
+>
+> Índice Nacional de Preços ao Consumidor Amplo - IPCA, do Instituto Brasileiro de Geografia e Estatística (IBGE) ou Índice Geral de Preços - Mercado - IGP-M, Fundação Getúlio Vargas (FGV) - Para bens
+
+8.126. Dentro do prazo de vigência do contrato, os preços contratados poderão sofrer reajuste após o interregno de 12 meses, aplicando-se o \<Informar o índice>, exclusivamente para as obrigações iniciadas e concluídas após a ocorrência da anualidade.
+
+> [!TIP]
+> Adicionar o subitem abaixo quando utilizar o ICTI como índice.
+
+8.126.1. Conforme Art. 24. da Instrução Normativa SGD/ME nº 94, de 23 de dezembro de 2022 regida pela Lei nº 14.133, de 2021, o ICTI/IPEA é o índice obrigatório aplicado nas contratações de serviços de Tecnologia da Informação em que haja previsão de reajuste de preços por aplicação de índice de correção monetária.
+
+8.127. Nos reajustes subsequentes ao primeiro, o interregno mínimo de um ano será contado a partir dos efeitos financeiros do último reajuste.
+
+8.128. No caso de atraso ou não divulgação do índice de reajustamento, o CONTRATANTE pagará à CONTRATADA a importância calculada pela última variação conhecida, liquidando a diferença correspondente tão logo seja divulgado o índice definitivo.
+
+8.129. Nas aferições finais, o índice utilizado para reajuste será, obrigatoriamente, o definitivo.
+
+8.130. Caso o índice estabelecido para reajustamento venha a ser extinto ou de qualquer forma não possa mais ser utilizado, será adotado, em substituição, o que vier a ser determinado pela legislação então em vigor.
+
+8.131. Na ausência de previsão legal quanto ao índice substituto, as partes elegerão novo índice oficial, para reajustamento do preço do valor remanescente, por meio de termo aditivo.
+
+8.132. O reajuste será realizado por apostilamento.
+
+---
+
 ### 9. Estimativa da demanda - quantidade de bens e serviços (Lei 14.133/2021 §1º IV; IN 94/2022 art. 11 I; MOTec) - ITEM OBRIGATÓRIO
 
 > [!NOTE]
@@ -1687,77 +1717,761 @@ e) a previsão da exigência para realização de Prova de Conceito com o licita
 
 #### Vigência contratual
 
+> [!NOTE]
+> "Definir o prazo de vigência contratual observado os limites dispostos nos Arts 105 a 114 da lei 14.133/2021." - MOTec
+
 ***Exemplo 1:***
+
+21.20. O prazo de vigência contratual é de 12 (doze) meses contados a partir da data de sua assinatura, com eficácia após a publicação do seu extrato no Diário Oficial do Ministério Público do Estado do Piauí, na forma do artigo 105 da Lei n° 14.133, de 2021, por se tratar de fornecimento nãocontínuo de bens de caráter permanente.
+
+***Exemplo 2 - Com vigência da Ata de Registro de Preços:***
+
+21.20. A vigência da Ata de Registro de Preços será de 12 (doze) meses, contados a partir da data de sua assinatura, com eficácia após a publicação do seu extrato no Diário Oficial do Ministério Público do Estado do Piauí, prorrogável por mais 12 (doze) meses, na forma do artigo 84 da Lei nº 14.133, de 2021, desde que comprovado o preço vantajoso.
+
+21.20.1. Em caso de prorrogação da ata, poderá ser renovado o quantitativo originalmente registrado, conforme o Parecer 75/2024/DECOR/CGU/AGU.
+
+21.21. A vigência do contrato será de \<xx (por extenso)> meses, contados a partir da data de sua assinatura, com eficácia após a publicação do seu extrato no Diário Oficial do Ministério Público do Estado do Piauí, prorrogável para até 120 (cento e vinte) meses, na forma dos artigos 106 e 107 da Lei nº 14.133, de 2021.
+
+***Exemplo 3: Serviço estruturante de TIC***
+
+21.20. A vigência da Ata de Registro de Preços será de 12 (doze) meses, contados a partir da data de sua assinatura, com eficácia após a publicação do seu extrato no Diário Oficial do Ministério Público do Estado do Piauí, prorrogável por mais 12 (doze) meses, na forma do artigo 84 da Lei nº 14.133, de 2021, desde que comprovado o preço vantajoso.
+
+21.20.1. Em caso de prorrogação da ata, poderá ser renovado o quantitativo originalmente registrado, conforme o Parecer 75/2024/DECOR/CGU/AGU.
+
+21.21. Tratando-se de contratação que prevê operação continuada de sistemas estruturantes de tecnologia da informação, prazo de vigência da contratação é de \<xx (por extenso)> meses, prorrogável para até 15 anos, contados do(a) a partir da data de sua assinatura, com eficácia após a publicação do seu extrato no Diário Oficial do Ministério Público do Estado do Piauí, na forma do artigo 114 da Lei n° 14.133, de 2021.
+
+21.21.1. O serviço é enquadrado como continuado tendo em vista que é um serviço considerado essencial, uma vez que irá fazer o desenvolvimento de soluções que estão na relação de demandas pendentes da Coordenadoria de Tecnologia da Informação e atualização dos sistemas da área finalística e administrativa deste MPPI.
+
+> [!TIP]
+> O [Ato PGJ/PI nº 1.415, de 3 de julho de 2024](https://www.mppi.mp.br/internet/wp-content/uploads/2024/07/ATO-1415-2024.pdf), estabelece a relação dos serviços considerados de natureza continuada, dispondo no artigo 5º que o prazo inicial dos respectivos contratos deverá ser de 24 (vinte e quatro) meses, salvo justificativa de prazo inferior, conforme regras de mercado, podendo atingir o período decenal.
+
+21.21.2. Conforme o art. 5º do Ato PGJ/PI nº 1415, de 3 de julho de 2024, a vigência dos contratos de serviços terão validade mínima de 24 (vinte e quatro) meses, salvo justificativa de prazo inferior.
 
 #### Termo de ciência de manutenção de sigilo (Art. 24, inciso VI, da Resolução CNMP nº 283/2024)
 
-#### Estratégia de independência
+> [!NOTE]
+> "Exigência de Termo de ciência ou documento equivalente contendo declaração de manutenção de sigilo e respeito às normas vigentes na instituição (ex: diretrizes de segurança institucional, proteção de dados etc.), a ser assinado pelo representante legal da contratada e empregados diretamente envolvidos." - MOTec
+>
+> O termo de ciência de manutenção e sigilo deve ser utilizado sempre que a equipe de contratação achar que seja necessário.
 
-##### Formas de transferência de conhecimento
+***Exemplo:***
 
-##### Direitos de propriedade intelectual e autorais
+21.22. Não se aplica.
+
+***ou***
+
+21.22. A CONTRATADA deverá manter sigilo absoluto sobre quaisquer dados e informações contidos em quaisquer documentos e mídias, incluindo os equipamentos e seus meios de armazenamento, de que venha a ter conhecimento durante a execução do contrato, não podendo, sob qualquer pretexto, divulgar, reproduzir ou utilizar, sob pena de lei, independentemente da classificação de sigilo conferida pelo CONTRATANTE a tais documentos;
+
+21.23. O Termo de Compromisso e Manutenção de Sigilo, contendo declaração de manutenção de sigilo e respeito às normas de segurança vigentes na entidade, a ser assinado pelo representante legal da CONTRATADA, e o Termo de Ciência, a ser assinado por todos os empregados da CONTRATADA diretamente envolvidos na contratação, encontram-se nos ANEXOS \<Informar os anexos>.
 
 ### 22. Modelo de Gestão do Contrato
 
+> [!NOTE]
+> Os textos abaixo estão de acordo os modelos fornecidos pela AGU e servem de referência, podendo ser copiados e adaptados de acordo com a necessidade.
+
+22.1. Em conformidade com o art. 25 da Resolução CNMP nº 283, de 05 de fevereiro de 2024, o Modelo de Gestão do Contrato deverá contemplar as condições necessárias ao fornecimento das soluções de TI.
+
+22.2. O contrato deverá ser executado fielmente pelas partes, de acordo com as cláusulas avençadas e as normas da Lei nº 14.133, de 2021, e cada parte responderá pelas consequências de sua inexecução total ou parcial.
+
+22.3. Em caso de impedimento, ordem de paralisação ou suspensão do contrato, o cronograma de execução será prorrogado automaticamente pelo tempo correspondente, anotadas tais circunstâncias mediante simples apostila.
+
+22.4. As comunicações entre o órgão ou entidade e a CONTRATADA devem ser realizadas por escrito sempre que o ato exigir tal formalidade, admitindo-se o uso de mensagem eletrônica para esse fim.
+
+22.5. O órgão ou entidade poderá convocar representante da empresa para adoção de providências que devam ser cumpridas de imediato.
+
 #### Reunião inicial
+
+> [!TIP]
+> Utilizar o texto abaixo em licitações de bens e serviços onde a reunião inicial é dispensável. Ex.: Aquisição de computadores (bens) e licenças de software (serviço).
+
+22.6. A reunião inicial é dispensável nesta aquisição devido as características do objeto.
+
+***ou***
+
+22.6. Após a assinatura do Contrato e a nomeação do Gestor e Fiscais do Contrato, será realizada a Reunião Inicial de alinhamento com o objetivo de nivelar os entendimentos acerca das condições estabelecidas no Contrato, Edital e seus anexos, e esclarecer possíveis dúvidas acerca da execução dos serviços.
+
+22.7. A reunião será realizada em conformidade com o previsto no inciso I do Art. 31 da IN SGD/ME nº 94, de 2022, e ocorrerá em até \<Definir a quantidade de dias úteis ou corridos> da assinatura do Contrato, podendo ser prorrogada a critério da CONTRATANTE.
+
+22.8. A pauta desta reunião observará, pelo menos:
+
+22.8.1. Presença do representante legal da CONTRATADA, que apresentará o seu preposto.
+
+22.8.2. Apresentação dos prepostos da CONTRATADA e da equipe de acompanhamento e fiscalização do contrato pela CONTRATANTE, validação dos requisitos contratuais, definição do cronograma de inserção, apresentação da equipe técnica, assinatura dos termos de responsabilidade e sigilo (ANEXOS \<X> e \<Y>) e apresentação da estrutura organizacional da CONTRATANTE.
+
+22.8.3. A Carta de apresentação do Preposto deverá conter no mínimo o nome completo e CPF do funcionário da empresa designado para acompanhar a execução do contrato e atuar como interlocutor principal junto à CONTRATANTE, incumbido de receber, diligenciar, encaminhar e responder as principais questões técnicas, legais e administrativas referentes ao andamento contratual.
+
+22.8.4. Apresentação das declarações/certificados, comprovando as aptidões necessárias para a execução do contrato.
+
+##### Principais marcos da gestão contratual (Opcional)
+
+22.9. A seguir são enumerados os principais marcos da gestão contratual, com respectivas entradas, objetivos e saídas.
+
+***Tabela descriminando as entradas, pessoas envolvidas, requisitos, obejtivos, locais, períodos e saídas***
 
 #### Equipe de Fiscalização
 
+> [!TIP]
+> Modelo AGU
+
+22.10. Conforme o Art. 36 da Resolução 283/2024 do CNMP, as atividades de gestão e fiscalização de contratos são constituídas pelo Gestor do contrato, Fiscal Requisitante, Fiscal Técnico e Fiscal Administrativo.
+
+22.11. Ressalta-se que as atribuições da Equipe de Gestão e Fiscalização do contrato serão exercidas, no âmbito deste Ministério Público do Estado do Piauí, pelo(s) Fiscal(is) do Contrato, de acordo com o Ato PGJ/PI nº 462/2013, atualizado pelo ATO PGJ 806/2018.
+
+22.12. A execução do contrato deverá ser acompanhada e fiscalizada pelo(s) fiscal(is) do contrato, ou pelos respectivos substitutos (Lei nº 14.133, de 2021, Art. 117, caput), observando-se, em especial, as rotinas a seguir:
+
 ##### Fiscal requisitante (Art. 36, Resolução CNMP 283/2024)
+
+22.12.1. Caberá ao fiscal requisitante, nos seus afastamentos e seus impedimentos legais, ao seu substituto, auxiliar o gestor na fiscalização do contrato do ponto de vista funcional da solução, com as seguintes atribuições:
+
+- I. Anotar as ocorrências relacionadas com a execução do contrato, informando ao gestor do contrato aquelas que dependam de providências, com vistas à regularização das faltas ou defeitos observados.
+- II. Avaliar constantemente a qualidade da execução contratual, propondo, sempre que cabível, medidas que visem reduzir gastos e racionalizar os serviços.
+- III. Solicitar, quando for o caso, a substituição dos serviços por inadequação ou vícios que apresentem
+- IV. Atestar, mensalmente, o fiel cumprimento das obrigações contratuais assumidas, no que tange à satisfação do usuário, ao material empregado, rotina e qualidade na execução contratual.
+- V. Identificar as cláusulas do contrato que necessitam de acompanhamento específico.
+- VI. Atuar em tempo hábil na solução dos problemas que porventura venham a ocorrer ao longo da execução contratual.
 
 ##### Fiscal técnico
 
+22.12.2. O fiscal técnico do contrato, além de exercer as atribuições previstas no art. 33, II, da IN SGD nº 94, de 2022, acompanhará a execução do contrato, para que sejam cumpridas todas as condições estabelecidas no contrato, de modo a assegurar os melhores resultados para a Administração (Decreto nº 11.246, de 2022, art. 22, VI).
+
+22.12.3. O fiscal técnico do contrato anotará no histórico de gerenciamento do contrato todas as ocorrências relacionadas à execução do contrato, com a descrição do que for necessário para a regularização das faltas ou dos defeitos observados (Lei nº 14.133, de 2021, art. 117, §1º, e Decreto nº 11.246, de 2022, art. 22, II).
+
+22.12.4. Identificada qualquer inexatidão ou irregularidade, o fiscal técnico do contrato emitirá notificações para a correção da execução do contrato, determinando prazo para a correção (Decreto nº 11.246, de 2022, art. 22, III).
+
+22.12.5. O fiscal técnico do contrato informará ao gestor do contrato, em tempo hábil, a situação que demandar decisão ou adoção de medidas que ultrapassem sua competência, para que adote as medidas necessárias e saneadoras, se for o caso (Decreto nº 11.246, de 2022, art. 22, IV).
+
+22.12.6. No caso de ocorrências que possam inviabilizar a execução do contrato nas datas aprazadas, o fiscal técnico do contrato comunicará o fato imediatamente ao gestor do contrato (Decreto nº 11.246, de 2022, art. 22, V).
+
+22.12.7. O fiscal técnico do contrato comunicará ao gestor do contrato, em tempo hábil, o término do contrato sob sua responsabilidade, com vistas à renovação tempestiva ou à prorrogação contratual (Decreto nº 11.246, de 2022, art. 22, VII).
+
 ##### Fiscal administrativo
+
+22.12.8. O fiscal administrativo do contrato, além de exercer as atribuições previstas no art. 33, IV, da IN SGD nº 94, de 2022, verificará a manutenção das condições de habilitação da CONTRATADA, acompanhará o empenho, o pagamento, as garantias, as glosas e a formalização de apostilamento e termos aditivos, solicitando quaisquer documentos comprobatórios pertinentes, caso necessário (Art. 23, I e II, do Decreto nº 11.246, de 2022).
+
+22.12.8.1. Caso ocorram descumprimento das obrigações contratuais, o fiscal administrativo do contrato atuará tempestivamente na solução do problema, reportando ao gestor do contrato para que tome as providências cabíveis, quando ultrapassar a sua competência (Decreto nº 11.246, de 2022, art. 23, IV).
 
 ##### Gestor do contrato
 
-#### Critérios de aceitação
+22.12.9. O gestor do contrato, além de exercer as atribuições previstas no art. 33, I, da IN SGD nº 94, de 2022, coordenará a atualização do processo de acompanhamento e fiscalização do contrato, contendo todos os registros formais da execução no histórico de gerenciamento do contrato, a exemplo da ordem de serviço, do registro de ocorrências, das alterações e das prorrogações contratuais, elaborando relatório com vistas à verificação da necessidade de adequações do contrato para fins de atendimento da finalidade da administração (Decreto nº 11.246, de 2022, art. 21, IV).
 
-#### Níveis mínimos de serviço exigidos
+22.12.10. O gestor do contrato acompanhará a manutenção das condições de habilitação do Contratado, para fins de empenho de despesa e pagamento, e anotará os problemas que obstem o fluxo normal da liquidação e do pagamento da despesa no relatório de riscos eventuais (Decreto nº 11.246, de 2022, art. 21, III).
 
-#### Sanções administrativas e procedimentos para retenção ou glosa no pagamento
+22.12.11. O gestor do contrato acompanhará os registros realizados pelos fiscais do contrato, de todas as ocorrências relacionadas à execução do contrato e as medidas adotadas, informando, se for o caso, à autoridade superior àquelas que ultrapassarem a sua competência (Decreto nº 11.246, de 2022, art. 21, II).
+
+22.12.12. O gestor do contrato emitirá documento comprobatório da avaliação realizada pelos fiscais técnico, administrativo e setorial quanto ao cumprimento de obrigações assumidas pelo Contratado, com menção ao seu desempenho na execução contratual, baseado nos indicadores objetivamente definidos e aferidos, e a eventuais penalidades aplicadas, devendo constar do cadastro de atesto de cumprimento de obrigações (Decreto nº 11.246, de 2022, art. 21, VIII).
+
+22.12.13. O gestor do contrato tomará providências para a formalização de processo administrativo de responsabilização para fins de aplicação de sanções, a ser conduzido pela comissão de que trata o art. 158 da Lei nº 14.133, de 2021, ou pelo agente ou pelo setor com competência para tal, conforme o caso (Decreto nº 11.246, de 2022, art. 21, X).
+
+22.12.14. O fiscal técnico do contrato comunicará ao gestor do contrato, em tempo hábil, o término do contrato sob sua responsabilidade, com vistas à tempestiva renovação ou prorrogação contratual (Decreto nº 11.246, de 2022, art. 22, VII).
+
+22.12.4.7. O gestor do contrato deverá elaborar relatório final com informações sobre a consecução dos objetivos que tenham justificado a contratação e eventuais condutas a serem adotadas para o aprimoramento das atividades da Administração (Decreto nº 11.246, de 2022, art. 21, VI).
+
+#### Critérios de aceitação (MOTec)
+
+> [!NOTE]
+> "Exemplo de modelos de métrica utilizáveis. As métricas utilizadas para cada contratação, quando cabíveis, deverão observar as práticas de mercado bem como a criação/definição/existência de meios para a sua fiscalização."- MOTec
+
+***Exemplo 1 - Modelo AGU:***
+
+22.13. A avaliação da qualidade dos produtos entregues, para fins de aceitação, consiste na verificação dos critérios relacionados a seguir:
+
+22.13.1. Todos os equipamentos fornecidos deverão ser novos (incluindo todas as peças e componentes presentes nos produtos), de primeiro uso (sem sinais de utilização anterior), não recondicionados e em fase de comercialização normal através dos canais de venda do fabricante no Brasil (não serão aceitos produtos end-of-life).
+
+22.13.2. Todos os componentes do(s) equipamento(s) e respectivas funcionalidades deverão ser compatíveis entre si, sem a utilização de adaptadores, frisagens, pinturas, usinagens em geral, furações, emprego de adesivos, fitas adesivas ou quaisquer outros procedimentos não previstos nas especificações técnicas ou, ainda, com emprego de materiais inadequados ou que visem adaptar forçadamente o produto ou suas partes que sejam fisicamente ou logicamente incompatíveis.
+
+22.13.3. Todos os componentes internos do(s) equipamento(s) deverá(ão) estar instalado(s) de forma organizada e livres de pressões ocasionados por outros componentes ou cabos, que possam causar desconexões, instabilidade, ou funcionamento inadequado.
+
+22.13.4. O número de série de cada equipamento deve ser obrigatório e único, afixado em local visível, na parte externa do gabinete e na embalagem que o contém. Esse número deverá ser identificado pelo fabricante, como válido para o produto entregue e para as condições do mercado brasileiro no que se refere à garantia e assistência técnica no Brasil.
+
+22.13.5. Serão recusados os produtos que possuam componentes ou acessórios com sinais claros de oxidação, danos físicos, sujeira, riscos ou outro sinal de desgaste, mesmo sendo o componente ou acessório considerado como novos pelo fornecedor dos produtos.
+
+22.13.6. Os produtos, considerando a marca e modelo apresentados na licitação, não poderão estar fora de linha comercial, considerando a data de LICITAÇÃO (abertura das propostas). Os produtos devem ser fornecidos completos e prontos para a utilização, com todos os acessórios, componentes, cabos etc.
+
+22.13.7. Todas as licenças, referentes aos softwares e drivers solicitados, devem estar registrados para utilização do CONTRATANTE, em modo definitivo (licenças perpétuas), legalizado, não sendo admitidas versões “shareware” ou “trial”. O modelo do produto ofertado pelo licitante deverá estar em fase de produção pelo fabricante (no Brasil ou no exterior), sem previsão de encerramento de produção, até a data de entrega da proposta.
+
+***Exemplo 2:***
+
+22.13. Conforme estabelecido na Instrução Normativa SGD/ME nº 94/2022, os critérios de aceitação consistem em parâmetros objetivos e mensuráveis utilizados para verificar a conformidade do serviço entregue com os requisitos previamente especificados neste Termo de Referência e no futuro instrumento contratual. Tais critérios são essenciais para garantir que a solução CONTRATADA atenda às necessidades institucionais do Ministério Público do Estado do Piauí (MPPI), com a devida aderência aos resultados esperados.
+
+22.14. Para fins de aceitação, as entregas serão avaliadas por meio de evidências documentais e técnicas, tais como: relatórios de progresso, scripts de banco de dados, código-fonte acompanhado de testes unitários, homologações funcionais, protótipos aprovados, resultados de sprints validados e demais artefatos definidos na metodologia adotada, em consonância com os critérios pactuados nas Ordens de Serviço e nos Acordos de Nível de Serviço (ANS). Serão aceitas apenas entregas que estejam integralmente em conformidade com os requisitos funcionais e não funcionais especificados, os padrões de qualidade estabelecidos, os prazos acordados e demais obrigações contratuais.
+
+22.15. A constatação de não conformidade resultará na rejeição da entrega e na necessidade de retrabalho pela CONTRATADA, sem ônus adicional à Administração. Poderá ser realizada, sempre que necessário, a submissão da entrega a testes técnicos, validações com usuários-chave ou provas de conceito, conforme o tipo e criticidade do serviço. Os critérios de aceitação aqui definidos constituem, portanto, instrumento essencial de controle de qualidade, de avaliação de desempenho do contratado e de resguardo ao interesse público.
+
+22.16. Só haverá o recebimento definitivo, após a análise da qualidade do objeto contratual, em face da aplicação dos critérios de aceitação, resguardando-se ao CONTRATANTE o direito de não receber o OBJETO cuja qualidade seja comprovadamente baixa ou em desacordo com as especificações definidas no Termo de Referência – situação em que poderão ser aplicadas à CONTRATADA as penalidades previstas em lei, no Termo de Referência e no CONTRATO. Quando for o caso, a empresa será convocada a refazer todos os serviços rejeitados, sem custo adicional.
 
 #### Procedimento de teste e inspeção
 
-#### Lista de verificação e roteiro de testes aplicáveis
+***Exemplo 1:***
 
-#### Inspeções e diligências aplicáveis
+22.12. De acordo com o Art. 37, Inciso III, da Resolução CNMP nº 283/2024, os procedimentos de teste e inspeção são necessários para assegurar que o objeto adquirido atenda aos requisitos especificados, garantindo a qualidade, a funcionalidade e a conformidade com os padrões estabelecidos.
+
+22.13. Serão adotados como procedimentos de teste e inspeção, para fins de elaboração dos Termos de Recebimento Provisório e Definitivo:
+
+a) Metodologia e formas de avaliação da qualidade e adequação da solução de TIC às especificações funcionais e tecnológicas estabelecidas neste Termo de Referência, conforme detalhado a seguir:
+
+> [!TIP]
+> Listar os procedimentos que serão realizados abaixo. O texto é meramente ilustrativo.
+
+a.1) Será realizada inspeção total do fornecimento dos bens, mediante verificação física e documental de todos os itens entregues, observando as características técnicas, modelo, marca, número de série (se aplicável), quantidade, funcionamento e integridade do equipamento.
+
+a.2) Serão utilizados roteiros de verificação e listas de verificação (checklists) contendo os requisitos mínimos exigidos, tais como: conformidade com o edital, manuais, cabos, drivers e acessórios obrigatórios, garantias e demais itens constantes na proposta vencedora.
+
+a.3) Quando aplicável, os testes de funcionamento incluirão a ligação, inicialização e configuração básica dos equipamentos, com o objetivo de verificar a integridade, desempenho básico e compatibilidade com os padrões da instituição.
+
+a.4) Os dados coletados no momento da inspeção serão registrados em planilhas de acompanhamento e relatórios de recebimento, servindo como base para eventual contestação, substituição de itens ou aplicação de penalidades.
+
+a.5) Os servidores designados como Fiscais do Contrato serão responsáveis por conduzir os testes, aplicar os roteiros de verificação e validar os relatórios de inspeção, podendo realizar diligências complementares, quando necessário.
+
+b) A origem das informações necessárias à fiscalização será obtida a partir da documentação fiscal, termo de entrega, propostas comerciais, relatórios de testes e documentos técnicos fornecidos pelo fornecedor.
+
+c) O MPPI disporá de recursos humanos técnicos qualificados para realizar a gestão e fiscalização da entrega, devidamente designados por meio de portaria específica, garantindo a conformidade com os requisitos legais e contratuais.
+
+#### Níveis mínimos de serviço exigidos (Acordo de Nível de serviço exigidos (ANS))
+
+> [!NOTE]
+> A equipe de planejamento é livre para definir os níveis mínimos de serviços. A AGU possui modelos que podem ser utilizados como exemplos tanto para a contratação de serviços como para a aquisição de bens.
+
+#### Sanções administrativas e procedimentos para retenção ou glosa no pagamento
+
+> [!NOTE]
+> A AGU possui modelos que podem ser utilizados como exemplos tanto para a contratação de serviços como para a aquisição de bens.
+
+***Exemplo 1 - Bens:***
+
+22.16. Comete infração administrativa, nos termos da Lei nº 14.133, de 2021, o contratado que:
+
+- a) Der causa à inexecução parcial do contrato.
+- b) Der causa à inexecução parcial do contrato que cause grave dano à Administração ou ao funcionamento dos serviços públicos ou ao interesse coletivo.
+- c) Der causa à inexecução total do contrato.
+- d) Ensejar o retardamento da execução ou da entrega do objeto da contratação sem motivo justificado.
+- e) Apresentar documentação falsa ou prestar declaração falsa durante a execução do contrato.
+- f) Praticar ato fraudulento na execução do contrato.
+- g) Comportar-se de modo inidôneo ou cometer fraude de qualquer natureza.
+- h) Praticar ato lesivo previsto no art. 5º da Lei nº 12.846, de 1º de agosto de 2013.
+
+22.17. Serão aplicadas ao contratado que incorrer nas infrações acima descritas as seguintes sanções:
+
+- i. Advertência, quando o contratado der causa à inexecução parcial do contrato, sempre que não se justificar a imposição de penalidade mais grave (art. 156, §2º, da Lei nº 14.133, de 2021).
+- ii. Impedimento de licitar e contratar, quando praticadas as condutas descritas nas alíneas “b”, “c” e “d” do subitem acima deste Contrato, sempre que não se justificar a imposição de penalidade mais grave (art. 156, § 4º, da Lei nº 14.133, de 2021).
+- iii. Declaração de inidoneidade para licitar e contratar, quando praticadas as condutas descritas nas alíneas “e”, “f”, “g” e “h” do subitem acima deste Contrato, bem como nas alíneas “b”, “c” e “d”, que justifiquem a imposição de penalidade mais grave (art. 156, §5º, da Lei nº 14.133, de 2021).
+- iv. Multa:
+
+1. Moratória de 1% (um por cento) por dia de atraso injustificado sobre o valor da parcela inadimplida, até o limite de 15 (quinze) dias úteis.
+2. Compensatória, para as infrações descritas nas alíneas “e” a “h” do subitem 27.16, de 15% a 30% do valor do Contrato.
+3. Compensatória, para a inexecução total do contrato prevista na alínea “c” do subitem 27.16, de 10% a 30% do valor do Contrato.
+4. Para infração descrita na alínea “b” do subitem 27.16, a multa será de 5% a 25% do valor do Contrato.
+5. Para infrações descritas na alínea “d” do subitem 27.16, a multa será de 1% a 15% do valor do Contrato.
+6. Para a infração descrita na alínea “a” do subitem 27.16, a multa será de 1% a 20% do valor do Contrato.
+
+22.18. A aplicação das sanções previstas neste documento não exclui, em hipótese alguma, a obrigação de reparação integral do dano causado ao CONTRATANTE (art. 156, §9º, da Lei nº 14.133, de 2021).
+
+22.19. Todas as sanções previstas neste documento poderão ser aplicadas cumulativamente com a multa (art. 156, §7º, da Lei nº 14.133, de 2021).
+
+22.19.1. Antes da aplicação da multa, será facultada a defesa do interessado no prazo de 15 (quinze) dias úteis, contado da data de sua intimação (art. 157, da Lei nº 14.133, de 2021).
+
+22.19.2. Se a multa aplicada e as indenizações cabíveis forem superiores ao valor do pagamento eventualmente devido pelo CONTRATANTE à CONTRATADA, além da perda desse valor, a diferença será descontada da garantia prestada ou será cobrada judicialmente (art. 156, §8º, da Lei nº 14.133, de 2021).
+
+22.19.3. Previamente ao encaminhamento à cobrança judicial, a multa poderá ser recolhida administrativamente no prazo máximo de 30 (trinta) dias, a contar da data do recebimento da comunicação enviada pela autoridade competente.
+
+22.20. A aplicação das sanções realizar-se-á em processo administrativo que assegure o contraditório e a ampla defesa à CONTRATADA, observando-se o procedimento previsto no caput e parágrafos do art. 158 da Lei nº 14.133, de 2021, para as penalidades de impedimento de licitar e contratar e de declaração de inidoneidade para licitar ou contratar.
+
+22.21. Na aplicação das sanções serão considerados (art. 156, §1º, da Lei nº 14.133, de 2021):
+
+- a) A natureza e a gravidade da infração cometida.
+- b) As peculiaridades do caso concreto.
+- c) As circunstâncias agravantes ou atenuantes.
+- d) Os danos que dela provierem para o Contratante.
+- e) A implantação ou o aperfeiçoamento de programa de integridade, conforme normas e orientações dos órgãos de controle.
+
+22.22. Os atos previstos como infrações administrativas na Lei nº 14.133, de 2021, ou em outras leis de licitações e contratos da Administração Pública que também sejam tipificados como atos lesivos na Lei nº 12.846, de 2013, serão apurados e julgados conjuntamente, nos mesmos autos, observados o rito procedimental e autoridade competente definidos na referida Lei (art. 159).
+
+22.23. A personalidade jurídica da CONTRATADA poderá ser desconsiderada sempre que utilizada com abuso do direito para facilitar, encobrir ou dissimular a prática dos atos ilícitos previstos neste Contrato ou para provocar confusão patrimonial, e, nesse caso, todos os efeitos das sanções aplicadas à pessoa jurídica serão estendidos aos seus administradores e sócios com poderes de administração, à pessoa jurídica sucessora ou à empresa do mesmo ramo com relação de coligação ou controle, de fato ou de direito, com a CONTRATADA, observados, em todos os casos, o contraditório, a ampla defesa e a obrigatoriedade de análise jurídica prévia (art. 160, da Lei nº 14.133, de 2021).
+
+22.24. O CONTRATANTE deverá, no prazo máximo de 15 (quinze) dias úteis, contado da data de aplicação da sanção, informar e manter atualizados os dados relativos às sanções por ela aplicadas, para fins de publicidade no Cadastro Nacional de Empresas Inidôneas e Suspensas (Ceis) e no Cadastro Nacional de Empresas Punidas (Cnep), instituídos no âmbito do Poder Executivo Federal (Art. 161, da Lei nº 14.133, de 2021).
+
+22.25. As sanções de impedimento de licitar e contratar e declaração de inidoneidade para licitar ou contratar são passíveis de reabilitação na forma do art. 163 da Lei nº 14.133/21.
+
+22.26. Os débitos da CONTRATADA para com a Administração contratante, resultantes de multa administrativa e/ou indenizações, não inscritos em dívida ativa, poderão ser compensados, total ou parcialmente, com os créditos devidos pelo referido órgão decorrentes deste mesmo contrato ou de outros contratos administrativos que o contratado possua com o mesmo órgão ora contratante, na forma da Instrução Normativa SEGES/ME nº 26, de 13 de abril de 2022.
+
+***Exemplo 2 - Serviços:***
+
+> [!TIP]
+> O texto abaixo é retirado do modelo da AGU e deve ser ajustado conforme a necessidade.
+
+27.16. Comete infração administrativa, nos termos da Lei nº 14.133, de 2021, o contratado que:
+
+- a) Dar causa à inexecução parcial do contrato.
+- b) Dar causa à inexecução parcial do contrato que cause grave dano à Administração, ao funcionamento dos serviços públicos ou ao interesse coletivo.
+- c) Dar causa à inexecução total do contrato.
+- d) deixar de entregar a documentação exigida para o certame.
+- e) Não manter a proposta, salvo em decorrência de fato superveniente devidamente justificado.
+- f) Não celebrar o contrato ou não entregar a documentação exigida para a contratação, quando convocado dentro do prazo de validade de sua proposta.
+- g) Ensejar o retardamento da execução ou da entrega do objeto da licitação sem motivo justificado.
+- h) Apresentar declaração ou documentação falsa exigida para o certame ou prestar declaração falsa durante a licitação ou a execução do contrato.
+- i) fraudar a licitação ou praticar ato fraudulento na execução do contrato.
+- j) Comportar-se de modo inidôneo ou cometer fraude de qualquer natureza.
+- k) Praticar atos ilícitos com vistas a frustrar os objetivos da licitação.
+- l) Praticar ato lesivo previsto no art. 5º da Lei nº 12.846, de 1º de agosto de 2013.
+
+22.17. Serão aplicadas ao contratado que incorrer nas infrações acima descritas as seguintes sanções:
+
+- i. Advertência, quando o contratado der causa à infração administrativa prevista na na alínea “a”, sempre que não se justificar a imposição de penalidade mais grave (art. 156, §2º, da Lei nº 14.133, de 2021).
+- ii. Impedimento de licitar e contratar, quando praticadas as condutas descritas nas alíneas “b”, “c”, “d”, “e”, “f’ e “g” do subitem acima, sempre que não se justificar a imposição de penalidade mais grave (art. 156, § 4º, da Lei nº 14.133, de 2021) e impedirá o responsável de licitar ou contratar no âmbito da Administração Pública direta e indireta do ente federativo que tiver aplicado a sanção, pelo prazo máximo de 3 (três) anos.
+- iii. Declaração de inidoneidade para licitar e contratar, quando praticadas as condutas descritas nas alíneas “h”, “i”, “j”, “k”, “l” e “e”, “f”, “g” e “h” do subitem acima, bem como nas alíneas “b”, “c” e  d”, que justifiquem a imposição de penalidade mais grave (art. 156, §5º, da Lei nº 14.133, de 2021) e impedirá o responsável de licitar ou contratar no âmbito da Administração Pública direta e indireta de todos os entes federativos, pelo prazo mínimo de 3 (três) anos e máximo de 6 (seis) anos.
+- iv. Multa:
+
+1. Moratória de 0,5% (cinco décimos por cento), por dia de atraso, até o limite correspondente a 10 (dez) dias.
+2. Moratória de 0,7% (sete décimos por cento), por dia de atraso a partir do 11º (décimo primeiro) dia, até o limite correspondente a 20 (vinte) dias. e
+3. Moratória de 1,0% (um por cento), por dia de atraso a partir do 21º (vigésimo primeiro) dia, até o limite correspondente a 30 (trinta) dias, findo o qual a CONTRATANTE rescindirá o contrato correspondente, aplicando-se à CONTRATADA as demais sanções previstas na Lei nº 14.133/2021.
+
+22.17.1. Será aplicada multa de 1,5% (um e meio por cento) sobre o valor da contratação, quando a CONTRATADA:
+
+- a) Prestar informações inexatas ou obstaculizar o acesso à fiscalização da CONTRATANTE no cumprimento de suas atividades.
+- b) Desatender às determinações da fiscalização da CONTRATANTE. e
+- c) Cometer qualquer infração às normas federais, estaduais e municipais, respondendo ainda pelas multas aplicadas pelos órgãos competentes em razão da infração cometida.
+
+22.17.2. Será aplicada multa de 2% (dois por cento) sobre o valor da contratação quando a CONTRATADA:
+
+- a) Não iniciar, ou recusar-se a executar a correção de qualquer ato que, por imprudência, negligência imperícia dolo ou má fé, venha a causar danos à CONTRATANTE ou a terceiros, independentemente da obrigação da CONTRATADA em reparar os danos causados.
+- b) Praticar por ação ou omissão, qualquer ato que, por imprudência, negligência, imperícia, dolo ou má fé, venha a causar danos à CONTRATANTE ou a terceiros, independentemente da obrigação da CONTRATADA em reparar os danos causados.
+
+22.17.3. Nenhum pagamento será feito ao fornecedor dos bens que tenha sido multado, antes que tal penalidade seja descontada de seus haveres.
+
+22.17.4. Na aplicação das sanções serão observados os procedimentos e prazos constantes nos arts. 157 a 160 da Lei n. 14.133/2021.
+
+22.17.5. As multas administrativas previstas neste instrumento não têm caráter compensatório e o seu pagamento não eximirá a CONTRATADA de responsabilidade por perdas e danos decorrentes das infrações cometidas.
+
+22.18. A sanção prevista na alínea “iv” do subitem 27.27, não poderá ser inferior a 0,5% (cinco décimos por cento) nem superior a 30% (trinta por cento) do valor do contrato licitado ou celebrado com contratação direta e será aplicada ao responsável por qualquer das infrações administrativas previstas no subitem 27.26.
+
+22.19. Se a multa aplicada e as indenizações cabíveis forem superiores ao valor de pagamento eventualmente devido pela Administração ao contratado, além da perda desse valor, a diferença será descontada da garantia prestada ou será cobrada judicialmente.
+
+22.20. Independentemente das sanções a que se referem os subitens anteriores, a CONTRATADA está sujeita ao pagamento de indenização por perdas e danos, podendo ainda a administração propor que seja responsabilizada:
+
+- a) civilmente, nos termos do Código Civil.
+- b) perante os órgãos incumbidos de fiscalização das atividades contratadas ou do exercício profissional a elas pertinentes.
+- c) criminalmente, na forma da legislação pertinente.
+
+22.21. A aplicação das sanções previstas neste documento não exclui, em hipótese alguma, a obrigação de reparação integral do dano causado ao
+CONTRATANTE (art. 156, §9º, da Lei nº 14.133, de 2021).
+
+22.22. Todas as sanções previstas neste documento poderão ser aplicadas cumulativamente com a multa (art. 156, §7º, da Lei nº 14.133, de 2021).
+
+22.22.1. Antes da aplicação da multa, será facultada a defesa do interessado no prazo de 15 (quinze) dias úteis, contado da data de sua
+intimação (art. 157, da Lei nº 14.133, de 2021).
+
+22.22.2. Se a multa aplicada e as indenizações cabíveis forem superiores ao valor do pagamento eventualmente devido pelo CONTRATANTE à CONTRATADA, além da perda desse valor, a diferença será descontada da garantia prestada ou será cobrada judicialmente (art. 156, §8º, da Lei nº 14.133, de 2021).
+
+22.22.3. Previamente ao encaminhamento à cobrança judicial, a multa poderá ser recolhida administrativamente no prazo máximo de 30 (trinta) dias, a contar da data do recebimento da comunicação enviada pela autoridade competente.
+
+22.23. A aplicação das sanções realizar-se-á em processo administrativo que assegure o contraditório e a ampla defesa à CONTRATADA, observando-se o procedimento previsto no caput e parágrafos do art. 158 da Lei nº 14.133, de 2021, para as penalidades de impedimento de licitar e contratar e de declaração de inidoneidade para licitar ou contratar.
+
+22.24. Na aplicação das sanções serão considerados (art. 156, §1º, da Lei nº 14.133, de 2021):
+
+- a) A natureza e a gravidade da infração cometida.
+- b) As peculiaridades do caso concreto.
+- c) As circunstâncias agravantes ou atenuantes.
+- d) Os danos que dela provierem para o CONTRATANTE.
+- e) A implantação ou o aperfeiçoamento de programa de integridade, conforme normas e orientações dos órgãos de controle.
+
+22.25. Os atos previstos como infrações administrativas na Lei nº 14.133, de 2021, ou em outras leis de licitações e contratos da Administração Pública que também sejam tipificados como atos lesivos na Lei nº 12.846, de 2013, serão apurados e julgados conjuntamente, nos mesmos autos, observados o rito procedimental e autoridade competente definidos na referida Lei (art. 159).
+
+22.26. A personalidade jurídica da CONTRATADA poderá ser desconsiderada sempre que utilizada com abuso do direito para facilitar, encobrir ou dissimular a prática dos atos ilícitos previstos neste Contrato ou para provocar confusão patrimonial, e, nesse caso, todos os efeitos das sanções aplicadas à pessoa jurídica serão estendidos aos seus administradores e sócios com poderes de administração, à pessoa jurídica sucessora ou à empresa do mesmo ramo com relação de coligação ou controle, de fato ou de direito, com a CONTRATADA, observados, em todos os casos, o contraditório, a ampla defesa e a obrigatoriedade de análise jurídica prévia (art. 160, da Lei nº 14.133, de 2021).
+
+22.27. O CONTRATANTE deverá, no prazo máximo de 15 (quinze) dias úteis, contado da data de aplicação da sanção, informar e manter atualizados os dados relativos às sanções por ela aplicadas, para fins de publicidade no Cadastro Nacional de Empresas Inidôneas e Suspensas (Ceis) e no Cadastro Nacional de Empresas Punidas (Cnep), instituídos no âmbito do Poder Executivo Federal (Art. 161, da Lei nº 14.133, de 2021).
+
+22.28. As sanções de impedimento de licitar e contratar e declaração de inidoneidade para licitar ou contratar são passíveis de reabilitação na forma do art. 163 da Lei nº 14.133/21.
+
+22.29. Os débitos da CONTRATADA para com a Administração CONTRATANTE, resultantes de multa administrativa e/ou indenizações, não inscritos em dívida ativa, poderão ser compensados, total ou parcialmente, com os créditos devidos pelo referido órgão decorrentes deste mesmo contrato ou de outros contratos administrativos que o contratado possua com o mesmo órgão ora CONTRATANTE, na forma da Instrução Normativa SEGES/ME nº 26, de 13 de abril de 2022.
+
+#### Lista de verificação e roteiro de testes aplicáveis (MOTec)
+
+> [!NOTE]
+> "Quando cabível, definir os tópicos, em ordem cronológica para verificação das métricas." - MOTec
+
+22.30. Não se aplica.
+
+#### Inspeções e diligências aplicáveis (MOTec)
+
+> [!NOTE]
+> "Quando cabível, definir rotinas de inspeções, diligências ou outros métodos de auditoria e verificação da qualidade dos serviços prestados." - MOTec
+
+22.31. Não se aplica.
 
 #### Procedimentos para recebimento provisório e definitivo
 
+> [!NOTE]
+> Os exeplos abaixo foram retirados dos modelos da AGU e devem ser adaptados de acordo com a necessidade.
+
+***Exemplo 1 - Bens:***
+
+22.32. Os bens serão recebidos provisoriamente, de forma sumária, \<no ato da entrega / em até X dias úteis/corridos>, juntamente com a nota fiscal ou instrumento de cobrança equivalente, pelo(a) responsável pelo acompanhamento e fiscalização do contrato, para efeito de posterior verificação de sua conformidade com as especificações constantes no Termo de Referência e na proposta.
+
+22.32.1. O prazo será contado do recebimento de comunicação de cobrança da CONTRATADA, com a comprovação da prestação dos serviços relativos à parcela a ser paga.
+
+22.33. Os bens poderão ser rejeitados, no todo ou em parte, inclusive antes do recebimento provisório, quando em desacordo com as especificações constantes no Termo de Referência e na proposta, devendo ser substituídos no prazo de \<X dias úteis/corridos>, a contar da notificação da CONTRATADA, às suas custas, sem prejuízo da aplicação das penalidades.
+
+22.34. O recebimento definitivo ocorrerá no prazo de \<X dias úteis/corridos>, a contar do recebimento da nota fiscal ou instrumento de cobrança equivalente pela Administração, após a verificação da qualidade e quantidade do material e consequente aceitação mediante termo detalhado.
+
+22.35. Para as contratações decorrentes de despesas cujos valores não ultrapassem o limite de que trata o inciso II do art. 75 da Lei nº 14.133, de 2021, o prazo máximo para o recebimento definitivo será de até 2 (dois) dias úteis.
+
+22.36. O prazo para recebimento definitivo poderá ser excepcionalmente prorrogado, de forma justificada, por igual período, quando houver necessidade de diligências para a aferição do atendimento das exigências contratuais.
+
+22.37. No caso de controvérsia sobre a execução do objeto, quanto à dimensão, qualidade e quantidade, deverá ser observado o teor do art. 143 da Lei nº 14.133, de 2021, comunicando-se à empresa para emissão  e Nota Fiscal no que concerne à parcela incontroversa da execução do objeto, para efeito de liquidação e pagamento.
+
+22.38. O prazo para a solução, pela CONTRATADA, de inconsistências na execução do objeto ou de saneamento da nota fiscal ou de instrumento de cobrança equivalente, verificadas pela Administração durante a análise prévia à liquidação de despesa, não será computado para os fins do recebimento definitivo.
+
+22.39. O recebimento provisório ou definitivo não exclui a responsabilidade civil pela solidez e segurança do serviço nem a responsabilidade éticoprofissional pela execução do contrato.
+
+***Exemplo 2 - Serviços:***
+
+> [!NOTE]
+> Alterar conforme a necessidade. Verificar os modelos da AGU para um melhor esclarecimento.
+
+22.42. Os serviços serão recebidos provisoriamente, no prazo de 5 (cinco) dias úteis, pelos fiscais técnico e administrativo, mediante termos detalhados, quando verificado o cumprimento das exigências de caráter técnico e administrativo. (Art. 140, I, a , da Lei nº 14.133 e Arts. 22, X e 23, X do Decreto nº 11.246, de 2022).
+
+22.42.1. O prazo será contado do recebimento de comunicação de cobrança da CONTRATADA, com a comprovação da prestação dos serviços relativos à parcela a ser paga.
+
+22.42.2. A CONTRATADA deve elaborar Relatório Gerencial de Serviços, apresentando-o ao MPPI, até o 5º (quinto) dia útil do mês subsequente ao da prestação dos serviços, momento no qual o MPPI fará o recebimento provisório.
+
+22.42.3. Devem constar desse relatório, dentre outras informações, os indicadores/metas de níveis de serviços definidos e alcançados, recomendações técnicas, administrativas e gerenciais para o próximo período e demais informações relevantes para a gestão contratual.
+
+22.42.4. Contagem detalhada dos serviços prestados.
+
+22.42.4.1. Ao final de execução da OS, a CONTRATADA deverá entregar a contagem detalhada de UST consumidas acompanhada de memória de cálculo que discrimine cada um dos elementos que compuseram a contagem.
+
+22.42.4.2. A memória de cálculo deve conter minimamente as seguintes informações:
+
+22.42.4.2.1. Tarefas, conforme definido no catálogo.
+
+22.42.4.2.2. Condições e índices de ajuste aplicáveis ao caso em questão, à demanda solicitada ou ao produto gerado.
+
+22.42.4.2.3. Total de UST consumida por item de catálogo obtida a partir da relação “quantitativo unitário de UST definido no catálogo para a variação X (multiplicado por) índices de ajuste aplicáveis X (multiplicado por) quantidade de unidades de medida necessária”.
+
+22.42.4.2.4. Total de UST da OS.
+
+22.42.4.3. Para as tarefas canceladas pela CONTRATANTE cuja execução já tenha sido iniciada na data de cancelamento, deverá ser contabilizada apenas a quantidade de unidades de medida efetivamente realizadas. de unidades de medida contabilizada na contagem detalhada deverá ser igual a 1 (um).
+
+22.42.4.4. A critério da CONTRATANTE, as informações apresentadas na memória de cálculo poderão ser destacadas por produtos entregues ou por demandas atendidas.
+
+22.42.4.5. A CONTRATANTE avaliará a contagem detalhada de UST, aprovando-a ou solicitando à CONTRATADA as correções em caso de divergências.
+
+22.42.4.6. Aprovada a contagem detalhada, a OS deverá ser atualizada para refletir o quantitativo total de UST. A memória de cálculo deverá ser anexada à OS.
+
+22.42.4.7. A aprovação da contagem detalhada é condição indispensável para o recebimento definitivo da OS.
+
+22.42.5. Os indicadores de desempenho estabelecidos para cada serviço, deverão ser monitorados e servirão de base para a avaliação mensal da CONTRATADA, nos “Relatórios de Gerenciais dos Serviços” do Contrato, onde será possível verificar a efetividade do atendimento e permitir a depuração do processo.
+
+22.42.6. Os Níveis Mínimos de Serviços devem ser considerados e entendidos pela CONTRATADA como um compromisso de qualidade, que assumirá, junto ao MPPI.
+
+22.42.7. A análise dos resultados destas avaliações, pelo MPPI, resultará em advertências, penalizações e redução na fatura, caso a CONTRATADA não cumpra com os seus compromissos, de qualidade e desempenho.
+
+22.42.8. Para aceite do recebimento e posterior encaminhamento ao pagamento, deverão ser apresentadas as Ordem de Serviços emitidas e assinadas e demais documentos técnicos pertinentes e comprobatórios de execução do serviço.
+
+22.42.9. Após a apuração dos níveis de serviços exigidos e de cálculo do pagamento devido, o MPPI realizará o recebimento definitivo dos serviços.
+
+22.42.10. Para a verificação e a validação das entregas de um release, será necessária a participação de representantes técnicos da CONTRATADA envolvidos no atendimento da OS.
+
+22.43. O fiscal técnico do contrato realizará o recebimento provisório do objeto do contrato mediante termo detalhado que comprove o cumprimento das exigências de caráter técnico. (Art. 22, X, Decreto nº 11.246, de 2022).
+
+22.44. O fiscal administrativo do contrato realizará o recebimento provisório do objeto do contrato mediante termo detalhado que comprove o cumprimento das exigências de caráter administrativo. (Art. 23, X, Decreto nº 11.246, de 2022).
+
+22.45. O fiscal setorial do contrato, quando houver, realizará o recebimento provisório sob o ponto de vista técnico e administrativo.
+
+22.46. Para efeito de recebimento provisório, ao final de cada período de faturamento, o fiscal técnico do contrato irá apurar o resultado das avaliações da execução do objeto e, se for o caso, a análise do desempenho e qualidade da prestação dos serviços realizados em consonância com os indicadores previstos, que poderá resultar no redimensionamento de valores a serem pagos à contratada, registrando em relatório a ser encaminhado ao gestor do contrato.
+
+22.46.1. Será considerado como ocorrido o recebimento provisório com a entrega do termo detalhado ou, em havendo mais de um a ser feito, com a entrega do último.
+
+22.47. A CONTRATADA fica obrigada a reparar, corrigir, remover, reconstruir ou substituir, às suas expensas, no todo ou em parte, o objeto em que se verificarem vícios, defeitos ou incorreções resultantes da execução ou materiais empregados, cabendo à fiscalização não atestar a última e/ou única medição de serviços até que sejam sanadas todas as eventuais pendências que possam vir a ser apontadas no Recebimento Provisório.
+
+22.48. A fiscalização não efetuará o ateste da última e/ou única medição de serviços até que sejam sanadas todas as eventuais pendências que possam vir a ser apontadas no Recebimento Provisório. (Art. 119 c/c art. 140 da Lei nº 14133, de 2021).
+
+22.49. O recebimento provisório também ficará sujeito, quando cabível, à conclusão de todos os testes de campo e à entrega dos Manuais e Instruções exigíveis.
+
+22.50. Os serviços poderão ser rejeitados, no todo ou em parte, quando em desacordo com as especificações constantes neste Termo de Referência e na proposta, sem prejuízo da aplicação das penalidades.
+
+22.51. Quando a fiscalização for exercida por um único servidor, o Termo Detalhado deverá conter o registro, a análise e a conclusão acerca das ocorrências na execução do contrato, em relação à fiscalização técnica e administrativa e demais documentos que julgar necessários, devendo encaminhá-los ao gestor do contrato para recebimento definitivo.
+
+22.52. Os serviços serão recebidos definitivamente no prazo de 5 (cinco) dias úteis, contados do recebimento provisório, por servidor ou comissão designada pela autoridade competente, após a verificação da qualidade e quantidade do serviço e consequente aceitação mediante termo detalhado, obedecendo os seguintes procedimentos:
+
+22.52.1. Emitir documento comprobatório da avaliação realizada pelos fiscais técnico, administrativo e setorial, quando houver, no cumprimento de obrigações assumidas pelo contratado, com menção ao seu desempenho na execução contratual, baseado em indicadores objetivamente definidos e aferidos, e a eventuais penalidades aplicadas, devendo constar do cadastro de atesto de cumprimento de obrigações, conforme regulamento (art. 21, VIII, Decreto nº 11.246, de 2022).
+
+22.52.2. Realizar a análise dos relatórios e de toda a documentação apresentada pela fiscalização e, caso haja irregularidades que impeçam a liquidação e o pagamento da despesa, indicar as cláusulas contratuais pertinentes, solicitando à Contratada, por escrito, as respectivas correções.
+
+22.52.3. Emitir Termo Detalhado para efeito de recebimento definitivo dos serviços prestados, com base nos relatórios e documentações apresentadas. e
+
+22.52.4. Comunicar a empresa para que emita a Nota Fiscal ou Fatura, com o valor exato dimensionado pela fiscalização.
+
+22.52.5. Enviar a documentação pertinente ao setor de contratos para a formalização dos procedimentos de liquidação e pagamento, no valor dimensionado pela fiscalização e gestão.
+
+22.53. No caso de controvérsia sobre a execução do objeto, quanto à dimensão, qualidade e quantidade, deverá ser observado o teor do art. 143 da Lei nº 14.133, de 2021, comunicando-se à empresa para emissão de Nota Fiscal no que concerne à parcela incontroversa da execução do objeto, para efeito de liquidação e pagamento.
+
+22.54. Nenhum prazo de recebimento ocorrerá enquanto pendente a solução, pelo contratado, de inconsistências verificadas na execução do objeto ou no instrumento de cobrança.
+
+22.55. O recebimento provisório ou definitivo não excluirá a responsabilidade civil pela solidez e pela segurança do serviço nem a responsabilidade ético-profissional pela perfeita execução do contrato.
+
 #### Procedimento para pagamento
+
+> [!NOTE]
+> Modelo AGU.
 
 ##### Liquidação
 
+22.56. Recebida a Nota Fiscal ou documento de cobrança equivalente, correrá o prazo de 10 (dez) dias úteis para fins de liquidação, na forma desta seção, prorrogáveis por igual período, nos termos do art. 7º, §1º da Instrução Normativa SEGES/ME nº 77/2022.
+
+22.56.1. O prazo de que trata o item anterior será reduzido à metade, mantendo-se a possibilidade de prorrogação, no caso de contratações decorrentes de despesas cujos valores não ultrapassem o limite de que trata o inciso II do art. 75 da Lei nº 14.133, de 2021.
+
+22.57. Para fins de liquidação, o setor competente deverá verificar se a nota fiscal ou instrumento de cobrança equivalente apresentado expressa os elementos necessários e essenciais do documento, tais como:
+
+- a) O prazo de validade.
+- b) A data da emissão.
+- c) Os dados do contrato e do órgão CONTRATANTE.
+- d O período respectivo de execução do contrato.
+- e) O valor a pagar. e
+- f) Eventual destaque do valor de retenções tributárias cabíveis.
+
+22.58. Havendo erro na apresentação da nota fiscal ou instrumento de cobrança equivalente, ou circunstância que impeça a liquidação da despesa, esta ficará sobrestada até que a CONTRATADA providencie as medidas saneadoras, reiniciando-se o prazo após a comprovação da regularização da situação, sem ônus ao CONTRATANTE.
+
+22.59. A nota fiscal ou instrumento de cobrança equivalente deverá ser obrigatoriamente acompanhado da comprovação da regularidade fiscal, constatada por meio de consulta on-line ao SICAF ou, na impossibilidade de acesso ao referido sistema, mediante consulta aos sítios eletrônicos oficiais ou à documentação mencionada no art. 68 da Lei nº 14.133, de 2021.
+
+22.60. A Administração deverá realizar consulta ao SICAF para:
+
+- a) Verificar a manutenção das condições de habilitação exigidas no edital.
+- b) Identificar possível razão que impeça a participação em licitação, no âmbito do órgão ou entidade, que implique proibição de contratar com o Poder Público, bem como ocorrências impeditivas indiretas (Instrução Normativa nº 3, de 26 de abril de 2018).
+
+22.61. Constatando-se, junto ao SICAF, a situação de irregularidade da CONTRATADA, será providenciada sua notificação, por escrito, para que, no prazo de 5 (cinco) dias úteis, regularize sua situação ou apresente sua defesa. O prazo poderá ser prorrogado uma vez, por igual período, a critério do CONTRATANTE.
+
+22.62. Não havendo regularização ou sendo a defesa considerada improcedente, o CONTRATANTE deverá comunicar aos órgãos responsáveis pela fiscalização da regularidade fiscal quanto à inadimplência da CONTRATADA, bem como quanto à existência de pagamento a ser efetuado, para que sejam acionados os meios pertinentes e necessários para garantir o recebimento de seus créditos.
+
+22.63. Persistindo a irregularidade, o CONTRATANTE deverá adotar as medidas necessárias à rescisão contratual nos autos do processo administrativo correspondente, assegurada à CONTRATADA a ampla defesa.
+
+22.64. Havendo a efetiva execução do objeto, os pagamentos serão realizados normalmente, até que se decida pela rescisão do contrato, caso a CONTRATADA não regularize sua situação junto ao SICAF.
+
 ##### Prazo de Pagamento
 
+22.65. O pagamento será efetuado no prazo de até 10 (dez) dias úteis contados da finalização da liquidação da despesa, conforme seção anterior, nos termos da Instrução Normativa SEGES/ME nº 77, de 2022.
+
+> [!TIP]
+> Índice de Custo de Tecnologia da Informação (ICTI), do Instituto de Pesquisa Econômica Aplicada (IPEA) - Obrigatório para contratação de serviços.
+>
+> Índice Nacional de Preços ao Consumidor Amplo - IPCA , do Instituto Brasileiro de Geografia e Estatística (IBGE) - Para bens
+
+22.66. No caso de atraso pelo CONTRATANTE, os valores devidos à CONTRATADA serão atualizados monetariamente entre o termo final do prazo de pagamento até a data de sua efetiva realização, mediante aplicação do \<informar o índice>, ou outro que venha substituí-lo.
+
+> [!TIP]
+> Adicionar o subitem abaixo quando utilizar o ICTI como índice.
+
+22.66.1. Conforme Art. 24. da Instrução Normativa SGD/ME nº 94, de 23 de dezembro de 2022 regida pela Lei nº 14.133, de 2021, o ICTI/IPEA é o índice obrigatório aplicado nas contratações de serviços de Tecnologia da Informação em que haja previsão de reajuste de preços por aplicação de índice de correção monetária.
+
 ##### Forma de Pagamento
+
+22.67. O pagamento será realizado por meio de ordem bancária, para crédito em banco, agência e conta corrente indicados pela CONTRATADA.
+
+22.67.1. Será considerada data do pagamento o dia em que constar como emitida a ordem bancária para pagamento.
+
+22.67.2. Quando do pagamento, será efetuada a retenção tributária prevista na legislação aplicável.
+
+22.67.2.1. Independentemente do percentual de tributo inserido na planilha, quando houver, serão retidos na fonte, quando da realização do pagamento, os percentuais estabelecidos na legislação vigente.
+
+22.68. A CONTRATADA regularmente optante pelo Simples Nacional, nos termos da Lei Complementar nº 123, de 2006, não sofrerá a retenção tributária quanto aos impostos e contribuições abrangidos por aquele regime. No entanto, o pagamento ficará condicionado à apresentação de comprovação, por meio de documento oficial, de que faz jus ao tratamento tributário favorecido previsto na referida Lei Complementar.
+
+22.69. Não caberá pagamento antecipado.
 
 #### Plano de sustentação e transição contratual
 
 ##### Recursos necessários à continuidade do negócio durante e após a execução do contrato
 
+> [!NOTE]
+> "Deve ser realizado o levantamento e a descrição de materiais, infraestrutura, recursos humanos, capacitações, recursos orçamentários entre outros elementos necessários a execução e encerramento do contrato." - MOTec
+
 ###### Recursos materiais
+
+> [!TIP]
+> Listar todo e qualquer recurso material (mesas, racks, computadores etc) necessário para dar continuidade a execução do serviço em caso de finalização do contrato.
+
+***Exemplos:***
+
+22.70. Não se aplica.
+
+***ou***
+
+22.70. Os recursos materiais necessários já estão disponíveis, considerando o uso atual do produto no MPPI desde 2019;
+
+22.71. Toda a infraestrutura necessária para hospedar a solução já está montada e em execução nas dependências do órgão.
+
+***ou***
+
+22.70. Será necessário realizar licitação para a aquisição de racks, servidores e todo o equipamento de gerneciamento de rede necessários para manter os serviços executando dentro da infraestrutura do MPPI.
 
 ###### Recursos humanos
 
+> [!TIP]
+> Listar todo e qualquer recurso humano necessário para dar continuidade a execução do serviço em caso de finalização do contrato.
+
+***Exemplos:***
+
+22.71. Não se aplica.
+
+***ou***
+
+22.71. O MPPI já possui uma equipe técnica composta por analistas e técnicos treinados para manter a infraestrutura tecnológica necessária para a continuidade da solução.
+
+***ou***
+
+22.71. Será necessário realizar a contratação de analistas e técnicos capacitados para gerenciar a infraestrutura tecnológica necessária para manter a continuidade da solução.
+
 ##### Estratégia e ações de transição contratual
+
+22.72. Não se aplica.
+
+***ou***
+
+22.72. Realizar um estudo de viabilidade no prazo de até 4 (quatro) meses antes do término do contrato, garantindo a análise detalhada das necessidades e alternativas disponíveis, bem como elaborar e encaminhar o termo de referência e os demais artefatos indispensáveis para viabilizar uma nova contratação de forma eficiente.
 
 #### Extinção contratual
 
-### 23. Contratações correlatas/interdependentes (Lei 14.133/2021 §1º XI)
+> [!TIP]
+> Em caso de contratos não-contínuos por escopo (o objeto é contratado para ser prestado em determinado prazo). Ex. Aquisição e Instalação de Servidores, utilize o texto abaixo.
 
-### 24. Possíveis Impactos ambientais e medidas mitigadoras (Lei 14.133/2021 §1º XII)
+22.73. O contrato será extinto quando cumpridas as obrigações de ambas as partes, ainda que isso ocorra antes do prazo estipulado para tanto.
+
+22.74. Se as obrigações não forem cumpridas no prazo estipulado, a vigência ficará prorrogada até a conclusão do objeto, caso em que deverá a Administração providenciar a readequação do cronograma fixado para o contrato.
+
+22.74.1. Quando a não conclusão do contrato referida no item anterior decorrer de culpa do contratado:
+
+- a) ficará ele constituído em mora, sendo-lhe aplicáveis as respectivas sanções administrativas; e  
+- b) poderá a Administração optar pela extinção do contrato e, nesse caso, adotará as medidas admitidas em lei para a continuidade da execução contratual.
+
+> [!TIP]
+> Para os contratos de fornecimentos contínuos e de aluguel de equipamentos e à utilização de programas de informática (art. 106. NLLC), utilize o texto abaixo.
+
+22.73. O contrato será extinto quando vencido o prazo nele estipulado, independentemente de terem sido cumpridas ou não as obrigações de ambas as partes contraentes;
+
+22.73.1. O contrato poderá ser extinto antes do prazo nele fixado, sem ônus para o CONTRATANTE, quando este não dispuser de créditos orçamentários para sua continuidade ou quando entender que o contrato não mais lhe oferece vantagem;
+
+22.73.2. A extinção, nesta hipótese, ocorrerá na próxima data de aniversário do contrato, desde que haja a notificação do CONTRATADO pelo CONTRATANTE com pelo menos 2 (dois) meses de antecedência;
+
+22.73.3. Caso a notificação de não-continuidade do contrato ocorra com menos de 2 (dois) meses da data de aniversário, a extinção contratual ocorrerá após 2 (dois) meses da data da comunicação;
+
+> [!TIP]
+> O texto abaixo segue o padrão (modelo AGU)
+
+22.74. O contrato poderá ser extinto antes de cumpridas as obrigações nele estipuladas, ou antes do prazo nele fixado, por algum dos motivos previstos no artigo 137 da Lei nº 14.133/21, bem como amigavelmente, assegurados o contraditório e a ampla defesa;
+
+22.74.1. Nesta hipótese, aplicam-se também os artigos 138 e 139 da mesma Lei;
+
+22.74.2. A alteração social ou a modificação da finalidade ou da estrutura da empresa não ensejará a extinção se não restringir sua capacidade de concluir o contrato;
+
+22.74.2.1. Se a operação implicar mudança da pessoa jurídica contratada, deverá ser formalizado termo aditivo para alteração subjetiva;
+
+22.75. O termo de extinção, sempre que possível, será precedido:
+
+- Balanço dos eventos contratuais já cumpridos ou parcialmente cumpridos;
+- Relação dos pagamentos já efetuados e ainda devidos;
+- Indenizações e multas;
+
+22.76. A extinção do contrato não configura óbice para o reconhecimento do desequilíbrio econômico-financeiro, hipótese em que será concedida indenização por meio de termo indenizatório (art. 131, caput, da Lei nº 14.133/21);
+
+22.77. O contrato poderá ser extinto caso se constate que a CONTRATADA mantém vínculo de natureza técnica, comercial, econômica, financeira, trabalhista ou civil com dirigente do órgão ou entidade contratante ou com agente público que tenha desempenhado função na licitação, atue na fiscalização ou na gestão do contrato, ou que deles seja cônjuge, companheiro ou parente em linha reta, colateral ou por afinidade, até o terceiro grau (art. 14, inciso IV, da Lei n.º 14.133/21).
+
+### 23. Estratégia de independência (MOTec)
+
+> [!NOTE]
+> "As regras para estratégia de independência do órgão com relação à empresa contratada são elaboradas pelos Integrantes Requisitante e Técnico, devendo contemplar:
+>
+> a. Formas de substituir provisória ou definitivamente em caso de suspensão ou interrupção contratual, bem como a apresentação de fundamentos quando não for possível a independência da solução;
+>
+> b. Nos casos de contratação de desenvolvimento de softwares sob encomenda no mercado de TI, a forma de transferência de conhecimento tecnológico;
+>
+> c. Os direitos de propriedade intelectual e autorais da Solução de Tecnologia da Informação, quando aplicáveis, inclusive sobre os diversos produtos gerados ao longo do contrato, tais como a documentação, os modelos de dados e as bases de dados, justificando os casos em que tais direitos são exclusivos da empresa contratada." - MOTec
+
+#### Formas de transferência de conhecimento
+
+> [!NOTE]
+> "a. Ex: Transferência do código fonte e documentação técnica
+>
+> - Forma: Disponibilização do “Git”
+> - Prazo: Até 30 dias antes do término da vigência contratual
+>
+> b. Ex: Entrega de manuais e procedimentos de configuração/instalação
+>
+> - Forma: Em formato eletrônico
+> - Prazo: Até 30 dias da entrega do produto/serviço" - MOTec
+
+23.1. Não será necessária transferência de conhecimento devido às características do objeto.
+
+***Exemplo:***
+
+23.1. Visando garantir continuidade, reduzir riscos de dependência da contratada e possibilitar a adequada manutenção e evolução das soluções desenvolvidas, deverão ser observadas as seguintes formas e prazos de transferência:
+
+a. Transferência do código-fonte e documentação técnica
+
+- Forma: Disponibilização em repositório Git privado (com histórico de commits, versionamento e documentação técnica atualizada).
+- Prazo: Até 30 (trinta) dias antes do término da vigência contratual.
+
+b. Entrega de manuais de uso e guias de configuração/instalação
+
+- Forma: Em formato eletrônico (PDF e/ou Markdown), devidamente revisado e aprovado pela equipe técnica do órgão.
+- Prazo: Até 30 (trinta) dias após a entrega do respectivo produto/serviço.
+
+c. Sessões de capacitação e treinamento da equipe técnica
+
+- Forma: Workshops presenciais ou virtuais, com carga horária mínima de 8 (oito) horas, contemplando aspectos funcionais e técnicos da solução.
+- Prazo: Até 60 (sessenta) dias após a entrada em operação da solução.
+
+d. Transferência de conhecimento sobre processos de desenvolvimento e metodologias aplicadas
+
+- Forma: Relatório consolidado descrevendo práticas, frameworks, ferramentas de apoio (DevOps, CI/CD, testes automatizados, etc.) e boas práticas utilizadas no desenvolvimento.
+- Prazo: Até 90 (noventa) dias antes do encerramento do contrato.
+
+e. Suporte à transição de conhecimento
+
+- Forma: Disponibilização de equipe técnica da contratada para apoio remoto durante período de 30 (trinta) dias corridos após a entrega final, para esclarecimentos e resolução de dúvidas da equipe interna.
+- Prazo: Período imediatamente subsequente à entrega do último produto/serviço.
+
+f. Reuniões de alinhamento sobre a transferência de conhecimento
+
+- Forma: Serão realizadas reuniões entre a CONTRATANTE e a CONTRATADA para planejamento, acompanhamento e validação dos termos de transferência de conhecimento, podendo ocorrer de forma presencial ou virtual. Nessas reuniões deverão ser definidos os responsáveis, os produtos de conhecimento a serem entregues, os prazos e a forma de homologação pela equipe técnica do órgão.
+- Periodicidade: Sempre que solicitado pela CONTRATANTE em função de marcos relevantes do projeto.
+- Prazo: Pelo menos 90 (noventa) dias antes do fim do contrato, com ata registrada e aprovada pelas partes.
+
+##### Direitos de propriedade intelectual e autorais
+
+> [!NOTE]
+> "a. Ex: Todo o código fonte produzido e documentação técnica serão de propriedade intelectual da CONTRATANTE;
+>
+> b. A CONTRATADA não poderá comercializar ou distribuir de qualquer modo o código fonte produzido como resultado da contratação." - MOTec
+
+***Exemplo 1:***
+
+23.2. Considerando que a solução é baseada em software proprietário, o mesmo pertence à CONTRATADA e/ou FABRICANTE, sendo que, durante a vigência do contrato, o CONTRATANTE terá o direito de uso de todas as suas ferramentas, e ainda, obter as atualizações das funcionalidades existentes no licenciamento do produto;
+
+23.3. A CONTRATADA fica proibida de comercializar qualquer documentação que seja produzida no escopo específico da realização deste objeto, ficando sujeita às penalidades previstas na Lei 9609/98 em caso de descumprimento desta determinação.
+
+***Exemplo 2:***
+
+23.2. Todas as entregas decorrentes da execução do contrato, compreendendo, mas não se limitando a, códigos-fonte, artefatos técnicos, documentação técnica e operacional, diagramas, manuais, scripts, modelos de dados, especificações, bibliotecas e demais bens intangíveis produzidos no curso da prestação dos serviços contratados, terão sua titularidade plena e exclusiva cedida ao Ministério Público do Estado do Piauí (MPPI), a título universal, irrevogável e irretratável, sem ônus adicional.
+
+23.3. A CONTRATADA reconhece que tais entregas constituem propriedade intelectual da Administração Pública, nos termos das Leis nº 9.609/1998 (propriedade intelectual de programa de computador) e nº 9.610/1998 (Lei de Direitos Autorais), sendo vedada qualquer forma de utilização, reprodução, modificação, comercialização, sublicenciamento ou cessão, no todo ou em parte, a terceiros, salvo mediante autorização prévia e expressa do MPPI, por escrito.
+
+23.4. A CONTRATADA obriga-se, ainda, a garantir que os produtos e entregas decorrentes do contrato estejam livres de quaisquer ônus, encargos ou restrições relativos a direitos de terceiros. Na hipótese de incorporação de bibliotecas, componentes, ferramentas ou quaisquer elementos protegidos por licenças de terceiros, caberá à CONTRATADA assegurar que tais elementos estejam devidamente licenciados de forma compatível com os direitos ora cedidos, respondendo integralmente por quaisquer prejuízos decorrentes de eventuais violações de direitos de propriedade intelectual ou autorais.
+
+23.5. É de responsabilidade exclusiva da CONTRATADA a aquisição de software de apoio aos serviços prestados, não havendo qualquer responsabilidade da CONTRATANTE com respeito aos direitos de propriedade, inclusive os direitos autorais e outros direitos de propriedade intelectual sobre os programas.
+
+23.5.1. A utilização de componentes de propriedade da CONTRATADA ou de terceiros na construção dos programas ou quaisquer artefatos relacionados ao presente Termo de Referência, que possam afetar a propriedade do produto, deve ser formal e previamente autorizada pela CONTRATANTE. Caso ocorra, a CONTRATADA deverá fornecer esses componentes sem quaisquer ônus adicionais à CONTRATANTE, respeitando as condições de licenciamento correspondentes.
+
+23.6. É vedado à CONTRATADA qualquer tipo de reuso dos componentes e códigos desenvolvidos para a CONTRATANTE em projetos que não sejam da CONTRATANTE.
+
+### 24. Contratações correlatas/interdependentes (Lei 14.133/2021 §1º XI)
+
+### 25. Possíveis Impactos ambientais e medidas mitigadoras (Lei 14.133/2021 §1º XII)
 
 #### Impactos ambientais
 
 #### Medidas mitigadoras
 
-### 26. Do reajuste contratual
+### 26. Adequação orçamentária e cronograma (IN 94/2022 art.21)
 
-### 27. Adequação orçamentária e cronograma (IN 94/2022 art.21)
-
-### 28. Forma e Critério de seleção do fornecedor (IN 94/2022 arts. 28-29)
+### 27. Forma e Critério de seleção do fornecedor (IN 94/2022 arts. 28-29)
 
 #### Forma de seleção e Critério de julgamento da proposta
 
@@ -1794,21 +2508,21 @@ e) a previsão da exigência para realização de Prova de Conceito com o licita
 
 ##### Qualificação técnica
 
-### 29. Mapa de Gerenciamento de Riscos (Res. CNMP 283/2024 art. 45; IN 94/2022 art. 38; MOTec) - ITEM OBRIGATÓRIO
+### 28. Mapa de Gerenciamento de Riscos (Res. CNMP 283/2024 art. 45; IN 94/2022 art. 38; MOTec) - ITEM OBRIGATÓRIO
 
 > [!WARNING]
 > Pode ser feito a parte e referenciado aqui.
 
 ## VIABILIDADE
 
-### 31. Declaração de Viabilidade (Lei 14.133/2021 §1º XIII; IN 94/2022 art.11 V; MOTec) - ITENS OBRIGATÓRIOS
+### 29. Declaração de Viabilidade (Lei 14.133/2021 §1º XIII; IN 94/2022 art.11 V; MOTec) - ITENS OBRIGATÓRIOS
 
 #### Justificativa da Viabilidade/Inviabilidade
 
 > [!WARNING]
 > Este item e sua justificativa são obrigatórios
 
-### 32. Responsáveis (IN 94/2022 art. 11 §2-3; MOTec)
+### 30. Responsáveis (IN 94/2022 art. 11 §2-3; MOTec)
 
 - Integrante Requisitante
 - Integrante Técnico

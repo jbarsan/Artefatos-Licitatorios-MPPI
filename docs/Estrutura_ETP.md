@@ -1106,7 +1106,7 @@ Justificativa:
 > [!NOTE]
 > "Consiste em uma análise crítica entre as diferentes soluções, considerando o aspecto econômico (TCO) entre as Soluções e os aspectos qualitativos em termos de benefícios para o alcance dos objetivos da contratação. Como auxílio, o quadro seguinte poderá ser utilizado para comparação de alguns requisitos entre as Soluções identificadas." - MOTec
 
-***Se durante a elaboração do ETP a equipe de planejamento identificou que a substituição da solução não é viável, a equipe pode declarar que só há uma solução possível e justificar.***
+***Se durante a elaboração do ETP a equipe de planejamento identificar que a substituição da solução não é viável, a equipe pode declarar que só há uma solução possível e justificar.***
 
 #### Pesquisa inicial de preços (MOTec)
 

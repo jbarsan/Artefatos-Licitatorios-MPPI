@@ -1101,6 +1101,10 @@ Justificativa:
 
 > Definir indicadores e métricas que permitam mensurar a eficácia da solução contratada ou adquirida, garantindo monitoramento e avaliação contínua do desempenho.
 
+10.10. Pesquisa de Mercado
+
+> Verificar se há no mercado empresas para concorrer ao objeto licitado.
+
 ### 11. Análise comparativa de soluções (IN 94/2022 art. 11 II; MOTec)
 
 > [!NOTE]
@@ -1322,12 +1326,39 @@ Justificativa:
 
 - Tabela com o Cálculo TCO das soluções consideradas viáveis.
 
-### 14. Descrição da solução de TIC a ser contratada (Lei14.133/2021 §1º VII; MOTec)
+### 14. Estimativa de custo total da contratação (Lei 14.133/2021 §1º VI; IN 94/2022 art. 11 IV; MOTec) - ITEM OBRIGATÓRIO
+
+> [!NOTE]
+> Registro da estimativa do custo da contratação, considerando a Solução escolhida em formato numérico.
+
+Valor (R$): xx.xxxx,xx
+
+***Exemplo:***
+
+14.1. Os cálculos, o Mapa Comparativo de Preços e o relatório de cotação gerado pela plataforma [www.bancodeprecos.com.br](www.bancodeprecos.com.br) encontram-se devidamente anexados a este documento, para fins de comprovação da estimativa de custos e embasamento da análise de viabilidade econômica.
+
+14.2. As fontes pesquisadas para a pesquisa foram baseadas nos inciso IV do art. 5º, da IN nº 65/2021, do Ministério da Economia.
+
+14.2.1. A Justificativa para o uso exclusivo do inciso IV está descrito no relatório de cotações.
+
+ou
+
+14.2. As fontes pesquisadas para a pesquisa foram baseadas nos incisos I, II e III do art. 5º, da IN nº 65/2021, do Ministério da Economia.
+
+14.3. Foram DESCONSIDERADOS os valores superiores a 25% da média total (geral), conforme o Cap. 3, Inc. XXV do Manual de Pesquisa de Preços do STJ, bem como os valores inferiores a 75% da média simples da série de preços coletados.
+
+14.4. A Justificativa para a escolha de cada fornecedor está descrito no relatório de cotações anexado a este ETP.
+
+14.5. O método estatístico adotado foi a \<média/mediana> dos valores válidos, conforme orienta o Manual de Pesquisa de Preços do STJ 4ª edição.
+
+***Tabela descritiva com o valor estimado de cada item e valor total estimado (Não obrigatório)***
+
+### 15. Descrição da solução de TIC a ser contratada (Lei14.133/2021 §1º VII; MOTec)
 
 > [!NOTE]
 > "Após a análise comparativa das Soluções, descrever a solução escolhida. Apesar de a obrigação de justificativa do parcelamento ou não da solução ocorrer apenas na elaboração do Termo de Referência, a Equipe de Planejamento também poderá já realizar esta análise preliminar e registrar nesta seção." - MOTec
 
-14.1. A descrição da solução está disponível no ANEXO I desde documento.
+15.1. A descrição da solução está disponível no ANEXO I desde documento.
 
 #### Parcelamento da solução
 
@@ -1336,25 +1367,25 @@ Justificativa:
 
 ***Exemplo 1:***
 
-14.2. O objeto da presente licitação consiste na prestação de serviços técnicos especializados de desenvolvimento, sustentação, manutenção e evolução de sistemas no formato de Fábrica de Software, sendo licitado como um único item. Não há divisão em múltiplos itens ou lotes, garantindo clareza conceitual, compatibilidade legal e facilidade na fiscalização e acompanhamento da execução contratual.
+15.2. O objeto da presente licitação consiste na prestação de serviços técnicos especializados de desenvolvimento, sustentação, manutenção e evolução de sistemas no formato de Fábrica de Software, sendo licitado como um único item. Não há divisão em múltiplos itens ou lotes, garantindo clareza conceitual, compatibilidade legal e facilidade na fiscalização e acompanhamento da execução contratual.
 
-14.3. **Justificativas para o não parcelamento (Lei 14.133/2021 §1º VIII) - ITEM OBRIGATÓRIO**
+15.3. **Justificativas para o não parcelamento (Lei 14.133/2021 §1º VIII) - ITEM OBRIGATÓRIO**
 
-14.3.1. O único item a ser licitado é a Unidade de Serviço Técnico – UST, que nada mais é que uma métrica utilizada para mensurar serviços de Tecnologia da Informação com complexidades variadas, permitindo o controle e a precificação de serviços preestabelecidos, bem como a mensuração do esforço em situações ou problemas previamente conhecidos. Esse item precisa ser executado pela mesma CONTRATADA e sua divisão traria prejuízos e/ou inviabilizaria o desenvolvimento e a sustentação de software na CONTRATANTE, visto que, para assegurar que o resultado gerado, seja um sistema desenvolvido ou a sustentação de um sistema pré-existente, é necessário que todo o trabalho seja feito por apenas um prestador de serviço.
+15.3.1. O único item a ser licitado é a Unidade de Serviço Técnico – UST, que nada mais é que uma métrica utilizada para mensurar serviços de Tecnologia da Informação com complexidades variadas, permitindo o controle e a precificação de serviços preestabelecidos, bem como a mensuração do esforço em situações ou problemas previamente conhecidos. Esse item precisa ser executado pela mesma CONTRATADA e sua divisão traria prejuízos e/ou inviabilizaria o desenvolvimento e a sustentação de software na CONTRATANTE, visto que, para assegurar que o resultado gerado, seja um sistema desenvolvido ou a sustentação de um sistema pré-existente, é necessário que todo o trabalho seja feito por apenas um prestador de serviço.
 
-14.3.2. A não observância desta peculiaridade sujeitaria a administração pública a riscos desnecessários de descontinuidade, uma vez que se veria obrigada a coordenar ações de diferentes fornecedores, com possibilidade de ocorrência de sobreposição de responsabilidades técnicas, dado o alto grau de integração e dependência entre as atividades desempenhadas pelos profissionais.
+15.3.2. A não observância desta peculiaridade sujeitaria a administração pública a riscos desnecessários de descontinuidade, uma vez que se veria obrigada a coordenar ações de diferentes fornecedores, com possibilidade de ocorrência de sobreposição de responsabilidades técnicas, dado o alto grau de integração e dependência entre as atividades desempenhadas pelos profissionais.
 
-14.3.3. A opção pelo não parcelamento da solução visa assegurar a harmonia durante a prestação do serviço sem implicar em maior custo de fiscalização, sendo, portanto, compatível com a capacidade de fiscalização do CONTRATANTE.
+15.3.3. A opção pelo não parcelamento da solução visa assegurar a harmonia durante a prestação do serviço sem implicar em maior custo de fiscalização, sendo, portanto, compatível com a capacidade de fiscalização do CONTRATANTE.
 
 ***Exemplo 2:***
 
-14.4. O parcelamento do objeto foi realizado por meio da divisão em lotes, considerando sua viabilidade técnica e econômica, conforme dispõe o art. 40, inciso V, §§ 1º e 2º da Lei nº 14.133/2021. Tal medida visa o melhor aproveitamento das condições de mercado e a ampliação da competitividade, sem comprometer a economia de escala.
+15.4. O parcelamento do objeto foi realizado por meio da divisão em lotes, considerando sua viabilidade técnica e econômica, conforme dispõe o art. 40, inciso V, §§ 1º e 2º da Lei nº 14.133/2021. Tal medida visa o melhor aproveitamento das condições de mercado e a ampliação da competitividade, sem comprometer a economia de escala.
 
-14.5. **Justificativas para parcelamento (Lei 14.133/2021 §1º VIII) - ITEM OBRIGATÓRIO**
+15.5. **Justificativas para parcelamento (Lei 14.133/2021 §1º VIII) - ITEM OBRIGATÓRIO**
 
-14.5.1. Nessa perspectiva, torna-se obrigatória a adoção da adjudicação por lote, e não por preço global, desde que não haja prejuízo para a integridade do objeto ou perda significativa da economia de escala. A divisão tem como finalidade ampliar a participação de licitantes que, mesmo não possuindo capacidade para fornecer a totalidade do objeto, reúnam condições para atender a itens ou unidades autônomas. Nesse contexto, as exigências de habilitação devem ser compatíveis com a divisibilidade do objeto.
+15.5.1. Nessa perspectiva, torna-se obrigatória a adoção da adjudicação por lote, e não por preço global, desde que não haja prejuízo para a integridade do objeto ou perda significativa da economia de escala. A divisão tem como finalidade ampliar a participação de licitantes que, mesmo não possuindo capacidade para fornecer a totalidade do objeto, reúnam condições para atender a itens ou unidades autônomas. Nesse contexto, as exigências de habilitação devem ser compatíveis com a divisibilidade do objeto.
 
-14.5.2. A estruturação por lotes contribui para uma maior organização do certame, amplia as oportunidades de participação de micro e pequenas empresas e evita a concentração da contratação em um único fornecedor, promovendo, assim, maior competitividade e a possibilidade de obtenção de propostas mais vantajosas para a Administração Pública.
+15.5.2. A estruturação por lotes contribui para uma maior organização do certame, amplia as oportunidades de participação de micro e pequenas empresas e evita a concentração da contratação em um único fornecedor, promovendo, assim, maior competitividade e a possibilidade de obtenção de propostas mais vantajosas para a Administração Pública.
 
 ***Tabela com os itens divididos em lotes com a descrição, código CATMAT/CATSER/PDM.***
 
@@ -1367,46 +1398,19 @@ Justificativa:
 
 ***Exemplo 1:***
 
-14.6. O Ministério Público do Estado do Piauí (MPPI), ao adquirir os itens especificados nos Lotes 1, 2 e 3 desta contratação, declara, para todos os fins de direito, que o objeto da aquisição configura um conjunto de soluções de Tecnologia da Informação e Comunicação (TIC) voltado à modernização, manutenção e ampliação da infraestrutura tecnológica do órgão.
+15.6. O Ministério Público do Estado do Piauí (MPPI), ao adquirir os itens especificados nos Lotes 1, 2 e 3 desta contratação, declara, para todos os fins de direito, que o objeto da aquisição configura um conjunto de soluções de Tecnologia da Informação e Comunicação (TIC) voltado à modernização, manutenção e ampliação da infraestrutura tecnológica do órgão.
 
-14.7. A presente aquisição abrange exclusivamente a compra de componentes de armazenamento (HDs, SSDs e memórias), e acessórios de informática e equipamentos de proteção elétrica (estabilizadores e filtros de linha), com o objetivo de garantir o suporte operacional a equipamentos existentes, ampliar a capacidade técnica e assegurar o bom funcionamento do parque tecnológico do MPPI.
+15.7. A presente aquisição abrange exclusivamente a compra de componentes de armazenamento (HDs, SSDs e memórias), e acessórios de informática e equipamentos de proteção elétrica (estabilizadores e filtros de linha), com o objetivo de garantir o suporte operacional a equipamentos existentes, ampliar a capacidade técnica e assegurar o bom funcionamento do parque tecnológico do MPPI.
 
-14.8. Esta aquisição **não se enquadra nas hipóteses vedadas de execução indireta**, estando em conformidade com o disposto no artigo 19, inciso VI, da Resolução CNMP nº 283/2024, e no artigo 3º, inciso I, da Instrução Normativa SGD/ME nº 94/2022.
+15.8. Esta aquisição **não se enquadra nas hipóteses vedadas de execução indireta**, estando em conformidade com o disposto no artigo 19, inciso VI, da Resolução CNMP nº 283/2024, e no artigo 3º, inciso I, da Instrução Normativa SGD/ME nº 94/2022.
 
 ***Exemplo 2:***
 
-14.9. O Ministério Público do Estado do Piauí (MPPI) declara, para todos os fins de direito, que a presente contratação tem por objeto a prestação de serviços técnicos especializados de desenvolvimento, sustentação, manutenção e evolução de sistemas de informação, conforme metodologia ágil (Scrum) e sob a métrica de Unidade de Serviço Técnico (UST). Tal contratação visa promover a modernização contínua, a inovação tecnológica e o aprimoramento dos serviços digitais prestados pela instituição à sociedade.
+15.9. O Ministério Público do Estado do Piauí (MPPI) declara, para todos os fins de direito, que a presente contratação tem por objeto a prestação de serviços técnicos especializados de desenvolvimento, sustentação, manutenção e evolução de sistemas de informação, conforme metodologia ágil (Scrum) e sob a métrica de Unidade de Serviço Técnico (UST). Tal contratação visa promover a modernização contínua, a inovação tecnológica e o aprimoramento dos serviços digitais prestados pela instituição à sociedade.
 
-14.10. Os serviços contratados constituem uma solução de Tecnologia da Informação e Comunicação (TIC) voltada à execução sob demanda e conforme prioridades institucionais, permitindo maior agilidade e controle sobre os resultados entregues, alinhando-se às boas práticas de governança, eficiência administrativa e transformação digital.
+15.10. Os serviços contratados constituem uma solução de Tecnologia da Informação e Comunicação (TIC) voltada à execução sob demanda e conforme prioridades institucionais, permitindo maior agilidade e controle sobre os resultados entregues, alinhando-se às boas práticas de governança, eficiência administrativa e transformação digital.
 
-14.11. A presente contratação **caracteriza-se como execução indireta regular de serviços de TIC**, em conformidade com o art. 3º, inciso I, da Instrução Normativa SGD/ME nº 94/2022, por se tratar da prestação de serviços de desenvolvimento e manutenção de software por demanda, com entregas mensuráveis, padrões de qualidade definidos e foco em resultados. Ressalta-se que a contratação não se confunde com hipótese vedada de execução indireta, como a mera disponibilização de mão de obra sem produto final, nos termos do art. 19, inciso VI, da Resolução CNMP nº 283/2024.
-
-### 15. Estimativa de custo total da contratação (Lei 14.133/2021 §1º VI; IN 94/2022 art. 11 IV; MOTec) - ITEM OBRIGATÓRIO
-
-> [!NOTE]
-> Registro da estimativa do custo da contratação, considerando a Solução escolhida em formato numérico.
-
-Valor (R$): xx.xxxx,xx
-
-***Exemplo:***
-
-15.1. Os cálculos, o Mapa Comparativo de Preços e o relatório de cotação gerado pela plataforma [www.bancodeprecos.com.br](www.bancodeprecos.com.br) encontram-se devidamente anexados a este documento, para fins de comprovação da estimativa de custos e embasamento da análise de viabilidade econômica.
-
-15.2. As fontes pesquisadas para a pesquisa foram baseadas nos inciso IV do art. 5º, da IN nº 65/2021, do Ministério da Economia.
-
-15.2.1. A Justificativa para o uso exclusivo do inciso IV está descrito no relatório de cotações.
-
-ou
-
-15.2. As fontes pesquisadas para a pesquisa foram baseadas nos incisos I, II e III do art. 5º, da IN nº 65/2021, do Ministério da Economia.
-
-15.3. Foram DESCONSIDERADOS os valores superiores a 25% da média total (geral), conforme o Cap. 3, Inc. XXV do Manual de Pesquisa de Preços do STJ, bem como os valores inferiores a 75% da média simples da série de preços coletados.
-
-15.4. A Justificativa para a escolha de cada fornecedor está descrito no relatório de cotações anexado a este ETP.
-
-15.5. O método estatístico adotado foi a \<média/mediana> dos valores válidos, conforme orienta o Manual de Pesquisa de Preços do STJ 4ª edição.
-
-***Tabela descritiva com o valor estimado de cada item e valor total estimado (Não obrigatório)***
+15.11. A presente contratação **caracteriza-se como execução indireta regular de serviços de TIC**, em conformidade com o art. 3º, inciso I, da Instrução Normativa SGD/ME nº 94/2022, por se tratar da prestação de serviços de desenvolvimento e manutenção de software por demanda, com entregas mensuráveis, padrões de qualidade definidos e foco em resultados. Ressalta-se que a contratação não se confunde com hipótese vedada de execução indireta, como a mera disponibilização de mão de obra sem produto final, nos termos do art. 19, inciso VI, da Resolução CNMP nº 283/2024.
 
 ### 16. Justificativa técnica da escolha da solução
 
@@ -1475,7 +1479,7 @@ alinhamento estratégico.
 
 ***Exemplo:***
 
-19.1 Conforme estabelecido no Art. 18, inciso X da Lei nº 14.133, de 1º de abril de 2021, e considerando as diretrizes da Resolução CNMP nº 283, de 5 de fevereiro de 2024, o Ministério Público do Estado do Piauí (MPPI) tomará as seguintes providências prévias ao contrato para a aquisição dos objetos deste documento:
+19.1. Conforme estabelecido no Art. 18, inciso X da Lei nº 14.133, de 1º de abril de 2021, e considerando as diretrizes da Resolução CNMP nº 283, de 5 de fevereiro de 2024, o Ministério Público do Estado do Piauí (MPPI) tomará as seguintes providências prévias ao contrato para a aquisição dos objetos deste documento:
 
 - Definir a Equipe de Gestão e Fiscalização do contrato, conforme disposto no artigo 36 da Resolução CNMP nº 283/2024, composta por fiscal técnico, requisitante, administrativo e gestor do contrato, além de seus substitutos, devidamente designados por portaria emitida pela autoridade competente do MPPI e seguindo o disposto no ATO PGJ/PI nº 462/2013.
 - Assegurar que o contrato inclua cláusulas de proteção e segurança de dados, bem como requisitos de conformidade com a Lei Geral de Proteção de Dados (LGPD).
@@ -1715,30 +1719,27 @@ e) a previsão da exigência para realização de Prova de Conceito com o licita
 
 21.19. O pagamento só será realizado após a emissão do Termo de Recebimento Definitivo pelos fiscais do contrato, e pelo recebimento da Nota Fiscal e demais certidões negativas, conforme descritas nos itens "Procedimentos para pagamento" deste documento.
 
-#### Vigência contratual
+#### Vigência e alterações contratuais
+
+##### Da vigência contratual
 
 > [!NOTE]
 > "Definir o prazo de vigência contratual observado os limites dispostos nos Arts 105 a 114 da lei 14.133/2021." - MOTec
 
-***Exemplo 1:***
+***Exemplo 1 - artigo 105:***
 
 21.20. O prazo de vigência contratual é de 12 (doze) meses contados a partir da data de sua assinatura, com eficácia após a publicação do seu extrato no Diário Oficial do Ministério Público do Estado do Piauí, na forma do artigo 105 da Lei n° 14.133, de 2021, por se tratar de fornecimento nãocontínuo de bens de caráter permanente.
 
-***Exemplo 2 - Com vigência da Ata de Registro de Preços:***
-
-21.20. A vigência da Ata de Registro de Preços será de 12 (doze) meses, contados a partir da data de sua assinatura, com eficácia após a publicação do seu extrato no Diário Oficial do Ministério Público do Estado do Piauí, prorrogável por mais 12 (doze) meses, na forma do artigo 84 da Lei nº 14.133, de 2021, desde que comprovado o preço vantajoso.
-
-21.20.1. Em caso de prorrogação da ata, poderá ser renovado o quantitativo originalmente registrado, conforme o Parecer 75/2024/DECOR/CGU/AGU.
+***Exemplo 2 - artigos 106 e 107:***
 
 21.21. A vigência do contrato será de \<xx (por extenso)> meses, contados a partir da data de sua assinatura, com eficácia após a publicação do seu extrato no Diário Oficial do Ministério Público do Estado do Piauí, prorrogável para até 120 (cento e vinte) meses, na forma dos artigos 106 e 107 da Lei nº 14.133, de 2021.
 
-***Exemplo 3: Serviço estruturante de TIC***
-
-21.20. A vigência da Ata de Registro de Preços será de 12 (doze) meses, contados a partir da data de sua assinatura, com eficácia após a publicação do seu extrato no Diário Oficial do Ministério Público do Estado do Piauí, prorrogável por mais 12 (doze) meses, na forma do artigo 84 da Lei nº 14.133, de 2021, desde que comprovado o preço vantajoso.
-
-21.20.1. Em caso de prorrogação da ata, poderá ser renovado o quantitativo originalmente registrado, conforme o Parecer 75/2024/DECOR/CGU/AGU.
+***Exemplo 3: Serviço estruturante de TIC - artigo 114***
 
 21.21. Tratando-se de contratação que prevê operação continuada de sistemas estruturantes de tecnologia da informação, prazo de vigência da contratação é de \<xx (por extenso)> meses, prorrogável para até 15 anos, contados do(a) a partir da data de sua assinatura, com eficácia após a publicação do seu extrato no Diário Oficial do Ministério Público do Estado do Piauí, na forma do artigo 114 da Lei n° 14.133, de 2021.
+
+> [!TIP]
+> Acrescentar o item abaixo se a contratação/aquisição for enquadrada como continuada. Ver ATO PGJ/PI 1415/2024.
 
 21.21.1. O serviço é enquadrado como continuado tendo em vista que é um serviço considerado essencial, uma vez que irá fazer o desenvolvimento de soluções que estão na relação de demandas pendentes da Coordenadoria de Tecnologia da Informação e atualização dos sistemas da área finalística e administrativa deste MPPI.
 
@@ -1746,6 +1747,24 @@ e) a previsão da exigência para realização de Prova de Conceito com o licita
 > O [Ato PGJ/PI nº 1.415, de 3 de julho de 2024](https://www.mppi.mp.br/internet/wp-content/uploads/2024/07/ATO-1415-2024.pdf), estabelece a relação dos serviços considerados de natureza continuada, dispondo no artigo 5º que o prazo inicial dos respectivos contratos deverá ser de 24 (vinte e quatro) meses, salvo justificativa de prazo inferior, conforme regras de mercado, podendo atingir o período decenal.
 
 21.21.2. Conforme o art. 5º do Ato PGJ/PI nº 1415, de 3 de julho de 2024, a vigência dos contratos de serviços terão validade mínima de 24 (vinte e quatro) meses, salvo justificativa de prazo inferior.
+
+##### Da Vigência da ata de Registro de Preços
+
+21.20. A vigência da Ata de Registro de Preços será de 12 (doze) meses, contados a partir da data de sua assinatura, com eficácia após a publicação do seu extrato no Diário Oficial do Ministério Público do Estado do Piauí, prorrogável por mais 12 (doze) meses, na forma do artigo 84 da Lei nº 14.133, de 2021, desde que comprovado o preço vantajoso.
+
+21.20.1. Em caso de prorrogação da ata, poderá ser renovado o quantitativo originalmente registrado, conforme o Parecer 75/2024/DECOR/CGU/AGU.
+
+##### Das prorrogações
+
+Para fins de renovação/prorrogação contratual, o GESTOR DO CONTRATO, com base no Histórico de Gestão do Contrato e nos princípios da manutenção da necessidade, economicidade e oportunidade da contratação, deverá encaminhar à Área Administrativa, com pelo menos 60 (sessenta) dias de antecedência do término do CONTRATO, a respectiva documentação para o aditamento (art. 36 da Instrução Normativa SGD/ME Nº 94 de 23/12/2022.
+
+##### Das alterações contratuais
+
+Nos termos da legislação em vigor, durante a fase de execução da prestação dos serviços, o CONTRATO poderá ser alterado, desde que justificadamente, na forma e nos limites previstos no art. 124 da Lei nº 14.133/2021. As alterações contratuais devem ser promovidas mediante celebração de termo aditivo, que deverá ser submetido à prévia aprovação da consultoria jurídica do CONTRATANTE.
+
+Os acréscimos e as supressões do objeto contratual devem ser sempre calculados sobre o valor inicial do contrato atualizado, aplicando-se de forma isolada os limites percentuais previstos em lei ao conjunto de acréscimos e supressões, vedada a compensação de acréscimos e supressões entre itens distintos, não se admitindo que a supressão de quantitativos de um ou mais itens seja compensada por acréscimos de itens diferentes ou pela inclusão de novos itens.
+
+No âmbito do mesmo item, o restabelecimento parcial ou total de quantitativo anteriormente suprimido não representa compensação vedada, desde que sejam observadas as mesmas condições e preços iniciais pactuados, não haja fraude ao certame ou à contratação direta, jogo de planilha, nem descaracterização do objeto, sendo juridicamente possível, além do restabelecimento, a realização de aditamentos para novos acréscimos ou supressões, observados os limites legais para alterações do objeto em relação ao valor inicial e atualizado do contrato.
 
 #### Termo de ciência de manutenção de sigilo (Art. 24, inciso VI, da Resolução CNMP nº 283/2024)
 
@@ -1796,7 +1815,7 @@ e) a previsão da exigência para realização de Prova de Conceito com o licita
 
 22.8.1. Presença do representante legal da CONTRATADA, que apresentará o seu preposto.
 
-22.8.2. Apresentação dos prepostos da CONTRATADA e da equipe de acompanhamento e fiscalização do contrato pela CONTRATANTE, validação dos requisitos contratuais, definição do cronograma de inserção, apresentação da equipe técnica, assinatura dos termos de responsabilidade e sigilo (ANEXOS \<X> e \<Y>) e apresentação da estrutura organizacional da CONTRATANTE.
+22.8.2. Apresentação dos prepostos da CONTRATADA e da equipe de acompanhamento e fiscalização do contrato pela CONTRATANTE, validação dos requisitos contratuais, definição do cronograma de inserção, apresentação da equipe técnica, assinatura dos termos de responsabilidade e sigilo (ANEXOS \<X> e \<Y>) e apresentação da estrutura organizacional do CONTRATANTE.
 
 22.8.3. A Carta de apresentação do Preposto deverá conter no mínimo o nome completo e CPF do funcionário da empresa designado para acompanhar a execução do contrato e atuar como interlocutor principal junto à CONTRATANTE, incumbido de receber, diligenciar, encaminhar e responder as principais questões técnicas, legais e administrativas referentes ao andamento contratual.
 

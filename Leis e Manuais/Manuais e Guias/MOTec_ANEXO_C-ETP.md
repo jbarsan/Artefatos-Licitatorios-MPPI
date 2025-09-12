@@ -672,9 +672,15 @@ Exemplo de Métrica 2:
 
 > Utilização de relatórios, softwares, pesquisas ou outros métodos de avaliação da solução contratada.
 
-##### **4.12.5. Forma de obtenção das informações**
+##### **4.12.5. Forma de obtenção das informações para gestão e fiscalização**
 
 > Definir os critérios e métodos utilizados para levantamento de informações, coerentes com os mecanismos de inspeção e avaliação da solução, dando transparência aos procedimentos de gestão contratual.
+
+***Exemplo:***
+
+Durante a execução contratual será mantido histórico de gestão do CONTRATO, contendo registros formais de todas as ocorrências positivas e negativas da execução, por ordem histórica, a cargo do GESTOR do CONTRATO.
+
+Após a assinatura do CONTRATO e indicação formal dos responsáveis por sua gestão e fiscalização, será elaborado referencial com base no MODELO DE GESTÃO com definição dos processos de fiscalização do CONTRATO, contendo a metodologia de fiscalização, os documentos ou as ferramentas, computacionais ou não, e controles adotados, recursos materiais e humanos disponíveis e necessários à fiscalização, entre outros.
 
 ##### **4.12.6. Listas de verificação e de roteiros de teste aplicáveis**
 

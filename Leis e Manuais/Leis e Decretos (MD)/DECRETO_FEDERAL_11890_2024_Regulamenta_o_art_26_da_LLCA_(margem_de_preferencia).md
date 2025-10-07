@@ -19,7 +19,7 @@ Art. 2º Para fins do disposto neste Decreto, considera-se:
 * I - margem de preferência normal - diferencial de preços que ocorre entre: (Redação dada pelo [Decreto nº 12.218, de 2024](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/decreto/D12218.htm))
 
   * a) produtos manufaturados nacionais e produtos manufaturados estrangeiros; (Redação dada pelo [Decreto nº 12.218, de 2024](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/decreto/D12218.htm))
-    b) serviços nacionais e serviços estrangeiros; ou (Redação dada pelo [Decreto nº 12.218, de 2024](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/decreto/D12218.htm))
+  * b) serviços nacionais e serviços estrangeiros; ou (Redação dada pelo [Decreto nº 12.218, de 2024](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/decreto/D12218.htm))
   * c) bens reciclados, recicláveis ou biodegradáveis e bens não enquadrados como tais; (Incluído pelo [Decreto nº 12.218, de 2024](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/decreto/D12218.htm))
 
 * II - margem de preferência adicional - diferencial de preços que ocorre entre:  (Redação dada pelo [Decreto nº 12.218, de 2024](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/decreto/D12218.htm))

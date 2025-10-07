@@ -244,6 +244,8 @@ Este modelo foi elaborado seguindo as orientações da Coordenadoria de Licitaç
 
 ***8.2.15. NBR14373 DE 12/2006: Fixa os requisitos mínimos exigíveis de desempenho e segurança para estabilizadores de tensão monofásica ou bifásica, com saída de tensão alternada, com tensão nominal até 250 V em potências de até 3 kVA/3 kW, destinados a equipamentos eletrônicos, de informática e de telecomunicações.***
 
+***8.2.16. NBR14913 DE 12/2002: fixa os requisitos exigíveis na fabricação, dimensionamento, segurança, funcionamento e acabamento superficial de fechaduras de embutir para serem empregadas nas portas externas, internas e de banheiro de edificações.***
+
 > Listar demais leis, normas, portarias e etc que forem necessários.
 
 ---

@@ -487,8 +487,6 @@ OU
 
 ### Direitos de propriedade intelectual e autorais
 
-### Procedimentos de transição e finalização do contrato
-
 ## 7. Modelo de Gestão do Contrato
 
 ### Reunião inicial

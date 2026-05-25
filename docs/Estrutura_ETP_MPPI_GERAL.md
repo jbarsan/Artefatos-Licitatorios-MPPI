@@ -30,6 +30,8 @@ Este modelo foi elaborado seguindo as orientações da Coordenadoria de Licitaç
 
 > [!WARNING]
 > O histórico de revisões deve ser atualizado a cada nova alteração no documento.
+>
+> Todas as alterações no documento devem ser registradas com data, versão, descrição das alterações e o autor.
 
 <table border="1" style="width:100%;">
 
@@ -51,9 +53,11 @@ Este modelo foi elaborado seguindo as orientações da Coordenadoria de Licitaç
 ### 3. Previsão da contratação no PCA/MPPI (Lei 14.133/2021 §1º II; IN 94/2022 art. 6; MOTec) - ITEM OBRIGATÓRIO
 
 > [!NOTE]
+> Todas as contratações devem estar registradas no Plano de Contratações Anual do ano corrente e devem ser registradas nesta seção com o código do item, a descrição e o link para o PCA ou documento anexado.
+>
 > É obrigatório anexar ou referenciar o endereço do PCA/MPPI do ano vigente.
 
-3.1. O objeto da contratação está previsto no Plano de Contratações Anual \<ANO>, conforme detalhamento a seguir:
+X.X. O objeto da contratação está previsto no Plano de Contratações Anual \<ANO>, conforme detalhamento a seguir:
 
 <table border="1" style="width:100%;">
     <tr>
@@ -66,9 +70,9 @@ Este modelo foi elaborado seguindo as orientações da Coordenadoria de Licitaç
     </tr>
 </table>
 
-3.2. O Plano de Contratações Anual (PCA) ano 2025 do MPPI está disponível no endereço abaixo:
+X.X. O Plano de Contratações Anual (PCA) ano 20XX do MPPI está disponível no endereço abaixo:
 
-- [PCA MPPI 2025](https://www.mppi.mp.br/internet/wp-content/uploads/2025/05/Plano-de-Contratacao-Anual-2025-versao-2.0.pdf)
+- [PCA MPPI 202X](https://www.mppi.mp.br/internet/coordenadoria-de-licitacoes-e-contratos/oordenadoria-de-licitacoes-e-contratos-plano-anual-de-contratacao/)
 
 ---
 
@@ -76,7 +80,10 @@ Este modelo foi elaborado seguindo as orientações da Coordenadoria de Licitaç
 
 ### 4. Descrição da necessidade (Lei 14.133/2021 §1º I; IN 94/2022 art. 11º I; MOTec; ETP Digital) - ITEM OBRIGATÓRIO
 
-#### 4.1. Motivação/Justificativa
+> [!NOTE]
+> Descrição da necessidade para o órgão, entidade ou determinado público alvo que a contratação se propõe a atender. A descrição necessidade pode ser realizada por meio da declaração da situação problema a ser enfrentada ou da oportunidade de negócio a ser alcançada, incluindo a discriminação do valor a ser entregue à organização ou público alvo.
+
+#### Motivação/Justificativa
 
 - Contextualizar o papel do MPPI (e da unidade requisitante, quando pertinente), identificando a demanda a partir do problema a ser resolvido sob a ótica do interesse público. A descrição deve ser objetiva, clara e relacionada ao caso concreto que motivou a contratação.
 
@@ -84,25 +91,12 @@ Este modelo foi elaborado seguindo as orientações da Coordenadoria de Licitaç
 
 - Apresentar, de forma fundamentada e motivada, a justificativa da necessidade da contratação, evidenciando sua relevância para o alcance dos objetivos institucionais.
 
-#### 4.2. Necessidades
+#### Necessidades
 
 > [!NOTE]
 > Esta seção apresenta pontos que podem se sobrepor às necessidades de negócio e tecnológicas (obrigatórias). Recomenda-se cautela para evitar redundâncias ou repetições desnecessárias. Caso a equipe verifique que as demais seções obrigatórias já contemplam integralmente as necessidades do órgão, sugere-se a supressão desta parte. (J. Carlos)
 
 - Listar as necessidades do MPPI (ou da unidade que está requisitando)
-
-***Exemplo:***
-
-4.2.1. As principais necessidades do GAECO a serem atendidas com esta contratação inclui um software ou sitema que/com:
-
-- Incorpore funcionalidades avançadas de reconhecimento facial em imagens e vídeos.
-- Capacidade de análise de dados visuais em larga escala, com alto desempenho e precisão.
-- Capacidade de gestão integrada de casos, permitindo o acompanhamento detalhado e organizado das investigações em curso.
-- Possua funcionalidades de monitoramento, auditoria e geração de relatórios, garantindo transparência e rastreabilidade das ações realizadas.
-- Possua conformidade com os parâmetros legais e normativos vigentes no âmbito do MPPI e da legislação nacional.
-- Possua capacidade de realizar pesquisas e identificações com base em imagens publicamente disponíveis online, ampliando as fontes de evidências investigativas.
-- Apoie à produção de provas digitais robustas e confiáveis, com respaldo técnico adequado.
-- Contribua para a resolução ágil e eficaz de casos sob responsabilidade do GAECO, reduzindo a impunidade e fortalecendo o combate ao crime organizado.
 
 ### 5. Área requisitante (ETP DIGITAL; MOTec)
 
@@ -136,19 +130,10 @@ Este modelo foi elaborado seguindo as orientações da Coordenadoria de Licitaç
 > São as demandas ou problemas que a organização precisa resolver.
 >
 > Representam o "porquê" da contratação.
-
-***Exemplo:***
-
-6.1. A presente contratação orienta-se pelas seguintes necessidades de negócio:
-
-- Aprimorar a eficiência e a precisão das investigações criminais conduzidas pelo GAECO, por meio do uso de tecnologias avançadas de análise visual.
-- Reduzir o tempo de identificação de suspeitos, acelerando a coleta de provas e a tomada de decisões durante as investigações.
-- Expandir a capacidade de análise de imagens e vídeos em larga escala, utilizando inteligência artificial para apoiar a seleção e o cruzamento de informações relevantes.
-- Centralizar e integrar os dados das investigações, promovendo maior organização, controle e rastreabilidade dos processos.
-- Reforçar a conformidade, a transparência e a segurança da informação, assegurando aderência à legislação vigente, às normas internas do MPPI e às boas práticas de proteção de dados.
-- Ampliar as fontes de apuração e evidências investigativas, com a possibilidade de utilização de dados disponíveis em plataformas públicas online.
-- Assegurar confiabilidade e continuidade operacional, mediante o uso de solução tecnológica estável, atualizada e suportada oficialmente pelo fornecedor.
-- Fortalecer a capacidade institucional do GAECO no combate ao crime organizado, por meio da adoção de ferramentas modernas que aumentem sua efetividade e agilidade de resposta.
+>
+> Conforme o inciso I, do art. 11, da IN SGD/ME nº 94, de 2022, o órgão demandante deve definir e especificar as necessidades de negócio que a contratação via atender. Essas necessidades podem ser descristas por meio de declarações de metas de negócio, objetivos ou resultados que descrevem o porquê do planejamento da contratação. Essas necessidades podem se aplicar a toda à entidade, a uma área de negócios, a uma iniciativa específica ou a determinado público alvo.
+>
+> A definição das necessidades de negócio representa o detalhamento do objeto a ser contratado - O QUE a solução deve prover, independentemente da tecnologia que se empregue ou dos padrões tecnológicos da instituição.
 
 ### 7. Necessidades tecnológicas (IN 94/2022 art.11 I;)
 
@@ -159,25 +144,19 @@ Este modelo foi elaborado seguindo as orientações da Coordenadoria de Licitaç
 >
 > Assim, teremos no ETP a visão estratégica (negócio) e a tradução técnica (tecnológica), alinhado ao que a IN 94/2022 pede.
 
-***Exemplo:***
-
-- Plataforma de reconhecimento facial com algoritmos avançados de inteligência artificial e aprendizado de máquina, capaz de operar em ambientes de alta carga de processamento.
-- Infraestrutura tecnológica escalável, permitindo análise em larga escala de imagens e vídeos sem comprometer desempenho.
-- Integração nativa ou por meio de APIs com o sistema de gestão de casos do MPPI, garantindo centralização e consistência das informações investigativas.
-- Módulos de auditoria e trilhas de acesso, assegurando rastreabilidade completa das operações realizadas na plataforma.
-- Recursos de geração de relatórios automatizados e personalizáveis, para acompanhamento detalhado das atividades e suporte à tomada de decisão.
-- Mecanismos de conformidade e segurança da informação, alinhados à LGPD, às normas internas do MPPI e às boas práticas de proteção de dados.
-- Capacidade de pesquisa em bases públicas online, com motores de busca otimizados para imagens e vídeos.
-- Solução oficial do fabricante, com suporte técnico especializado, garantia de atualizações contínuas e mitigação de riscos jurídicos e operacionais.
-- Ambiente seguro para armazenamento e processamento de evidências digitais, assegurando autenticidade, integridade e validade probatória.
-- Disponibilidade e confiabilidade operacional elevadas, garantindo continuidade dos serviços críticos para o GAECO.
-
 ### 8. Demais requisitos necessários e suficientes à escolha da solução de TIC (Lei 14.133/2021 §1º III; IN 94/2022 art. 16; MOTec)
+
+> [!NOTE]
+> Deve-se descrever todos os requisitos indispensáveis ao atendimento à necessidade de negócio e garantindo-se a economicidade da contratação. Nessa seção pode-se detalhar:
+>
+> * a) os requisitos Internos Funcionais, que são aqueles ligados diretamente às funcionalidades esperadas pela área requisitante e necessárias aos usuários finais, de maneira a atender à necessidade da contratação.
+> * b) Requisitos Internos Não Funcionais, que não estão vinculados diretamente à necessidade da contratação (a exemplo de requisitos de disponibilidade, usabilidade, acessibilidade, integridade, segurança) ou ainda relacionado a atendimaneto a padrões internos da organização.
+> * c) Requisitos Externos, que são os gerados fora da organização, a exemplo de demandas legais, regulatórias e de padronização estabelecidas pelo Governo Federal.
 
 > [!TIP]
 > As categorias listadas abaixo estão todas conforme o MOTec.
 
-#### Requisitos de Negócio
+#### Requisitos de Negócio (Resolução CNMP 283/2024, Art. 17, inciso I, alínea 'a')
 
 > [!NOTE]
 > "Descrever os requisitos de negócio, que independem de características tecnológicas e que definem as necessidades e os aspectos funcionais da Solução de TI" - MOTec
@@ -186,22 +165,16 @@ Este modelo foi elaborado seguindo as orientações da Coordenadoria de Licitaç
 >
 > Representam o "o quê" deve ser entregue.
 
-***Exemplo:***
+---
 
-8.1. Para atender às necessidades descritas, a solução contratada deve contemplar os seguintes requisitos de negócio:
+#### Dos Requisitos de capacitação técnica (Resolução CNMP 283/2024, Art. 17, inciso I, alínea 'b' e 'l')
 
-- Reconhecimento facial avançado em imagens e vídeos, com alto nível de precisão.
-- Mecanismos de análise massiva de dados visuais, com desempenho escalável.
-- Funcionalidade de integração entre o sistema de análise visual e a plataforma de gestão de casos.
-- Ferramentas de auditoria, monitoramento e geração de relatórios, assegurando rastreabilidade das ações realizadas.
-- Conformidade com a legislação nacional, normas internas do MPPI e boas práticas de segurança da informação.
-- Capacidade de realizar buscas e identificações em imagens publicamente disponíveis online.
-- Garantia de suporte oficial e atualizações contínuas, fornecidas diretamente pelo fabricante da solução.
-- Ambiente confiável para produção de provas digitais, assegurando robustez técnica e validade jurídica.
+> [!NOTE]
+> "Definir a necessidade de treinamento técnico para a equipe de TI sustentar a solução implantada, o ambiente tecnológico dos treinamentos a serem ministrados, os perfis dos instrutores, carga horária, material didático, ementa dentre outros." - MOTEc
 
 ---
 
-#### Requisitos legais
+#### Dos Requisitos legais (Resolução CNMP 283/2024, Art. 17, inciso I, alínea 'c')
 
 > [!NOTE]
 > "Definir as normas com as quais a Solução de TI deve estar em conformidade ex: Lei nº 13.709, de 14 de agosto de 2018 (Lei Geral de Proteção de Dados), Resoluções, Instruções Normativas, Normas ABNT etc". - MOTec
@@ -212,63 +185,29 @@ Este modelo foi elaborado seguindo as orientações da Coordenadoria de Licitaç
 
 ***Exemplo (O texto abaixo é padrão e deve ser reproduzido nos ETPs elaborados, sempre se atentando às alterações necessárias):***
 
-8.2. O presente processo de aquisição deve estar aderente à:
-
-8.2.1. Constituição Federal de 1988.
-
-8.2.2. Lei Complementar nº 123/2006: Institui o Estatuto Nacional da Microempresa e da Empresa de Pequeno Porte, e dá outras providências.
-
-8.2.3. Lei Federal nº 14.133/2021: Estabelece normas gerais de licitação e contratação para as Administrações Públicas diretas, autárquicas e fundacionais da União, dos Estados, do Distrito Federal e dos Municípios.
-
-8.2.4. Lei Federal nº 13.709/2018: Dispõe sobre o tratamento de dados pessoais, inclusive nos meios digitais, por pessoa natural ou por pessoa jurídica de direito público ou privado, com o objetivo de proteger os direitos fundamentais de liberdade e de privacidade e o livre desenvolvimento da personalidade da pessoa natural.
-
-8.2.5. Decreto Federal nº 7.845/2012: Regulamenta procedimentos para credenciamento de segurança e tratamento de informação classificada em qualquer grau de sigilo, e dispõe sobre o Núcleo de Segurança e Credenciamento.
-
-8.2.6. Decreto Federal 11.246/2022: Regulamenta o disposto no § 3º do Art. 8º da Lei nº 14.133, de 1º de abril de 2021, para dispor sobre as regras para a atuação do agente de contratação e da equipe de apoio, o funcionamento da comissão de contratação e a atuação dos gestores e fiscais de contratos.
-
-8.2.7. Decreto Estadual nº 21.872, de 07 de março de 2023: Regulamenta a Lei Federal nº 14.133, de 1º de abril de 2021 no âmbito do Poder Executivo Estadual, para tratar de governança, fase preparatória e procedimental das licitações e contratações diretas para a aquisição de bens, contratações de serviços, obras e serviços de engenharia e sobre bens de luxo.
-
-8.2.8. IN SGD/ME nº 94/2022: Dispõe sobre o processo de contratação de soluções de Tecnologia da Informação e Comunicação - TIC pelos órgãos e entidades integrantes do Sistema de Administração dos Recursos de Tecnologia da Informação - SISP do Poder Executivo Federal. Instrução Normativa utilizada por falta de regulamentação local ou Estadual vigente e atualizada.
-
-8.2.9. IN SEGES/ME nº 65/2021: Dispõe sobre o procedimento administrativo para a realização de pesquisa de preços para aquisição de bens e contratação de serviços em geral.
-
-8.2.10. Resolução CNMP nº 283/2024: Disciplina, no âmbito do Ministério Público, os procedimentos relativos à contratação de Soluções de Tecnologia da Informação.
-
-8.2.11. Resolução CNMP nº 156/2016: Institui a Política de Segurança Institucional e o Sistema Nacional de Segurança Institucional do Ministério Público, e dá outras providências.
-
-***8.2.12. Portaria SGD/ME nº 5.651, de 22 de junho de 2022: Estabelece modelo para a contratação de serviços de desenvolvimento, manutenção e sustentação de software, no âmbito dos órgãos e entidades integrantes do Sistema de Administração dos Recursos de Tecnologia da Informação - SISP do Poder Executivo Federal.***
-
-***8.2.13. Portaria SGD/MGI nº 370, de 8 de março de 2023: Institui o Modelo de Contratação de Serviços de Outsourcing de Impressão, no âmbito dos órgãos e das entidades integrantes do Sistema de Administração dos Recursos de Tecnologia da Informação - SISP do Poder Executivo Federal.***
-
-***8.2.14. NBR14136 DE 09/2012: Fixa as dimensões de plugues e tomadas de características nominais até 20 A/250 V em corrente alternada, para uso doméstico e análogo, para a ligação a sistemas de distribuição com tensões nominais compreendidas entre 100 V e 250 V em corrente alternada.***
-
-***8.2.15. NBR14373 DE 12/2006: Fixa os requisitos mínimos exigíveis de desempenho e segurança para estabilizadores de tensão monofásica ou bifásica, com saída de tensão alternada, com tensão nominal até 250 V em potências de até 3 kVA/3 kW, destinados a equipamentos eletrônicos, de informática e de telecomunicações.***
-
-***8.2.16. NBR14913 DE 12/2002: fixa os requisitos exigíveis na fabricação, dimensionamento, segurança, funcionamento e acabamento superficial de fechaduras de embutir para serem empregadas nas portas externas, internas e de banheiro de edificações.***
+X.X. O presente processo de contratação está aderente à Constituição Federal, à Lei nº 14.133, de 2021, à Instrução Normativa SGD/ME nº 94, de 2022, Instrução Normativa SEGES/ME nº 65, de 7 de julho de 2021, Decreto Estadual (PI) nº 21.872/2023, Lei nº 13.709, de 2018 (Lei Geral de Proteção de Dados Pessoais – LGPD), Resolução CNMP nº 283/2024, CNMP MOTec v1.0 e a outras legislações aplicáveis.
 
 > Listar demais leis, normas, portarias e etc que forem necessários.
 
 ---
 
-#### Requisitos temporais
+#### Dos Requisitos de manutenção (Resolução CNMP 283/2024, Art. 17, inciso I, alínea 'd')
 
 > [!NOTE]
-> "Definir datas de entrega da Solução de TI, cronogramas ou prazos das principais atividades, entregas ou produtos" - MOTec
-
-***Exemplo:***
-
-8.3. Os objetos deverão seguir os seguintes prazos:
-
-- Entrega da solução (software/sistema/Bem contratado/adquirido): Até 30 dias corridos contados a partir da confirmação do recebimento da Ordem de Serviço/Ordem de Fornecimento de Bens. (***Sempre utilizar o termo "a partir da confirmação do recebimento da Ordem de Serviço/Ordem de Fornecimento de Bens".***)
-- Implantação, configuração e integração ao ambiente do MPPI: 20 dias corridos (Inclui testes e ajustes de conformidade.)
-- Capacitação dos usuários e equipe técnica: 10 dias corridos (Treinamentos presenciais ou remotos.)
-- Aceite definitivo da solução: Até 15 dias corridos (Após homologação técnica e verificação de requisitos.)
-
-8.3.1. Maiores informações sobre a entrega dos objetos/serviços serão definidas na seção "Prazos, horários e locais de entrega".
+> "Definir se o objeto a ser contrato vai precisar de manutenção preventiva e/ou corretiva, o objetivo da manutenção e o que deve ser feito. Esse item pode ser mesclado com o item **Requisitos de garantia, manutenção e assistência técnica**"
 
 ---
 
-#### Requisitos de segurança e privacidade
+#### Dos Requisitos temporais (Resolução CNMP 283/2024, Art. 17, inciso I, alínea 'e')
+
+> [!NOTE]
+> "Definir datas de entrega da Solução de TI, cronogramas ou prazos das principais atividades, entregas ou produtos" - MOTec
+>
+> Qualquer data importante para a solução deve ser informada aqui.
+
+---
+
+#### Dos Requisitos de segurança e privacidade (Resolução CNMP 283/2024, Art. 17, inciso I, alínea 'f')
 
 > [!NOTE]
 > "Definir requisitos de segurança física e lógica, resoluções, ordens de serviço, diretrizes sobre segurança institucional ou qualquer outro normativo que se aplique a necessidade de contratação". - MOTec
@@ -278,27 +217,27 @@ Este modelo foi elaborado seguindo as orientações da Coordenadoria de Licitaç
 > [!TIP]
 > O texto abaixo possui caráter de referência e pode ser utilizado como modelo. Recomenda-se sua cópia e adaptação conforme as especificidades de cada contratação ou necessidade identificada.
 
-8.4. A CONTRATADA deverá manter sigilo absoluto sobre quaisquer dados e informações contidos em documentos, mídias, equipamentos e respectivos meios de armazenamento, aos quais venha a ter acesso durante a execução do contrato. É vedada qualquer forma de divulgação, reprodução ou uso dessas informações, independentemente da classificação de sigilo atribuída pelo CONTRATANTE, sob pena de sanções legais.
+X.X. A CONTRATADA deverá manter sigilo absoluto sobre quaisquer dados e informações contidos em documentos, mídias, equipamentos e respectivos meios de armazenamento, aos quais venha a ter acesso durante a execução do contrato. É vedada qualquer forma de divulgação, reprodução ou uso dessas informações, independentemente da classificação de sigilo atribuída pelo CONTRATANTE, sob pena de sanções legais.
 
-8.5. Os serviços prestados deverão estar em conformidade com as leis, normas e diretrizes do Governo Federal relacionadas à Segurança da Informação, Privacidade e à Lei Geral de Proteção de Dados Pessoais (LGPD), conforme a Lei nº 13.709, de 14 de agosto de 2018, além do tratamento de informações classificadas, conforme a legislação vigente.
+X.X. Os serviços prestados deverão estar em conformidade com as leis, normas e diretrizes do Governo Federal relacionadas à Segurança da Informação, Privacidade e à Lei Geral de Proteção de Dados Pessoais (LGPD), conforme a Lei nº 13.709, de 14 de agosto de 2018, além do tratamento de informações classificadas, conforme a legislação vigente.
 
-8.6. É proibida a divulgação, reprodução ou utilização de qualquer informação a qualquer título, exceto mediante autorização prévia.
+X.X. É proibida a divulgação, reprodução ou utilização de qualquer informação a qualquer título, exceto mediante autorização prévia.
 
-8.7. Caso o serviço ou objeto contratado envolva armazenamento em nuvem, a CONTRATADA deverá garantir a disponibilidade, integridade, confidencialidade e autenticidade das informações armazenadas nesse ambiente.
+X.X. Caso o serviço ou objeto contratado envolva armazenamento em nuvem, a CONTRATADA deverá garantir a disponibilidade, integridade, confidencialidade e autenticidade das informações armazenadas nesse ambiente.
 
-8.8. Se o serviço ou objeto exigir a presença física de funcionários da CONTRATADA, esta deverá seguir os procedimentos de segurança corporativa do CONTRATANTE e da Administração Pública, tanto para eventos presenciais quanto virtuais, envolvendo seus prepostos e/ou funcionários.
+X.X. Se o serviço ou objeto exigir a presença física de funcionários da CONTRATADA, esta deverá seguir os procedimentos de segurança corporativa do CONTRATANTE e da Administração Pública, tanto para eventos presenciais quanto virtuais, envolvendo seus prepostos e/ou funcionários.
 
-8.8.1. Nesses casos, será exigido o uso obrigatório de identificação funcional, seja em serviço presencial ou remoto, sempre que os colaboradores estiverem atuando em nome da CONTRATADA junto ao CONTRATANTE.
+X.X.1. Nesses casos, será exigido o uso obrigatório de identificação funcional, seja em serviço presencial ou remoto, sempre que os colaboradores estiverem atuando em nome da CONTRATADA junto ao CONTRATANTE.
 
-8.9. A solução ofertada pela CONTRATADA deverá contar com um plano de comunicação de incidentes, quando for o caso. A CONTRATADA deverá informar imediatamente ao CONTRATANTE sobre qualquer incidente de segurança da informação, vulnerabilidade identificada ou violação de sigilo, inclusive aqueles causados por ação ou omissão, com ou sem dolo, que possam comprometer a confidencialidade, disponibilidade, integridade ou autenticidade dos dados do CONTRATANTE.
+X.X. A solução ofertada pela CONTRATADA deverá contar com um plano de comunicação de incidentes, quando for o caso. A CONTRATADA deverá informar imediatamente ao CONTRATANTE sobre qualquer incidente de segurança da informação, vulnerabilidade identificada ou violação de sigilo, inclusive aqueles causados por ação ou omissão, com ou sem dolo, que possam comprometer a confidencialidade, disponibilidade, integridade ou autenticidade dos dados do CONTRATANTE.
 
-8.10. Caso seja necessário o acesso da CONTRATADA ao ambiente computacional do CONTRATANTE, isso só será permitido mediante adesão às diretrizes da Política de Segurança de Acesso estabelecida pelo CONTRATANTE.
+X.X. Caso seja necessário o acesso da CONTRATADA ao ambiente computacional do CONTRATANTE, isso só será permitido mediante adesão às diretrizes da Política de Segurança de Acesso estabelecida pelo CONTRATANTE.
 
-***8.11. A Licitante, para a contratação, deverá obrigatoriamente apresentar o seu Encarregado de Proteção de Dados.*** (Item obrigatório para a prestação de serviços com dedicação de mão-de-obra, seja presencial ou remoto)
+***X.X. A Licitante, para a contratação, deverá obrigatoriamente apresentar o seu Encarregado de Proteção de Dados.*** (Item obrigatório para a prestação de serviços com dedicação de mão-de-obra, seja presencial ou remoto)
 
 ---
 
-#### Requisitos sociais, ambientais, culturais e de sustentabilidade
+#### Dos Requisitos sociais, ambientais, culturais e de sustentabilidade (Resolução CNMP 283/2024, Art. 17, inciso I, alínea 'g')
 
 > [!NOTE]
 > "Requisitos que a Solução de TI deve atender para estar em conformidade com costumes, idiomas e ao meio ambiente, dentre outros. ex: Descarte de resíduos, idioma das aplicações, eficiência energética etc" - MOTec
@@ -308,13 +247,13 @@ Este modelo foi elaborado seguindo as orientações da Coordenadoria de Licitaç
 > [!TIP]
 > O texto abaixo possui caráter de referência e pode ser utilizado como modelo. Recomenda-se sua cópia e adaptação conforme as especificidades de cada contratação ou necessidade identificada.
 
-8.11. Os serviços desta aquisição/contratação devem estar em conformidade com diretrizes sociais, ambientais e culturais, conforme descrito a seguir:
+X.X. Os serviços desta aquisição/contratação devem estar em conformidade com diretrizes sociais, ambientais e culturais, conforme descrito a seguir:
 
-8.11.1. Quando aplicável, os softwares/sistemas/bens e toda a documentação relacionada deverão ser entregues, preferencialmente, em língua portuguesa (Brasil) ou, se não for possível, em língua inglesa. A entrega deve ocorrer, sempre que possível, em formato digital, com o objetivo de reduzir o uso de papel e impressão, em atendimento ao Art. 9º da Política Nacional de Resíduos Sólidos (Lei nº 12.305, de 2 de agosto de 2010).
+X.X.1. Quando aplicável, os softwares/sistemas/bens e toda a documentação relacionada deverão ser entregues, preferencialmente, em língua portuguesa (Brasil) ou, se não for possível, em língua inglesa. A entrega deve ocorrer, sempre que possível, em formato digital, com o objetivo de reduzir o uso de papel e impressão, em atendimento ao Art. 9º da Política Nacional de Resíduos Sólidos (Lei nº 12.305, de 2 de agosto de 2010).
 
-8.11.2. Além de eventuais critérios de sustentabilidade especificados na descrição do objeto, devem ser observados os seguintes requisitos com base no Guia Nacional de Contratações Sustentáveis:
+X.X.2. Além de eventuais critérios de sustentabilidade especificados na descrição do objeto, devem ser observados os seguintes requisitos com base no Guia Nacional de Contratações Sustentáveis:
 
-8.11.2.1. Os fornecedores poderão apresentar, quando aplicável, comprovação de enquadramento ao disposto no art. 5º, da Instrução Normativa n° 01, de 19 de janeiro de 2010, do Ministério do Planejamento, Orçamento e Gestão: “Art. 5º: Os órgãos e entidades da Administração Pública Federal direta, autárquica e fundacional, quando da aquisição de bens, poderão exigir os seguintes critérios de sustentabilidade ambiental:
+X.X.2.1. Os fornecedores poderão apresentar, quando aplicável, comprovação de enquadramento ao disposto no art. 5º, da Instrução Normativa n° 01, de 19 de janeiro de 2010, do Ministério do Planejamento, Orçamento e Gestão: “Art. 5º: Os órgãos e entidades da Administração Pública Federal direta, autárquica e fundacional, quando da aquisição de bens, poderão exigir os seguintes critérios de sustentabilidade ambiental:
 
 I – que os bens sejam constituídos, no todo ou em parte, por material reciclado, atóxico, biodegradável, conforme ABNT NBR – 15448-1 e 15448-2;
 II – que sejam observados os requisitos ambientais para a obtenção de certificação do Instituto Nacional de Metrologia, Normalização e Qualidade Industrial – INMETRO como produtos sustentáveis ou de menor impacto ambiental em relação aos seus similares;
@@ -323,88 +262,20 @@ IV – que os bens não contenham substâncias perigosas em concentração acima
 
 § 1º A comprovação do disposto neste artigo poderá ser feita mediante apresentação de certificação emitida por instituição pública oficial ou instituição credenciada, ou por qualquer outro meio de prova que ateste que o bem fornecido cumpre com as exigências do edital.".
 
-8.11.2.2. Conforme estabelecido no §2° do Art. 5º da mesma Instrução Normativa, antes da assinatura do contrato, em caso de inexistência de certificação que ateste a adequação, o CONTRATANTE poderá realizar diligências para verificar a adequação do produto às exigências do ato convocatório, correndo as despesas por conta da fornecedora selecionada. Caso não se confirme a adequação do produto, a proposta selecionada será desclassificada.
+X.X.2.2. Conforme estabelecido no §2° do Art. 5º da mesma Instrução Normativa, antes da assinatura do contrato, em caso de inexistência de certificação que ateste a adequação, o CONTRATANTE poderá realizar diligências para verificar a adequação do produto às exigências do ato convocatório, correndo as despesas por conta da fornecedora selecionada. Caso não se confirme a adequação do produto, a proposta selecionada será desclassificada.
 
-8.11.2.3. Os resíduos com logística reversa obrigatória, gerados durante a execução do objeto contratado, devem estar em conformidade com as normas do tópico Resíduos com Logística Reversa do Guia de Contratações Sustentáveis da AGU.
+X.X.2.3. Os resíduos com logística reversa obrigatória, gerados durante a execução do objeto contratado, devem estar em conformidade com as normas do tópico Resíduos com Logística Reversa do Guia de Contratações Sustentáveis da AGU.
 
 ---
 
-#### Requisitos de arquitetura tecnológica
+#### Dos Requisitos da arquitetura tecnológica (Resolução CNMP 283/2024, Art. 17, inciso I, alínea 'h')
 
 > [!NOTE]
 > "Descrever os requisitos de arquitetura tecnológica que devem ser levados em consideração para contratação da solução, tais como definições de hardware, software, padrões de interoperabilidade, linguagens de programação, interface, dentre outros" - MOTec
 
-***Exemplo para serviços:***
-
-8.12. Os objetos contratados deverão estar em conformidade com as diretrizes de arquitetura tecnológica definidas pela área técnica do CONTRATANTE.
-
-8.13. A adoção de qualquer tecnologia ou arquitetura diferente das especificadas deverá ser previamente autorizada pelo CONTRATANTE. Caso não haja autorização expressa, é vedado à CONTRATADA utilizar arquitetura, componentes ou tecnologias distintas daquelas definidas pelo CONTRATANTE.
-
-8.14. Os principais requisitos de arquitetura tecnológica a serem observados incluem:
-
-- Solução baseada em nuvem, acessível remotamente, com alta disponibilidade e escalabilidade.
-- Reconhecimento facial com alta acurácia, validado por entidades independentes como o NIST, e com desempenho consistente entre diferentes perfis demográficos.
-- Base de dados extensa, com bilhões de imagens extraídas de fontes públicas na internet.
-- Compatibilidade com múltiplos formatos de mídia, permitindo a importação de imagens e vídeos diversos para análise.
-- Ferramentas integradas de otimização de imagem, incluindo melhorias automatizadas com uso de inteligência artificial.
-- Geração de relatórios completos e auditáveis, adequados para uso em procedimentos legais e internos.
-- Conformidade com a LGPD, garantindo proteção de dados e trilhas de auditoria detalhadas.
-- Interface intuitiva e recursos de integração (APIs) com outros sistemas de gestão de casos e evidências.
-- Suporte técnico qualificado, com atendimento em português (ou com tradução) e múltiplos canais de contato.
-- Documentação completa e treinamento disponibilizados, assegurando o correto uso da solução pelos operadores.
-
-8.14.1. As demais especificações técnicas estão em seção própria deste documento.
-
-***Exemplo para bens:***
-
-8.15. Os principais requisitos de arquitetura tecnológica a serem observados incluem:
-
-8.15.1. Compatibilidade com a Infraestrutura Existente
-
-- As workstations deverão ser compatíveis com a arquitetura x86-64, com suporte à virtualização por hardware (VT-x/AMD-V) e compatibilidade com sistemas operacionais Windows 11 Pro, Windows Server 2022 e distribuições Linux (Ubuntu LTS e Debian).
-- Os dispositivos deverão suportar ambientes em rede com domínios Active Directory e autenticação centralizada.
-- Os dispositivos biométricos (fechaduras digitais) devem possibilitar integração futura com sistemas de controle de acesso já existentes ou em processo de implantação, preferencialmente via protocolo TCP/IP ou APIs RESTful documentadas.
-
-8.15.2. Padrões de Interoperabilidade e Integração
-
-- Todos os equipamentos que ofereçam conectividade com sistemas (fechaduras biométricas, drones, câmeras) devem seguir padrões abertos de integração, como:
-- APIs RESTful, SDKs ou bibliotecas compatíveis com linguagens como Python ou JavaScript;
-- Protocolos de rede amplamente suportados (HTTP/HTTPS, RTMP, ONVIF para vídeo, etc.);
-- Suporte a formatos de vídeo e imagem padronizados (ex.: MP4, JPEG, RAW, H.264, H.265).
-- A integração futura com sistemas institucionais ou de parceiros deverá ser facilitada, evitando dependência de software proprietário sem documentação técnica acessível.
-
-8.15.3. Segurança da Informação
-
-- As soluções deverão adotar medidas de proteção em conformidade com a Lei Geral de Proteção de Dados (LGPD), especialmente:
-  - Criptografia de dados em repouso e em trânsito (ex.: SSD com criptografia SED, comunicação HTTPS/TLS 1.2 ou superior);
-  - Autenticação segura em dispositivos inteligentes, com suporte a múltiplos perfis de usuários e controle de logs de acesso (para fechaduras biométricas);
-  - Atualizações de firmware e software disponíveis e documentadas, com suporte por pelo menos 3 anos após a compra.
-
-8.15.4. Desempenho e Escalabilidade
-
-- As workstations e GPUs devem suportar processamento de cargas elevadas de trabalho, como renderização de vídeo, modelagem 3D, simulações gráficas e análise de grandes volumes de dados forenses;
-- Os equipamentos devem permitir expansão futura de memória, armazenamento e placas adicionais, garantindo escalabilidade vertical.
-
-8.15.5. Portabilidade e Armazenamento de Dados
-
-- Equipamentos de campo, como drones e câmeras, devem utilizar armazenamento removível (ex.: cartões SD/CF express), facilitando a transferência e backup dos dados;
-- O software de controle e visualização das imagens captadas deverá permitir instalação em múltiplos ambientes (desktop e web), sem licenças restritivas à portabilidade.
-
-8.15.6. Manutenção e Suporte Técnico
-
-- Todos os equipamentos deverão ser acompanhados de documentação técnica detalhada e suporte do fabricante ou representante autorizado no Brasil;
-- É desejável que o fornecedor ofereça suporte técnico com SLA definido para reposição de peças, atualizações de firmware e manutenção corretiva;
-- Para equipamentos de missão crítica (como workstations e drones), a garantia mínima exigida é de 36 meses, podendo ser estendida.
-
-8.15.7. Certificações e Conformidade Regulatória
-
-- Os drones deverão possuir certificação ANATEL e, quando necessário, homologação junto à ANAC para operação dentro do território nacional;
-- Todos os dispositivos eletrônicos deverão possuir certificação de conformidade com padrões técnicos nacionais (ex.: Inmetro, Anatel, ISO/IEC, ABNT NBR);
-- É desejável que os equipamentos apresentem certificações ambientais e de eficiência energética, como Energy Star, EPEAT Gold ou equivalentes.
-
 ---
 
-#### Requisitos de projeto e implementação
+#### Dos Requisitos de projeto e de implementação (Resolução CNMP 283/2024, Art. 17, inciso I, alínea 'i')
 
 > [!NOTE]
 > "Estabelecer o processo de desenvolvimento da solução, técnicas, métodos, forma de gestão, de documentação, dentre outros; Ex: Diretrizes do PMBOK.
@@ -413,11 +284,9 @@ IV – que os bens não contenham substâncias perigosas em concentração acima
 
 Este item deve ser utilizado em contratações de serviços que necessitam de implementação de solução, como processos de contratação de empresas para o desenvolvimento de software/sistema e etc. Se não for o caso, coloque apenas um "Não se aplca".
 
-8.16. Não se aplica.
-
 ---
 
-#### Requisitos de implantação
+#### Dos Requisitos de implantação (Resolução CNMP 283/2024, Art. 17, inciso I, alínea 'j')
 
 > [!NOTE]
 > "Definir o processo e requisitos de disponibilização da solução em ambiente de produção, dentre outros.
@@ -426,277 +295,56 @@ Este item deve ser utilizado em contratações de serviços que necessitam de im
 
 Se não houver necessidade de implantação conforme explicado acima, basta adicionar um "Não se aplica".
 
-8.17. Não se aplica.
-
-***Exemplo de descrição de implantação:***
-
-8.18 Os serviços deverão observar integralmente os requisitos de implantação, instalação e fornecimento descritos a seguir:
-
-8.18.1 Fornecimento e instalação dos equipamentos (impressoras multifuncionais).
-
-8.18.2 Os equipamentos a serem fornecidos deverão estar em condições regulares e satisfatórias de funcionamento e atender integralmente às exigências deste documento.
-
-8.18.3 Todos os equipamentos deverão ser entregues acondicionados adequadamente, em caixas lacradas, de forma a permitir completa segurança durante o transporte, seu correto acondicionamento, evitando danos.
-
-8.18.4 A entrega dos equipamentos se dará conforme descrito na seção “MODELO DE EXECUÇÃO DO CONTRATO”.
-
-8.18.5 Após a assinatura do contrato, será agendada pela CONTRATANTE a reunião inicial com os representantes da CONTRATADA em até 05 (cinco) dias úteis, onde serão discutidos:
-
-8.18.5.1 A ordem de prioridade e quantidade para ativação inicial dos equipamentos;
-
-8.18.5.2 Definição da transferência de conhecimento (treinamento) destinado aos usuários e à equipe técnica da CONTRATANTE;
-
-8.18.5.3 Requisitos e informações para cadastramento de acesso à solução de administração dos serviços;
-
-8.18.5.4 Demais assuntos de interesse.
-
-8.18.5.5 Com base nas informações prestadas pela CONTRATANTE, a CONTRATADA deverá elaborar o plano de implantação dos serviços, que deverá ser apresentado em, no máximo, 05 (cinco) dias úteis, após a reunião inicial.
-
-8.18.6 A CONTRATANTE poderá, a seu exclusivo critério, suspender os prazos anteriormente estabelecidos por necessidade e conveniência administrativa.
-
-8.18.7 As instalações dos equipamentos que suportarão os serviços contratados deverão ser realizadas nas dependências da CONTRATANTE, sempre acompanhadas pela equipe técnica da CONTRATANTE.
-
-8.18.8 O envio, a instalação e as necessárias configurações dos equipamentos serão de inteira responsabilidade da CONTRATADA.
-
-8.18.9 A CONTRATADA deverá fornecer todos os materiais necessários à instalação física, à configuração e ao perfeito funcionamento dos equipamentos, incluindo os cabos elétricos e lógicos.
-
-8.18.10 Caberá à CONTRATANTE o provimento das tomadas de alimentação elétrica em sua rede não estabilizada, dos pontos de rede local com conectores RJ45.
-
-8.18.11 Para cada equipamento instalado, o representante da CONTRATADA responsável pela instalação deverá promover a transferência de conhecimento aos usuários finais dos equipamentos. No caso do serviço de impressão, compreendendo, no mínimo, a transferência de conhecimento sobre alimentação de papel, impressão e configuração de parâmetros de impressão e recomendações de uso.
-
-8.18.12 Quaisquer transformadores de voltagem ou estabilizadores que se fizerem necessários à correta instalação dos equipamentos deverão ser fornecidos pela CONTRATADA e submetidos à homologação pela CONTRATANTE.
-
-8.18.13 A CONTRATADA deverá realizar a instalação de drivers dos equipamentos nas estações de trabalho dos usuários da solução
-
 ---
 
-#### Requisitos de garantia, manutenção e assistência técnica
+#### Dos Requisitos de garantia, manutenção e assistência técnica (Resolução CNMP 283/2024, Art. 17, inciso I, alínea 'k')
 
 > [!NOTE]
 > "Definir a necessidade de garantia do fabricante, prazos, meios de abertura de chamados técnicos, substituição de peças em caso de defeito, prazo de atendimento, requisitos de exclusão de dados de dispositivos de armazenamento, vinculando estes aos índices de medição de resultados e/ou níveis de serviço estipulados." - MOTec
 >
 > "Definir a necessidade de serviços de manutenção preventiva, corretiva, evolutiva e adaptativa, tanto dos elementos que independem de configuração tecnológica." - MOTec
 
-***Exemplo para serviços:***
-
-8.19. A solução contratada deverá contar com garantia de funcionamento, atualização, manutenção e suporte técnico pelo período mínimo de 12 (doze) meses, contados a partir do recebimento definitivo. Durante esse período, deverá ser assegurado o pleno funcionamento da solução para, no mínimo, 1 (um) usuário, bem como sua operação eficiente em ambiente em nuvem.
-
-8.20. O suporte técnico remoto deverá estar disponível, no mínimo, 8 (oito) horas por dia, 5 (cinco) dias por semana, em língua portuguesa ou com suporte a tradução. A abertura de chamados deverá estar disponível de forma contínua (24x7x365) por meio de plataforma web, e-mail ou telefone.
-
-8.21. Deverão ser oferecidos os seguintes canais de atendimento:
-
-- Plataforma de suporte técnico online;
-- Linha telefônica direta para suporte de primeiro nível, destinada ao auxílio da equipe técnica da CONTRATANTE;
-- Endereço de e-mail específico, integrado a sistema de registro e acompanhamento de incidentes (“issue tracker”), permitindo rastreabilidade e controle das solicitações até sua resolução.
-
-8.22. A CONTRATADA e/ou o FABRICANTE deverão prestar suporte técnico completo, incluindo:
-
-- Auxílio na instalação e operacionalização das licenças adquiridas, caso a equipe técnica da CONTRATANTE encontre dificuldades;
-- Correção de falhas, bugs ou incompatibilidades do software com os sistemas operacionais suportados (macOS, Linux, Windows 7 ou superior);
-- Atualizações corretivas, evolutivas e de segurança, sem ônus adicionais, garantindo o aperfeiçoamento de funcionalidades e a correção de eventuais vulnerabilidades.
-
-8.23. O atendimento deverá ser preferencialmente remoto, mas, se necessário, deverá ser prestado de forma presencial, sempre com acompanhamento da equipe técnica da CONTRATANTE.
-
-***Exemplo para bens:***
-
-8.24. O prazo de garantia é aquele estabelecido na Lei nº 8.078, de 11 de setembro de 1990 (Código de Defesa do Consumidor), e suas atualizações.
-
-8.24.1. O prazo de garantia técnica dos bens, complementar à garantia legal, é conforme descrito na tabela abaixo, fornecido pelo fabricante, contado a partir do primeiro dia útil subsequente à data do recebimento definitivo do objeto.
-
-<table border="1" style="width:100%;">
-    <tr>
-        <th style="text-align:center">Descrição do objeto</th>
-        <th style="text-align:center">Tempo de Garantia (meses)</th>
-    </tr>
-    <tr>
-        <td style="text-align:center">Workstations fixa</td>
-        <td style="text-align:center">36</td>
-    </tr>
-    <tr>
-        <td style="text-align:center">Fechadura biométrica</td>
-        <td style="text-align:center">12</td>
-    </tr>
-    <tr>
-        <td style="text-align:center">Drone profissional</td>
-        <td style="text-align:center">36</td>
-    </tr>
-    <tr>
-        <td style="text-align:center">------</td>
-        <td style="text-align:center">--</td>
-    </tr>
-</table>
-
-8.24.2. A exigência de uma garantia mínima de 24 (vinte e quatro) e 36 (trinta e seis) meses para alguns itens desta aquisição justifica-se pela necessidade de assegurar a confiabilidade, durabilidade e desempenho contínuo desses equipamentos críticos para para o GAECO. A garantia estendida oferece maior segurança ao órgão, garantindo suporte técnico, manutenção e substituição em caso de falhas, reduzindo o risco de paradas inesperadas e custos adicionais com reparos ou reposições.
+***Pode ser mesclado com o item **Dos Requisitos de manutenção (Resolução CNMP 283/2024, Art. 17, inciso I, alínea 'd')** pois tratam do mesmo asunto***
 
 > [!WARNING]
-> Em caso de garantia extendida (acima da garantia padrão) é necessário justificar o motivo da solicitação, conforme o modelo acima.
+> Em caso de garantia extendida (acima da garantia padrão) é necessário justificar o motivo da solicitação, conforme o modelo abaixo.
 
-8.25. A CONTRATADA deverá disponibilizar canais de acesso 24 horas por dia, 7 dias por semana, por meio de número de telefone de discagem gratuita (0800) e/ou Internet, para abertura de chamados técnicos, com o objetivo de resolver problemas e esclarecer dúvidas quanto ao funcionamento dos objetos. Todos os chamados, independentemente de sua criticidade, deverão ser abertos em um único número telefônico.
-
-8.26. A garantia será prestada com vistas a manter os equipamentos fornecidos em perfeitas condições de uso, sem qualquer ônus ou custo adicional para o CONTRATANTE.
-
-8.27. A garantia abrange a realização da manutenção corretiva dos bens pelo própria CONTRATADA, ou, se for o caso, por meio de assistência técnica autorizada, de acordo com as normas técnicas específicas.
-
-8.27.1. Entende-se por manutenção corretiva aquela destinada a corrigir os defeitos apresentados pelos bens, compreendendo a substituição de peças, a realização de ajustes, reparos e correções necessárias.
-
-8.28. As peças que apresentarem vício ou defeito no período de vigência da garantia deverão ser substituídas por outras novas, de primeiro uso, e originais, que apresentem padrões de qualidade e desempenho iguais ou superiores aos das peças utilizadas na fabricação do equipamento.
-
-8.29. Uma vez notificada, a CONTRATADA realizará a reparação ou substituição dos bens que apresentarem vício ou defeito no prazo de até 20 (vinte) dias úteis, contados a partir da data de retirada do equipamento das dependências da Administração pela CONTRATADA ou pela assistência técnica autorizada.
-
-8.30. O prazo indicado no subitem anterior, durante seu transcurso, poderá ser prorrogado uma única vez, por igual período, mediante solicitação escrita e justificada da CONTRATADA, aceita pelo CONTRATANTE.
-
-8.31. Na hipótese do subitem acima, a CONTRATADA deverá disponibilizar equipamento equivalente, de especificação igual ou superior ao anteriormente fornecido, para utilização em caráter provisório pelo CONTRATANTE, de modo a garantir a continuidade dos trabalhos administrativos durante a execução dos reparos.
-
-8.32. Decorrido o prazo para reparos e substituições sem o atendimento da solicitação do CONTRATANTE ou a apresentação de justificativas pela CONTRATADA, fica o CONTRATANTE autorizado a contratar empresa diversa para executar os reparos, ajustes ou a substituição do bem ou de seus componentes, bem como a exigir da CONTRATADA o reembolso pelos custos respectivos, sem que tal fato acarrete a perda da garantia dos equipamentos.
-
-8.33. A movimentação dos equipamentos entre localidades NÃO exclui a garantia.
-
-8.34. Em caso de troca de disco de armazenamento (HDDs ou SSDs), o disco defeituoso deverá ficar em posse da CONTRATANTE, uma vez que o disco pode possuir dados sensíveis e em aderência a LGPD, evitando o vazamento de informações sensíveis.
-
-8.35. Todas as despesas relativas a execução do serviço de garantia técnica correrão por conta da CONTRATADA.
+X.X. A exigência de uma garantia mínima de 36 (trinta e seis) meses (ou 60 (sessenta)) para alguns itens desta aquisição justifica-se pela necessidade de assegurar a confiabilidade, durabilidade e desempenho contínuo desses equipamentos críticos para para o GAECO. A garantia estendida oferece maior segurança ao órgão, garantindo suporte técnico, manutenção e substituição em caso de falhas, reduzindo o risco de paradas inesperadas e custos adicionais com reparos ou reposições.
 
 ---
 
-#### Requisitos de capacitação técnica
-
-> [!NOTE]
-> "Definir a necessidade de treinamento técnico para a equipe de TI sustentar a solução implantada, o ambiente tecnológico dos treinamentos a serem ministrados, os perfis dos instrutores, carga horária, material didático, ementa dentre outros." - MOTEc
-
-8.36. Não faz parte do escopo a realização de capacitação técnica na utilização dos recursos relacionados aos objetos da presente aquisição/contratação.
-
-***Exemplo:***
-
-8.37. Será necessário treinamento à equipe que atuará com a solução. O treinamento deverá ser de no mínimo 24 (vinte e quatro) horas de duração.
-
-8.38. Será responsabilidade da CONTRATADA prover às pessoas indicadas pelo CONTRATANTE o treinamento necessário para utilização da solução de gerenciamento e a todos os usuários do serviço com treinamento suficiente para operacionalizar os equipamentos e realizar tarefas básicas como copiar, digitalizar e imprimir.
-
-8.39. A empresa a ser CONTRATADA deverá ministrar 1 (um) treinamento para 5 (cinco) colaboradores indicados pela CONTRATANTE, cujo conteúdo deverá contemplar, no mínimo, a administração e operação dos Sistemas citados no Termo de Referência.
-
-8.40. A empresa a ser CONTRATADA será responsável por especificar o ambiente necessário e prover o material a ser utilizado durante o treinamento.
-
-8.41. A CONTRATANTE será responsável pela disponibilização de local e recursos audiovisuais, que se fizerem necessários ao treinamento.
-
-8.42. Os treinamentos podem ser realizados por meio de videoaulas ou Ensino a Distância Online. Todavia, nestes casos eles devem contemplar todas as exigências mínimas previstas nos treinamentos presenciais: instruções para utilização, implantação, configuração, parametrização, gerenciamento e administração das funções e acessos dos equipamentos e sistemas disponibilizados. Além disso, deve ser previsto um canal de comunicação direto entre o órgão contratante e o fornecedor para esclarecimento de dúvidas.
-
-8.43. A empresa a ser CONTRATADA deverá disponibilizar em formato eletrônico instruções resumidas sobre a operação para todos os equipamentos e software previstos neste TR permitindo que a CONTRATANTE possa fazer a divulgação internamente.
-
-8.44. Todo treinamento e sua documentação deverá ser previamente aprovado pela CONTRATANTE e passará a fazer parte do seu acervo documental.
-
-8.45. Ao término dos treinamentos, os usuários deverão receber certificado de participação, indicando a ementa do treinamento e o número de horas.
-
-8.46. Os custos deste item deverão ser arcados pela CONTRATADA.
-
-8.47. A CONTRATADA deverá, ainda, produzir um guia básico de operação dos equipamentos a ser disponibilizado aos usuários do CONTRATANTE em ambiente virtual.
-
-8.48. Descrição e prazos de atividades de treinamento e capacitação:
-
-***Tabela com a descrição dos treinamentos, etapas e prazos de atividade de treinamento e capacitação.***
-
----
-
-#### Requisitos de experiência profissional
+#### Dos Requisitos de experiência profissional (Resolução CNMP 283/2024, Art. 17, inciso I, alínea 'm')
 
 > [!NOTE]
 > Da equipe que projetará, implementará e/ou implantará a Solução de TI. Também aplicável aos profissionais que aplicarão cursos de capacitação e treinamentos.
 >
 > "Definir os perfis profissionais exigidos e as respectivas formas de comprovação dessa experiência, dentre outros da equipe que projetará, implementará e implantará a Solução de TI, observadas as diretrizes da lei 14.133/21." - MOTec
 
-8.49. Não serão exigidos requisitos de experiência profissional para a presente a contratação/aquisição.
-
-***Exemplo:***
-
-8.50. Os serviços de assistência técnica, suporte, garantia, deverão ser prestados por técnicos devidamente capacitados nos produtos em questão, bem como com todos os recursos ferramentais necessários para a prestação dos serviços.
-
-8.51. Os técnicos e demais profissionais deverão possuir todo o conhecimento e experiência necessários para a implantação e suporte técnico da solução, nenhum treinamento será oferecido pela CONTRATANTE. Sugere-se que para fins de experiência, o líder da equipe de implantação tenha participado em ao menos 02 (dois) projetos de implantação similares. Os riscos de alocação de profissionais com capacidade aquém do projeto são de inteira responsabilidade da empresa CONTRATADA.
-
-8.52. A empresa a ser CONTRATADA disponibilizará profissionais que conheçam profundamente o serviço contratado e as ferramentas utilizadas, além de serem devidamente capacitados e habilitados para os serviços a serem contratados.
-
-8.53. Providenciar a substituição imediata dos profissionais disponibilizados ao serviço, que eventualmente não atendam aos requisitos deste Termo de Referência, ou por solicitação da CONTRATANTE devidamente justificada.
-
-8.54. O representante da CONTRATANTE deverá ter a experiência necessária para o acompanhamento e controle da execução dos serviços e do contrato.
-
 ---
 
-#### Requisitos de formação da equipe
+#### Dos Requisitos de formação da equipe (Resolução CNMP 283/2024, Art. 17, inciso I, alínea 'n')
 
 > [!NOTE]
 > Da equipe que projetará, implementará e/ou implantará a Solução de TI. Também aplicável aos profissionais que aplicarão cursos de capacitação e treinamentos.
 >
 > "Definição de cursos acadêmicos e técnicos, formas de comprovação dessa formação, dentre outros, da equipe que projetará, implementará e implantará a Solução de TI, observadas as diretrizes da lei 14.133/21." - MOTec
 
-8.55. Não serão exigidos requisitos de formação da equipe para a presente a contratação/aquisição.
-
 ***Exemplo:***
 
-8.56. A CONTRATADA deverá disponibilizar profissionais com qualificação técnica e formação compatível com os perfis profissionais requeridos para atuação nos times de desenvolvimento, conforme a demanda específica de cada projeto pactuado pela CONTRATANTE. A seguir são apresentados os requisitos mínimos de formação, certificação e experiência para os principais perfis previstos:
+X.X. A CONTRATADA deverá disponibilizar profissionais com qualificação técnica e formação compatível com os perfis profissionais requeridos para atuação nos times de desenvolvimento, conforme a demanda específica de cada projeto pactuado pela CONTRATANTE. A seguir são apresentados os requisitos mínimos de formação, certificação e experiência para os principais perfis previstos:
 
 ***Tabela com a descrição dos perfis, formação (curso técnico/superior etc), certificados necessários e demais dados necessários.***
 
 ---
 
-#### Requisitos de metodologia de trabalho
+#### Dos Requisitos de metodologia de trabalho (Resolução CNMP 283/2024, Art. 17, inciso I, alínea 'o')
 
 > [!NOTE]
 > "Definição de metodologia a ser utilizada, procedimentos, rotinas, níveis mínimos de serviço, horários de execução, tarefas de monitoramento, elaboração de relatórios, papéis e responsabilidades diretamente relacionados à execução de tarefas, entre outros. Pode ser aplicada ao desenvolvimento de softwares bem como a qualquer outro serviço de TI." - MOTec
 
-***Exemplo para serviços:***
-
-8.57. A execução dos serviços está condicionada ao recebimento pelo Contratado de Ordem de Serviço (OS) emitida pela Contratante.
-
-8.58. A OS indicará o serviço, a quantidade e a localidade na qual os serviços deverão ser prestados.
-
-8.59. O Contratado deve fornecer meios para contato e registro de ocorrências da seguinte forma: com funcionamento 10 (dez) horas por dia e 5 (cinco) dias por semana de maneira eletrônica e 10 (dez) horas por dia e 5 (cinco) dias por semana por via telefônica.
-
-8.60. A execução do serviço dever ser acompanhada pelo Contratado, que dará ciência de eventuais acontecimentos à Contratante.
-
-8.61. Para fins de aplicação dos prazos descritos neste documento, considerar-se-á "dia útil" como o dia em que houver expediente normal nas unidades funcionais do CONTRATANTE, e "hora útil" como o intervalo entre 8h e 18h.
-
-8.62. Em caráter excepcional, à critério da CONTRATANTE, por meio de aviso prévio, os atendimentos técnicos poderão ser dilatados em conformidade com o horário de funcionamento do órgão, entre 7h e 23h, atendendo os mesmos critérios de Glosa deste Termo de Referência.
-
-8.62. O período de medição dos serviços será compreendido entre 00h00 do primeiro dia até às 23h59 do último dia de cada mês.
-
-8.63. Horário comercial (08h00 às 18h00), de segunda-feira à sexta-feira, exceto finais de semana e feriados.
-
-8.64. A execução do serviço dever ser acompanhada pelo Contratado, que dará ciência de eventuais acontecimentos à Contratante.
-
-8.65. O prazo máximo para entrega dos equipamentos é de 30 (trinta) dias úteis, contados a partir do recebimento da ordem de serviço.
-
-8.66. Após o ACEITE dos equipamentos, os fiscais providenciarão a emissão de Ordem de Serviço (Anexo I) para a instalação dos equipamentos, em cada unidade da CONTRATANTE, identificando tipo de equipamento e local da instalação.
-
-8.67. A abertura de cada Ordem de Serviço deverá, obrigatoriamente, ser registrada junto à empresa CONTRATADA por documento oficial, podendo ser encaminhado via e‐mail ao preposto da empresa.
-
-8.68. Para a instalação dos equipamentos devem ser realizados, conforme orientação da CONTRATANTE:
-
-- A identificação dos equipamentos.
-- As configurações dos equipamentos na rede local da CONTRATANTE.
-- A instalação da solução de gestão e contabilização local de cada equipamento de impressão/cópia.
-- O treinamento dos servidores indicados pela CONTRATANTE
-
-***Exemplo para bens:***
-
-8.69. Fornecimento do equipamento:
-
-8.69.1. O Gestor do Contrato ou Fiscal designado encaminhará formalmente as Ordem de Fornecimento de Bens (OFB) à CONTRATADA. A entrega da OFB poderá ocorrer por e-mail, SEI/MPPI ou serviço postal.
-
-8.69.2. Os objetos contratados deverão ser entregues no local indicado na seção Prazos, horários de fornecimento de bens ou prestação dos serviços e locais de entrega deste documento, durante o horário de expediente do órgão (das 8h às 15h, de segunda a sexta-feira, exceto feriados).
-
-8.69.3. Os fiscais técnicos designados serão responsáveis por receber os serviços, verificando a quantidade, o cumprimento das cláusulas e condições do Termo de Referência. Após essa verificação, será emitido um Termo de Recebimento Provisório.
-
-8.69.4. Caso sejam identificadas inadequações, falhas ou incorreções, a CONTRATADA deverá realizar a correção do serviço em até 2
-(dois) dias úteis, contados a partir da notificação do gestor do contrato, sem ônus para o MPPI.
-
-8.69.5. O fiscal deverá anotar todas as ocorrências relacionadas ao fornecimento do serviço, determinando as ações necessárias para
-regularização de quedas ou instabilidades observados.
-
-8.69.6. Os Fiscais e o Gestor verificarão as especificações em até 2 (dois) dias úteis após a notificação da CONTRATADA sobre o término da entrega dos serviços. Se todos os requisitos do Termo de Referência forem atendidos, será emitido o Termo de Recebimento Definitivo.
-
-8.70. Prestação da Garantia:
-
-8.70.1. A empresa deverá fornecer suporte técnico conforme especificado no Requisitos de garantia, manutenção e assistência técnica deste documento.
-
 ---
 
-#### Requisitos de segurança dos ativos de TI
+#### Dos Requisitos de segurança dos ativos de TI (Resolução CNMP 283/2024, Art. 17, inciso I, alínea 'p')
 
 > [!NOTE]
 > "Os requisitos devem observar as políticas de segurança orgânica e institucional do CNMP e do Órgão Ministerial, bem como boas práticas de segurança da informação aplicáveis a contratação." - MOTec
@@ -706,202 +354,270 @@ regularização de quedas ou instabilidades observados.
 > [!TIP]
 > O texto abaixo possui caráter de referência e pode ser utilizado como modelo. Recomenda-se sua cópia e adaptação conforme as especificidades de cada contratação ou necessidade identificada.
 
-8.71. A contratação deve atender aos requisitos de segurança dos ativos de TI, conforme estabelece a Resolução CNMP nº 156, de 13 de dezembro de 2016, que institui a Política de Segurança Institucional e o Sistema Nacional de Segurança Institucional do Ministério Público, bem como a nova Lei de Licitações e Contratos Administrativos (Lei nº 14.133/2021).
+X.X. A contratação deve atender aos requisitos de segurança dos ativos de TI, conforme estabelece a Resolução CNMP nº 156, de 13 de dezembro de 2016, que institui a Política de Segurança Institucional e o Sistema Nacional de Segurança Institucional do Ministério Público, bem como a nova Lei de Licitações e Contratos Administrativos (Lei nº 14.133/2021).
 
-8.72. A CONTRATADA é responsável integralmente pela qualidade, desempenho, eficiência e produtividade de sua equipe técnica durante todo o contrato. O objetivo é garantir a execução dos serviços dentro dos prazos estabelecidos. O não cumprimento desses prazos, indicadores e condições acarretará penalidades, conforme previsto no contrato.
+X.X. A CONTRATADA é responsável integralmente pela qualidade, desempenho, eficiência e produtividade de sua equipe técnica durante todo o contrato. O objetivo é garantir a execução dos serviços dentro dos prazos estabelecidos. O não cumprimento desses prazos, indicadores e condições acarretará penalidades, conforme previsto no contrato.
 
-8.73. A CONTRATADA será responsabilizada por quaisquer perdas ou danos causados por ação ou omissão, dolosa ou culposa, de sua equipe durante a execução dos serviços contratados. Isso é independente de outras penalidades contratuais ou legais aplicáveis.
+X.X. A CONTRATADA será responsabilizada por quaisquer perdas ou danos causados por ação ou omissão, dolosa ou culposa, de sua equipe durante a execução dos serviços contratados. Isso é independente de outras penalidades contratuais ou legais aplicáveis.
 
-8.74. A CONTRATADA deve manter sigilo absoluto sobre todos os assuntos aos quais tenha acesso durante a execução do contrato.
+X.X. A CONTRATADA deve manter sigilo absoluto sobre todos os assuntos aos quais tenha acesso durante a execução do contrato.
 
-8.75. Essa responsabilidade inclui o respeito aos critérios de sigilo, segurança e inviolabilidade, aplicáveis a dados, informações, regras de negócio, documentos, entre outros.
+X.X. Essa responsabilidade inclui o respeito aos critérios de sigilo, segurança e inviolabilidade, aplicáveis a dados, informações, regras de negócio, documentos, entre outros.
 
-8.76. Os profissionais da CONTRATADA, quando em ambiente do MPPI, devem estar adequadamente trajados e identificados com crachás, contendo foto e nome visível, durante todo o período de trabalho, quando necessário.
+X.X. Os profissionais da CONTRATADA, quando em ambiente do MPPI, devem estar adequadamente trajados e identificados com crachás, contendo foto e nome visível, durante todo o período de trabalho, quando necessário.
 
-8.77. A CONTRATADA, quando necessário, deve identificar todos os equipamentos sob sua posse, utilizando placas de controle patrimonial, selos de segurança e outros meios pertinentes para garantir sua rastreabilidade e segurança.
+X.X. A CONTRATADA, quando necessário, deve identificar todos os equipamentos sob sua posse, utilizando placas de controle patrimonial, selos de segurança e outros meios pertinentes para garantir sua rastreabilidade e segurança.
 
 ---
 
-#### Requisitos de previsão da exigência para realização de Prova de Conceito
+#### Dos Requisitos de previsão da exigência para realização de Prova de Conceito (Resolução CNMP 283/2024, Art. 17, inciso I, alínea 'q')
 
 > [!NOTE]
 > "Caso aplicável, definir os elementos de prova de conceito a serem exigidos do licitante provisoriamente classificado em primeiro lugar para fins de comprovação de atendimento das especificações técnicas." - MOTec
 
-8.78. Não será exigida prova de conceito para a presente contratação.
-
 ***Exemplo 1:***
 
 > [!TIP]
 > O texto a seguir é meramente ilustrativo e tem a finalidade de exemplificar a forma como podem ser estabelecidos os critérios de avaliação para uma prova de conceito.
 
-8.79. Deve ser submetido a uma prova de conceito, para comprovação e validação do sistema ao Termo de Referência, anteriormente a adjudicação/homologação do processo, sob pena de não ser contratado caso não apresente as condições exigidas no referido Termo de Referência.
+X.X. Deve ser submetido a uma prova de conceito, para comprovação e validação do sistema ao Termo de Referência, anteriormente a adjudicação/homologação do processo, sob pena de não ser contratado caso não apresente as condições exigidas no referido Termo de Referência.
 
-8.80. Caberá ao MPPI, por comissão ou profissional competente, realizar a prova de conceito e emitir parecer quanto ao atendimento às especificações do Termo de Referência.
+X.X. Caberá ao MPPI, por comissão ou profissional competente, realizar a prova de conceito e emitir parecer quanto ao atendimento às especificações do Termo de Referência.
 
-8.81. Passarão para a execução dos requisitos contidos no Termo de Referência, as licitantes, por ordem de classificação.
+X.X. Passarão para a execução dos requisitos contidos no Termo de Referência, as licitantes, por ordem de classificação.
 
-8.82. A prova de conceito, consiste na comprovação de todas as funcionalidades e qualidade sistêmica descritas no Termo de Referência, em até 02 (dois) dias úteis **(Especificar a quantidade de dias úteis ou corridos conforme a necessidade)** contados da data da convocação pela contratante, no horário das 08h às 17h, na Sede do MPPI **(ou outro local)**. No ato da prova de conceito serão entregues os roteiros a serem seguidos, com os requisitos levando-se em consideração todas as funcionalidades descritas no Termo de Referência, bem como aquelas soluções necessárias ao bom funcionamento do sistema de gestão apresentado.
+X.X. A prova de conceito, consiste na comprovação de todas as funcionalidades e qualidade sistêmica descritas no Termo de Referência, em até 02 (dois) dias úteis **(Especificar a quantidade de dias úteis ou corridos conforme a necessidade)** contados da data da convocação pela contratante, no horário das 08h às 17h, na Sede do MPPI **(ou outro local)**. No ato da prova de conceito serão entregues os roteiros a serem seguidos, com os requisitos levando-se em consideração todas as funcionalidades descritas no Termo de Referência, bem como aquelas soluções necessárias ao bom funcionamento do sistema de gestão apresentado.
 
-8.83. A prova de conceito abordará o atendimento às funções descritas e das funcionalidades previstas no Termo de Referência, inclusos os respetivos subitens, determinadas por comissão de avaliação devidamente nomeada para esse fim, indicados pelo MPPI, no momento da realização da prova.
+X.X. A prova de conceito abordará o atendimento às funções descritas e das funcionalidades previstas no Termo de Referência, inclusos os respetivos subitens, determinadas por comissão de avaliação devidamente nomeada para esse fim, indicados pelo MPPI, no momento da realização da prova.
 
-8.84. Dever ser fornecida senha de acesso de administrador, que possibilite o uso de todas as funcionalidades do sistema para análise de atendimento a todos os requisitos da prova de conceito.
+X.X. Dever ser fornecida senha de acesso de administrador, que possibilite o uso de todas as funcionalidades do sistema para análise de atendimento a todos os requisitos da prova de conceito.
 
-8.85. A prova de conceito será realizada por membros da equipe de planejamento da contratação e equipe de fiscalização do MPPI.
+X.X. A prova de conceito será realizada por membros da equipe de planejamento da contratação e equipe de fiscalização do MPPI.
 
-8.86. Os Roteiros serão entregues no ato da prova de conceito e terão em seu conteúdo, atividades nas quais o sistema da licitante deverá atender, em acesso por computador na rede do MPPI.
+X.X. Os Roteiros serão entregues no ato da prova de conceito e terão em seu conteúdo, atividades nas quais o sistema da licitante deverá atender, em acesso por computador na rede do MPPI.
 
-8.87. A licitante convocada para prova de conceito deverá atender todos os requisitos do sistema de gestão, apresentando as funcionalidades que a comissão de avaliação solicitar, em atendimento aos requisitos presentes no Termo de Referência.
+X.X. A licitante convocada para prova de conceito deverá atender todos os requisitos do sistema de gestão, apresentando as funcionalidades que a comissão de avaliação solicitar, em atendimento aos requisitos presentes no Termo de Referência.
 
-8.88. Caso a licitante não atenda a qualquer um dos requisitos da prova de conceito, será procedida a convocação da próxima colocada, seguindo a ordem de classificação na licitação, assim por diante até a apuração de uma licitante aprovada, que atenda a todos os requisitos.
+X.X. Caso a licitante não atenda a qualquer um dos requisitos da prova de conceito, será procedida a convocação da próxima colocada, seguindo a ordem de classificação na licitação, assim por diante até a apuração de uma licitante aprovada, que atenda a todos os requisitos.
 
-8.89. A prova de conceito será iniciada e finalizada na mesma sessão não sendo admitidos qualquer prorrogação de prazo para adequações técnicas, incluindo nenhuma funcionalidade por parte das licitantes, sendo publicada a convocação em Diário Oficial ou outro meio que o MPPI considerar.
+X.X. A prova de conceito será iniciada e finalizada na mesma sessão não sendo admitidos qualquer prorrogação de prazo para adequações técnicas, incluindo nenhuma funcionalidade por parte das licitantes, sendo publicada a convocação em Diário Oficial ou outro meio que o MPPI considerar.
 
 ##### DA JUSTIFICATIVA DA EXIGÊNCIA DE PROVA DE CONCEITO (Obrigatório)
 
-8.90. A prova de conceito é comumente realizada na fase externa, utilizada para certificar que a administração tenha certeza da adequação entre o objeto licitado e a proposta apresentada pela licitante.
+X.X. A prova de conceito é comumente realizada na fase externa, utilizada para certificar que a administração tenha certeza da adequação entre o objeto licitado e a proposta apresentada pela licitante.
 
-8.91. Trata-se, portanto, usualmente, de análise de amostra realizada nas licitações para a contratação de soluções de tecnologia da informação.
+X.X. Trata-se, portanto, usualmente, de análise de amostra realizada nas licitações para a contratação de soluções de tecnologia da informação.
 
-8.92. Nesse diapasão, assim se posiciona o TCU:
+X.X. Nesse diapasão, assim se posiciona o TCU:
 
+> [!NOTE]
 > A Prova de Conceito (PoC) regra geral é realizada na fase externa da contratação pública, e destina-se a permitir que a Administração contratante se certifique sobre a efetiva adequação entre o objeto oferecido pelo licitante em sua proposta e as condições técnicas estabelecidas no edital (vide o Acórdão nº 2763/2013 - Plenário, TCU).
 
-8.93. Também é importante destacar que se encontra claramente definido neste edital a forma que será feita a prova de conceito, restando claro que tal exigência é perfeitamente legal.
-
-***Exemplo 2:***
+X.X. Também é importante destacar que se encontra claramente definido neste edital a forma que será feita a prova de conceito, restando claro que tal exigência é perfeitamente legal.
 
 > [!TIP]
 > O texto a seguir é meramente ilustrativo e tem a finalidade de exemplificar a forma como podem ser estabelecidos os critérios de avaliação para uma prova de conceito.
 
-8.94. Após a fase de lances, a empresa com o MENOR PREÇO GLOBAL **(Ou outro critério de julgamento)** e devidamente habilitada será convocada pelo pregoeiro para a Prova de Conceito. Nesta fase, a empresa deverá apresentar e demonstrar presencialmente a tecnologia ofertada, conforme descrito neste documento, dentro de um prazo máximo de 5 (cinco) dias corridos **(Especificar a quantidade de dias úteis ou corridos conforme a necessidade)** a contar da data do certame. A não realização desta demonstração dentro do prazo estipulado acarretará na desclassificação imediata da proposta. Além disso, a empresa deverá comprovar o atendimento a todos os requisitos obrigatórios especificados no Termo de Referência, conforme estabelecido na Tabela de Avaliação da Prova de Conceito **(Anexar a tabela com os critérios de avaliação)**.
+X.X. Após a fase de lances, a empresa com o MENOR PREÇO GLOBAL **(Ou outro critério de julgamento)** e devidamente habilitada será convocada pelo pregoeiro para a Prova de Conceito. Nesta fase, a empresa deverá apresentar e demonstrar presencialmente a tecnologia ofertada, conforme descrito neste documento, dentro de um prazo máximo de 5 (cinco) dias corridos **(Especificar a quantidade de dias úteis ou corridos conforme a necessidade)** a contar da data do certame. A não realização desta demonstração dentro do prazo estipulado acarretará na desclassificação imediata da proposta. Além disso, a empresa deverá comprovar o atendimento a todos os requisitos obrigatórios especificados no Termo de Referência, conforme estabelecido na Tabela de Avaliação da Prova de Conceito **(Anexar a tabela com os critérios de avaliação)**.
 
-8.94.1. Caso a empresa vencedora comprove o atendimento aos requisitos exigidos na Prova de Conceito (vide subitem anterior), o objeto desta licitação lhe será adjudicado.
+X.X.1. Caso a empresa vencedora comprove o atendimento aos requisitos exigidos na Prova de Conceito (vide subitem anterior), o objeto desta licitação lhe será adjudicado.
 
-8.94.2. Em caso da empresa vencedora não cumprir os requisitos mínimos exigidos na Prova de Conceito, será DESCLASSIFICADA e o pregoeiro determinará a convocação da segunda colocada para a Prova de Conceito, e assim sucessivamente (na ordem de classificação), concedendo o mesmo prazo de 5 (cinco) dias corridos, até que sejam cumpridos os requisitos exigidos pelo MPPI para esta contratação, sendo a empresa declarada vencedora, será lhe adjudicado o objeto desta licitação.
+X.X.2. Em caso da empresa vencedora não cumprir os requisitos mínimos exigidos na Prova de Conceito, será DESCLASSIFICADA e o pregoeiro determinará a convocação da segunda colocada para a Prova de Conceito, e assim sucessivamente (na ordem de classificação), concedendo o mesmo prazo de 5 (cinco) dias corridos, até que sejam cumpridos os requisitos exigidos pelo MPPI para esta contratação, sendo a empresa declarada vencedora, será lhe adjudicado o objeto desta licitação.
 
-8.94.3. A demonstração da tecnologia ofertada pelo licitante convocado irá ocorrer durante o período de até 02 (duas) horas corridas e consecutivas, tendo como base os dados e imagens capturadas de uma câmera teste de sua preferência.
+X.X.3. A demonstração da tecnologia ofertada pelo licitante convocado irá ocorrer durante o período de até 02 (duas) horas corridas e consecutivas, tendo como base os dados e imagens capturadas de uma câmera teste de sua preferência.
 
-8.94.4. A data, horário e local para demonstração do sistema, será divulgado pelo Pregoeiro no momento de suspensão da sessão, após encerrada a etapa de lances e definido o vencedor provisório. Ou na impossibilidade, comunicada posteriormente aos licitantes participantes.
+X.X.4. A data, horário e local para demonstração do sistema, será divulgado pelo Pregoeiro no momento de suspensão da sessão, após encerrada a etapa de lances e definido o vencedor provisório. Ou na impossibilidade, comunicada posteriormente aos licitantes participantes.
 
-8.94.5. A demonstração em escala real consistirá na análise e avaliação do objeto proposto pela empresa licitante e servirá para a comprovação do atendimento aos requisitos expressos no Termo de Referência, sob pena de desclassificação da proposta.
+X.X.5. A demonstração em escala real consistirá na análise e avaliação do objeto proposto pela empresa licitante e servirá para a comprovação do atendimento aos requisitos expressos no Termo de Referência, sob pena de desclassificação da proposta.
 
-8.94.6. Havendo aprovação da amostra, o Pregoeiro declarará o licitante vencedor em sessão pública designada para estes fins, bem como o registro de que todos os demais licitantes ficam intimados para, querendo, apresentem recurso no prazo de 03 (três) dias, após o término do prazo do recorrente, proporcionando-se, a todos, vista imediata do processo.
+X.X.6. Havendo aprovação da amostra, o Pregoeiro declarará o licitante vencedor em sessão pública designada para estes fins, bem como o registro de que todos os demais licitantes ficam intimados para, querendo, apresentem recurso no prazo de 03 (três) dias, após o término do prazo do recorrente, proporcionando-se, a todos, vista imediata do processo.
 
-DA JUSTIFICATIVA DA EXIGÊNCIA DE PROVA DE CONCEITO (Obrigatório)
+##### DA JUSTIFICATIVA DA EXIGÊNCIA DE PROVA DE CONCEITO (Obrigatório):
 
-8.95. **Pode utilizar a mesma justifica do modelo anterior.**
+X.X. **Pode utilizar a mesma justifica do modelo anterior.**
+
+#### Do Reajuste (Resolução CNMP 283/2024, Art. 17, inciso I, alínea 'r')
+
+> [!NOTE]
+> Descrever como será realizado o reajuste do contrato, informando o índice de reajuste, o prazo e a data base.
+
+> [!TIP]
+> O texto a seguir é meramente ilustrativo e tem a finalidade de exemplificar a forma como podem ser estabelecidos os critérios de reajuste contratual.
+
+X.X. Os preços são fixos e irreajustáveis no prazo de _12 (doze) meses_, contado da data do orçamento estimado: \<informar a data da assinatura da pesquisa de preços>.
+
+> [!TIP]
+> Índice de Custo de Tecnologia da Informação (ICTI), do Instituto de Pesquisa Econômica Aplicada (IPEA) - Obrigatório para contratação de serviços.
+>
+> Índice Nacional de Preços ao Consumidor Amplo - IPCA, do Instituto Brasileiro de Geografia e Estatística (IBGE) ou Índice Geral de Preços - Mercado - IGP-M, Fundação Getúlio Vargas (FGV) - Para bens
+
+X.X. Dentro do prazo de vigência do contrato, os preços contratados poderão sofrer reajuste após o interregno de 12 meses, aplicando-se o \<Informar o índice>, exclusivamente para as obrigações iniciadas e concluídas após a ocorrência da anualidade.
+
+> [!TIP]
+> Adicionar o subitem abaixo quando utilizar o ICTI como índice.
+
+X.X.1. Conforme Art. 24. da Instrução Normativa SGD/ME nº 94, de 23 de dezembro de 2022 regida pela Lei nº 14.133, de 2021, o ICTI/IPEA é o índice obrigatório aplicado nas contratações de serviços de Tecnologia da Informação em que haja previsão de reajuste de preços por aplicação de índice de correção monetária.
+
+X.X. Nos reajustes subsequentes ao primeiro, o interregno mínimo de um ano será contado a partir dos efeitos financeiros do último reajuste.
+
+X.X. No caso de atraso ou não divulgação do índice de reajustamento, o CONTRATANTE pagará à CONTRATADA a importância calculada pela última variação conhecida, liquidando a diferença correspondente tão logo seja divulgado o índice definitivo.
+
+X.X. Nas aferições finais, o índice utilizado para reajuste será, obrigatoriamente, o definitivo.
+
+X.X. Caso o índice estabelecido para reajustamento venha a ser extinto ou de qualquer forma não possa mais ser utilizado, será adotado, em substituição, o que vier a ser determinado pela legislação então em vigor.
+
+X.X. Na ausência de previsão legal quanto ao índice substituto, as partes elegerão novo índice oficial, para reajustamento do preço do valor remanescente, por meio de termo aditivo.
+
+X.X. O reajuste será realizado por apostilamento.
+
+#### Da aplicação da margem de preferência (Resolução CNMP 283/2024, Art. 17, inciso I, alínea 's')
+
+> [!NOTE]
+> Descrever se a margem de preferência para bens e serviços desenvolvidos em território nacional será aplicada ao processo.
+
+***Exemplo 1:***
+
+X.X. Conforme o disposto no Art. 26 da Lei nº 14.133/2021, a análise de viabilidade de aplicação de margem de preferência normal e adicional foi considerada nesta contratação. A margem de preferência tem como objetivo incentivar a aquisição de bens e serviços desenvolvidos no território nacional, promovendo o desenvolvimento econômico, tecnológico e a geração de empregos no país.
+
+X.X. A margem de preferência para fornecedores de bens e serviços com tecnologia desenvolvida no país e produzidos conforme o Processo Produtivo Básico **não será aplicável para esta contratação**, pois o objeto contratado não faz parte dos produtos manufaturados nacionais que serão objeto de margens de preferência normal e adicional conforme estabelece o ***Anexo I da Resolução SEGES-CICS/MGI nº 4, de 18 de outubro de 2024***.
+
+***Exemplo 2:***
+
+X.X. Conforme o disposto no Art. 26 da Lei nº 14.133/2021, a análise de viabilidade de aplicação de margem de preferência normal e adicional foi considerada nesta contratação. A margem de preferência tem como objetivo incentivar a aquisição de bens e serviços desenvolvidos no território nacional, promovendo o desenvolvimento econômico, tecnológico e a geração de empregos no país.
+
+X.X. O objeto da contratação **enquadra-se na margem de preferência normal de 10%, prevista no Decreto n.º 11.890/2024**, conforme disposto na ***Resolução SEGES-CICS/MGI nº 4, de 18 de outubro de 2024 da Comissão Interministerial de Contratações Públicas para o Desenvolvimento Sustentável – CICS***, por se tratar de bens manufaturados nacionais que atendam a normas técnicas brasileiras.
 
 ---
 
-#### Da Garantia Contratual (Garantia da Contratação)
+#### Da modalidade de remuneração a ser adotada (Resolução CNMP 283/2024, Art. 17, inciso II)
+
+> [!NOTE]
+> Só deve ser utilizada em contratação de serviços e que prevê algum tipo de remuneração. Exemplo: Contrataçao de serviço de manutenção de TIC, fábrica de sóftware, serviço com dedicação exclusiva de mão de obra e etc.
+
+---
+
+#### Do Parcelamento da solução de TIC (Resolução CNMP 283/2024, Art. 17, inciso III, alínea 'a')
+
+> [!NOTE]
+> Nos casos das contratações de bens e serviços divisíveis, descrever aqui como será feito o parcelamento (em itens ou lotes). Para a contratação de bens divisíveis, é preciso considerar o art. 40, §§ 2º e 3º, da Lei nº 14.133, de 2021 que possibilita a aplicação do princípio do parcelamento, referente às compras, e observando o disposto no art. 47 da Lei Complementar nº 123, de 14 de dezembro de 2006, que determina a concessão de tratamento diferenciado e simplificado às microempresas e empresas de pequeno porte, com o objetivo de promover o desenvolvimento econômico e social no âmbito municipal e regional, ampliar a eficiência das políticas públicas e incentivar a inovação tecnológica. Sendo assim, sempre que for viável, é necessário separar um Lote/item para as empresas ME/EPP.
+
+##### **Justificativas para o não parcelamento (Lei 14.133/2021, Art. 18, inciso VIII) - ITEM OBRIGATÓRIO**
+
+ou
+
+##### **Justificativas para parcelamento (Lei 14.133/2021, Art. 18, inciso VIII) - ITEM OBRIGATÓRIO**
+
+---
+
+#### Da Reserva de cotas para microempresas e empresas de pequeno porte (Lei 14.133/2021, Art. 4; Lei Comp. 123/2006, arts. 42 a 49)
+
+> [!NOTE]
+> Caso a contratação seja de bens e serviços divisíveis, informar aqui a porcentagem da cota reservada para ME/EPP, quando possível.
+
+---
+
+#### Do Desempate ficto em favor de ME/EPP (Lei 123/2026, Art. 44)
+
+> [!NOTE]
+> Item não obrigatório e deve ser utilizado somente se houver reserva de cota e tratamento diferenciado para ME/EPP. O texto abaixo é padrão.
+
+X.X. Conforme a Lei Complementar nº 123/2006, empresas ME e EPPs têm tratamento diferenciado e podem ser favorecidas em contratações públicas.
+
+X.X. Microempresas (ME) e Empresas de Pequeno Porte (EPPs) terão tratamento diferenciado nesta aquisição conforme determina o Art. 5º do Decreto Estadual nº 16.212/2015, autorizado conforme o Art. 190, inciso III do Decreto Estadual 21.872, de 07 de março de 2023.
+
+X.X.1. Nessas condições, as propostas de microempresas - ME e empresas de pequeno porte - EPP que se encontrarem na faixa de até 5% (cinco por cento) acima da melhor proposta ou melhor lance serão consideradas empatadas com a primeira colocada.
+
+X.X.2. A mais bem classificada nos termos do subitem anterior terá o direito de encaminhar uma última oferta para desempate, obrigatoriamente em valor inferior ao da primeira colocada, no prazo de 5 (cinco) minutos controlados pelo sistema, contados após a comunicação automática para tanto.
+
+X.X.3. Caso a microempresa - ME ou a empresa de pequeno porte - EPP melhor classificada desista ou não se manifeste no prazo estabelecido, serão convocadas as demais licitantes microempresa - ME e empresa de pequeno porte EPP que se encontrem naquele intervalo de 5% (cinco por cento), na ordem de classificação, para o exercício do mesmo direito, no prazo estabelecido no subitem anterior.
+
+X.X.4. No caso de equivalência dos valores apresentados pelas microempresas - ME e empresas de pequeno porte - EPP que se encontrem nos intervalos estabelecidos nos subitens anteriores, será realizado sorteio entre elas para que se identifique aquela que primeiro poderá apresentar melhor oferta.
+
+X.X.5. Persistindo o empate, será assegurada preferência, sucessivamente, aos bens e serviços produzidos ou prestados por: I - empresas estabelecidas no território do Estado do Piauí.
+
+X.X.6. Persistindo o empate, será assegurada preferência, sucessivamente empresas que invistam em pesquisa e no desenvolvimento de tecnologia no Piauí.
+
+X.X.7. Persistindo o empate, será assegurada preferência, sucessivamente empresas que invistam em pesquisa e no desenvolvimento de tecnologia em qualquer Estado do Brasil.
+
+---
+
+#### Da Subcontratação, Consórcios e Cooperativas (Resolução CNMP 283/2024, Art. 17, inciso III, alínea 'b'; Lei 14.133/2021, Art. 16)
+
+> [!NOTE]
+> Descrever se será permitido a subcontratação, a participação de Empresas em consórcios e cooperativas. Caso não seja permitido, é preciso Justificar.
+
+##### Justificativa para a não participação de Consórcios e Subcontratação (Resolução CNMP nº 283/2024, Art. 17, inciso I, alínea 's' )
+
+X.X.1. A subcontratação deste objeto não será permitida a fim de manter o controle direto sobre a qualidade, o cumprimento dos prazos e a conformidade com as obrigações contratuais.
+
+X.X.2. A participação de empresas em regime de Consórcios não será permitida pois os objetos a serem adquiridos NÃO envolvem questões de alta complexidade, em que empresas, isoladamente, não teriam condições de suprir os requisitos de habilitação do edital.
+
+##### Justificativa para a não participação de Cooperativas
+
+***Exemplo 1:***
+
+X.X.1. A execução contratual exige a assunção direta de obrigações comerciais típicas de fornecedores regulares do mercado, incluindo garantia, substituição de produtos e suporte pós-fornecimento, o que pressupõe estrutura empresarial organizada e capacidade operacional contínua, incompatível com o modelo cooperativo, cuja atuação é voltada à prestação de serviços pelos próprios cooperados.
+
+X.X.2. Dessa forma, a vedação à participação de cooperativas justifica-se pela necessidade de assegurar a adequada execução contratual, a padronização dos bens fornecidos e a observância dos princípios da eficiência, da segurança da contratação e da seleção da proposta mais vantajosa para a Administração Pública.
+
+---
+
+#### Da Garantia Contratual (Garantia da Contratação) (Modelo TR AGU, abr. 2026; Lei 14.133/2021, Art. 96)
 
 > [!IMPORTANT]
 > A exigência ou dispensa de Garantia Contratual deve ser devidamente justificada.
 
-***Exemplo 1:***
-
 > [!TIP]
-> Os textos abaixo possuem caráter de referência e podem ser utilizados como modelo. Recomenda-se sua cópia e adaptação conforme as especificidades de cada contratação ou necessidade identificada.
+> A AGU possui modelos de Contratos e TR que exemplificam muito bem os textos para a definição da Garantia Contratual.
 
-8.96. Não haverá exigência de garantia contratual nos termos dos artigos 96 e seguintes da Lei nº 14.133, de 2021.
+##### Justificativa para Exigência de Garantia Contratual
 
-8.96.1. A presente licitação tem por objeto a aquisição de bens de consumo durável — tais como dispositivos de armazenamento, memórias RAM, acessórios de informática e estabilizadores — cuja entrega se dará de forma única e em prazo determinado, com garantia técnica de funcionamento prevista nas especificações do Termo de Referência e assegurada pelo fabricante ou fornecedor.
+***Texto exemplo:***
 
-8.96.2. Tendo em vista que não se trata de fornecimento continuado, prestação de serviço com dedicação de mão de obra ou entrega parcelada, e que os riscos à Administração após o recebimento definitivo dos itens são mínimos, não se justifica a exigência de garantia contratual adicional.
+X.X. Considerando que a presente contratação envolve a aquisição/contratação de \<bens/serviços> de grande vulto, com elevado impacto financeiro e relevância estratégica para o cumprimento das atribuições institucionais do Ministério Público do Estado do Piauí, justifica-se a exigência de garantia contratual como medida de proteção do interesse público.
 
-8.96.3. Ademais, o contrato preverá, conforme legislação vigente, mecanismos adequados de controle e penalização, como a retenção de pagamentos, a aplicação de sanções administrativas em caso de descumprimento das obrigações assumidas e o cumprimento da garantia de funcionamento dos itens, conforme os prazos mínimos exigidos no Termo de Referência.
+X.X. A garantia tem por finalidade resguardar a Administração contra eventuais riscos decorrentes do inadimplemento total ou parcial das obrigações assumidas pela contratada, tais como atrasos na entrega, falhas na execução, descumprimento de prazos, fornecimento inadequado de bens ou serviços e demais situações que possam comprometer a efetividade da contratação.
 
-***Exemplo 2:***
+X.X. Ademais, a previsão de garantia contratual encontra amparo nos dispositivos da Lei nº 14.133/2021, que autorizam sua exigência em contratos de maior complexidade ou de grande relevância econômica, como instrumento de mitigação de riscos e de reforço à segurança jurídica da contratação.
 
-8.97. O adjudicatário prestará garantia de execução do contrato, nos moldes do Art. 96 da Lei nº 14.133, de 2021, com validade durante a execução do contrato e por 90 (noventa) dias após o término da vigência contratual, em valor correspondente a 5% (cinco por cento) do valor anual do contrato.
-
-8.98. No prazo máximo de 10 (dez) dias úteis, prorrogáveis por igual período, a critério do CONTRATANTE, contados da assinatura do contrato, a CONTRATADA deverá apresentar comprovante de prestação de garantia, podendo optar por caução em dinheiro ou títulos da dívida pública, seguro garantia ou fiança bancária.
-
-**8.98.1. Antes da assinatura do contrato, o adjudicatário terá o prazo de 1 (um) mês, contado da data de homologação da licitação, para a prestação da garantia quando optar pela modalidade prevista no inciso II do § 1º do art. 96, da Lei nº 14.133/21 (seguro-garantia).**
-
-> [!WARNING]
-> Se a modalidade seguro-garantia for a escolhida, ela deve ser apresentada em até 30 (trinta) dias antes da assinatura do contrato (Lei 14.133/2021, Art. 96, § 3º).
-
-8.98.2. A inobservância do prazo fixado para apresentação da garantia acarretará a aplicação de multa de 0,07% (sete centésimos por cento) do valor total do contrato por dia de atraso, até o máximo de 2% (dois por cento).
-
-8.99. O atraso superior a 25 (vinte e cinco) dias autoriza a Administração a promover a rescisão do contrato por descumprimento ou cumprimento irregular de suas cláusulas, conforme dispõem os incisos I e II do Art. 137 da Lei n. 14.133 de 2021.
-
-8.100. A validade da garantia, qualquer que seja a modalidade escolhida, deverá abranger um período de 90 dias após o término da vigência contratual.
-
-8.101. A garantia assegurará, qualquer que seja a modalidade escolhida, o pagamento de:
-
-8.101.1. Prejuízos advindos do não cumprimento do objeto do contrato e do não adimplemento das demais obrigações nele previstas.
-
-8.101.2. Prejuízos diretos causados à Administração decorrentes de culpa ou dolo durante a execução do contrato.
-
-8.101.3. Multas moratórias e punitivas aplicadas pela Administração à CONTRATADA. e
-
-8.101.4. Obrigações trabalhistas e previdenciárias de qualquer natureza e para com o FGTS, não adimplidas pela CONTRATADA, quando couber.
-
-8.102. A modalidade seguro-garantia somente será aceita se contemplar todos os eventos indicados no item anterior, observada a legislação que rege a matéria.
-
-8.103. A garantia em dinheiro deverá ser efetuada em favor do CONTRATANTE, em conta específica na Caixa Econômica Federal, com correção monetária.
-
-8.104. Caso a opção seja por utilizar títulos da dívida pública, estes devem ter sido emitidos sob a forma escritural, mediante registro em sistema centralizado de liquidação e de custódia autorizado pelo Banco Central do Brasil, e avaliados pelos seus valores econômicos, conforme definido pelo Ministério da Economia.
-
-8.105. No caso de garantia na modalidade de fiança bancária, deverá constar expressa renúncia do fiador aos benefícios do artigo 827 do Código Civil.
-
-8.106. No caso de alteração do valor do contrato, ou prorrogação de sua vigência, a garantia deverá ser ajustada à nova situação ou renovada, seguindo os mesmos parâmetros utilizados quando da contratação.
-
-8.107. Se o valor da garantia for utilizado total ou parcialmente em pagamento de qualquer obrigação, a CONTRATADA obriga-se a fazer a respectiva reposição no prazo máximo de 15 (quinze) dias úteis, contados da data em que for notificada.
-
-8.108. O CONTRATANTE executará a garantia na forma prevista na legislação que rege a matéria.
-
-8.108.1. Será considerada extinta a garantia:
-
-8.108.1.1. Com a devolução da apólice, carta fiança ou autorização para o levantamento de importâncias depositadas em dinheiro a título de garantia, acompanhada de declaração do CONTRATANTE, mediante termo circunstanciado, de que a CONTRATADA cumpriu todas as cláusulas do contrato.
-
-8.108.1.2. No prazo de 90 (noventa) dias após o término da vigência do contrato, caso a Administração não comunique a ocorrência de sinistros, quando o prazo será ampliado, nos termos da comunicação.
-
-8.109. O garantidor não é parte para figurar em processo administrativo instaurado pelo CONTRATANTE com o objetivo de apurar prejuízos e/ou aplicar sanções à CONTRATADA.
-
-8.110. A CONTRATADA autoriza o CONTRATANTE a reter, a qualquer tempo, a garantia, na forma prevista neste Termo de Referência e no Contrato.
-
-Justificativa para Exigência de Garantia Contratual
-
-8.111. Considerando que a presente contratação envolve a aquisição/contratação de \<bens/serviços> de grande vulto, com elevado impacto financeiro e relevância estratégica para o cumprimento das atribuições institucionais do Ministério Público do Estado do Piauí, justifica-se a exigência de garantia contratual como medida de proteção do interesse público.
-
-8.112. A garantia tem por finalidade resguardar a Administração contra eventuais riscos decorrentes do inadimplemento total ou parcial das obrigações assumidas pela contratada, tais como atrasos na entrega, falhas na execução, descumprimento de prazos, fornecimento inadequado de bens ou serviços e demais situações que possam comprometer a efetividade da contratação.
-
-8.113. Ademais, a previsão de garantia contratual encontra amparo nos dispositivos da Lei nº 14.133/2021, que autorizam sua exigência em contratos de maior complexidade ou de grande relevância econômica, como instrumento de mitigação de riscos e de reforço à segurança jurídica da contratação.
-
-8.114. Dessa forma, a exigência da garantia contratual mostra-se necessária e proporcional, assegurando maior proteção ao erário e garantindo que a contratada execute fielmente todas as obrigações pactuadas.
+X.X. Dessa forma, a exigência da garantia contratual mostra-se necessária e proporcional, assegurando maior proteção ao erário e garantindo que a contratada execute fielmente todas as obrigações pactuadas.
 
 ---
 
-#### Realização de vistoria
+#### Da indicação e/ou vedação de marcas ou modelos (Modelo TR AGU, abr. 2026; Lei 14.133/2021, Art. 41)
 
-8.115. Não será exigida vistoria para a presente aquisição/contratação.
+> [!NOTE]
+> Caso seja necessário indicar uma marca ou modelo, é preciso justificar bem o motivo da indicação.
 
-***Exemplo:***
+> [!WARNING]
+> A indicação de marca e/ou modelo com a finalidade de excluir determinado produto ou serviço que, embora atenda às necessidades do órgão, não tenha sido bem avaliado ou considerado satisfatório, deve estar devidamente fundamentada em estudos e justificativas técnicas. Tal procedimento é essencial para resguardar a legalidade do processo e prevenir eventuais questionamentos, impugnações ou contestações futuras.
+
+---
+
+#### Realização de vistoria (Quando necessário)
 
 > [!TIP]
 > O texto abaixo possui caráter de referência e pode ser utilizado como modelo. Recomenda-se sua cópia e adaptação conforme as especificidades de cada contratação ou necessidade identificada.
 
-8.116. A vistoria técnica tem como objetivo expor integralmente aos participantes da licitação a totalidade das condições em que serão executados os serviços, com destaque para o ambiente computacional físico e lógico, da infraestrutura, conectividade, configurações existentes e passíveis de integração ou alteração com a nova solução, sobre os quais a não observância poderá acarretar sérias distorções operacionais ou mesmo na formação do preço dos participantes.
+X.X. A vistoria técnica tem como objetivo expor integralmente aos participantes da licitação a totalidade das condições em que serão executados os serviços, com destaque para o ambiente computacional físico e lógico, da infraestrutura, conectividade, configurações existentes e passíveis de integração ou alteração com a nova solução, sobre os quais a não observância poderá acarretar sérias distorções operacionais ou mesmo na formação do preço dos participantes.
 
-8.117. Considerando a importância dos serviços a serem contratados e levando em conta a economicidade com a redução de riscos da contratação e da futura gestão contratual, considera-se a VISTORIA OPCIONAL ***(ou obrigatória)*** na sede do Ministério Público do Estado do Piauí, ampliando com isso a isonomia no domínio de informações relevantes para a construção de uma proposta comercial, preservando a competitividade do certame com a participação de empresas atentas, convictas e cuidadosas com os requisitos exigidos na presente licitação.
+X.X. Considerando a importância dos serviços a serem contratados e levando em conta a economicidade com a redução de riscos da contratação e da futura gestão contratual, considera-se a VISTORIA OPCIONAL ***(ou obrigatória)*** na sede do Ministério Público do Estado do Piauí, ampliando com isso a isonomia no domínio de informações relevantes para a construção de uma proposta comercial, preservando a competitividade do certame com a participação de empresas atentas, convictas e cuidadosas com os requisitos exigidos na presente licitação.
 
-8.118. Ao licitante que desejar realizar a vistoria para o correto dimensionamento e elaboração de sua proposta, poderá realizar vistoria nas instalações do local de execução dos serviços, acompanhado por servidor do MPPI designado para esse fim, de segunda à sexta-feira, das 8:00 às 15:00 horas, devendo o agendamento ser efetuado previamente pelo endereço eletrônico \<Especificar o/s endereço/s de e-mail>, no Ministério Público do Estado do Piauí, localizado na \<Especificar o endereço completo>.
+X.X. Ao licitante que desejar realizar a vistoria para o correto dimensionamento e elaboração de sua proposta, poderá realizar vistoria nas instalações do local de execução dos serviços, acompanhado por servidor do MPPI designado para esse fim, de segunda à sexta-feira, das 8:00 às 15:00 horas, devendo o agendamento ser efetuado previamente pelo endereço eletrônico \<Especificar o/s endereço/s de e-mail>, no Ministério Público do Estado do Piauí, localizado na \<Especificar o endereço completo>.
 
-8.118.1. A vistoria também poderá ser realizada por videoconferência com agendamento prévio.
+X.X.1. A vistoria também poderá ser realizada por videoconferência com agendamento prévio.
 
-8.118.2. A vistoria será comprovada mediante o preenchimento do Termo de Compromisso de Manutenção de Sigilo (Vistoria Técnica) ***e Termo de vistoria técnica facultativa*** Anexo do Termo de Referência.
+X.X.2. A vistoria será comprovada mediante o preenchimento do Termo de Compromisso de Manutenção de Sigilo (Vistoria Técnica) ***e Termo de vistoria técnica facultativa*** Anexo do Termo de Referência.
 
-8.118.2.1. Declaração emitida pelo licitante, conforme a segunda opção de texto do Termo de vistoria técnica facultativa do Termo de Referência, de que conhece as condições locais para execução do objeto, caso opte por não realizar a vistoria.
+X.X.2.1. Declaração emitida pelo licitante, conforme a segunda opção de texto do Termo de vistoria técnica facultativa do Termo de Referência, de que conhece as condições locais para execução do objeto, caso opte por não realizar a vistoria.
 
-8.118.3. A não realização da vistoria, quando facultativa, não poderá embasar posteriores alegações de desconhecimento das instalações, dúvidas ou esquecimentos de quaisquer detalhes da prestação dos serviços, devendo a licitante vencedora assumir o ônus dos serviços decorrentes.
+X.X.3. A não realização da vistoria, quando facultativa, não poderá embasar posteriores alegações de desconhecimento das instalações, dúvidas ou esquecimentos de quaisquer detalhes da prestação dos serviços, devendo a licitante vencedora assumir o ônus dos serviços decorrentes.
 
-8.118.4. O prazo para vistoria opcional iniciar-se-á no dia útil seguinte ao da publicação do Edital, estendendo-se até o dia útil anterior à data prevista para a abertura da sessão pública.
+X.X.4. O prazo para vistoria opcional iniciar-se-á no dia útil seguinte ao da publicação do Edital, estendendo-se até o dia útil anterior à data prevista para a abertura da sessão pública.
 
-8.118.5. Para a vistoria local ou videoconferência, o licitante, ou o seu representante, deverá estar devidamente identificado, apresentando documento de identidade civil e documento expedido pela empresa comprovando sua habilitação para representá-la.
+X.X.5. Para a vistoria local ou videoconferência, o licitante, ou o seu representante, deverá estar devidamente identificado, apresentando documento de identidade civil e documento expedido pela empresa comprovando sua habilitação para representá-la.
 
-8.119. Caso seja realizada, a LICITANTE assinará compromisso de guardar sigilo sobre todas as informações obtidas durante as visitas.
+X.X. Caso seja realizada, a LICITANTE assinará compromisso de guardar sigilo sobre todas as informações obtidas durante as visitas.
 
 ---
 
@@ -910,75 +626,16 @@ Justificativa para Exigência de Garantia Contratual
 > [!NOTE]
 > A carta de solidariedade é apenas para licitações para aquisição de bens.
 
-8.120. Conforme o art. 41, inciso IV da Lei 14.133/2021, "No caso de licitação que envolva o fornecimento de bens, a Administração poderá excepcionalmente: IV - solicitar, motivadamente, carta de solidariedade emitida pelo fabricante, que assegure a execução do contrato, no caso de licitante revendedor ou distribuidor."
+X.X. Conforme o art. 41, inciso IV da Lei 14.133/2021, "No caso de licitação que envolva o fornecimento de bens, a Administração poderá excepcionalmente: IV - solicitar, motivadamente, carta de solidariedade emitida pelo fabricante, que assegure a execução do contrato, no caso de licitante revendedor ou distribuidor."
 
-8.121. Não se trata de uma licitação para o fornecimento de bens com alta complexidade, com isso, não será exigida a carta de solidariedade emitida pelo fabricante, que assegure a execução do contrato.
+X.X. Não se trata de uma licitação para o fornecimento de bens com alta complexidade, com isso, não será exigida a carta de solidariedade emitida pelo fabricante, que assegure a execução do contrato.
 
 ***ou***
 
-8.122. Como se trata de uma licitação para o fornecimento de bens com alta complexidade, será exigida a carta de solidariedade emitida pelo fabricante, que assegure a execução do contrato.
+X.X. Como se trata de uma licitação para o fornecimento de bens com alta complexidade, será exigida a carta de solidariedade emitida pelo fabricante, que assegure a execução do contrato.
 
 > [!WARNING]
 > Deve-se adotar cautela na exigência da carta de solidariedade, uma vez que tal requisito pode restringir a competitividade do certame e levar à desistência de potenciais licitantes.
-
----
-
-#### Da indicação de marcas ou modelos (quando aplicável)
-
-8.123. Não será realizado a indicação de marcas ou modelos nesta licitação.
-
-***Exemplo:***
-
-> [!NOTE]
-> Caso seja necessário indicar uma marca ou modelo, é preciso justificar bem o motivo da indicação.
-
-8.124. Marca e Modelo: Drone DJI Mavic 3E Enterprise com a Bateria da Série DJI Mavic 3 Enterprise (versão EU C1) e Hélices com Redução de Ruídos da Série DJI Mavic 3 Enterprise.
-
-Justificativa:
-
-8.124.1. Tem como objetivo o monitoramento de alvos durante investigações do GAECO e pode ser justificada com base nos seguintes critérios técnicos e operacionais:
-
-8.124.1.1. Qualidade de imagem e zoom poderoso
-
-- Equipado com câmera com sensor CMOS de 4/3 polegadas e zoom híbrido de até 56×, o Mavic 3 Enterprise permite:
-  - Identificar alvos a longa distância com clareza.
-  - Realizar vigilância discreta sem necessidade de aproximação física.
-  - Gravar evidências com qualidade pericial.
-
-8.124.1.2. Alcance operacional e autonomia
-
-- Tempo de voo de até 45 minutos, superior à maioria dos drones da categoria.
-- Alcance de transmissão de até 15 km, permitindo operações remotas e seguras.
-- Ideal para monitoramento contínuo, especialmente em áreas extensas ou de difícil acesso.
-
-8.124.1.3. Precisão e navegação inteligente
-
-- Suporte a RTK (Real-Time Kinematic) para geolocalização precisa, fundamental em operações que exigem registro técnico detalhado.
-- Funções de voo automatizado com pontos de interesse (POI), trajetos predefinidos e retorno automático com segurança.
-
-8.124.1.4. Discrição e mobilidade
-
-- Design compacto e silencioso.
-- Fácil transporte e implantação rápida em campo.
-- Ideal para operações que exigem sigilo e rapidez, como monitoramento de alvos em áreas urbanas ou rurais.
-
-8.124.1.5. Recursos de segurança e confiabilidade
-
-- Sistema de detecção de obstáculos omnidirecional para voos seguros em ambientes complexos.
-- Transmissão criptografada, protegendo dados sensíveis durante operações sigilosas.
-- Ampla compatibilidade com softwares de gestão de voo e monitoramento em tempo real.
-
-8.124.1.6. Custo-benefício e suporte técnico
-
-- Embora não seja o mais barato do mercado, o DJI Mavic 3 Enterprise oferece:
-  - Alto retorno em termos de desempenho, robustez e confiabilidade.
-  - Assistência técnica nacional e ampla rede de reposição de peças.
-  - Longa vida útil operacional com baixo custo de manutenção.
-
-8.124.2. O DJI Mavic 3 Enterprise atende com excelência aos requisitos operacionais de uma equipe de investigação, reunindo qualidade de imagem, autonomia, segurança, precisão e discrição. Sua escolha garante eficiência, confiabilidade e qualidade técnica para operações de monitoramento de alvos durante investigações, justificando plenamente sua aquisição por meio de licitação.
-
-> [!WARNING]
-> A indicação de marca e/ou modelo com a finalidade de excluir determinado produto ou serviço que, embora atenda às necessidades do órgão, não tenha sido bem avaliado ou considerado satisfatório, deve estar devidamente fundamentada em estudos e justificativas técnicas. Tal procedimento é essencial para resguardar a legalidade do processo e prevenir eventuais questionamentos, impugnações ou contestações futuras.
 
 ---
 
@@ -990,63 +647,21 @@ Justificativa:
 
 ---
 
-#### Do reajuste contratual
-
-8.125. Os preços são fixos e irreajustáveis no prazo de 12 (doze) meses, contado da data do orçamento estimado: \<informar a data da assinatura da pesquisa de preços>.
-
-> [!TIP]
-> Índice de Custo de Tecnologia da Informação (ICTI), do Instituto de Pesquisa Econômica Aplicada (IPEA) - Obrigatório para contratação de serviços.
->
-> Índice Nacional de Preços ao Consumidor Amplo - IPCA, do Instituto Brasileiro de Geografia e Estatística (IBGE) ou Índice Geral de Preços - Mercado - IGP-M, Fundação Getúlio Vargas (FGV) - Para bens
-
-8.126. Dentro do prazo de vigência do contrato, os preços contratados poderão sofrer reajuste após o interregno de 12 meses, aplicando-se o \<Informar o índice>, exclusivamente para as obrigações iniciadas e concluídas após a ocorrência da anualidade.
-
-> [!TIP]
-> Adicionar o subitem abaixo quando utilizar o ICTI como índice.
-
-8.126.1. Conforme Art. 24. da Instrução Normativa SGD/ME nº 94, de 23 de dezembro de 2022 regida pela Lei nº 14.133, de 2021, o ICTI/IPEA é o índice obrigatório aplicado nas contratações de serviços de Tecnologia da Informação em que haja previsão de reajuste de preços por aplicação de índice de correção monetária.
-
-8.127. Nos reajustes subsequentes ao primeiro, o interregno mínimo de um ano será contado a partir dos efeitos financeiros do último reajuste.
-
-8.128. No caso de atraso ou não divulgação do índice de reajustamento, o CONTRATANTE pagará à CONTRATADA a importância calculada pela última variação conhecida, liquidando a diferença correspondente tão logo seja divulgado o índice definitivo.
-
-8.129. Nas aferições finais, o índice utilizado para reajuste será, obrigatoriamente, o definitivo.
-
-8.130. Caso o índice estabelecido para reajustamento venha a ser extinto ou de qualquer forma não possa mais ser utilizado, será adotado, em substituição, o que vier a ser determinado pela legislação então em vigor.
-
-8.131. Na ausência de previsão legal quanto ao índice substituto, as partes elegerão novo índice oficial, para reajustamento do preço do valor remanescente, por meio de termo aditivo.
-
-8.132. O reajuste será realizado por apostilamento.
-
----
-
 ### 9. Estimativa da demanda - quantidade de bens e serviços (Lei 14.133/2021 §1º IV; IN 94/2022 art. 11 I; MOTec) - ITEM OBRIGATÓRIO
 
 > [!NOTE]
+> Conforme o inciso I, do art. 11, da IN SGD/ME nº 94, de 2022, o órgão demandante deve descrever de forma detalhada, motivada e justificada, inclusive quanto à forma de cálculo, o quantitativo de bens e serviços necessários para a sua composição. É importante documentar a aplicação do método adotado para o cálculo das estimativas das quantidades dos itens a contratar, explicitando como os cálculos foram feitos (memorial de cálculo).
+>
 > "Registro do quantitativo de bens e serviços necessários para a composição da solução a ser contratada de forma detalhada, motivada e justificada, inclusive quanto à forma de cálculo.
 >
 > Métodos, metodologias e técnicas de estimativas poderão ser utilizados nesta atividade, que podem incluir análise de histórico de demandas, estatística, regressões, projeções etc." - MOTec
-
-***Exemplo 1:***
-
-9.1. A estimativa da demanda tem como fundamento o levantamento realizado durante a elaboração do PCA 2025, refletindo as necessidades apresentadas pelos diversos setores do MPPI. Além disso, busca-se otimizar recursos por meio da economia de escala, reduzindo a necessidade de aquisições futuras de computadores e evitando o descarte prematuro de equipamentos que ainda possuem vida útil em operação.
-
-***Anexar tabela com as descrições, CATMAT/CATSER ou PDM e as quantidades solicitadas.***
-
-***Exemplo 2:***
-
-9.2. Considerando a aquisição de um novo Data Center para atender às demandas do GAECO/MPPI (Processo nº xxxx), bem como a necessidade identificada pela CTI de um Nobreak de 6KVA destinado à sustentação do rack central que abriga os servidores e equipamentos de internet adquiridos nos Processos nº \<especificar>, estima-se que, para atender adequadamente às necessidades institucionais do MPPI, faz-se necessária a aquisição dos equipamentos descritos na tabela a seguir:
 
 ***Anexar tabela com as descrições, CATMAT/CATSER ou PDM e as quantidades solicitadas.***
 
 > [!TIP]
 > Sempre indique os benefícios que o órgão obterá com a aquisição ou contratação. Caso exista memorial de cálculo que fundamente a estimativa da demanda, ou se houver interdependências entre itens ou possibilidade de economia em escala, tais informações devem ser explicitadas, de forma a esclarecer plenamente a base da quantidade estimada.
 
-9.3. Considerando a aquisição de X nobreaks de 6KVA para atender às necessidades do MPPI e do GAECO, a contratação em lote único permite a obtenção de economia em escala, resultando em redução de custos unitários em relação à aquisição parcelada dos equipamentos.
-
-9.4. A compra conjunta proporciona benefícios financeiros diretos, como descontos comerciais decorrentes do maior volume de compra, redução de custos administrativos com processos de licitação separados, e otimização logística de entrega, instalação e manutenção.
-
-9.5. Além disso, a aquisição integrada garante padronização tecnológica dos nobreaks, facilitando o gerenciamento da infraestrutura de energia, manutenção preventiva e corretiva, e promovendo maior eficiência operacional e segurança no suporte aos sistemas críticos do MPPI e do GAECO.
+***Sempre informe o número de outros processos que embasaram a estimativa da quantidade. Informe todos os fatores que fizeram a equipe de planejamento chegar na estimativa da quantidade desejada e sempre anexe documentos que comprovem o que foi dito. Lembre-se, aqui não vale números tirados da cabeça, é preciso mostrar que a quantidade tem fundamento.***
 
 ## SOLUÇÃO
 
@@ -1062,7 +677,21 @@ Justificativa:
 > c. Recomenda-se avaliar o custo/benefício de contratar os serviços de suporte técnico e de atualização de versões, sejam ambos ou somente um deles, ou de não contratar nenhum desses serviços, considerando elementos como a necessidade de negócio que motive a contratação desse serviço e o preço praticado por esse serviço, de acordo com a Constituição Federal, art. 37, caput (Acórdão 2.569/2018 Plenário).
 >
 > d. Recomenda-se avaliar o impacto orçamentário e financeiro das contratações de software baseadas em modelos voltados totalmente para serviços, a exemplo de SaaS e Computação em Nuvem, de forma a subsidiar o planejamento para a mudança na forma de custeio da TI governamental ao longo dos anos (Acórdão 2.569/2018 Plenário).
-
+>
+> Deve-se realizar um levantamento de soluções disponíveis que podem atender à necessidade da contratação para órgão/entidade, considerando as possibilidades descritas abaixo, em alinhamento ao inciso II do art. 11:
+>
+> * Necessidades similares em outros órgãos ou entidades da Administração Pública e as soluções adotadas;
+> * As alternativas do mercado;
+> * A existência de software público brasileiro, quando aplicável;
+> * As políticas, os modelos e os padrões de governo, a exemplo do ePing, eMag, ePwg, ICP-Brasil e e-ARQ Brasil, quando aplicáveis;
+> * As necessidades de adequação do ambiente do órgão ou entidade para viabilizar a execução contratual (exemplo: mobiliário, instalação elétrica, espaço adequado para prestação do serviço, etc)
+> * A possibilidade de aquisição na forma de bens ou contratação como serviço;
+> * Os diferentes modelos de prestação do serviço;
+> * Os diferentes tipos de soluções em termos de especificação, composição ou características dos bens e serviços integrantes;
+> * A ampliação ou substituição da solução implantada;
+> * As diferentes métricas de prestação do serviço e de pagamento.
+>
+> Com base neste levantamento, cenários ou arranjos poderão ser formados para compor as soluções possíveis para atendimento da necessidade.
 ---
 
 > ***Não há um modelo padrão a ser seguido. Recomenda-se que os itens abaixo sirvam como guia sobre os aspectos que devem ser analisados no processo de estudo técnico preliminar.***
@@ -1154,6 +783,16 @@ Justificativa:
 
 - Fontes (Sempre informar as fontes utilizadas - Banco de preços, painel de preços, endereços de sites etc)
 - Tabela (Elaborar uma tabela com todas as pesquisas e valores - Pode mencionar aqui o Relatório de pesquisa de preços e mapa de preços gerado pelo Banco de Preços ou Painel de Preços)
+
+##### Metodologia e Justificativa da Pesquisa de Preços
+
+> Como nem sempre é possível encontrar preços para o bem ou serviço que deseja contratar, descrever aqui a metologia de pesquisa utilizada para adquirir os preços. Por exemplo, no caso de computadores, devido à alta dinamicidade do mercado de Tecnologia da Informação e à constante atualização de portfólios por parte dos fabricantes, constata-se a inviabilidade de compor uma cesta de preços robusta contendo equipamentos com configurações rigorosamente idênticas, em sua totalidade, às descritas na especificação técnica. Diante desse cenário, visando evitar o risco de sobrepreço decorrente de uma amostra restrita e garantir a representatividade fidedigna dos valores de mercado, adotou-se o critério de similaridade e equivalência técnica. A pesquisa de preços considerou como parâmetros válidos equipamentos que atendam ao núcleo essencial de desempenho exigido, notadamente:
+>
+> - Memória RAM: Exata correspondência à capacidade mínima exigida (16GB).
+> - Armazenamento (Disco): Capacidades equivalentes ou próximas ao padrão exigido (SSD NVMe), admitindo-se variações mercadológicas estritamente similares que não desnaturem o custo global do equipamento nem comprometam o desempenho.
+> - Desempenho Geral: Processadores e demais componentes de mesma categoria e geração equivalente.
+> - Garantia mínima: Garantia on-site mínima de 36 meses.
+> - Fator de forma: Modelos AIO padrão ou modelos com compartimento para mini PC, desde que o compartimento seja projetado pelo próprio fabricante ou suporte tudo em um, para acoplar um Mini desktop, garantindo encaixe seguro por meio de furações, parafusos recartilhados ou usinagens.
 
 > [!TIP]
 > MOTec:
@@ -1314,21 +953,65 @@ Justificativa:
 
 </table>
 
+##### Conclusão da Análise Comparativa das Soluções
+
+> Descrever qual a conclusão chegou e qual as soluções escolhidas, apontando suas vantagens, desvantagens e benefícios.
+
 ---
 
 ### 12. Registro de soluções consideradas inviáveis (IN 94/2022 art. 11 §1º; MOTec)
 
 > [!NOTE]
 > "Sugere-se o registro das soluções consideradas inviáveis no Estudo Técnico Preliminar (breve descrição e justificativa), dispensando-se a realização dos respectivos cálculos de custo total de propriedade>." - MOTec
+>
+> Conforme § 1º do art. 11, as soluções identificadas e consideradas inviáveis deverão ser registradas no Estudo Técnico Preliminar da Contratação (breve descrição e justificativa), dispensando-se a realização dos respectivos cálculos de custo total de propriedade.
+
+---
 
 ### 13. Análise comparativa de custos (TCO) (Lei 14.133/2021 §1º VI; IN 94/2022 art.11 III; MOTec) - ITEM OBRIGATÓRIO
 
 > [!NOTE]
 > "Sugere-se a elaboração de um mapa comparativo, consolidando os resultados apresentados. Esta tabela pode variar conforme a complexidade de cada projeto." - MOTec
+>
+> Conforme inciso III do art. 11, deve-se proceder a comparação de custos totais de propriedade para as soluções técnica e funcionalmente viáveis.
+> Para cada solução considerada viável deve-se realizar o cálculo do Custo Total de Propriedade, considerando os custos inerentes ao ciclo de vida dos bens e serviços da solução, a exemplo dos valores de aquisição dos ativos, insumos, garantia técnica estendida, manutenção, migração e treinamento.
+> Deve-se registrar a memória de cálculo que referencie os preços e os custos utilizados na análise, com vistas a permitir a verificação da origem dos dados.
+> A análise comparativa deve ser feita por meio da elaboração de um mapa comparativo, consolidando os resultados apresentados.
 
 - Tabela com o Cálculo TCO das soluções consideradas viáveis.
 
-### 14. Estimativa de custo total da contratação (Lei 14.133/2021 §1º VI; IN 94/2022 art. 11 IV; MOTec) - ITEM OBRIGATÓRIO
+> [!NOTE]
+> Se só existir uma única solução viável, pode-se dispensar o TCO e adicionando uma justificativa.
+
+***Texto exemplo:***
+
+X.X. Nos termos do art. 18, § 1º, incisos V e XII, da Lei nº 14.133/2021, c/c o art. 11, § 1º, da IN SGD/ME nº 94/2022 e as diretrizes de governança da Resolução CNMP nº 283/2024, a análise comparativa de Custos Totais de Propriedade (TCO) aplica-se essencialmente a cenários em que subsiste pluralidade de soluções técnica e funcionalmente viáveis.
+
+#### Justificativa para dispensa do TCO
+
+X.X. Considerando que o levantamento de mercado e o registro de inviabilidade demonstraram que alternativas como outsourcing (locação), reparo de equipamentos legados ou recebimento de doações são incompatíveis com os requisitos de segurança, padronização e eficiência do órgão, a aquisição direta consagra-se como a única solução viável.
+
+X.X. Por conseguinte, fica dispensada a elaboração de cálculo comparativo de TCO para as alternativas preliminarmente rechaçadas, sob pena de retrabalho injustificado. A estimativa de custos concentrar-se-á exclusivamente na precificação unitária e total da solução viável, em estrito prestígio ao princípio da eficiência (art. 5º da Lei nº 14.133/2021) e da racionalidade administrativa.
+
+#### Definição da Solução a ser Adotada
+
+> Descrever qual a solução foi escolhida e o motivo.
+
+---
+
+### 14. Descrição da solução de TIC a ser contratada (Lei14.133/2021 §1º VII; MOTec)
+
+> [!NOTE]
+> "Após a análise comparativa das Soluções, descrever a solução escolhida. Apesar de a obrigação de justificativa do parcelamento ou não da solução ocorrer apenas na elaboração do Termo de Referência, a Equipe de Planejamento também poderá já realizar esta análise preliminar e registrar nesta seção." - MOTec
+
+#### Declaração de conformidade
+
+> [!NOTE]
+> A declaraçao de conformidade deve deixar claro que o MPPI está realizando uma licitação de acordo com normas, regulamentos ou requisitos legais e técnicos aplicáveis, principalmente com a Resolução CNMP nº 283/2024 e IN SGD/ME nº 94/2022.
+
+---
+
+### 15. Estimativa de custo total da contratação (Lei 14.133/2021 §1º VI; IN 94/2022 art. 11 IV; MOTec) - ITEM OBRIGATÓRIO
 
 > [!NOTE]
 > Registro da estimativa do custo da contratação, considerando a Solução escolhida em formato numérico.
@@ -1337,130 +1020,39 @@ Valor (R$): xx.xxxx,xx
 
 ***Exemplo:***
 
-14.1. Os cálculos, o Mapa Comparativo de Preços e o relatório de cotação gerado pela plataforma [www.bancodeprecos.com.br](www.bancodeprecos.com.br) encontram-se devidamente anexados a este documento, para fins de comprovação da estimativa de custos e embasamento da análise de viabilidade econômica.
+X.X. Os cálculos, o Mapa Comparativo de Preços e o relatório de cotação gerado pela plataforma [www.bancodeprecos.com.br](www.bancodeprecos.com.br) encontram-se devidamente anexados a este documento, para fins de comprovação da estimativa de custos e embasamento da análise de viabilidade econômica.
 
-14.2. As fontes pesquisadas para a pesquisa foram baseadas nos inciso IV do art. 5º, da IN nº 65/2021, do Ministério da Economia.
+X.X. As fontes pesquisadas para a pesquisa foram baseadas nos inciso IV do art. 5º, da IN nº 65/2021, do Ministério da Economia.
 
-14.2.1. A Justificativa para o uso exclusivo do inciso IV está descrito no relatório de cotações.
+X.X.1. A Justificativa para o uso exclusivo do inciso IV está descrito no relatório de cotações.
 
 ou
 
-14.2. As fontes pesquisadas para a pesquisa foram baseadas nos incisos I, II e III do art. 5º, da IN nº 65/2021, do Ministério da Economia.
+X.X. As fontes pesquisadas para a pesquisa foram baseadas nos incisos I, II e III do art. 5º, da IN nº 65/2021, do Ministério da Economia.
 
-14.3. Foram DESCONSIDERADOS os valores superiores a 25% da média total (geral), conforme o Cap. 3, Inc. XXV do Manual de Pesquisa de Preços do STJ, bem como os valores inferiores a 75% da média simples da série de preços coletados.
+X.X. Foram DESCONSIDERADOS os valores superiores a 25% da média total (geral), conforme o Cap. 3, Inc. XXV do Manual de Pesquisa de Preços do STJ, bem como os valores inferiores a 75% da média simples da série de preços coletados.
 
-14.4. A Justificativa para a escolha de cada fornecedor está descrito no relatório de cotações anexado a este ETP.
+X.X. A Justificativa para a escolha de cada fornecedor está descrito no relatório de cotações anexado a este ETP.
 
-14.5. O método estatístico adotado foi a \<média/mediana> dos valores válidos, conforme orienta o Manual de Pesquisa de Preços do STJ 4ª edição.
+X.X. O método estatístico adotado foi a \<média/mediana> dos valores válidos, conforme orienta o Manual de Pesquisa de Preços do STJ 4ª edição.
 
 ***Tabela descritiva com o valor estimado de cada item e valor total estimado (Não obrigatório)***
 
-### 15. Descrição da solução de TIC a ser contratada (Lei14.133/2021 §1º VII; MOTec)
-
-> [!NOTE]
-> "Após a análise comparativa das Soluções, descrever a solução escolhida. Apesar de a obrigação de justificativa do parcelamento ou não da solução ocorrer apenas na elaboração do Termo de Referência, a Equipe de Planejamento também poderá já realizar esta análise preliminar e registrar nesta seção." - MOTec
-
-15.1. A descrição da solução está disponível no ANEXO I desde documento.
-
-#### Parcelamento da solução
-
-> [!TIP]
-> Os textos abaixo possuem caráter de referência e podem ser utilizados como modelo. Recomenda-se sua cópia e adaptação conforme as especificidades de cada contratação ou necessidade identificada.
-
-***Exemplo 1:***
-
-15.2. O objeto da presente licitação consiste na prestação de serviços técnicos especializados de desenvolvimento, sustentação, manutenção e evolução de sistemas no formato de Fábrica de Software, sendo licitado como um único item. Não há divisão em múltiplos itens ou lotes, garantindo clareza conceitual, compatibilidade legal e facilidade na fiscalização e acompanhamento da execução contratual.
-
-15.3. **Justificativas para o não parcelamento (Lei 14.133/2021 §1º VIII) - ITEM OBRIGATÓRIO**
-
-15.3.1. O único item a ser licitado é a Unidade de Serviço Técnico – UST, que nada mais é que uma métrica utilizada para mensurar serviços de Tecnologia da Informação com complexidades variadas, permitindo o controle e a precificação de serviços preestabelecidos, bem como a mensuração do esforço em situações ou problemas previamente conhecidos. Esse item precisa ser executado pela mesma CONTRATADA e sua divisão traria prejuízos e/ou inviabilizaria o desenvolvimento e a sustentação de software na CONTRATANTE, visto que, para assegurar que o resultado gerado, seja um sistema desenvolvido ou a sustentação de um sistema pré-existente, é necessário que todo o trabalho seja feito por apenas um prestador de serviço.
-
-15.3.2. A não observância desta peculiaridade sujeitaria a administração pública a riscos desnecessários de descontinuidade, uma vez que se veria obrigada a coordenar ações de diferentes fornecedores, com possibilidade de ocorrência de sobreposição de responsabilidades técnicas, dado o alto grau de integração e dependência entre as atividades desempenhadas pelos profissionais.
-
-15.3.3. A opção pelo não parcelamento da solução visa assegurar a harmonia durante a prestação do serviço sem implicar em maior custo de fiscalização, sendo, portanto, compatível com a capacidade de fiscalização do CONTRATANTE.
-
-***Exemplo 2:***
-
-15.4. O parcelamento do objeto foi realizado por meio da divisão em lotes, considerando sua viabilidade técnica e econômica, conforme dispõe o art. 40, inciso V, §§ 1º e 2º da Lei nº 14.133/2021. Tal medida visa o melhor aproveitamento das condições de mercado e a ampliação da competitividade, sem comprometer a economia de escala.
-
-15.5. **Justificativas para parcelamento (Lei 14.133/2021 §1º VIII) - ITEM OBRIGATÓRIO**
-
-15.5.1. Nessa perspectiva, torna-se obrigatória a adoção da adjudicação por lote, e não por preço global, desde que não haja prejuízo para a integridade do objeto ou perda significativa da economia de escala. A divisão tem como finalidade ampliar a participação de licitantes que, mesmo não possuindo capacidade para fornecer a totalidade do objeto, reúnam condições para atender a itens ou unidades autônomas. Nesse contexto, as exigências de habilitação devem ser compatíveis com a divisibilidade do objeto.
-
-15.5.2. A estruturação por lotes contribui para uma maior organização do certame, amplia as oportunidades de participação de micro e pequenas empresas e evita a concentração da contratação em um único fornecedor, promovendo, assim, maior competitividade e a possibilidade de obtenção de propostas mais vantajosas para a Administração Pública.
-
-***Tabela com os itens divididos em lotes com a descrição, código CATMAT/CATSER/PDM.***
-
-#### Declaração de conformidade
-
-> [!NOTE]
-> A declaraçao de conformidade deve deixar claro que o MPPI está realizando uma licitação de acordo com normas, regulamentos ou requisitos legais e técnicos aplicáveis, principalmente com a Resolução CNMP nº 283/2024 e IN SGD/ME nº 94/2022.
->
-> Abaixo segue um modelo de referência que pode ser alterado de acordo com a necessidade.
-
-***Exemplo 1:***
-
-15.6. O Ministério Público do Estado do Piauí (MPPI), ao adquirir os itens especificados nos Lotes 1, 2 e 3 desta contratação, declara, para todos os fins de direito, que o objeto da aquisição configura um conjunto de soluções de Tecnologia da Informação e Comunicação (TIC) voltado à modernização, manutenção e ampliação da infraestrutura tecnológica do órgão.
-
-15.7. A presente aquisição abrange exclusivamente a compra de componentes de armazenamento (HDs, SSDs e memórias), e acessórios de informática e equipamentos de proteção elétrica (estabilizadores e filtros de linha), com o objetivo de garantir o suporte operacional a equipamentos existentes, ampliar a capacidade técnica e assegurar o bom funcionamento do parque tecnológico do MPPI.
-
-15.8. Esta aquisição **não se enquadra nas hipóteses vedadas de execução indireta**, estando em conformidade com o disposto no artigo 19, inciso VI, da Resolução CNMP nº 283/2024, e no artigo 3º, inciso I, da Instrução Normativa SGD/ME nº 94/2022.
-
-***Exemplo 2:***
-
-15.9. O Ministério Público do Estado do Piauí (MPPI) declara, para todos os fins de direito, que a presente contratação tem por objeto a prestação de serviços técnicos especializados de desenvolvimento, sustentação, manutenção e evolução de sistemas de informação, conforme metodologia ágil (Scrum) e sob a métrica de Unidade de Serviço Técnico (UST). Tal contratação visa promover a modernização contínua, a inovação tecnológica e o aprimoramento dos serviços digitais prestados pela instituição à sociedade.
-
-15.10. Os serviços contratados constituem uma solução de Tecnologia da Informação e Comunicação (TIC) voltada à execução sob demanda e conforme prioridades institucionais, permitindo maior agilidade e controle sobre os resultados entregues, alinhando-se às boas práticas de governança, eficiência administrativa e transformação digital.
-
-15.11. A presente contratação **caracteriza-se como execução indireta regular de serviços de TIC**, em conformidade com o art. 3º, inciso I, da Instrução Normativa SGD/ME nº 94/2022, por se tratar da prestação de serviços de desenvolvimento e manutenção de software por demanda, com entregas mensuráveis, padrões de qualidade definidos e foco em resultados. Ressalta-se que a contratação não se confunde com hipótese vedada de execução indireta, como a mera disponibilização de mão de obra sem produto final, nos termos do art. 19, inciso VI, da Resolução CNMP nº 283/2024.
+---
 
 ### 16. Justificativa técnica da escolha da solução
 
 > [!NOTE]
 > Descrever as razões técnicas que motivaram a escolha da solução, considerando os aspectos qualitativos incluindo riscos e a relação aos benefícios esperados.
 
-***Exemplo 1:***
-
-16.1. A presente aquisição tem por objetivo atender às necessidades da instituição com relação à reposição, expansão e atualização de equipamentos e periféricos de tecnologia da informação e comunicação (TIC), essenciais para a execução das atividades administrativas e finalísticas do Ministério Público do Estado do Piauí (MPPI).
-
-16.2. Os itens foram agrupados por similaridade técnica e funcional em lotes, com o intuito de otimizar o processo de aquisição e possibilitar maior eficiência na gestão dos materiais. A escolha dos equipamentos considerou critérios como compatibilidade com a infraestrutura já existente, padronização, confiabilidade, desempenho e disponibilidade no mercado nacional.
-
-16.3. Os itens especificados atendem às demandas técnicas previamente identificadas pelos setores usuários, sendo compatíveis com os ativos atualmente utilizados pela instituição. Tal padronização visa garantir interoperabilidade, facilitar a manutenção, reduzir o tempo de atendimento a chamados técnicos e evitar a obsolescência prematura dos equipamentos.
-
-***Exemplo 2:***
-
-16.1. A escolha pela contratação baseada na métrica de Unidade de Serviço Técnico (UST) se justifica pela necessidade de um modelo mais flexível, adaptável e compatível com metodologias ágeis, especialmente o Scrum, já adotado no ambiente do MPPI. A UST permite maior granularidade na execução dos serviços, favorecendo a entrega contínua e incremental de soluções, com foco nas atividades técnicas efetivamente realizadas.
-
-16.2. Diferente de modelos que exigem especificações detalhadas e rígidas, como o ponto de função, a UST proporciona agilidade no atendimento às demandas, incluindo serviços de sustentação e inovação. Essa métrica também permite ajustes de escopo durante a execução, transparência no controle de entregas e a possibilidade de configurar unidades técnicas conforme as características específicas do contrato, promovendo governança eficaz dos serviços.
-
-16.3. Além disso, a UST reduz a burocracia na elaboração de documentos técnicos e facilita o companhamento por parte da CONTRATADA, que se compromete a registrar e informar à CONTRATANTE sobre o andamento das atividades. Diante dessas vantagens, a métrica UST representa a solução mais adequada ao contexto do MPPI, contribuindo para a eficiência operacional, otimização de recursos e entrega de software com qualidade e
-alinhamento estratégico.
+---
 
 ### 17. Justificativa econômica da escolha da solução
 
 > [!NOTE]
 > Descrever as razões em termos quantitativos que motivaram a escolha da solução enfatizando os aspectos de economididade em relação às demais.
 
-***Exemplo 1:***
-
-17.1. A opção pela aquisição direta dos bens, em detrimento de outras alternativas como a locação, mostrou-se a mais vantajosa economicamente, considerando-se o custo total de propriedade, a vida útil estimada dos equipamentos e a possibilidade de reaproveitamento em diferentes setores da instituição.
-
-17.2. A divisão em lotes permite maior competitividade no certame, possibilitando a ampla participação de empresas, inclusive micro e pequenas, além de reduzir riscos relacionados à concentração da contratação em um único fornecedor. Essa medida contribui para a obtenção de propostas mais vantajosas e alinhadas aos preços praticados no mercado.
-
-17.3. A pesquisa de preços foi realizada em sites especializados em produtos eletrônicos e de TIC, reconhecidos nacionalmente por sua atuação consolidada no setor, contratações em outros órgãos públicos, o que assegura a adequação dos valores estimados à realidade do mercado e aos princípios da economicidade e razoabilidade previstos na Lei nº 14.133/2021.
-
-***Exemplo 2:***
-
-17.1. A contratação da prestação de serviços técnicos especializados em desenvolvimento, sustentação, manutenção e evolução de sistemas, estruturados sob o modelo de Unidade de Serviço Técnico (UST), no formato de Fábrica de Software, apresenta-se como a solução economicamente mais vantajosa para a Administração Pública, considerando os seguintes fatores:
-
-- Modelo baseado em entregas e resultados: A contratação por UST permite que o pagamento seja vinculado à efetiva entrega de serviços previamente definidos e mensurados, assegurando melhor relação custo-benefício e promovendo o foco na produtividade e qualidade das entregas.
-- Previsibilidade orçamentária: O modelo de Fábrica de Software, com preço por unidade de serviço, permite o controle preciso dos custos, com valores previamente estimados e conhecidos, o que facilita o planejamento financeiro e evita surpresas orçamentárias durante a execução contratual.
-- Redução de custos com pessoal interno: Considerando a limitação do quadro técnico da CONTRATANTE e a crescente demanda por soluções digitais, a contratação elimina a necessidade de ampliação do quadro de servidores, reduzindo encargos trabalhistas permanentes.
-- Ganhos de escala e especialização: A solução permite a contratação de equipe multidisciplinar com expertise em diferentes tecnologias (Java, JavaScript, Python, entre outras), com gestão unificada pela contratada, o que seria economicamente inviável por meios próprios.
-- Redução de riscos operacionais: A transferência da responsabilidade pela alocação, gestão e capacitação da equipe para a empresa contratada diminui os riscos de descontinuidade, evasão de profissionais e atrasos nas entregas.
-- Custo Total de Propriedade favorável: O valor total estimado para o período de 24 (vinte e quatro) meses já incluindo todas as despesas diretas e indiretas necessárias à execução dos serviços, o que representa um custo global competitivo diante da complexidade, volume e abrangência dos serviços demandados.
-
-17.2. Em face dos benefícios apontados e da relação entre custo e benefício esperada, a escolha da solução ora proposta mostra-se adequada, viável e alinhada aos princípios da economicidade e da eficiência que regem as contratações públicas.
+---
 
 ## PLANEJAMENTO
 
@@ -1469,9 +1061,11 @@ alinhamento estratégico.
 > [!NOTE]
 > Identificação dos resultados a serem alcançados com a contratação da solução de TIC. Os resultados podem ser descritos em termos de benefíos às atividades do órgão ou entidade, à sociedades ou a públicos alvos relacionados à necessidade da contratação, resultados em termos de economicidade.
 
-18.1. Os benefícios diretos e indiretos que resultarão da contratação serão:
+X.X. Os benefícios diretos e indiretos que resultarão da contratação serão:
 
 - Lista de benefícios esperados.
+
+---
 
 ### 19. Providências a serem adotadas pela administração (Lei 14.133/2021 §1º X; Res. CNMP283/2024)
 
@@ -1481,7 +1075,7 @@ alinhamento estratégico.
 
 ***Exemplo:***
 
-19.1. Conforme estabelecido no Art. 18, inciso X da Lei nº 14.133, de 1º de abril de 2021, e considerando as diretrizes da Resolução CNMP nº 283, de 5 de fevereiro de 2024, o Ministério Público do Estado do Piauí (MPPI) tomará as seguintes providências prévias ao contrato para a aquisição dos objetos deste documento:
+X.X. Conforme estabelecido no Art. 18, inciso X da Lei nº 14.133, de 1º de abril de 2021, e considerando as diretrizes da Resolução CNMP nº 283, de 5 de fevereiro de 2024, o Ministério Público do Estado do Piauí (MPPI) tomará as seguintes providências prévias ao contrato para a aquisição dos objetos deste documento:
 
 - Definir a Equipe de Gestão e Fiscalização do contrato, conforme disposto no artigo 36 da Resolução CNMP nº 283/2024, composta por fiscal técnico, requisitante, administrativo e gestor do contrato, além de seus substitutos, devidamente designados por portaria emitida pela autoridade competente do MPPI e seguindo o disposto no ATO PGJ/PI nº 462/2013.
 - Assegurar que o contrato inclua cláusulas de proteção e segurança de dados, bem como requisitos de conformidade com a Lei Geral de Proteção de Dados (LGPD).
@@ -1490,7 +1084,9 @@ alinhamento estratégico.
 - Manter um registro formal de todas as ocorrências relevantes durante a execução do contrato, incluindo problemas técnicos, atrasos na entrega, solicitações de ajustes, e quaisquer outras situações que possam impactar a conformidade com os termos contratuais. Toda a comunicação entre o MPPI e a contratada deverá ser documentada de forma oficial para garantir a transparência e a rastreabilidade das decisões tomadas.
 - ***Listar outras providencias que devem ser tomadas antes da assinatura do contrato.***
 
-19.2. Estas providências asseguram que a gestão do contrato seja realizada de forma rigorosa, transparente e em conformidade com as exigências legais, garantindo que o objeto adquirido atenda plenamente às necessidades do MPPI e que os direitos da Administração sejam resguardados ao longo de toda a execução contratual.
+X.X. Estas providências asseguram que a gestão do contrato seja realizada de forma rigorosa, transparente e em conformidade com as exigências legais, garantindo que o objeto adquirido atenda plenamente às necessidades do MPPI e que os direitos da Administração sejam resguardados ao longo de toda a execução contratual.
+
+---
 
 ### 20. Papéis e responsabilidades
 
@@ -1499,184 +1095,73 @@ alinhamento estratégico.
 
 #### Papéis do contratante
 
-20.1. **Equipe de Gestão e Fiscalização do contrato**: Os serviços objetos desta contratação serão fiscalizados por servidor ou comissão de servidores do CONTRATANTE, denominados Equipe de Gestão e Fiscalização Contratual, que terá autoridade para exercer toda e qualquer ação de orientação geral, controle e fiscalização da execução contratual.
+X.X. **Equipe de Gestão e Fiscalização do contrato**: Os serviços objetos desta contratação serão fiscalizados por servidor ou comissão de servidores do CONTRATANTE, denominados Equipe de Gestão e Fiscalização Contratual, que terá autoridade para exercer toda e qualquer ação de orientação geral, controle e fiscalização da execução contratual.
 
-20.2. As atribuições da Equipe de Gestão e Fiscalização Contratual estão descritas no item "Fiscalização" deste documento.
+X.X. As atribuições da Equipe de Gestão e Fiscalização Contratual estão descritas no item "Fiscalização" deste documento.
 
 #### Papéis da contratada
 
-20.3. **Representante legal**: pessoa formalmente designada e devidamente autorizada a firmar contrato em nome da CONTRATADA.
+X.X. **Representante legal**: pessoa formalmente designada e devidamente autorizada a firmar contrato em nome da CONTRATADA.
 
-20.4. **Preposto**: nomeado pelo representante legal no início da execução contratual, nos termos do art. 118 da Lei nº 14.133/21, que atuará como representante da CONTRATADA durante a execução contratual.
+X.X. **Preposto**: nomeado pelo representante legal no início da execução contratual, nos termos do art. 118 da Lei nº 14.133/21, que atuará como representante da CONTRATADA durante a execução contratual.
 
-20.4.1. O Preposto é dispensável nesta contratação devido as características do objeto.
+X.X.1. O Preposto é dispensável nesta contratação devido as características do objeto.
 
 ***ou***
 
-20.4.1. A CONTRATADA designará formalmente o preposto da empresa, antes do início da prestação dos serviços, indicando no instrumento os poderes e deveres em relação à execução do objeto contratado.
+X.X.1. A CONTRATADA designará formalmente o preposto da empresa, antes do início da prestação dos serviços, indicando no instrumento os poderes e deveres em relação à execução do objeto contratado.
 
-20.4.2. O preposto ou seu substituto deverá estar disponível nas dependências do CONTRATANTE sempre que necessário ou requisitado, nos dias úteis, em horário comercial, e acessível por contato telefônico em qualquer outro horário, inclusive em feriados e finais de semana.
+X.X.2. O preposto ou seu substituto deverá estar disponível nas dependências do CONTRATANTE sempre que necessário ou requisitado, nos dias úteis, em horário comercial, e acessível por contato telefônico em qualquer outro horário, inclusive em feriados e finais de semana.
 
-20.4.3. O CONTRATANTE poderá recusar, desde que justificadamente, a indicação ou a manutenção do preposto da empresa, hipótese em que a CONTRATADA designará outro para o exercício da atividade.
+X.X.3. O CONTRATANTE poderá recusar, desde que justificadamente, a indicação ou a manutenção do preposto da empresa, hipótese em que a CONTRATADA designará outro para o exercício da atividade.
 
 #### Obrigações do Contratante
 
-20.5. Nomear Gestor e Fiscais Técnico, Administrativo e Requisitante do contrato para acompanhar e fiscalizar a execução dos contratos.
-
-20.6. Encaminhar formalmente a demanda por meio de Ordem de Serviço ou de Fornecimento de Bens, de acordo com os critérios estabelecidos no Termo de Referência.
-
-20.7. Receber o objeto fornecido pela CONTRATADA que esteja em conformidade com a proposta aceita, conforme inspeções realizadas.
-
-20.8. Aplicar à CONTRATADA as sanções administrativas regulamentares e contratuais cabíveis, comunicando ao órgão gerenciador da Ata de Registro de Preços, quando aplicável.
-
-20.9. Liquidar o empenho e efetuar o pagamento à CONTRATADA, dentro dos prazos preestabelecidos em contrato.
-
-20.10. Comunicar à CONTRATADA todas e quaisquer ocorrências relacionadas com o fornecimento da solução de TIC.
-
-20.11. Definir produtividade ou capacidade mínima de fornecimento da solução de TIC por parte da CONTRATADA, com base em pesquisas de mercado, quando aplicável.
-
-20.12. Prever que os direitos de propriedade intelectual e direitos autorais da solução de TIC sobre os diversos artefatos e produtos, cuja criação ou alteração seja objeto da relação contratual, pertençam à Administração, incluindo a documentação, código-fonte de aplicações, modelos de dados e bases de dados, justificando os casos em que isso não ocorrer.
-
-20.13. Explicitamente emitir decisão sobre todas as solicitações e reclamações relacionadas à execução contratual, ressalvados os requerimentos impertinentes, protelatórios ou de nenhum interesse para a boa execução do ajuste.
-
-20.13.1. A Administração terá o prazo de 30 (trinta) dias, a contar da data do protocolo do requerimento, para decidir, admitida a prorrogação motivada, por igual período.
-
-20.14. Responder eventuais pedidos de reestabelecimento do equilíbrio econômico-financeiro feitos pela CONTRATADA no prazo máximo de 30 dias.
-
-20.15. Notificar os emitentes das garantias contratuais, quando exigidas, quanto ao início de processo administrativo para apuração de descumprimento de cláusulas contratuais.
-
-20.16. A Administração não responderá por quaisquer compromissos assumidos pela CONTRATADA com terceiros, ainda que vinculados à execução do contrato, bem como por qualquer dano causado a terceiros em decorrência de ato da CONTRATADA, de seus empregados, prepostos ou subordinados.
+> [!NOTE]
+> O modelo de TR da AGU lista todas as obrigações do CONTRATANTE.
 
 ***Listar alguma outra obrigação da contratante que for necessário***
 
 #### Obrigações da Contratada
 
-20.17. Indicar formalmente preposto, quando necessário, apto a representá-la junto ao CONTRATANTE, que deverá responder pela fiel execução do contrato.
-
-20.18. Atender prontamente quaisquer orientações e exigências da Equipe de Fiscalização do Contrato, inerentes à execução do objeto contratual.
-
-20.19. Reparar quaisquer danos diretamente causados ao CONTRATANTE ou a terceiros por culpa ou dolo de seus representantes legais, prepostos ou empregados, em decorrência da relação contratual, não excluindo ou reduzindo a responsabilidade da fiscalização ou o acompanhamento da execução do contrato pelo CONTRATANTE.
-
-20.20. Propiciar todos os meios necessários à fiscalização do contrato pelo CONTRATANTE, cujo representante terá poderes para sustar o fornecimento, total ou parcial, em qualquer tempo, desde que motivadas as causas e justificativas desta decisão.
-
-20.21. Manter, durante toda a execução do contrato, as mesmas condições da habilitação.
-
-20.22. Quando especificada, manter, durante a execução do contrato, equipe técnica composta por profissionais habilitados, treinados e qualificados para fornecimento da solução de TIC.
-
-20.23. Quando especificado, manter a produtividade ou a capacidade mínima de fornecimento da solução de TIC durante a execução do contrato.
-
-20.24. Ceder os direitos de propriedade intelectual e direitos autorais da solução de TIC sobre os diversos artefatos e produtos produzidos em decorrência da relação contratual, quando for o caso, incluindo a documentação, modelos de dados e bases de dados à Administração.
-
-20.25. Fazer a transição contratual, quando for o caso, com transferência de conhecimento, tecnologia e técnicas empregadas, sem perda de informações, podendo exigir, inclusive, a capacitação dos técnicos do CONTRATANTE ou da nova empresa que continuará a execução do contrato.
-
-20.26. Utilizar empregados habilitados e com conhecimentos básicos dos serviços a serem executados, em conformidade com as normas e determinações em vigor.
-
-20.27. Atender as demandas com agilidade e qualidade, independentemente da quantidade de ordens de serviço, observando-se os limites totais previstos para cada item contratado.
-
-20.28. Reconhecer o Gestor do Contrato, bem como outros servidores indicados pelo CONTRATANTE, para realizar as solicitações relativas aos contratos, tais como manutenção, configuração, entre outras.
-
-20.29. Não permitir a utilização de trabalho de menor de dezesseis anos, exceto na condição de aprendiz para os maiores de quatorze anos, nem permitir a utilização de trabalho de menor de dezoito anos em trabalho noturno, perigoso ou insalubre.
-
-20.30. Executar o objeto do certame em estreita observância aos ditames estabelecidos pela Lei n° 13.709/2018 (Lei Geral de Proteção de Dados Pessoais - LGPD).
-
-20.31. Propiciar todos os meios e facilidades necessários à fiscalização da Solução de Tecnologia da Informação pelo CONTRATANTE, cujo representante terá poderes para sustar o fornecimento, total ou parcialmente, em qualquer tempo, sempre que considerar a medida necessária.
-
-20.32. Prestar as informações e os esclarecimentos que venham a ser solicitados pelo CONTRATANTE, por intermédio de preposto designado para acompanhamento.
-
-20.33. Paralisar, por determinação do CONTRATANTE, qualquer atividade que não esteja sendo executada de acordo com a boa técnica ou que ponha em risco a segurança de dados, pessoas ou bens de terceiros.
-
-20.34. Apresentar Nota Fiscal/Fatura com a descrição dos serviços prestados, nas condições do Termo de Referência, como forma de dar início ao processo de pagamento pelo CONTRATANTE.
-
-20.35. Assumir as responsabilidades pelos encargos fiscais e comerciais resultantes da adjudicação da licitação oriunda do Termo de Referência.
-
-20.36. Reparar, corrigir, remover ou substituir, às suas expensas, no total ou em parte, no prazo fixado pelo Fiscal do contrato, os serviços efetuados em que se verificarem vícios, defeitos ou incorreções resultantes da execução ou dos materiais empregados.
-
-20.37. Dar ciência imediata e por escrito ao CONTRATANTE de qualquer anormalidade que verificar na execução dos serviços.
-
-20.38. Prestar ao CONTRATANTE, por escrito, os esclarecimentos solicitados e atender prontamente as reclamações sobre seus serviços.
-
-20.39. Responder por quaisquer danos, perdas ou prejuízos causados diretamente ao CONTRATANTE ou a terceiros decorrentes da execução do contrato, não excluindo ou reduzindo essa responsabilidade da fiscalização do CONTRATANTE em seu acompanhamento.
-
-20.40. Obedecer às normas e rotinas do CONTRATANTE, em especial as que disserem respeito à segurança, guarda, manutenção e integridade das informações existentes ou geradas durante a execução dos serviços.
-
-20.41. Implantar, de forma adequada, a planificação, execução e supervisão permanente dos serviços, de maneira a não interferir nas atividades do CONTRATANTE, respeitando suas normas de conduta.
-
-20.42. Não contratar, durante a vigência do contrato, cônjuge, companheiro ou parente em linha reta, colateral ou por afinidade, até o terceiro grau, de dirigente do contratante, do fiscal ou gestor do contrato, conforme estabelecido no artigo 48, parágrafo único, da Lei nº 14.133, de 2021.
+> [!NOTE]
+> O modelo de TR da AGU lista todas as obrigações da CONTRATADA.
 
 ***Listar alguma outra obrigação do contratante que for necessário***
 
 #### Obrigações do Gestor da Ata de Registro de Preços (Quando aplicável)
 
-20.43. Constituem obrigações do ÓRGÃO GERENCIADOR DA ARP, além de outras estabelecidas ou decorrentes deste TR:
+> [!NOTE]
+> O modelo de TR da AGU lista todas as obrigações do do Gestor da Ata de Registro de Preços.
 
-20.43.1. Cumprir o estabelecido nos artigos. 82 a 86 da Lei nº 14.133/2021;
-
-20.43.2. Prover o registro do licitante fornecedor e a assinatura da correspondente Ata de Registro de Preço;
-
-20.43.3. Conduzir os procedimentos relativos a eventuais renegociações de condições, produtos ou preços registrados;
-
-20.43.4. Conduzir a aplicação das penalidades por descumprimento do pactuado na Ata de Registro de Preços;
-
-20.43.5. Realizar a autorização ou não do fornecimento da Solução de TI para órgão não participante da Ata de Registro de Preços, desde que prevista no instrumento convocatório, consultado o beneficiário da Ata e verificadas as condições de fornecimento, de forma a evitar extrapolações dos limites de produtividade ou de capacidade mínima de fornecimento da Solução;
-
-20.43.6. Definir os mecanismos de comunicação com os órgãos participantes e não participantes, contendo:
-
-a) as formas de comunicação entre os envolvidos, a exemplo de ofício, telefone, e-mail, ou sistema informatizado, quando disponível;
-
-b) a definição dos eventos a serem reportados ao órgão gerenciador, com a indicação de prazo e responsável, a exemplo de ordem de serviço ou fornecimento de bens, aplicações de sanções administrativas, alteração de item registrado em Ata por modelo equivalente ou superior.
-
-20.43.7. Definir os mecanismos de controle de fornecimento da Solução de TI, observando, entre outros:
-
-a) a definição da produtividade ou da capacidade mínima de fornecimento da Solução de TI;
-
-b) as regras para fornecimento da Solução de TI aos órgãos não participantes, desde que previsto no instrumento convocatório, cujo fornecimento não poderá prejudicar os compromissos já assumidos e as futuras contratações dos órgãos participantes do Registro de Preços;
-
-c) as regras para gerenciamento da fila de fornecimento da Solução de TI aos órgãos participantes e não participantes, contendo prazos e formas de negociação e redistribuição da demanda, quando esta ultrapassar a produtividade definida ou a capacidade mínima de fornecimento e for requerida pela contratada;
-
-d) as regras para a substituição da solução registrada por meio de apostilamento, garantida a realização de Prova de Conceito, observado o disposto na alínea “b” do inciso V do artigo 23 da Resolução 283/2024 do CNMP e desde que previsto o apostilamento, em função de atualizações tecnológicas existentes no seguimento de informática, na Ata de Registro de Preços; e
-
-e) a previsão da exigência para realização de Prova de Conceito com o licitante provisoriamente classificado em primeiro lugar para fins de comprovação de atendimento das especificações técnicas.
-
-20.43.8. Permitir a adesão à Ata de Registro de Preços por outros ramos ou unidades do Ministério Público.
+---
 
 ### 21. Modelo de Execução do Contrato (MOTec; IN 94/2022 arts. 18-22)
 
 #### Rotinas de execução
 
-21.1. A execução do objeto está em conformidade com o art. 24 da Resolução CNMP nº 283, de 05 de fevereiro de 2024, contemplando as condições necessárias ao fornecimento das soluções de TI.
+X.X. A execução do objeto está em conformidade com o art. 24 da Resolução CNMP nº 283, de 05 de fevereiro de 2024, contemplando as condições necessárias ao fornecimento das soluções de TI.
 
 #### Prazos, horários de fornecimento de bens ou prestação dos serviços e locais de entrega
 
-***Exemplo 1:***
+> Listar o prazo de entrega de cada Lote/Item e informar o prazo que a contratada terá para avisar se ocorrer atrasos na entrega.
 
-21.2. O prazo de entrega dos objetos é conforme especificado abaixo, contados da confirmação de recebimento da Ordem de Fornecimento dos Bens por parte da CONTRATADA.
+##### Local da entrega dos bens
 
-21.2.1. Para os itens dos Lotes 1, 2 e 3 a entrega deverá ser realizada em até 30 dias úteis.
-
-21.2.2. Caso não seja possível a entrega na data assinalada, a empresa deverá comunicar as razões respectivas com pelo menos 2 (dois) dias de antecedência para que qualquer pleito de prorrogação de prazo seja analisado, ressalvadas situações de caso fortuito e força maior.
-
-21.3. Os bens deverão ser entregues no seguinte endereço:
+X.X. Os bens deverão ser entregues no seguinte endereço:
 
 - Ministério Público do Estado do Piauí - Sede Centro
 - Rua Batatinha frita, 123. Centro - Teresina/PI
 - Telefone: (86) XXXX-XXXX
 
-21.4. Os bens serão entregues no seguinte horário: 08:00 às 15:00, exceto feriados e finais de semana com agendamento prévia via endereço eletrônico: \<Informe o email aqui>.
+##### Dos horários de execução contratual
+
+X.X. Os bens/serviços serão entregues/prestados no seguinte horário: 08:00 às 15:00, exceto feriados e finais de semana com agendamento prévia via endereço eletrônico: \<Informe o email aqui>.
 
 #### Documentação mínima exigida
 
 > [!NOTE]
 > "Exigências de relatórios de execução de serviço ou fornecimento, controles por parte da contratada, relatórios de ocorrência, índices de disponibilidade, padrões de qualidade exigidos, modelos de desenvolvimento de softwares ou outro documento que se aplique ao objeto contratado." - MOTec
-
-21.5. Não se aplica.
-
-***Exemplo:***
-
-21.5. Durante a fase de habilitação, a CONTRATADA deverá enviar toda a documentação solicitada no Edital.
-
-21.6. Apresentar as declarações/certificados do fabricante, comprovando que o produto ofertado possui a garantia solicitada neste documento.
-
-21.7. A CONTRATADA deverá fornecer meios de contato para realizar o registro de chamados e suporte.
 
 #### Quantidade mínima de bens e serviços para comparação e controle
 
@@ -1685,15 +1170,15 @@ e) a previsão da exigência para realização de Prova de Conceito com o licita
 >
 > Este item é solicitado em Licitação com Registro de Preços, onde há uma quantidade mínima de bens e serviços definida, principalmente no PCA.
 
-21.8. A quantidade mínima inicial de bens está descrito abaixo:
+X.X. A quantidade mínima inicial de bens/serviços a ser adquirida está descrito abaixo:
 
 ***Tabela com a descrição e quantidade mínima de bens/serviços que serão adquiridos inicialmente.***
 
 #### Mecanismos formais de comunicação
 
-21.10. São definidos como mecanismos formais de comunicação, entre o CONTRATANTE e a CONTRATADA, os seguintes:
+X.X. São definidos como mecanismos formais de comunicação, entre o CONTRATANTE e a CONTRATADA, os seguintes:
 
-- Ordem de Fornecimento de Bens - OFB.
+- Ordem de Fornecimento de Bens - OFB (ou Ordem de Serviço - OS)
 - Ata de Reunião.
 - Sistema de abertura de chamados.
 - E-mails e cartas.
@@ -1701,25 +1186,25 @@ e) a previsão da exigência para realização de Prova de Conceito com o licita
 - Ofícios.
 - Mensageiros eletrônicos definidos por ambas as partes.
 
-21.11. A comunicação formal entre a Administração e o fornecedor se dará entre o Gestor ou Fiscal do Contrato designado pelo CONTRATANTE e o Preposto ou o Representante legal da CONTRATADA, através de e-mails e ofícios.
+X.X. A comunicação formal entre a Administração e o fornecedor se dará entre o Gestor ou Fiscal do Contrato designado pelo CONTRATANTE e o Preposto ou o Representante legal da CONTRATADA, através de e-mails e ofícios.
 
-21.12. A comunicação formal deverá ser feita preferencialmente por Ofício, ou quando o caso requeira maior celeridade, poderá ser feita por e-mail para os representantes legais ou preposto, desde que utilizada a confirmação de recebimento.
+X.X. A comunicação formal deverá ser feita preferencialmente por Ofício, ou quando o caso requeira maior celeridade, poderá ser feita por e-mail para os representantes legais ou preposto, desde que utilizada a confirmação de recebimento.
 
-21.13. A formulação e comunicação de Ordem de Serviços deverá ser feita preferencialmente pelo SEI - Sistema Eletrônico de Informações.
+X.X. A formulação e comunicação de Ordem de Serviços deverá ser feita preferencialmente pelo SEI - Sistema Eletrônico de Informações.
 
-21.14. Para prover maior fluidez na comunicação entre as equipes técnicas, os profissionais da CONTRATADA também deverão estar disponíveis a responder questionamentos e fornecer informações e opiniões técnicas por meio de mensagem eletrônica (e-mail), sistema de mensagem instantânea e telefone. Neste caso, sempre que possível, o Preposto ou Representante legal da CONTRATADA deverá estar copiado para acompanhamento das solicitações e das demandas.
+X.X. Para prover maior fluidez na comunicação entre as equipes técnicas, os profissionais da CONTRATADA também deverão estar disponíveis a responder questionamentos e fornecer informações e opiniões técnicas por meio de mensagem eletrônica (e-mail), sistema de mensagem instantânea e telefone. Neste caso, sempre que possível, o Preposto ou Representante legal da CONTRATADA deverá estar copiado para acompanhamento das solicitações e das demandas.
 
-21.15. Em caso de grupo de tratamento de incidentes, casos em que há necessidade de celeridade na resposta e tratamento, os profissionais da equipe técnica poderão ser convocados a participar de grupos em aplicativos que a CTI/MPPI venha a aderir. Neste caso, também deverão participar o Preposto ou Representante legal da CONTRATADA. As comunicações neste caso deverão ser limitadas a assuntos no escopo deste contrato. Também deverão ser evitadas nos horários além do expediente normal (8h às 15h).
+X.X. Em caso de grupo de tratamento de incidentes, casos em que há necessidade de celeridade na resposta e tratamento, os profissionais da equipe técnica poderão ser convocados a participar de grupos em aplicativos que a CTI/MPPI venha a aderir. Neste caso, também deverão participar o Preposto ou Representante legal da CONTRATADA. As comunicações neste caso deverão ser limitadas a assuntos no escopo deste contrato. Também deverão ser evitadas nos horários além do expediente normal (8h às 15h).
 
-21.16. As comunicações nestes casos não irão caracterizar subordinação.
+X.X. As comunicações nestes casos não irão caracterizar subordinação.
 
 #### Forma e prazo de pagamento
 
-21.17. Apresentar \<Nota Fiscal/Fatura/Boleto> com a descrição dos objetos entregues, nas condições deste documento, como forma de dar início ao processo de pagamento pelo CONTRATANTE.
+X.X. Apresentar \<Nota Fiscal/Fatura/Boleto> com a descrição dos objetos entregues, nas condições deste documento, como forma de dar início ao processo de pagamento pelo CONTRATANTE.
 
-21.18. O pagamento será \<único/mensal/anual>, de acordo com o volume de \<bens/serviços> solicitados, após a avaliação, pelos fiscais do contrato, do relatório com todas as \<ordens de fornecimento/ordens de serviços> executadas e homologadas pelo CONTRATANTE.
+X.X. O pagamento será \<único/mensal/anual>, de acordo com o volume de \<bens/serviços> solicitados, após a avaliação, pelos fiscais do contrato, do relatório com todas as \<ordens de fornecimento/ordens de serviços> executadas e homologadas pelo CONTRATANTE.
 
-21.19. O pagamento só será realizado após a emissão do Termo de Recebimento Definitivo pelos fiscais do contrato, e pelo recebimento da Nota Fiscal e demais certidões negativas, conforme descritas nos itens "Procedimentos para pagamento" deste documento.
+X.X. O pagamento só será realizado após a emissão do Termo de Recebimento Definitivo pelos fiscais do contrato, e pelo recebimento da Nota Fiscal e demais certidões negativas, conforme descritas nos itens "Procedimentos para pagamento" deste documento.
 
 #### Vigência e alterações contratuais
 
@@ -1730,43 +1215,45 @@ e) a previsão da exigência para realização de Prova de Conceito com o licita
 
 ***Exemplo 1 - artigo 105:***
 
-21.20. O prazo de vigência contratual é de 12 (doze) meses contados a partir da data de sua assinatura, com eficácia após a publicação do seu extrato no Diário Oficial do Ministério Público do Estado do Piauí, na forma do artigo 105 da Lei n° 14.133, de 2021, por se tratar de fornecimento nãocontínuo de bens de caráter permanente.
+X.X. O prazo de vigência contratual é de 12 (doze) meses contados a partir da data de sua assinatura, com eficácia após a publicação do seu extrato no Diário Oficial do Ministério Público do Estado do Piauí, na forma do artigo 105 da Lei n° 14.133, de 2021, por se tratar de fornecimento nãocontínuo de bens de caráter permanente.
 
 ***Exemplo 2 - artigos 106 e 107:***
 
-21.21. A vigência do contrato será de \<xx (por extenso)> meses, contados a partir da data de sua assinatura, com eficácia após a publicação do seu extrato no Diário Oficial do Ministério Público do Estado do Piauí, prorrogável para até 120 (cento e vinte) meses, na forma dos artigos 106 e 107 da Lei nº 14.133, de 2021.
+X.X. A vigência do contrato será de \<xx (por extenso)> meses, contados a partir da data de sua assinatura, com eficácia após a publicação do seu extrato no Diário Oficial do Ministério Público do Estado do Piauí, prorrogável para até 120 (cento e vinte) meses, na forma dos artigos 106 e 107 da Lei nº 14.133, de 2021.
 
 ***Exemplo 3: Serviço estruturante de TIC - artigo 114***
 
-21.21. Tratando-se de contratação que prevê operação continuada de sistemas estruturantes de tecnologia da informação, prazo de vigência da contratação é de \<xx (por extenso)> meses, prorrogável para até 15 anos, contados do(a) a partir da data de sua assinatura, com eficácia após a publicação do seu extrato no Diário Oficial do Ministério Público do Estado do Piauí, na forma do artigo 114 da Lei n° 14.133, de 2021.
+X.X. Tratando-se de contratação que prevê operação continuada de sistemas estruturantes de tecnologia da informação, prazo de vigência da contratação é de \<xx (por extenso)> meses, prorrogável para até 15 anos, contados do(a) a partir da data de sua assinatura, com eficácia após a publicação do seu extrato no Diário Oficial do Ministério Público do Estado do Piauí, na forma do artigo 114 da Lei n° 14.133, de 2021.
 
 > [!TIP]
 > Acrescentar o item abaixo se a contratação/aquisição for enquadrada como continuada. Ver ATO PGJ/PI 1415/2024.
 
-21.21.1. O serviço é enquadrado como continuado tendo em vista que é um serviço considerado essencial, uma vez que irá fazer o desenvolvimento de soluções que estão na relação de demandas pendentes da Coordenadoria de Tecnologia da Informação e atualização dos sistemas da área finalística e administrativa deste MPPI.
+X.X.1. O serviço é enquadrado como continuado tendo em vista que é um serviço considerado essencial, uma vez que irá fazer o desenvolvimento de soluções que estão na relação de demandas pendentes da Coordenadoria de Tecnologia da Informação e atualização dos sistemas da área finalística e administrativa deste MPPI.
 
 > [!TIP]
 > O [Ato PGJ/PI nº 1.415, de 3 de julho de 2024](https://www.mppi.mp.br/internet/wp-content/uploads/2024/07/ATO-1415-2024.pdf), estabelece a relação dos serviços considerados de natureza continuada, dispondo no artigo 5º que o prazo inicial dos respectivos contratos deverá ser de 24 (vinte e quatro) meses, salvo justificativa de prazo inferior, conforme regras de mercado, podendo atingir o período decenal.
 
-21.21.2. Conforme o art. 5º do Ato PGJ/PI nº 1415, de 3 de julho de 2024, a vigência dos contratos de serviços terão validade mínima de 24 (vinte e quatro) meses, salvo justificativa de prazo inferior.
+X.X.2. Conforme o art. 5º do Ato PGJ/PI nº 1415, de 3 de julho de 2024, a vigência dos contratos de serviços terão validade mínima de 24 (vinte e quatro) meses, salvo justificativa de prazo inferior.
 
 ##### Da Vigência da ata de Registro de Preços
 
-21.20. A vigência da Ata de Registro de Preços será de 12 (doze) meses, contados a partir da data de sua assinatura, com eficácia após a publicação do seu extrato no Diário Oficial do Ministério Público do Estado do Piauí, prorrogável por mais 12 (doze) meses, na forma do artigo 84 da Lei nº 14.133, de 2021, desde que comprovado o preço vantajoso.
+X.X. A vigência da Ata de Registro de Preços será de 12 (doze) meses, contados a partir da data de sua assinatura, com eficácia após a publicação do seu extrato no Diário Oficial do Ministério Público do Estado do Piauí, prorrogável por mais 12 (doze) meses, na forma do artigo 84 da Lei nº 14.133, de 2021, desde que comprovado o preço vantajoso.
 
-21.20.1. Em caso de prorrogação da ata, poderá ser renovado o quantitativo originalmente registrado, conforme o Parecer 75/2024/DECOR/CGU/AGU.
+X.X.1. Em caso de prorrogação da ata, poderá ser renovado o quantitativo originalmente registrado, conforme o Parecer 75/2024/DECOR/CGU/AGU.
 
 ##### Das prorrogações
 
-Para fins de renovação/prorrogação contratual, o GESTOR DO CONTRATO, com base no Histórico de Gestão do Contrato e nos princípios da manutenção da necessidade, economicidade e oportunidade da contratação, deverá encaminhar à Área Administrativa, com pelo menos 60 (sessenta) dias de antecedência do término do CONTRATO, a respectiva documentação para o aditamento (art. 36 da Instrução Normativa SGD/ME Nº 94 de 23/12/2022.
+X.X. Para fins de renovação/prorrogação contratual, o GESTOR DO CONTRATO, com base no Histórico de Gestão do Contrato e nos princípios da manutenção da necessidade, economicidade e oportunidade da contratação, deverá encaminhar à Área Administrativa, com pelo menos 60 (sessenta) dias de antecedência do término do CONTRATO, a respectiva documentação para o aditamento (art. 36 da Instrução Normativa SGD/ME Nº 94 de 23/12/2022.
 
 ##### Das alterações contratuais
 
-Nos termos da legislação em vigor, durante a fase de execução da prestação dos serviços, o CONTRATO poderá ser alterado, desde que justificadamente, na forma e nos limites previstos no art. 124 da Lei nº 14.133/2021. As alterações contratuais devem ser promovidas mediante celebração de termo aditivo, que deverá ser submetido à prévia aprovação da consultoria jurídica do CONTRATANTE.
+X.X. Nos termos da legislação em vigor, durante a fase de execução da prestação dos serviços, o CONTRATO poderá ser alterado, desde que justificadamente, na forma e nos limites previstos no art. 124 da Lei nº 14.133/2021. As alterações contratuais devem ser promovidas mediante celebração de termo aditivo, que deverá ser submetido à prévia aprovação da consultoria jurídica do CONTRATANTE.
 
-Os acréscimos e as supressões do objeto contratual devem ser sempre calculados sobre o valor inicial do contrato atualizado, aplicando-se de forma isolada os limites percentuais previstos em lei ao conjunto de acréscimos e supressões, vedada a compensação de acréscimos e supressões entre itens distintos, não se admitindo que a supressão de quantitativos de um ou mais itens seja compensada por acréscimos de itens diferentes ou pela inclusão de novos itens.
+X.X. Os acréscimos e as supressões do objeto contratual devem ser sempre calculados sobre o valor inicial do contrato atualizado, aplicando-se de forma isolada os limites percentuais previstos em lei ao conjunto de acréscimos e supressões, vedada a compensação de acréscimos e supressões entre itens distintos, não se admitindo que a supressão de quantitativos de um ou mais itens seja compensada por acréscimos de itens diferentes ou pela inclusão de novos itens.
 
-No âmbito do mesmo item, o restabelecimento parcial ou total de quantitativo anteriormente suprimido não representa compensação vedada, desde que sejam observadas as mesmas condições e preços iniciais pactuados, não haja fraude ao certame ou à contratação direta, jogo de planilha, nem descaracterização do objeto, sendo juridicamente possível, além do restabelecimento, a realização de aditamentos para novos acréscimos ou supressões, observados os limites legais para alterações do objeto em relação ao valor inicial e atualizado do contrato.
+X.X.1. A CONTRATADA é obrigada a aceitar, nas mesmas condições contratuais, os acréscimos ou supressões que se fizerem necessários, até o limite de 25% (vinte e cinco por cento) do valor inicial atualizado do contrato.
+
+X.X. No âmbito do mesmo item, o restabelecimento parcial ou total de quantitativo anteriormente suprimido não representa compensação vedada, desde que sejam observadas as mesmas condições e preços iniciais pactuados, não haja fraude ao certame ou à contratação direta, jogo de planilha, nem descaracterização do objeto, sendo juridicamente possível, além do restabelecimento, a realização de aditamentos para novos acréscimos ou supressões, observados os limites legais para alterações do objeto em relação ao valor inicial e atualizado do contrato.
 
 #### Termo de ciência de manutenção de sigilo (Art. 24, inciso VI, da Resolução CNMP nº 283/2024)
 
@@ -1777,72 +1264,66 @@ No âmbito do mesmo item, o restabelecimento parcial ou total de quantitativo an
 
 ***Exemplo:***
 
-21.22. Não se aplica.
+X.X. Não se aplica (Geralmente em contratação de Bens)
 
 ***ou***
 
-21.22. A CONTRATADA deverá manter sigilo absoluto sobre quaisquer dados e informações contidos em quaisquer documentos e mídias, incluindo os equipamentos e seus meios de armazenamento, de que venha a ter conhecimento durante a execução do contrato, não podendo, sob qualquer pretexto, divulgar, reproduzir ou utilizar, sob pena de lei, independentemente da classificação de sigilo conferida pelo CONTRATANTE a tais documentos;
+X.X. A CONTRATADA deverá manter sigilo absoluto sobre quaisquer dados e informações contidos em quaisquer documentos e mídias, incluindo os equipamentos e seus meios de armazenamento, de que venha a ter conhecimento durante a execução do contrato, não podendo, sob qualquer pretexto, divulgar, reproduzir ou utilizar, sob pena de lei, independentemente da classificação de sigilo conferida pelo CONTRATANTE a tais documentos;
 
-21.23. O Termo de Compromisso e Manutenção de Sigilo, contendo declaração de manutenção de sigilo e respeito às normas de segurança vigentes na entidade, a ser assinado pelo representante legal da CONTRATADA, e o Termo de Ciência, a ser assinado por todos os empregados da CONTRATADA diretamente envolvidos na contratação, encontram-se nos ANEXOS \<Informar os anexos>.
+X.X. O Termo de Compromisso e Manutenção de Sigilo, contendo declaração de manutenção de sigilo e respeito às normas de segurança vigentes na entidade, a ser assinado pelo representante legal da CONTRATADA, e o Termo de Ciência, a ser assinado por todos os empregados da CONTRATADA diretamente envolvidos na contratação, encontram-se nos ANEXOS \<Informar os anexos>.
+
+#### Direitos de propriedade intelectual e autorais (Quando necessário, principalmente em serviços que envolvam desenvolvimento de alguma solução)
+
+> [!NOTE]
+> "a. Ex: Todo o código fonte produzido e documentação técnica serão de propriedade intelectual da CONTRATANTE;
+>
+> b. A CONTRATADA não poderá comercializar ou distribuir de qualquer modo o código fonte produzido como resultado da contratação." - MOTec
+
+---
 
 ### 22. Modelo de Gestão do Contrato
 
 > [!NOTE]
 > Os textos abaixo estão de acordo os modelos fornecidos pela AGU e servem de referência, podendo ser copiados e adaptados de acordo com a necessidade.
 
-22.1. Em conformidade com o art. 25 da Resolução CNMP nº 283, de 05 de fevereiro de 2024, o Modelo de Gestão do Contrato deverá contemplar as condições necessárias ao fornecimento das soluções de TI.
+X.X. Em conformidade com o art. 25 da Resolução CNMP nº 283, de 05 de fevereiro de 2024, o Modelo de Gestão do Contrato deverá contemplar as condições necessárias ao fornecimento das soluções de TI.
 
-22.2. O contrato deverá ser executado fielmente pelas partes, de acordo com as cláusulas avençadas e as normas da Lei nº 14.133, de 2021, e cada parte responderá pelas consequências de sua inexecução total ou parcial.
+X.X. O contrato deverá ser executado fielmente pelas partes, de acordo com as cláusulas avençadas e as normas da Lei nº 14.133, de 2021, e cada parte responderá pelas consequências de sua inexecução total ou parcial.
 
-22.3. Em caso de impedimento, ordem de paralisação ou suspensão do contrato, o cronograma de execução será prorrogado automaticamente pelo tempo correspondente, anotadas tais circunstâncias mediante simples apostila.
+X.X. Em caso de impedimento, ordem de paralisação ou suspensão do contrato, o cronograma de execução será prorrogado automaticamente pelo tempo correspondente, anotadas tais circunstâncias mediante simples apostila.
 
-22.4. As comunicações entre o órgão ou entidade e a CONTRATADA devem ser realizadas por escrito sempre que o ato exigir tal formalidade, admitindo-se o uso de mensagem eletrônica para esse fim.
+X.X. As comunicações entre o órgão ou entidade e a CONTRATADA devem ser realizadas por escrito sempre que o ato exigir tal formalidade, admitindo-se o uso de mensagem eletrônica para esse fim.
 
-22.5. O órgão ou entidade poderá convocar representante da empresa para adoção de providências que devam ser cumpridas de imediato.
+X.X. O órgão ou entidade poderá convocar representante da empresa para adoção de providências que devam ser cumpridas de imediato.
 
 #### Reunião inicial
 
 > [!TIP]
 > Utilizar o texto abaixo em licitações de bens e serviços onde a reunião inicial é dispensável. Ex.: Aquisição de computadores (bens) e licenças de software (serviço).
 
-22.6. A reunião inicial é dispensável nesta aquisição devido as características do objeto.
+X.X. A reunião inicial é dispensável nesta aquisição devido as características do objeto.
 
 ***ou***
 
-22.6. Após a assinatura do Contrato e a nomeação do Gestor e Fiscais do Contrato, será realizada a Reunião Inicial de alinhamento com o objetivo de nivelar os entendimentos acerca das condições estabelecidas no Contrato, Edital e seus anexos, e esclarecer possíveis dúvidas acerca da execução dos serviços.
-
-22.7. A reunião será realizada em conformidade com o previsto no inciso I do Art. 31 da IN SGD/ME nº 94, de 2022, e ocorrerá em até \<Definir a quantidade de dias úteis ou corridos> da assinatura do Contrato, podendo ser prorrogada a critério da CONTRATANTE.
-
-22.8. A pauta desta reunião observará, pelo menos:
-
-22.8.1. Presença do representante legal da CONTRATADA, que apresentará o seu preposto.
-
-22.8.2. Apresentação dos prepostos da CONTRATADA e da equipe de acompanhamento e fiscalização do contrato pela CONTRATANTE, validação dos requisitos contratuais, definição do cronograma de inserção, apresentação da equipe técnica, assinatura dos termos de responsabilidade e sigilo (ANEXOS \<X> e \<Y>) e apresentação da estrutura organizacional do CONTRATANTE.
-
-22.8.3. A Carta de apresentação do Preposto deverá conter no mínimo o nome completo e CPF do funcionário da empresa designado para acompanhar a execução do contrato e atuar como interlocutor principal junto à CONTRATANTE, incumbido de receber, diligenciar, encaminhar e responder as principais questões técnicas, legais e administrativas referentes ao andamento contratual.
-
-22.8.4. Apresentação das declarações/certificados, comprovando as aptidões necessárias para a execução do contrato.
+> Utilizar o texto do modelo de TR da AGU.
 
 ##### Principais marcos da gestão contratual (Opcional)
 
-22.9. A seguir são enumerados os principais marcos da gestão contratual, com respectivas entradas, objetivos e saídas.
+X.X. A seguir são enumerados os principais marcos da gestão contratual, com respectivas entradas, objetivos e saídas.
 
 ***Tabela descriminando as entradas, pessoas envolvidas, requisitos, obejtivos, locais, períodos e saídas***
 
 #### Equipe de Fiscalização
 
-> [!TIP]
-> Modelo AGU
+X.X. Conforme o Art. 36 da Resolução 283/2024 do CNMP, as atividades de gestão e fiscalização de contratos são constituídas pelo Gestor do contrato, Fiscal Requisitante, Fiscal Técnico e Fiscal Administrativo.
 
-22.10. Conforme o Art. 36 da Resolução 283/2024 do CNMP, as atividades de gestão e fiscalização de contratos são constituídas pelo Gestor do contrato, Fiscal Requisitante, Fiscal Técnico e Fiscal Administrativo.
+X.X. Ressalta-se que as atribuições da Equipe de Gestão e Fiscalização do contrato serão exercidas, no âmbito deste Ministério Público do Estado do Piauí, pelo(s) Fiscal(is) do Contrato, de acordo com o Ato PGJ/PI nº 462/2013, atualizado pelo ATO PGJ 806/2018.
 
-22.11. Ressalta-se que as atribuições da Equipe de Gestão e Fiscalização do contrato serão exercidas, no âmbito deste Ministério Público do Estado do Piauí, pelo(s) Fiscal(is) do Contrato, de acordo com o Ato PGJ/PI nº 462/2013, atualizado pelo ATO PGJ 806/2018.
-
-22.12. A execução do contrato deverá ser acompanhada e fiscalizada pelo(s) fiscal(is) do contrato, ou pelos respectivos substitutos (Lei nº 14.133, de 2021, Art. 117, caput), observando-se, em especial, as rotinas a seguir:
+X.X. A execução do contrato deverá ser acompanhada e fiscalizada pelo(s) fiscal(is) do contrato, ou pelos respectivos substitutos (Lei nº 14.133, de 2021, Art. 117, caput), observando-se, em especial, as rotinas a seguir:
 
 ##### Fiscal requisitante (Art. 36, Resolução CNMP 283/2024)
 
-22.12.1. Caberá ao fiscal requisitante, nos seus afastamentos e seus impedimentos legais, ao seu substituto, auxiliar o gestor na fiscalização do contrato do ponto de vista funcional da solução, com as seguintes atribuições:
+X.X.1. Caberá ao fiscal requisitante, nos seus afastamentos e seus impedimentos legais, ao seu substituto, auxiliar o gestor na fiscalização do contrato do ponto de vista funcional da solução, com as seguintes atribuições:
 
 - I. Anotar as ocorrências relacionadas com a execução do contrato, informando ao gestor do contrato aquelas que dependam de providências, com vistas à regularização das faltas ou defeitos observados.
 - II. Avaliar constantemente a qualidade da execução contratual, propondo, sempre que cabível, medidas que visem reduzir gastos e racionalizar os serviços.
@@ -1851,82 +1332,36 @@ No âmbito do mesmo item, o restabelecimento parcial ou total de quantitativo an
 - V. Identificar as cláusulas do contrato que necessitam de acompanhamento específico.
 - VI. Atuar em tempo hábil na solução dos problemas que porventura venham a ocorrer ao longo da execução contratual.
 
+> [!TIP]
+> O texto dos fiscais abaixo pode ser copiado do modelo de TR da AGU.
+
 ##### Fiscal técnico
-
-22.12.2. O fiscal técnico do contrato, além de exercer as atribuições previstas no art. 33, II, da IN SGD nº 94, de 2022, acompanhará a execução do contrato, para que sejam cumpridas todas as condições estabelecidas no contrato, de modo a assegurar os melhores resultados para a Administração (Decreto nº 11.246, de 2022, art. 22, VI).
-
-22.12.3. O fiscal técnico do contrato anotará no histórico de gerenciamento do contrato todas as ocorrências relacionadas à execução do contrato, com a descrição do que for necessário para a regularização das faltas ou dos defeitos observados (Lei nº 14.133, de 2021, art. 117, §1º, e Decreto nº 11.246, de 2022, art. 22, II).
-
-22.12.4. Identificada qualquer inexatidão ou irregularidade, o fiscal técnico do contrato emitirá notificações para a correção da execução do contrato, determinando prazo para a correção (Decreto nº 11.246, de 2022, art. 22, III).
-
-22.12.5. O fiscal técnico do contrato informará ao gestor do contrato, em tempo hábil, a situação que demandar decisão ou adoção de medidas que ultrapassem sua competência, para que adote as medidas necessárias e saneadoras, se for o caso (Decreto nº 11.246, de 2022, art. 22, IV).
-
-22.12.6. No caso de ocorrências que possam inviabilizar a execução do contrato nas datas aprazadas, o fiscal técnico do contrato comunicará o fato imediatamente ao gestor do contrato (Decreto nº 11.246, de 2022, art. 22, V).
-
-22.12.7. O fiscal técnico do contrato comunicará ao gestor do contrato, em tempo hábil, o término do contrato sob sua responsabilidade, com vistas à renovação tempestiva ou à prorrogação contratual (Decreto nº 11.246, de 2022, art. 22, VII).
 
 ##### Fiscal administrativo
 
-22.12.8. O fiscal administrativo do contrato, além de exercer as atribuições previstas no art. 33, IV, da IN SGD nº 94, de 2022, verificará a manutenção das condições de habilitação da CONTRATADA, acompanhará o empenho, o pagamento, as garantias, as glosas e a formalização de apostilamento e termos aditivos, solicitando quaisquer documentos comprobatórios pertinentes, caso necessário (Art. 23, I e II, do Decreto nº 11.246, de 2022).
-
-22.12.8.1. Caso ocorram descumprimento das obrigações contratuais, o fiscal administrativo do contrato atuará tempestivamente na solução do problema, reportando ao gestor do contrato para que tome as providências cabíveis, quando ultrapassar a sua competência (Decreto nº 11.246, de 2022, art. 23, IV).
-
 ##### Gestor do contrato
-
-22.12.9. O gestor do contrato, além de exercer as atribuições previstas no art. 33, I, da IN SGD nº 94, de 2022, coordenará a atualização do processo de acompanhamento e fiscalização do contrato, contendo todos os registros formais da execução no histórico de gerenciamento do contrato, a exemplo da ordem de serviço, do registro de ocorrências, das alterações e das prorrogações contratuais, elaborando relatório com vistas à verificação da necessidade de adequações do contrato para fins de atendimento da finalidade da administração (Decreto nº 11.246, de 2022, art. 21, IV).
-
-22.12.10. O gestor do contrato acompanhará a manutenção das condições de habilitação do Contratado, para fins de empenho de despesa e pagamento, e anotará os problemas que obstem o fluxo normal da liquidação e do pagamento da despesa no relatório de riscos eventuais (Decreto nº 11.246, de 2022, art. 21, III).
-
-22.12.11. O gestor do contrato acompanhará os registros realizados pelos fiscais do contrato, de todas as ocorrências relacionadas à execução do contrato e as medidas adotadas, informando, se for o caso, à autoridade superior àquelas que ultrapassarem a sua competência (Decreto nº 11.246, de 2022, art. 21, II).
-
-22.12.12. O gestor do contrato emitirá documento comprobatório da avaliação realizada pelos fiscais técnico, administrativo e setorial quanto ao cumprimento de obrigações assumidas pelo Contratado, com menção ao seu desempenho na execução contratual, baseado nos indicadores objetivamente definidos e aferidos, e a eventuais penalidades aplicadas, devendo constar do cadastro de atesto de cumprimento de obrigações (Decreto nº 11.246, de 2022, art. 21, VIII).
-
-22.12.13. O gestor do contrato tomará providências para a formalização de processo administrativo de responsabilização para fins de aplicação de sanções, a ser conduzido pela comissão de que trata o art. 158 da Lei nº 14.133, de 2021, ou pelo agente ou pelo setor com competência para tal, conforme o caso (Decreto nº 11.246, de 2022, art. 21, X).
-
-22.12.14. O fiscal técnico do contrato comunicará ao gestor do contrato, em tempo hábil, o término do contrato sob sua responsabilidade, com vistas à tempestiva renovação ou prorrogação contratual (Decreto nº 11.246, de 2022, art. 22, VII).
-
-22.12.4.7. O gestor do contrato deverá elaborar relatório final com informações sobre a consecução dos objetivos que tenham justificado a contratação e eventuais condutas a serem adotadas para o aprimoramento das atividades da Administração (Decreto nº 11.246, de 2022, art. 21, VI).
 
 #### Critérios de aceitação (MOTec)
 
 > [!NOTE]
 > "Exemplo de modelos de métrica utilizáveis. As métricas utilizadas para cada contratação, quando cabíveis, deverão observar as práticas de mercado bem como a criação/definição/existência de meios para a sua fiscalização."- MOTec
 
-***Exemplo 1 - Modelo AGU:***
+> [!TIP]
+> O texto desse item pode ser copiado do modelo de TR da AGU.
 
-22.13. A avaliação da qualidade dos produtos entregues, para fins de aceitação, consiste na verificação dos critérios relacionados a seguir:
+##### Da aplicação dos critérios de aceitação
 
-22.13.1. Todos os equipamentos fornecidos deverão ser novos (incluindo todas as peças e componentes presentes nos produtos), de primeiro uso (sem sinais de utilização anterior), não recondicionados e em fase de comercialização normal através dos canais de venda do fabricante no Brasil (não serão aceitos produtos end-of-life).
+X.X. Será REJEITADO, no todo ou em parte, o serviço ou entregável fornecido em desacordo com as especificações constantes neste documento, no TERMO DE REFERÊNCIA e seus ANEXOS. Ainda, conforme o art. 119 da Lei 14.133/2021, a CONTRATADA é obrigado a reparar, corrigir, remover, reconstruir ou substituir, às suas expensas, no total ou em parte, o objeto do CONTRATO em que se verificarem vícios, defeitos ou incorreções resultantes da execução ou de materiais empregados.
 
-22.13.2. Todos os componentes do(s) equipamento(s) e respectivas funcionalidades deverão ser compatíveis entre si, sem a utilização de adaptadores, frisagens, pinturas, usinagens em geral, furações, emprego de adesivos, fitas adesivas ou quaisquer outros procedimentos não previstos nas especificações técnicas ou, ainda, com emprego de materiais inadequados ou que visem adaptar forçadamente o produto ou suas partes que sejam fisicamente ou logicamente incompatíveis.
-
-22.13.3. Todos os componentes internos do(s) equipamento(s) deverá(ão) estar instalado(s) de forma organizada e livres de pressões ocasionados por outros componentes ou cabos, que possam causar desconexões, instabilidade, ou funcionamento inadequado.
-
-22.13.4. O número de série de cada equipamento deve ser obrigatório e único, afixado em local visível, na parte externa do gabinete e na embalagem que o contém. Esse número deverá ser identificado pelo fabricante, como válido para o produto entregue e para as condições do mercado brasileiro no que se refere à garantia e assistência técnica no Brasil.
-
-22.13.5. Serão recusados os produtos que possuam componentes ou acessórios com sinais claros de oxidação, danos físicos, sujeira, riscos ou outro sinal de desgaste, mesmo sendo o componente ou acessório considerado como novos pelo fornecedor dos produtos.
-
-22.13.6. Os produtos, considerando a marca e modelo apresentados na licitação, não poderão estar fora de linha comercial, considerando a data de LICITAÇÃO (abertura das propostas). Os produtos devem ser fornecidos completos e prontos para a utilização, com todos os acessórios, componentes, cabos etc.
-
-22.13.7. Todas as licenças, referentes aos softwares e drivers solicitados, devem estar registrados para utilização do CONTRATANTE, em modo definitivo (licenças perpétuas), legalizado, não sendo admitidas versões “shareware” ou “trial”. O modelo do produto ofertado pelo licitante deverá estar em fase de produção pelo fabricante (no Brasil ou no exterior), sem previsão de encerramento de produção, até a data de entrega da proposta.
-
-***Exemplo 2:***
-
-22.13. Conforme estabelecido na Instrução Normativa SGD/ME nº 94/2022, os critérios de aceitação consistem em parâmetros objetivos e mensuráveis utilizados para verificar a conformidade do serviço entregue com os requisitos previamente especificados neste Termo de Referência e no futuro instrumento contratual. Tais critérios são essenciais para garantir que a solução CONTRATADA atenda às necessidades institucionais do Ministério Público do Estado do Piauí (MPPI), com a devida aderência aos resultados esperados.
-
-22.14. Para fins de aceitação, as entregas serão avaliadas por meio de evidências documentais e técnicas, tais como: relatórios de progresso, scripts de banco de dados, código-fonte acompanhado de testes unitários, homologações funcionais, protótipos aprovados, resultados de sprints validados e demais artefatos definidos na metodologia adotada, em consonância com os critérios pactuados nas Ordens de Serviço e nos Acordos de Nível de Serviço (ANS). Serão aceitas apenas entregas que estejam integralmente em conformidade com os requisitos funcionais e não funcionais especificados, os padrões de qualidade estabelecidos, os prazos acordados e demais obrigações contratuais.
-
-22.15. A constatação de não conformidade resultará na rejeição da entrega e na necessidade de retrabalho pela CONTRATADA, sem ônus adicional à Administração. Poderá ser realizada, sempre que necessário, a submissão da entrega a testes técnicos, validações com usuários-chave ou provas de conceito, conforme o tipo e criticidade do serviço. Os critérios de aceitação aqui definidos constituem, portanto, instrumento essencial de controle de qualidade, de avaliação de desempenho do contratado e de resguardo ao interesse público.
-
-22.16. Só haverá o recebimento definitivo, após a análise da qualidade do objeto contratual, em face da aplicação dos critérios de aceitação, resguardando-se ao CONTRATANTE o direito de não receber o OBJETO cuja qualidade seja comprovadamente baixa ou em desacordo com as especificações definidas no Termo de Referência – situação em que poderão ser aplicadas à CONTRATADA as penalidades previstas em lei, no Termo de Referência e no CONTRATO. Quando for o caso, a empresa será convocada a refazer todos os serviços rejeitados, sem custo adicional.
+X.X. Só haverá o RECEBIMENTO DEFINITIVO (HOMOLOGAÇÃO), após a análise da qualidade dos serviços, em face da aplicação dos critérios de qualidade e da verificação dos níveis mínimos de serviço, resguardando-se o CONTRATANTE o direito de não receber o objeto cuja qualidade seja comprovadamente baixa – situação em que poderão ser aplicadas à CONTRATADA as penalidades previstas em lei, neste documento, TERMO DE REFERÊNCIA e no CONTRATO. Quando for caso, a empresa será convocada a refazer todos os serviços rejeitados, sem custo adicional.
 
 #### Procedimento de teste e inspeção
 
-***Exemplo 1:***
+***Exemplo:***
 
-22.12. De acordo com o Art. 37, Inciso III, da Resolução CNMP nº 283/2024, os procedimentos de teste e inspeção são necessários para assegurar que o objeto adquirido atenda aos requisitos especificados, garantindo a qualidade, a funcionalidade e a conformidade com os padrões estabelecidos.
+X.X. De acordo com o Art. 37, Inciso III, da Resolução CNMP nº 283/2024, os procedimentos de teste e inspeção são necessários para assegurar que o objeto adquirido atenda aos requisitos especificados, garantindo a qualidade, a funcionalidade e a conformidade com os padrões estabelecidos.
 
-22.13. Serão adotados como procedimentos de teste e inspeção, para fins de elaboração dos Termos de Recebimento Provisório e Definitivo:
+X.X. Serão adotados como procedimentos de teste e inspeção, para fins de elaboração dos Termos de Recebimento Provisório e Definitivo:
 
 a) Metodologia e formas de avaliação da qualidade e adequação da solução de TIC às especificações funcionais e tecnológicas estabelecidas neste Termo de Referência, conforme detalhado a seguir:
 
@@ -1952,412 +1387,87 @@ c) O MPPI disporá de recursos humanos técnicos qualificados para realizar a ge
 > [!NOTE]
 > A equipe de planejamento é livre para definir os níveis mínimos de serviços. A AGU possui modelos que podem ser utilizados como exemplos tanto para a contratação de serviços como para a aquisição de bens.
 
-#### Sanções administrativas e procedimentos para retenção ou glosa no pagamento
+---
+
+### 23. Sanções administrativas e procedimentos para retenção ou glosa no pagamento
 
 > [!NOTE]
 > A AGU possui modelos que podem ser utilizados como exemplos tanto para a contratação de serviços como para a aquisição de bens.
 
-***Exemplo 1 - Bens:***
+---
 
-22.16. Comete infração administrativa, nos termos da Lei nº 14.133, de 2021, o contratado que:
-
-- a) Der causa à inexecução parcial do contrato.
-- b) Der causa à inexecução parcial do contrato que cause grave dano à Administração ou ao funcionamento dos serviços públicos ou ao interesse coletivo.
-- c) Der causa à inexecução total do contrato.
-- d) Ensejar o retardamento da execução ou da entrega do objeto da contratação sem motivo justificado.
-- e) Apresentar documentação falsa ou prestar declaração falsa durante a execução do contrato.
-- f) Praticar ato fraudulento na execução do contrato.
-- g) Comportar-se de modo inidôneo ou cometer fraude de qualquer natureza.
-- h) Praticar ato lesivo previsto no art. 5º da Lei nº 12.846, de 1º de agosto de 2013.
-
-22.17. Serão aplicadas ao contratado que incorrer nas infrações acima descritas as seguintes sanções:
-
-- i. Advertência, quando o contratado der causa à inexecução parcial do contrato, sempre que não se justificar a imposição de penalidade mais grave (art. 156, §2º, da Lei nº 14.133, de 2021).
-- ii. Impedimento de licitar e contratar, quando praticadas as condutas descritas nas alíneas “b”, “c” e “d” do subitem acima deste Contrato, sempre que não se justificar a imposição de penalidade mais grave (art. 156, § 4º, da Lei nº 14.133, de 2021).
-- iii. Declaração de inidoneidade para licitar e contratar, quando praticadas as condutas descritas nas alíneas “e”, “f”, “g” e “h” do subitem acima deste Contrato, bem como nas alíneas “b”, “c” e “d”, que justifiquem a imposição de penalidade mais grave (art. 156, §5º, da Lei nº 14.133, de 2021).
-- iv. Multa:
-
-1. Moratória de 1% (um por cento) por dia de atraso injustificado sobre o valor da parcela inadimplida, até o limite de 15 (quinze) dias úteis.
-2. Compensatória, para as infrações descritas nas alíneas “e” a “h” do subitem 27.16, de 15% a 30% do valor do Contrato.
-3. Compensatória, para a inexecução total do contrato prevista na alínea “c” do subitem 27.16, de 10% a 30% do valor do Contrato.
-4. Para infração descrita na alínea “b” do subitem 27.16, a multa será de 5% a 25% do valor do Contrato.
-5. Para infrações descritas na alínea “d” do subitem 27.16, a multa será de 1% a 15% do valor do Contrato.
-6. Para a infração descrita na alínea “a” do subitem 27.16, a multa será de 1% a 20% do valor do Contrato.
-
-22.18. A aplicação das sanções previstas neste documento não exclui, em hipótese alguma, a obrigação de reparação integral do dano causado ao CONTRATANTE (art. 156, §9º, da Lei nº 14.133, de 2021).
-
-22.19. Todas as sanções previstas neste documento poderão ser aplicadas cumulativamente com a multa (art. 156, §7º, da Lei nº 14.133, de 2021).
-
-22.19.1. Antes da aplicação da multa, será facultada a defesa do interessado no prazo de 15 (quinze) dias úteis, contado da data de sua intimação (art. 157, da Lei nº 14.133, de 2021).
-
-22.19.2. Se a multa aplicada e as indenizações cabíveis forem superiores ao valor do pagamento eventualmente devido pelo CONTRATANTE à CONTRATADA, além da perda desse valor, a diferença será descontada da garantia prestada ou será cobrada judicialmente (art. 156, §8º, da Lei nº 14.133, de 2021).
-
-22.19.3. Previamente ao encaminhamento à cobrança judicial, a multa poderá ser recolhida administrativamente no prazo máximo de 30 (trinta) dias, a contar da data do recebimento da comunicação enviada pela autoridade competente.
-
-22.20. A aplicação das sanções realizar-se-á em processo administrativo que assegure o contraditório e a ampla defesa à CONTRATADA, observando-se o procedimento previsto no caput e parágrafos do art. 158 da Lei nº 14.133, de 2021, para as penalidades de impedimento de licitar e contratar e de declaração de inidoneidade para licitar ou contratar.
-
-22.21. Na aplicação das sanções serão considerados (art. 156, §1º, da Lei nº 14.133, de 2021):
-
-- a) A natureza e a gravidade da infração cometida.
-- b) As peculiaridades do caso concreto.
-- c) As circunstâncias agravantes ou atenuantes.
-- d) Os danos que dela provierem para o Contratante.
-- e) A implantação ou o aperfeiçoamento de programa de integridade, conforme normas e orientações dos órgãos de controle.
-
-22.22. Os atos previstos como infrações administrativas na Lei nº 14.133, de 2021, ou em outras leis de licitações e contratos da Administração Pública que também sejam tipificados como atos lesivos na Lei nº 12.846, de 2013, serão apurados e julgados conjuntamente, nos mesmos autos, observados o rito procedimental e autoridade competente definidos na referida Lei (art. 159).
-
-22.23. A personalidade jurídica da CONTRATADA poderá ser desconsiderada sempre que utilizada com abuso do direito para facilitar, encobrir ou dissimular a prática dos atos ilícitos previstos neste Contrato ou para provocar confusão patrimonial, e, nesse caso, todos os efeitos das sanções aplicadas à pessoa jurídica serão estendidos aos seus administradores e sócios com poderes de administração, à pessoa jurídica sucessora ou à empresa do mesmo ramo com relação de coligação ou controle, de fato ou de direito, com a CONTRATADA, observados, em todos os casos, o contraditório, a ampla defesa e a obrigatoriedade de análise jurídica prévia (art. 160, da Lei nº 14.133, de 2021).
-
-22.24. O CONTRATANTE deverá, no prazo máximo de 15 (quinze) dias úteis, contado da data de aplicação da sanção, informar e manter atualizados os dados relativos às sanções por ela aplicadas, para fins de publicidade no Cadastro Nacional de Empresas Inidôneas e Suspensas (Ceis) e no Cadastro Nacional de Empresas Punidas (Cnep), instituídos no âmbito do Poder Executivo Federal (Art. 161, da Lei nº 14.133, de 2021).
-
-22.25. As sanções de impedimento de licitar e contratar e declaração de inidoneidade para licitar ou contratar são passíveis de reabilitação na forma do art. 163 da Lei nº 14.133/21.
-
-22.26. Os débitos da CONTRATADA para com a Administração contratante, resultantes de multa administrativa e/ou indenizações, não inscritos em dívida ativa, poderão ser compensados, total ou parcialmente, com os créditos devidos pelo referido órgão decorrentes deste mesmo contrato ou de outros contratos administrativos que o contratado possua com o mesmo órgão ora contratante, na forma da Instrução Normativa SEGES/ME nº 26, de 13 de abril de 2022.
-
-***Exemplo 2 - Serviços:***
-
-> [!TIP]
-> O texto abaixo é retirado do modelo da AGU e deve ser ajustado conforme a necessidade.
-
-27.16. Comete infração administrativa, nos termos da Lei nº 14.133, de 2021, o contratado que:
-
-- a) Dar causa à inexecução parcial do contrato.
-- b) Dar causa à inexecução parcial do contrato que cause grave dano à Administração, ao funcionamento dos serviços públicos ou ao interesse coletivo.
-- c) Dar causa à inexecução total do contrato.
-- d) deixar de entregar a documentação exigida para o certame.
-- e) Não manter a proposta, salvo em decorrência de fato superveniente devidamente justificado.
-- f) Não celebrar o contrato ou não entregar a documentação exigida para a contratação, quando convocado dentro do prazo de validade de sua proposta.
-- g) Ensejar o retardamento da execução ou da entrega do objeto da licitação sem motivo justificado.
-- h) Apresentar declaração ou documentação falsa exigida para o certame ou prestar declaração falsa durante a licitação ou a execução do contrato.
-- i) fraudar a licitação ou praticar ato fraudulento na execução do contrato.
-- j) Comportar-se de modo inidôneo ou cometer fraude de qualquer natureza.
-- k) Praticar atos ilícitos com vistas a frustrar os objetivos da licitação.
-- l) Praticar ato lesivo previsto no art. 5º da Lei nº 12.846, de 1º de agosto de 2013.
-
-22.17. Serão aplicadas ao contratado que incorrer nas infrações acima descritas as seguintes sanções:
-
-- i. Advertência, quando o contratado der causa à infração administrativa prevista na na alínea “a”, sempre que não se justificar a imposição de penalidade mais grave (art. 156, §2º, da Lei nº 14.133, de 2021).
-- ii. Impedimento de licitar e contratar, quando praticadas as condutas descritas nas alíneas “b”, “c”, “d”, “e”, “f’ e “g” do subitem acima, sempre que não se justificar a imposição de penalidade mais grave (art. 156, § 4º, da Lei nº 14.133, de 2021) e impedirá o responsável de licitar ou contratar no âmbito da Administração Pública direta e indireta do ente federativo que tiver aplicado a sanção, pelo prazo máximo de 3 (três) anos.
-- iii. Declaração de inidoneidade para licitar e contratar, quando praticadas as condutas descritas nas alíneas “h”, “i”, “j”, “k”, “l” e “e”, “f”, “g” e “h” do subitem acima, bem como nas alíneas “b”, “c” e  d”, que justifiquem a imposição de penalidade mais grave (art. 156, §5º, da Lei nº 14.133, de 2021) e impedirá o responsável de licitar ou contratar no âmbito da Administração Pública direta e indireta de todos os entes federativos, pelo prazo mínimo de 3 (três) anos e máximo de 6 (seis) anos.
-- iv. Multa:
-
-1. Moratória de 0,5% (cinco décimos por cento), por dia de atraso, até o limite correspondente a 10 (dez) dias.
-2. Moratória de 0,7% (sete décimos por cento), por dia de atraso a partir do 11º (décimo primeiro) dia, até o limite correspondente a 20 (vinte) dias. e
-3. Moratória de 1,0% (um por cento), por dia de atraso a partir do 21º (vigésimo primeiro) dia, até o limite correspondente a 30 (trinta) dias, findo o qual a CONTRATANTE rescindirá o contrato correspondente, aplicando-se à CONTRATADA as demais sanções previstas na Lei nº 14.133/2021.
-
-22.17.1. Será aplicada multa de 1,5% (um e meio por cento) sobre o valor da contratação, quando a CONTRATADA:
-
-- a) Prestar informações inexatas ou obstaculizar o acesso à fiscalização da CONTRATANTE no cumprimento de suas atividades.
-- b) Desatender às determinações da fiscalização da CONTRATANTE. e
-- c) Cometer qualquer infração às normas federais, estaduais e municipais, respondendo ainda pelas multas aplicadas pelos órgãos competentes em razão da infração cometida.
-
-22.17.2. Será aplicada multa de 2% (dois por cento) sobre o valor da contratação quando a CONTRATADA:
-
-- a) Não iniciar, ou recusar-se a executar a correção de qualquer ato que, por imprudência, negligência imperícia dolo ou má fé, venha a causar danos à CONTRATANTE ou a terceiros, independentemente da obrigação da CONTRATADA em reparar os danos causados.
-- b) Praticar por ação ou omissão, qualquer ato que, por imprudência, negligência, imperícia, dolo ou má fé, venha a causar danos à CONTRATANTE ou a terceiros, independentemente da obrigação da CONTRATADA em reparar os danos causados.
-
-22.17.3. Nenhum pagamento será feito ao fornecedor dos bens que tenha sido multado, antes que tal penalidade seja descontada de seus haveres.
-
-22.17.4. Na aplicação das sanções serão observados os procedimentos e prazos constantes nos arts. 157 a 160 da Lei n. 14.133/2021.
-
-22.17.5. As multas administrativas previstas neste instrumento não têm caráter compensatório e o seu pagamento não eximirá a CONTRATADA de responsabilidade por perdas e danos decorrentes das infrações cometidas.
-
-22.18. A sanção prevista na alínea “iv” do subitem 27.27, não poderá ser inferior a 0,5% (cinco décimos por cento) nem superior a 30% (trinta por cento) do valor do contrato licitado ou celebrado com contratação direta e será aplicada ao responsável por qualquer das infrações administrativas previstas no subitem 27.26.
-
-22.19. Se a multa aplicada e as indenizações cabíveis forem superiores ao valor de pagamento eventualmente devido pela Administração ao contratado, além da perda desse valor, a diferença será descontada da garantia prestada ou será cobrada judicialmente.
-
-22.20. Independentemente das sanções a que se referem os subitens anteriores, a CONTRATADA está sujeita ao pagamento de indenização por perdas e danos, podendo ainda a administração propor que seja responsabilizada:
-
-- a) civilmente, nos termos do Código Civil.
-- b) perante os órgãos incumbidos de fiscalização das atividades contratadas ou do exercício profissional a elas pertinentes.
-- c) criminalmente, na forma da legislação pertinente.
-
-22.21. A aplicação das sanções previstas neste documento não exclui, em hipótese alguma, a obrigação de reparação integral do dano causado ao
-CONTRATANTE (art. 156, §9º, da Lei nº 14.133, de 2021).
-
-22.22. Todas as sanções previstas neste documento poderão ser aplicadas cumulativamente com a multa (art. 156, §7º, da Lei nº 14.133, de 2021).
-
-22.22.1. Antes da aplicação da multa, será facultada a defesa do interessado no prazo de 15 (quinze) dias úteis, contado da data de sua
-intimação (art. 157, da Lei nº 14.133, de 2021).
-
-22.22.2. Se a multa aplicada e as indenizações cabíveis forem superiores ao valor do pagamento eventualmente devido pelo CONTRATANTE à CONTRATADA, além da perda desse valor, a diferença será descontada da garantia prestada ou será cobrada judicialmente (art. 156, §8º, da Lei nº 14.133, de 2021).
-
-22.22.3. Previamente ao encaminhamento à cobrança judicial, a multa poderá ser recolhida administrativamente no prazo máximo de 30 (trinta) dias, a contar da data do recebimento da comunicação enviada pela autoridade competente.
-
-22.23. A aplicação das sanções realizar-se-á em processo administrativo que assegure o contraditório e a ampla defesa à CONTRATADA, observando-se o procedimento previsto no caput e parágrafos do art. 158 da Lei nº 14.133, de 2021, para as penalidades de impedimento de licitar e contratar e de declaração de inidoneidade para licitar ou contratar.
-
-22.24. Na aplicação das sanções serão considerados (art. 156, §1º, da Lei nº 14.133, de 2021):
-
-- a) A natureza e a gravidade da infração cometida.
-- b) As peculiaridades do caso concreto.
-- c) As circunstâncias agravantes ou atenuantes.
-- d) Os danos que dela provierem para o CONTRATANTE.
-- e) A implantação ou o aperfeiçoamento de programa de integridade, conforme normas e orientações dos órgãos de controle.
-
-22.25. Os atos previstos como infrações administrativas na Lei nº 14.133, de 2021, ou em outras leis de licitações e contratos da Administração Pública que também sejam tipificados como atos lesivos na Lei nº 12.846, de 2013, serão apurados e julgados conjuntamente, nos mesmos autos, observados o rito procedimental e autoridade competente definidos na referida Lei (art. 159).
-
-22.26. A personalidade jurídica da CONTRATADA poderá ser desconsiderada sempre que utilizada com abuso do direito para facilitar, encobrir ou dissimular a prática dos atos ilícitos previstos neste Contrato ou para provocar confusão patrimonial, e, nesse caso, todos os efeitos das sanções aplicadas à pessoa jurídica serão estendidos aos seus administradores e sócios com poderes de administração, à pessoa jurídica sucessora ou à empresa do mesmo ramo com relação de coligação ou controle, de fato ou de direito, com a CONTRATADA, observados, em todos os casos, o contraditório, a ampla defesa e a obrigatoriedade de análise jurídica prévia (art. 160, da Lei nº 14.133, de 2021).
-
-22.27. O CONTRATANTE deverá, no prazo máximo de 15 (quinze) dias úteis, contado da data de aplicação da sanção, informar e manter atualizados os dados relativos às sanções por ela aplicadas, para fins de publicidade no Cadastro Nacional de Empresas Inidôneas e Suspensas (Ceis) e no Cadastro Nacional de Empresas Punidas (Cnep), instituídos no âmbito do Poder Executivo Federal (Art. 161, da Lei nº 14.133, de 2021).
-
-22.28. As sanções de impedimento de licitar e contratar e declaração de inidoneidade para licitar ou contratar são passíveis de reabilitação na forma do art. 163 da Lei nº 14.133/21.
-
-22.29. Os débitos da CONTRATADA para com a Administração CONTRATANTE, resultantes de multa administrativa e/ou indenizações, não inscritos em dívida ativa, poderão ser compensados, total ou parcialmente, com os créditos devidos pelo referido órgão decorrentes deste mesmo contrato ou de outros contratos administrativos que o contratado possua com o mesmo órgão ora CONTRATANTE, na forma da Instrução Normativa SEGES/ME nº 26, de 13 de abril de 2022.
+### 24. Critérios de medição e pagamento
 
 #### Lista de verificação e roteiro de testes aplicáveis (MOTec)
 
 > [!NOTE]
 > "Quando cabível, definir os tópicos, em ordem cronológica para verificação das métricas." - MOTec
 
-22.30. Não se aplica.
-
 #### Inspeções e diligências aplicáveis (MOTec)
 
 > [!NOTE]
 > "Quando cabível, definir rotinas de inspeções, diligências ou outros métodos de auditoria e verificação da qualidade dos serviços prestados." - MOTec
 
-22.31. Não se aplica.
-
 #### Procedimentos para recebimento provisório e definitivo
 
 > [!NOTE]
-> Os exeplos abaixo foram retirados dos modelos da AGU e devem ser adaptados de acordo com a necessidade.
-
-***Exemplo 1 - Bens:***
-
-22.32. Os bens serão recebidos provisoriamente, de forma sumária, \<no ato da entrega / em até X dias úteis/corridos>, juntamente com a nota fiscal ou instrumento de cobrança equivalente, pelo(a) responsável pelo acompanhamento e fiscalização do contrato, para efeito de posterior verificação de sua conformidade com as especificações constantes no Termo de Referência e na proposta.
-
-22.32.1. O prazo será contado do recebimento de comunicação de cobrança da CONTRATADA, com a comprovação da prestação dos serviços relativos à parcela a ser paga.
-
-22.33. Os bens poderão ser rejeitados, no todo ou em parte, inclusive antes do recebimento provisório, quando em desacordo com as especificações constantes no Termo de Referência e na proposta, devendo ser substituídos no prazo de \<X dias úteis/corridos>, a contar da notificação da CONTRATADA, às suas custas, sem prejuízo da aplicação das penalidades.
-
-22.34. O recebimento definitivo ocorrerá no prazo de \<X dias úteis/corridos>, a contar do recebimento da nota fiscal ou instrumento de cobrança equivalente pela Administração, após a verificação da qualidade e quantidade do material e consequente aceitação mediante termo detalhado.
-
-22.35. Para as contratações decorrentes de despesas cujos valores não ultrapassem o limite de que trata o inciso II do art. 75 da Lei nº 14.133, de 2021, o prazo máximo para o recebimento definitivo será de até 2 (dois) dias úteis.
-
-22.36. O prazo para recebimento definitivo poderá ser excepcionalmente prorrogado, de forma justificada, por igual período, quando houver necessidade de diligências para a aferição do atendimento das exigências contratuais.
-
-22.37. No caso de controvérsia sobre a execução do objeto, quanto à dimensão, qualidade e quantidade, deverá ser observado o teor do art. 143 da Lei nº 14.133, de 2021, comunicando-se à empresa para emissão  e Nota Fiscal no que concerne à parcela incontroversa da execução do objeto, para efeito de liquidação e pagamento.
-
-22.38. O prazo para a solução, pela CONTRATADA, de inconsistências na execução do objeto ou de saneamento da nota fiscal ou de instrumento de cobrança equivalente, verificadas pela Administração durante a análise prévia à liquidação de despesa, não será computado para os fins do recebimento definitivo.
-
-22.39. O recebimento provisório ou definitivo não exclui a responsabilidade civil pela solidez e segurança do serviço nem a responsabilidade éticoprofissional pela execução do contrato.
-
-***Exemplo 2 - Serviços:***
-
-> [!NOTE]
-> Alterar conforme a necessidade. Verificar os modelos da AGU para um melhor esclarecimento.
-
-22.42. Os serviços serão recebidos provisoriamente, no prazo de 5 (cinco) dias úteis, pelos fiscais técnico e administrativo, mediante termos detalhados, quando verificado o cumprimento das exigências de caráter técnico e administrativo. (Art. 140, I, a , da Lei nº 14.133 e Arts. 22, X e 23, X do Decreto nº 11.246, de 2022).
-
-22.42.1. O prazo será contado do recebimento de comunicação de cobrança da CONTRATADA, com a comprovação da prestação dos serviços relativos à parcela a ser paga.
-
-22.42.2. A CONTRATADA deve elaborar Relatório Gerencial de Serviços, apresentando-o ao MPPI, até o 5º (quinto) dia útil do mês subsequente ao da prestação dos serviços, momento no qual o MPPI fará o recebimento provisório.
-
-22.42.3. Devem constar desse relatório, dentre outras informações, os indicadores/metas de níveis de serviços definidos e alcançados, recomendações técnicas, administrativas e gerenciais para o próximo período e demais informações relevantes para a gestão contratual.
-
-22.42.4. Contagem detalhada dos serviços prestados.
-
-22.42.4.1. Ao final de execução da OS, a CONTRATADA deverá entregar a contagem detalhada de UST consumidas acompanhada de memória de cálculo que discrimine cada um dos elementos que compuseram a contagem.
-
-22.42.4.2. A memória de cálculo deve conter minimamente as seguintes informações:
-
-22.42.4.2.1. Tarefas, conforme definido no catálogo.
-
-22.42.4.2.2. Condições e índices de ajuste aplicáveis ao caso em questão, à demanda solicitada ou ao produto gerado.
-
-22.42.4.2.3. Total de UST consumida por item de catálogo obtida a partir da relação “quantitativo unitário de UST definido no catálogo para a variação X (multiplicado por) índices de ajuste aplicáveis X (multiplicado por) quantidade de unidades de medida necessária”.
-
-22.42.4.2.4. Total de UST da OS.
-
-22.42.4.3. Para as tarefas canceladas pela CONTRATANTE cuja execução já tenha sido iniciada na data de cancelamento, deverá ser contabilizada apenas a quantidade de unidades de medida efetivamente realizadas. de unidades de medida contabilizada na contagem detalhada deverá ser igual a 1 (um).
-
-22.42.4.4. A critério da CONTRATANTE, as informações apresentadas na memória de cálculo poderão ser destacadas por produtos entregues ou por demandas atendidas.
-
-22.42.4.5. A CONTRATANTE avaliará a contagem detalhada de UST, aprovando-a ou solicitando à CONTRATADA as correções em caso de divergências.
-
-22.42.4.6. Aprovada a contagem detalhada, a OS deverá ser atualizada para refletir o quantitativo total de UST. A memória de cálculo deverá ser anexada à OS.
-
-22.42.4.7. A aprovação da contagem detalhada é condição indispensável para o recebimento definitivo da OS.
-
-22.42.5. Os indicadores de desempenho estabelecidos para cada serviço, deverão ser monitorados e servirão de base para a avaliação mensal da CONTRATADA, nos “Relatórios de Gerenciais dos Serviços” do Contrato, onde será possível verificar a efetividade do atendimento e permitir a depuração do processo.
-
-22.42.6. Os Níveis Mínimos de Serviços devem ser considerados e entendidos pela CONTRATADA como um compromisso de qualidade, que assumirá, junto ao MPPI.
-
-22.42.7. A análise dos resultados destas avaliações, pelo MPPI, resultará em advertências, penalizações e redução na fatura, caso a CONTRATADA não cumpra com os seus compromissos, de qualidade e desempenho.
-
-22.42.8. Para aceite do recebimento e posterior encaminhamento ao pagamento, deverão ser apresentadas as Ordem de Serviços emitidas e assinadas e demais documentos técnicos pertinentes e comprobatórios de execução do serviço.
-
-22.42.9. Após a apuração dos níveis de serviços exigidos e de cálculo do pagamento devido, o MPPI realizará o recebimento definitivo dos serviços.
-
-22.42.10. Para a verificação e a validação das entregas de um release, será necessária a participação de representantes técnicos da CONTRATADA envolvidos no atendimento da OS.
-
-22.43. O fiscal técnico do contrato realizará o recebimento provisório do objeto do contrato mediante termo detalhado que comprove o cumprimento das exigências de caráter técnico. (Art. 22, X, Decreto nº 11.246, de 2022).
-
-22.44. O fiscal administrativo do contrato realizará o recebimento provisório do objeto do contrato mediante termo detalhado que comprove o cumprimento das exigências de caráter administrativo. (Art. 23, X, Decreto nº 11.246, de 2022).
-
-22.45. O fiscal setorial do contrato, quando houver, realizará o recebimento provisório sob o ponto de vista técnico e administrativo.
-
-22.46. Para efeito de recebimento provisório, ao final de cada período de faturamento, o fiscal técnico do contrato irá apurar o resultado das avaliações da execução do objeto e, se for o caso, a análise do desempenho e qualidade da prestação dos serviços realizados em consonância com os indicadores previstos, que poderá resultar no redimensionamento de valores a serem pagos à contratada, registrando em relatório a ser encaminhado ao gestor do contrato.
-
-22.46.1. Será considerado como ocorrido o recebimento provisório com a entrega do termo detalhado ou, em havendo mais de um a ser feito, com a entrega do último.
-
-22.47. A CONTRATADA fica obrigada a reparar, corrigir, remover, reconstruir ou substituir, às suas expensas, no todo ou em parte, o objeto em que se verificarem vícios, defeitos ou incorreções resultantes da execução ou materiais empregados, cabendo à fiscalização não atestar a última e/ou única medição de serviços até que sejam sanadas todas as eventuais pendências que possam vir a ser apontadas no Recebimento Provisório.
-
-22.48. A fiscalização não efetuará o ateste da última e/ou única medição de serviços até que sejam sanadas todas as eventuais pendências que possam vir a ser apontadas no Recebimento Provisório. (Art. 119 c/c art. 140 da Lei nº 14133, de 2021).
-
-22.49. O recebimento provisório também ficará sujeito, quando cabível, à conclusão de todos os testes de campo e à entrega dos Manuais e Instruções exigíveis.
-
-22.50. Os serviços poderão ser rejeitados, no todo ou em parte, quando em desacordo com as especificações constantes neste Termo de Referência e na proposta, sem prejuízo da aplicação das penalidades.
-
-22.51. Quando a fiscalização for exercida por um único servidor, o Termo Detalhado deverá conter o registro, a análise e a conclusão acerca das ocorrências na execução do contrato, em relação à fiscalização técnica e administrativa e demais documentos que julgar necessários, devendo encaminhá-los ao gestor do contrato para recebimento definitivo.
-
-22.52. Os serviços serão recebidos definitivamente no prazo de 5 (cinco) dias úteis, contados do recebimento provisório, por servidor ou comissão designada pela autoridade competente, após a verificação da qualidade e quantidade do serviço e consequente aceitação mediante termo detalhado, obedecendo os seguintes procedimentos:
-
-22.52.1. Emitir documento comprobatório da avaliação realizada pelos fiscais técnico, administrativo e setorial, quando houver, no cumprimento de obrigações assumidas pelo contratado, com menção ao seu desempenho na execução contratual, baseado em indicadores objetivamente definidos e aferidos, e a eventuais penalidades aplicadas, devendo constar do cadastro de atesto de cumprimento de obrigações, conforme regulamento (art. 21, VIII, Decreto nº 11.246, de 2022).
-
-22.52.2. Realizar a análise dos relatórios e de toda a documentação apresentada pela fiscalização e, caso haja irregularidades que impeçam a liquidação e o pagamento da despesa, indicar as cláusulas contratuais pertinentes, solicitando à Contratada, por escrito, as respectivas correções.
-
-22.52.3. Emitir Termo Detalhado para efeito de recebimento definitivo dos serviços prestados, com base nos relatórios e documentações apresentadas. e
-
-22.52.4. Comunicar a empresa para que emita a Nota Fiscal ou Fatura, com o valor exato dimensionado pela fiscalização.
-
-22.52.5. Enviar a documentação pertinente ao setor de contratos para a formalização dos procedimentos de liquidação e pagamento, no valor dimensionado pela fiscalização e gestão.
-
-22.53. No caso de controvérsia sobre a execução do objeto, quanto à dimensão, qualidade e quantidade, deverá ser observado o teor do art. 143 da Lei nº 14.133, de 2021, comunicando-se à empresa para emissão de Nota Fiscal no que concerne à parcela incontroversa da execução do objeto, para efeito de liquidação e pagamento.
-
-22.54. Nenhum prazo de recebimento ocorrerá enquanto pendente a solução, pelo contratado, de inconsistências verificadas na execução do objeto ou no instrumento de cobrança.
-
-22.55. O recebimento provisório ou definitivo não excluirá a responsabilidade civil pela solidez e pela segurança do serviço nem a responsabilidade ético-profissional pela perfeita execução do contrato.
+> Utilizar os textos disponíveis nos modelos da AGU.
 
 #### Procedimento para pagamento
 
 > [!NOTE]
-> Modelo AGU.
+> Utilizar os textos disponíveis nos modelos da AGU.
 
 ##### Liquidação
 
-22.56. Recebida a Nota Fiscal ou documento de cobrança equivalente, correrá o prazo de 10 (dez) dias úteis para fins de liquidação, na forma desta seção, prorrogáveis por igual período, nos termos do art. 7º, §1º da Instrução Normativa SEGES/ME nº 77/2022.
-
-22.56.1. O prazo de que trata o item anterior será reduzido à metade, mantendo-se a possibilidade de prorrogação, no caso de contratações decorrentes de despesas cujos valores não ultrapassem o limite de que trata o inciso II do art. 75 da Lei nº 14.133, de 2021.
-
-22.57. Para fins de liquidação, o setor competente deverá verificar se a nota fiscal ou instrumento de cobrança equivalente apresentado expressa os elementos necessários e essenciais do documento, tais como:
-
-- a) O prazo de validade.
-- b) A data da emissão.
-- c) Os dados do contrato e do órgão CONTRATANTE.
-- d O período respectivo de execução do contrato.
-- e) O valor a pagar. e
-- f) Eventual destaque do valor de retenções tributárias cabíveis.
-
-22.58. Havendo erro na apresentação da nota fiscal ou instrumento de cobrança equivalente, ou circunstância que impeça a liquidação da despesa, esta ficará sobrestada até que a CONTRATADA providencie as medidas saneadoras, reiniciando-se o prazo após a comprovação da regularização da situação, sem ônus ao CONTRATANTE.
-
-22.59. A nota fiscal ou instrumento de cobrança equivalente deverá ser obrigatoriamente acompanhado da comprovação da regularidade fiscal, constatada por meio de consulta on-line ao SICAF ou, na impossibilidade de acesso ao referido sistema, mediante consulta aos sítios eletrônicos oficiais ou à documentação mencionada no art. 68 da Lei nº 14.133, de 2021.
-
-22.60. A Administração deverá realizar consulta ao SICAF para:
-
-- a) Verificar a manutenção das condições de habilitação exigidas no edital.
-- b) Identificar possível razão que impeça a participação em licitação, no âmbito do órgão ou entidade, que implique proibição de contratar com o Poder Público, bem como ocorrências impeditivas indiretas (Instrução Normativa nº 3, de 26 de abril de 2018).
-
-22.61. Constatando-se, junto ao SICAF, a situação de irregularidade da CONTRATADA, será providenciada sua notificação, por escrito, para que, no prazo de 5 (cinco) dias úteis, regularize sua situação ou apresente sua defesa. O prazo poderá ser prorrogado uma vez, por igual período, a critério do CONTRATANTE.
-
-22.62. Não havendo regularização ou sendo a defesa considerada improcedente, o CONTRATANTE deverá comunicar aos órgãos responsáveis pela fiscalização da regularidade fiscal quanto à inadimplência da CONTRATADA, bem como quanto à existência de pagamento a ser efetuado, para que sejam acionados os meios pertinentes e necessários para garantir o recebimento de seus créditos.
-
-22.63. Persistindo a irregularidade, o CONTRATANTE deverá adotar as medidas necessárias à rescisão contratual nos autos do processo administrativo correspondente, assegurada à CONTRATADA a ampla defesa.
-
-22.64. Havendo a efetiva execução do objeto, os pagamentos serão realizados normalmente, até que se decida pela rescisão do contrato, caso a CONTRATADA não regularize sua situação junto ao SICAF.
-
 ##### Prazo de Pagamento
-
-22.65. O pagamento será efetuado no prazo de até 10 (dez) dias úteis contados da finalização da liquidação da despesa, conforme seção anterior, nos termos da Instrução Normativa SEGES/ME nº 77, de 2022.
 
 > [!TIP]
 > Índice de Custo de Tecnologia da Informação (ICTI), do Instituto de Pesquisa Econômica Aplicada (IPEA) - Obrigatório para contratação de serviços.
 >
 > Índice Nacional de Preços ao Consumidor Amplo - IPCA , do Instituto Brasileiro de Geografia e Estatística (IBGE) - Para bens
 
-22.66. No caso de atraso pelo CONTRATANTE, os valores devidos à CONTRATADA serão atualizados monetariamente entre o termo final do prazo de pagamento até a data de sua efetiva realização, mediante aplicação do \<informar o índice>, ou outro que venha substituí-lo.
-
 > [!TIP]
 > Adicionar o subitem abaixo quando utilizar o ICTI como índice.
 
-22.66.1. Conforme Art. 24. da Instrução Normativa SGD/ME nº 94, de 23 de dezembro de 2022 regida pela Lei nº 14.133, de 2021, o ICTI/IPEA é o índice obrigatório aplicado nas contratações de serviços de Tecnologia da Informação em que haja previsão de reajuste de preços por aplicação de índice de correção monetária.
+X.X.1. Conforme Art. 24. da Instrução Normativa SGD/ME nº 94, de 23 de dezembro de 2022 regida pela Lei nº 14.133, de 2021, o ICTI/IPEA é o índice obrigatório aplicado nas contratações de serviços de Tecnologia da Informação em que haja previsão de reajuste de preços por aplicação de índice de correção monetária.
 
 ##### Forma de Pagamento
 
-22.67. O pagamento será realizado por meio de ordem bancária, para crédito em banco, agência e conta corrente indicados pela CONTRATADA.
+X.X. Não caberá pagamento antecipado (Inserir este item no final).
 
-22.67.1. Será considerada data do pagamento o dia em que constar como emitida a ordem bancária para pagamento.
+---
 
-22.67.2. Quando do pagamento, será efetuada a retenção tributária prevista na legislação aplicável.
+### 25. Plano de sustentação e transição contratual
 
-22.67.2.1. Independentemente do percentual de tributo inserido na planilha, quando houver, serão retidos na fonte, quando da realização do pagamento, os percentuais estabelecidos na legislação vigente.
-
-22.68. A CONTRATADA regularmente optante pelo Simples Nacional, nos termos da Lei Complementar nº 123, de 2006, não sofrerá a retenção tributária quanto aos impostos e contribuições abrangidos por aquele regime. No entanto, o pagamento ficará condicionado à apresentação de comprovação, por meio de documento oficial, de que faz jus ao tratamento tributário favorecido previsto na referida Lei Complementar.
-
-22.69. Não caberá pagamento antecipado.
-
-#### Plano de sustentação e transição contratual
-
-##### Recursos necessários à continuidade do negócio durante e após a execução do contrato
+#### Recursos necessários à continuidade do negócio durante e após a execução do contrato
 
 > [!NOTE]
 > "Deve ser realizado o levantamento e a descrição de materiais, infraestrutura, recursos humanos, capacitações, recursos orçamentários entre outros elementos necessários a execução e encerramento do contrato." - MOTec
 
-###### Recursos materiais
+#### Recursos materiais e Humanos
 
 > [!TIP]
-> Listar todo e qualquer recurso material (mesas, racks, computadores etc) necessário para dar continuidade a execução do serviço em caso de finalização do contrato.
-
-***Exemplos:***
-
-22.70. Não se aplica.
-
-***ou***
-
-22.70. Os recursos materiais necessários já estão disponíveis, considerando o uso atual do produto no MPPI desde 2019;
-
-22.71. Toda a infraestrutura necessária para hospedar a solução já está montada e em execução nas dependências do órgão.
-
-***ou***
-
-22.70. Será necessário realizar licitação para a aquisição de racks, servidores e todo o equipamento de gerneciamento de rede necessários para manter os serviços executando dentro da infraestrutura do MPPI.
-
-###### Recursos humanos
-
-> [!TIP]
-> Listar todo e qualquer recurso humano necessário para dar continuidade a execução do serviço em caso de finalização do contrato.
-
-***Exemplos:***
-
-22.71. Não se aplica.
-
-***ou***
-
-22.71. O MPPI já possui uma equipe técnica composta por analistas e técnicos treinados para manter a infraestrutura tecnológica necessária para a continuidade da solução.
-
-***ou***
-
-22.71. Será necessário realizar a contratação de analistas e técnicos capacitados para gerenciar a infraestrutura tecnológica necessária para manter a continuidade da solução.
+> Listar todo e qualquer recurso material (mesas, racks, computadores etc) e humano necessário para dar continuidade a execução do serviço em caso de finalização do contrato.
 
 ##### Estratégia e ações de transição contratual
 
-22.72. Não se aplica.
+X.X. Não se aplica.
 
 ***ou***
 
-22.72. Realizar um estudo de viabilidade no prazo de até 4 (quatro) meses antes do término do contrato, garantindo a análise detalhada das necessidades e alternativas disponíveis, bem como elaborar e encaminhar o termo de referência e os demais artefatos indispensáveis para viabilizar uma nova contratação de forma eficiente.
+X.X. Realizar um estudo de viabilidade no prazo de até 4 (quatro) meses antes do término do contrato, garantindo a análise detalhada das necessidades e alternativas disponíveis, bem como elaborar e encaminhar o termo de referência e os demais artefatos indispensáveis para viabilizar uma nova contratação de forma eficiente.
 
-#### Extinção contratual
+### 26. Extinção contratual
 
 > [!TIP]
 > Em caso de contratos não-contínuos por escopo (o objeto é contratado para ser prestado em determinado prazo). Ex. Aquisição e Instalação de Servidores, utilize o texto abaixo.
 
-22.73. O contrato será extinto quando cumpridas as obrigações de ambas as partes, ainda que isso ocorra antes do prazo estipulado para tanto.
+X.X. O contrato será extinto quando cumpridas as obrigações de ambas as partes, ainda que isso ocorra antes do prazo estipulado para tanto.
 
-22.74. Se as obrigações não forem cumpridas no prazo estipulado, a vigência ficará prorrogada até a conclusão do objeto, caso em que deverá a Administração providenciar a readequação do cronograma fixado para o contrato.
+X.X. Se as obrigações não forem cumpridas no prazo estipulado, a vigência ficará prorrogada até a conclusão do objeto, caso em que deverá a Administração providenciar a readequação do cronograma fixado para o contrato.
 
-22.74.1. Quando a não conclusão do contrato referida no item anterior decorrer de culpa do contratado:
+X.X.1. Quando a não conclusão do contrato referida no item anterior decorrer de culpa do contratado:
 
 - a) ficará ele constituído em mora, sendo-lhe aplicáveis as respectivas sanções administrativas; e  
 - b) poderá a Administração optar pela extinção do contrato e, nesse caso, adotará as medidas admitidas em lei para a continuidade da execução contratual.
@@ -2365,36 +1475,36 @@ intimação (art. 157, da Lei nº 14.133, de 2021).
 > [!TIP]
 > Para os contratos de fornecimentos contínuos e de aluguel de equipamentos e à utilização de programas de informática (art. 106. NLLC), utilize o texto abaixo.
 
-22.73. O contrato será extinto quando vencido o prazo nele estipulado, independentemente de terem sido cumpridas ou não as obrigações de ambas as partes contraentes;
+X.X. O contrato será extinto quando vencido o prazo nele estipulado, independentemente de terem sido cumpridas ou não as obrigações de ambas as partes contraentes;
 
-22.73.1. O contrato poderá ser extinto antes do prazo nele fixado, sem ônus para o CONTRATANTE, quando este não dispuser de créditos orçamentários para sua continuidade ou quando entender que o contrato não mais lhe oferece vantagem;
+X.X.1. O contrato poderá ser extinto antes do prazo nele fixado, sem ônus para o CONTRATANTE, quando este não dispuser de créditos orçamentários para sua continuidade ou quando entender que o contrato não mais lhe oferece vantagem;
 
-22.73.2. A extinção, nesta hipótese, ocorrerá na próxima data de aniversário do contrato, desde que haja a notificação do CONTRATADO pelo CONTRATANTE com pelo menos 2 (dois) meses de antecedência;
+X.X.2. A extinção, nesta hipótese, ocorrerá na próxima data de aniversário do contrato, desde que haja a notificação do CONTRATADO pelo CONTRATANTE com pelo menos 2 (dois) meses de antecedência;
 
-22.73.3. Caso a notificação de não-continuidade do contrato ocorra com menos de 2 (dois) meses da data de aniversário, a extinção contratual ocorrerá após 2 (dois) meses da data da comunicação;
+X.X.3. Caso a notificação de não-continuidade do contrato ocorra com menos de 2 (dois) meses da data de aniversário, a extinção contratual ocorrerá após 2 (dois) meses da data da comunicação;
 
 > [!TIP]
 > O texto abaixo segue o padrão (modelo AGU)
 
-22.74. O contrato poderá ser extinto antes de cumpridas as obrigações nele estipuladas, ou antes do prazo nele fixado, por algum dos motivos previstos no artigo 137 da Lei nº 14.133/21, bem como amigavelmente, assegurados o contraditório e a ampla defesa;
+X.X. O contrato poderá ser extinto antes de cumpridas as obrigações nele estipuladas, ou antes do prazo nele fixado, por algum dos motivos previstos no artigo 137 da Lei nº 14.133/21, bem como amigavelmente, assegurados o contraditório e a ampla defesa;
 
-22.74.1. Nesta hipótese, aplicam-se também os artigos 138 e 139 da mesma Lei;
+X.X.1. Nesta hipótese, aplicam-se também os artigos 138 e 139 da mesma Lei;
 
-22.74.2. A alteração social ou a modificação da finalidade ou da estrutura da empresa não ensejará a extinção se não restringir sua capacidade de concluir o contrato;
+X.X.2. A alteração social ou a modificação da finalidade ou da estrutura da empresa não ensejará a extinção se não restringir sua capacidade de concluir o contrato;
 
-22.74.2.1. Se a operação implicar mudança da pessoa jurídica contratada, deverá ser formalizado termo aditivo para alteração subjetiva;
+X.X.2.1. Se a operação implicar mudança da pessoa jurídica contratada, deverá ser formalizado termo aditivo para alteração subjetiva;
 
-22.75. O termo de extinção, sempre que possível, será precedido:
+X.X. O termo de extinção, sempre que possível, será precedido:
 
 - Balanço dos eventos contratuais já cumpridos ou parcialmente cumpridos;
 - Relação dos pagamentos já efetuados e ainda devidos;
 - Indenizações e multas;
 
-22.76. A extinção do contrato não configura óbice para o reconhecimento do desequilíbrio econômico-financeiro, hipótese em que será concedida indenização por meio de termo indenizatório (art. 131, caput, da Lei nº 14.133/21);
+X.X. A extinção do contrato não configura óbice para o reconhecimento do desequilíbrio econômico-financeiro, hipótese em que será concedida indenização por meio de termo indenizatório (art. 131, caput, da Lei nº 14.133/21);
 
-22.77. O contrato poderá ser extinto caso se constate que a CONTRATADA mantém vínculo de natureza técnica, comercial, econômica, financeira, trabalhista ou civil com dirigente do órgão ou entidade contratante ou com agente público que tenha desempenhado função na licitação, atue na fiscalização ou na gestão do contrato, ou que deles seja cônjuge, companheiro ou parente em linha reta, colateral ou por afinidade, até o terceiro grau (art. 14, inciso IV, da Lei n.º 14.133/21).
+X.X. O contrato poderá ser extinto caso se constate que a CONTRATADA mantém vínculo de natureza técnica, comercial, econômica, financeira, trabalhista ou civil com dirigente do órgão ou entidade contratante ou com agente público que tenha desempenhado função na licitação, atue na fiscalização ou na gestão do contrato, ou que deles seja cônjuge, companheiro ou parente em linha reta, colateral ou por afinidade, até o terceiro grau (art. 14, inciso IV, da Lei n.º 14.133/21).
 
-### 23. Estratégia de independência (MOTec)
+### 27. Estratégia de independência (MOTec)
 
 > [!NOTE]
 > "As regras para estratégia de independência do órgão com relação à empresa contratada são elaboradas pelos Integrantes Requisitante e Técnico, devendo contemplar:
@@ -2418,11 +1528,11 @@ intimação (art. 157, da Lei nº 14.133, de 2021).
 > - Forma: Em formato eletrônico
 > - Prazo: Até 30 dias da entrega do produto/serviço" - MOTec
 
-23.1. Não será necessária transferência de conhecimento devido às características do objeto.
+X.X. Não será necessária transferência de conhecimento devido às características do objeto.
 
 ***Exemplo:***
 
-23.1. Visando garantir continuidade, reduzir riscos de dependência da contratada e possibilitar a adequada manutenção e evolução das soluções desenvolvidas, deverão ser observadas as seguintes formas e prazos de transferência:
+X.X. Visando garantir continuidade, reduzir riscos de dependência da contratada e possibilitar a adequada manutenção e evolução das soluções desenvolvidas, deverão ser observadas as seguintes formas e prazos de transferência:
 
 a. Transferência do código-fonte e documentação técnica
 
@@ -2455,101 +1565,166 @@ f. Reuniões de alinhamento sobre a transferência de conhecimento
 - Periodicidade: Sempre que solicitado pela CONTRATANTE em função de marcos relevantes do projeto.
 - Prazo: Pelo menos 90 (noventa) dias antes do fim do contrato, com ata registrada e aprovada pelas partes.
 
-##### Direitos de propriedade intelectual e autorais
+---
 
-> [!NOTE]
-> "a. Ex: Todo o código fonte produzido e documentação técnica serão de propriedade intelectual da CONTRATANTE;
->
-> b. A CONTRATADA não poderá comercializar ou distribuir de qualquer modo o código fonte produzido como resultado da contratação." - MOTec
+### 28. Contratações correlatas/interdependentes (Lei 14.133/2021 §1º XI)
 
-***Exemplo 1:***
+> Descrever se há ou não contratações correlatas ou interdependentes, informando o número do processo.
 
-23.2. Considerando que a solução é baseada em software proprietário, o mesmo pertence à CONTRATADA e/ou FABRICANTE, sendo que, durante a vigência do contrato, o CONTRATANTE terá o direito de uso de todas as suas ferramentas, e ainda, obter as atualizações das funcionalidades existentes no licenciamento do produto;
+---
 
-23.3. A CONTRATADA fica proibida de comercializar qualquer documentação que seja produzida no escopo específico da realização deste objeto, ficando sujeita às penalidades previstas na Lei 9609/98 em caso de descumprimento desta determinação.
+### 29. Possíveis Impactos ambientais e medidas mitigadoras (Lei 14.133/2021 §1º XII)
 
-***Exemplo 2:***
-
-23.2. Todas as entregas decorrentes da execução do contrato, compreendendo, mas não se limitando a, códigos-fonte, artefatos técnicos, documentação técnica e operacional, diagramas, manuais, scripts, modelos de dados, especificações, bibliotecas e demais bens intangíveis produzidos no curso da prestação dos serviços contratados, terão sua titularidade plena e exclusiva cedida ao Ministério Público do Estado do Piauí (MPPI), a título universal, irrevogável e irretratável, sem ônus adicional.
-
-23.3. A CONTRATADA reconhece que tais entregas constituem propriedade intelectual da Administração Pública, nos termos das Leis nº 9.609/1998 (propriedade intelectual de programa de computador) e nº 9.610/1998 (Lei de Direitos Autorais), sendo vedada qualquer forma de utilização, reprodução, modificação, comercialização, sublicenciamento ou cessão, no todo ou em parte, a terceiros, salvo mediante autorização prévia e expressa do MPPI, por escrito.
-
-23.4. A CONTRATADA obriga-se, ainda, a garantir que os produtos e entregas decorrentes do contrato estejam livres de quaisquer ônus, encargos ou restrições relativos a direitos de terceiros. Na hipótese de incorporação de bibliotecas, componentes, ferramentas ou quaisquer elementos protegidos por licenças de terceiros, caberá à CONTRATADA assegurar que tais elementos estejam devidamente licenciados de forma compatível com os direitos ora cedidos, respondendo integralmente por quaisquer prejuízos decorrentes de eventuais violações de direitos de propriedade intelectual ou autorais.
-
-23.5. É de responsabilidade exclusiva da CONTRATADA a aquisição de software de apoio aos serviços prestados, não havendo qualquer responsabilidade da CONTRATANTE com respeito aos direitos de propriedade, inclusive os direitos autorais e outros direitos de propriedade intelectual sobre os programas.
-
-23.5.1. A utilização de componentes de propriedade da CONTRATADA ou de terceiros na construção dos programas ou quaisquer artefatos relacionados ao presente Termo de Referência, que possam afetar a propriedade do produto, deve ser formal e previamente autorizada pela CONTRATANTE. Caso ocorra, a CONTRATADA deverá fornecer esses componentes sem quaisquer ônus adicionais à CONTRATANTE, respeitando as condições de licenciamento correspondentes.
-
-23.6. É vedado à CONTRATADA qualquer tipo de reuso dos componentes e códigos desenvolvidos para a CONTRATANTE em projetos que não sejam da CONTRATANTE.
-
-### 24. Contratações correlatas/interdependentes (Lei 14.133/2021 §1º XI)
-
-### 25. Possíveis Impactos ambientais e medidas mitigadoras (Lei 14.133/2021 §1º XII)
+> Descrever os impactos ambientais e suas medidas mitigadoras.
 
 #### Impactos ambientais
 
 #### Medidas mitigadoras
 
-### 26. Adequação orçamentária e cronograma (IN 94/2022 art.21)
+---
 
-### 27. Forma e Critério de seleção do fornecedor (IN 94/2022 arts. 28-29)
+### 30. Adequação orçamentária e cronograma (IN 94/2022 art.21)
+
+> Descrever a adequação orçamentária que será utilizada na contratação.
+> Caso seja SRP, utilizar o texto abaixo:
+
+X.X. Conforme Art. 26, Parágrafo único da Resolução CNMP nº 283, de 05 de fevereiro de 2024, Na licitação para Registro de Preços não é necessário indicar a dotação orçamentária, que somente será exigida para a formalização do contrato ou outro instrumento hábil.
+
+### 31. Forma e Critério de seleção do fornecedor (IN 94/2022 arts. 28-29)
 
 #### Forma de seleção e Critério de julgamento da proposta
 
+> Descrever qual a forma de seleção do fornecedor. Utilizar o modelo da AGU e adaptar ao tipo de licitação que será realizada.
+
 ##### Justificativa da escolha da modalidade
+
+> Justificar o motivo de ter escolhido a modalidade de licitação utilizando fundamentações legais.
 
 #### Regime de execução/fornecimento (IN 94/2022 art. 22; Lei 14.133/2021 art.92)
 
-#### Da aplicação da margem de preferência
+> Descrever se a entrega será INTEGRAL (em caso de contratações de bens sem a adoção de SRP) ou PARCELADA (em caso de SRP).
 
-##### Justificativa para a não aplicação da margem de preferência
+X.X. O regime de fornecimento do contrato será por ENTREGA PARCELADA conforme a demanda oficializada por meio de Ordem de Fornecimento de Bens específica.
 
-#### Tratamento diferenciado para ME e EPP
+ou
 
-##### Justificativa para o não tratamento diferenciado
+X.X. O regime de fornecimento do contrato será por ENTREGA INTEGRAL conforme oficializado por meio de Ordem de Fornecimento de Bens específica.
 
-#### Subcontratação, Consórcios e Cooperativa
+ou
 
-#### Justificativa para a participação ou não participação de Consórcios e Subcontratação (Art. 17, inciso I, alínea 's' da Resolução CNMP nº 283/2024)
+X.X O regime de execução do contrato será mediante EXECUÇÃO INDIRETA sendo a EMPREITADA POR PREÇO GLOBAL o regime de execução mais adequado para o objeto pretendido.
+
+ou
+
+> Outro texto que se enquadra na modalidade da licitação e da execução do serviço ou entrega do bem.
+
+##### Justificativa pela adoção do Sistema de Registro de Preços (Decreto Estadual nº 21.938/2023, Art. 4)
+
+> Somente em casos de SRP.
+
+X.X. O artigo 4º do Decreto Estadual nº 21.938/2023 define as situações em que o Sistema de Registro de Preços (SRP) pode ser preferencialmente adotado, conforme segue:
+
+- Art. 4º O SRP será adotado preferencialmente nas seguintes hipóteses:
+- I. Quando, pelas características do objeto, houver necessidade de contratações permanentes ou frequentes.
+- II. Quando for mais conveniente a aquisição de bens com previsão de entregas parceladas ou contratação de serviços remunerados por unidade de medida, por quantidade de horas de serviço ou em regime de tarefa.
+- III. Quando for conveniente para atendimento a mais de um órgão ou entidade.
+- IV. Quando, pela natureza do objeto, não for possível definir previamente o quantitativo a ser demandado pela administração.
+
+X.X. É fundamental destacar que o Sistema de Registro de Preços tem como objetivo promover a economicidade. No caso em questão, optou-se por esse sistema em razão da necessidade de realizar a compra de forma parcelada, uma vez que não há demanda imediata para a entrega de todo o quantitativo previsto neste documento.
+
+X.X. Essa abordagem evita a realização de novos pregões para a aquisição do mesmo material, resultando em economia para a Administração. A quantidade de serviços a ser entregue será conforme a necessidade do setor requisitante.
+
+X.X. Portanto, a adoção do Sistema de Registro de Preços é a opção mais adequada para este caso.
+
+##### Justificativa para Permissão ou não de Adesão de Órgãos Não Participantes à Ata de Registro de Preços
+
+> Aqui é preciso apresentar uma justificativa bem embasada para a permissão de adesão a ARP. Não pode se algo genérico ou superficial, precisa ser algo bem estudado. Esta justificativa, caso não seja bem elaborada, fará o processo voltar do setor jurídico.
+>
+> A permissão ou não de adesão a ARP, deve ser justificada.
 
 #### Apresentação das propostas
+
+> Descreve como as propostas devem ser apresentadas no momento da Seleção do fornecedor.
+
+***Exemplo:***
+
+X.X. As propostas deverão ser apresentadas de forma clara, objetiva e detalhada, contendo a identificação completa da proponente e todas as especificações técnicas exigidas no Termo de Referência. Não serão aceitas propostas que apenas repliquem os requisitos aqui descritos, sem apresentar a devida comprovação técnica de cada item e subitem.
+
+X.X.1. As propostas dos licitantes devem possuir validade mínima de 90 dias.
+
+X.X.2. Segue anexo a este documento o modelo de proposta que deverá ser seguido por todos os proponentes.
+
+X.X. A empresa deverá apresentar juntamente com sua proposta comercial, comprovação de que o equipamento proposto atende a cada um dos requisitos especificados. Tal comprovação deverá se dar por meio de indicação de documento público (eletrônico ou impresso) e da numeração da página (ou localização no texto), por meio do qual a equipe técnica do MPPI possa confirmar tais argumentos.
+
+X.X.1. O MPPI reserva-se ao direito de diligenciar, após apresentação da proposta, o fornecedor e/ou fabricante para comprovação, das informações prestadas na proposta e nas tabelas.
+
+X.X.2. Todos os requisitos que possuem os termos “Implementar”, “ter capacidade”, “deve permitir”, “deve possibilitar” devem ser interpretados como funcionalidades a serem atendidas pelo objeto a ser contratado independentemente do fornecimento de licenças e/ou upgrades sem custo adicional para a administração.
+
+X.X. A proposta deverá conter, ainda, informações que indique a Assistência Técnica autorizada ou credenciada do fabricante responsável pelo atendimento pós-venda , com endereço e canais de contato devidamente identificados.
 
 #### Exigências para a habilitação
 
 ##### Habilitação jurídica
 
+> Conforme o modelo da AGU.
+
 ##### Habilitação fiscal, social e trabalhista
 
+> Conforme o modelo da AGU.
+
 ##### Qualificação econômico-financeira
+
+> Caso seja solicitado, precisa ser justificado.
 
 > [!IMPORTANT]
 > Caso a licitação não seja EXCLUSIVA para ME/EPP e se permita a participação desse tipo de empresa, é preciso remover a alínea "b" do seguinte texto:
 >
 > 28.XX.YY. O Licitante enquadrado como microempreendedor individual que pretenda auferir os benefícios do tratamento diferenciado previstos na Lei Complementar nº 123/2006, estará dispensado (a) da prova de inscrição nos cadastros de contribuintes estadual e municipal ~~e (b) da apresentação do balanço patrimonial e das condições contábeis do último exercício~~.
 
+> [!NOTE]
+> O modelo de TR e Contrato da AGU possui o texto para este subitem. Lembrando que é necessário justificar a adoção da Qualificação econômico-financeira.
+
+> [!NOTE]
+> Caso não seja solicitado o Balanço patrimonial da empresa, é necessário justificar.
+
 ##### Qualificação técnica
 
-### 28. Mapa de Gerenciamento de Riscos (Res. CNMP 283/2024 art. 45; IN 94/2022 art. 38; MOTec) - ITEM OBRIGATÓRIO
+> [!NOTE]
+> O modelo de TR e Contrato da AGU possui o texto para este subitem. Lembrando que é necessário justificar a adoção da Qualificação técnica.
 
-> [!WARNING]
-> Pode ser feito a parte e referenciado aqui.
+> [!IMPORTANT]
+> Esta é uma parte bem sensível na elaboração do ETP pois existe muitas nuances para elaborar o texto da qualificação técnica. É preciso tomar muito cuidado na solicitação dos atestados de capacidade técnica. Recomendo ler muito bem as anotações nos modelos da AGU e a Lei 14.133/2021.
+
+---
+
+### 32. Mapa de Gerenciamento de Riscos (Res. CNMP 283/2024 art. 45; IN 94/2022 art. 38; MOTec) - ITEM OBRIGATÓRIO
+
+> Pode ser elaborado todo aqui ou em um documento separado e depois referenciado neste item. O MOTEC fornece um modelo de Mapa de Gerenciamento de riscos que pode ser utilizado.
 
 ## VIABILIDADE
 
-### 29. Declaração de Viabilidade (Lei 14.133/2021 §1º XIII; IN 94/2022 art.11 V; MOTec) - ITENS OBRIGATÓRIOS
+### 33. Declaração de Viabilidade (Lei 14.133/2021 §1º XIII; IN 94/2022 art.11 V; MOTec) - ITENS OBRIGATÓRIOS
+
+> [!NOTE]
+> Registrar a declaração da viabilidade da contratação, contendo a justificativa da solução escolhida, levando em consideração os estudos realizados na análise comparativa de soluções, aspectos econômicos e qualitativos, registrados ao longo do Estudo Técnico Preliminar (Inciso V, art. 11, da IN SGD/ME nº 94, de 2022).
+
+X.X. Esta equipe de planejamento declara viável esta contratação.
+
+ou
+
+X.X. Esta equipe de planejamento declara inviável esta contratação.
 
 #### Justificativa da Viabilidade/Inviabilidade
 
 > [!WARNING]
 > Este item e sua justificativa são obrigatórios
 
-### 30. Responsáveis (IN 94/2022 art. 11 §2-3; MOTec)
+### 34. Responsáveis (IN 94/2022 art. 11 §2-3; MOTec)
 
 - Integrante Requisitante
 - Integrante Técnico
 - Integrante Administrativo
-- Autoridade/TIC
 
 ---
 
-**Referências**: Lei 14.133/2021; IN 94/2022; Resolução CNMP 283/2024; MOTec V.10 CNMP.
+**Referências**: Lei 14.133/2021; IN 94/2022; Resolução CNMP 283/2024; MOTec V.1 CNMP.

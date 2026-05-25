@@ -180,13 +180,23 @@ OU
 
 4.13. É proibida a divulgação, reprodução ou utilização de qualquer informação a qualquer título, exceto mediante autorização prévia.
 
-4.14. Caso o serviço ou objeto contratado envolva armazenamento em nuvem, a CONTRATADA deverá garantir a disponibilidade, integridade, confidencialidade e autenticidade das informações armazenadas nesse ambiente.
+4.14. Não permitir que dados ou informações do CONTRATANTE aos quais tenha acesso a CONTRATADA ou seus colaboradores sejam retirados das dependências do CONTRATANTE, não importando o veículo em que estes se encontrem, notadamente discos rígidos, discos óticos, memórias em estado sólido, documentos, mensagens eletrônicas e outros.
 
-4.15. Se o serviço ou objeto exigir a presença física de funcionários da CONTRATADA, esta deverá seguir os procedimentos de segurança corporativa do CONTRATANTE e da Administração Pública, tanto para eventos presenciais quanto virtuais, envolvendo seus prepostos e/ou funcionários.
+4.15. Caso o serviço ou objeto contratado envolva armazenamento em nuvem, a CONTRATADA deverá garantir a disponibilidade, integridade, confidencialidade e autenticidade das informações armazenadas nesse ambiente.
 
-4.15.1. Nesses casos, será exigido o uso obrigatório de identificação funcional, seja em serviço presencial ou remoto, sempre que os colaboradores estiverem atuando em nome da CONTRATADA junto ao CONTRATANTE.
+4.16. Se o serviço ou objeto exigir a presença física ou remota de funcionários da CONTRATADA, esta deverá seguir os procedimentos de segurança corporativa do CONTRATANTE e da Administração Pública, tanto para eventos presenciais quanto virtuais, envolvendo seus prepostos e/ou funcionários.
 
-4.16. A pela CONTRATADA deverá contar com solução ofertada um plano de comunicação de incidentes, quando for o caso. A CONTRATADA deverá informar imediatamente ao CONTRATANTE sobre qualquer incidente de segurança da informação, vulnerabilidade identificada ou violação de sigilo, inclusive aqueles causados por ação ou omissão, com ou sem dolo, que possam comprometer a confidencialidade, disponibilidade, integridade ou autenticidade dos dados do CONTRATANTE.
+4.16.1. Nesses casos, será exigido o uso obrigatório de identificação funcional, seja em serviço presencial ou remoto, sempre que os colaboradores estiverem atuando em nome da CONTRATADA junto ao CONTRATANTE.
+
+4.17. Toda instalação ou atualização deve ser acompanhada por pessoal técnico do CONTRATANTE.
+
+4.18. Em casos onde existir a necessidade de atividades técnicas presenciais, os profissionais em atendimento no ambiente da unidade CONTRATANTE deverão se apresentar devidamente identificados e vestidos de forma adequada ao ambiente de trabalho, evitando-se o vestuário que caracterize o comprometimento da boa imagem institucional.
+
+4.19. Os profissionais deverão respeitar todos os colaboradores, em qualquer posição hierárquica, preservando a comunicação e o relacionamento interpessoal construtivo.
+
+4.20. A CONTRATADA deverá substituir imediatamente aquele profissional que seja considerado inconveniente à boa ordem ou que venha a transgredir as normas disciplinares da Ministério Público do Estado do Piauí (MPPI), quando solicitado pelo CONTRATANTE.
+
+4.21. A pela CONTRATADA deverá contar com solução ofertada um plano de comunicação de incidentes, quando for o caso. A CONTRATADA deverá informar imediatamente ao CONTRATANTE sobre qualquer incidente de segurança da informação, vulnerabilidade identificada ou violação de sigilo, inclusive aqueles causados por ação ou omissão, com ou sem dolo, que possam comprometer a confidencialidade, disponibilidade, integridade ou autenticidade dos dados do CONTRATANTE.
 
 4.17. Caso seja necessário o acesso da CONTRATADA ao ambiente computacional do CONTRATANTE, isso só será permitido mediante adesão às diretrizes da Política de Segurança de Acesso estabelecida pelo CONTRATANTE.
 

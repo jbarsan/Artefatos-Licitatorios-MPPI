@@ -254,10 +254,11 @@ _Descrever aqui todas as demais ressalvas e observações encontradas nos docume
 
 _Descrever aqui o resultado conclusivo da análise e recomendar os ajustes necessários citando as ressalvas e, quando necessário e aplicável, sugerindo os textos para as correções._
 
-Sugere-se que o acolhimento das recomendações emitidas — ou, alternativamente, o seu afastamento, desde que devidamente fundamentado, nos termos do art. 50, inciso VII, da Lei nº 9.784/1999 e do art. 14, § 6º, do Decreto nº 11.246/2022 — esteja expressamente registrado nos documentos pertinentes, com a correspondente indicação das alterações promovidas ou das diligências eventualmente não acatadas. Tal medida contribui para a adequada instrução processual e para o cumprimento do princípio da celeridade, previsto no art. 5º, caput, da Lei nº 14.133/2021, evitando-se retrabalhos e possibilitando maior fluidez na tramitação. Ressalta-se, por fim, que a ausência dessas informações poderá ensejar a devolução dos autos para complementação.
-
-Dessa forma, uma vez devidamente saneadas as informações apontadas, solicita-se o retorno dos presentes autos a esta Assessoria, acompanhados dos artefatos ajustados, para nova análise.
-
-Ressalta-se que o presente pronunciamento possui natureza de apreciação inicial de informações e elementos da etapa preparatória do procedimento de contratação, considerando-se a materialidade, a criticidade e a relevância do objeto, em sede de juízo preliminar de admissibilidade da demanda, com o intuito de subsidiar a deliberação de mérito da Autoridade Competente quanto ao prosseguimento do rito da contratação pública, sem prejuízo das atuações e análises a serem exercidas pelas unidades integrantes das linhas de defesa (artigo 169 da Lei n.º 14.133/2021).
-
-Agente de Contratação/Pregoeiro(a)
+> [!NOTE]
+> Sugere-se que o acolhimento das recomendações emitidas — ou, alternativamente, o seu afastamento, desde que devidamente fundamentado, nos termos do art. 50, inciso VII, da Lei nº 9.784/1999 e do art. 14, § 6º, do Decreto nº 11.246/2022 — esteja expressamente registrado nos documentos pertinentes, com a correspondente indicação das alterações promovidas ou das diligências eventualmente não acatadas. Tal medida contribui para a adequada instrução processual e para o cumprimento do princípio da celeridade, previsto no art. 5º, caput, da Lei nº 14.133/2021, evitando-se retrabalhos e possibilitando maior fluidez na tramitação. Ressalta-se, por fim, que a ausência dessas informações poderá ensejar a devolução dos autos para complementação.
+>
+> Dessa forma, uma vez devidamente saneadas as informações apontadas, solicita-se o retorno dos presentes autos a esta Assessoria, acompanhados dos artefatos ajustados, para nova análise.
+>
+> Ressalta-se que o presente pronunciamento possui natureza de apreciação inicial de informações e elementos da etapa preparatória do procedimento de contratação, considerando-se a materialidade, a criticidade e a relevância do objeto, em sede de juízo preliminar de admissibilidade da demanda, com o intuito de subsidiar a deliberação de mérito da Autoridade Competente quanto ao prosseguimento do rito da contratação pública, sem prejuízo das atuações e análises a serem exercidas pelas unidades integrantes das linhas de defesa (artigo 169 da Lei n.º 14.133/2021).
+>
+> Agente de Contratação/Pregoeiro(a)

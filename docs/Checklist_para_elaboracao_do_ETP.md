@@ -1,4 +1,4 @@
-# ✅ CHECKLIST – ELEMENTOS DO ESTUDO TÉCNICO PRELIMINAR (ETP) – IN Nº 58/2022, ART. 9º
+# CHECKLIST – ELEMENTOS DO ESTUDO TÉCNICO PRELIMINAR (ETP) – IN Nº 58/2022, ART. 9º
 
 ## Elementos Mínimos Obrigatórios (devem constar sempre)
 
@@ -8,7 +8,8 @@
 - [ ] VII. Justificativa para o parcelamento ou não da solução
 - [ ] XIII. Posicionamento conclusivo sobre a adequação da contratação para atendimento da necessidade
 
-> ⚠️ Caso algum dos demais elementos não seja contemplado, **deve-se justificar sua ausência** no ETP.
+> [!IMPORTANT]
+> Caso algum dos demais elementos não seja contemplado, **deve-se justificar sua ausência** no ETP.
 
 ---
 
